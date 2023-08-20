@@ -1,0 +1,2580 @@
+@media screen and (max-width:20000px) and (min-width:1440px) {
+    .fixedFilter {
+        width: 67.6%
+    }
+}
+
+@media only screen and (max-width:1349px) {
+    .fixedFilter {
+        width: 58.6%
+    }
+}
+
+@media only screen and (max-width:1024px) {
+    .main-header .titleHead {
+        height: 30px;
+    }
+    .menuTop ul li {
+        padding: 0 40px;
+        background: url(../images/thai-cuc.png) 10px no-repeat;
+    }
+    .main-header .logo img {
+        width: 125px;
+    }
+    .myinput {
+        padding: 4px 1px;
+    }
+    .fixedFilter {
+        width: 67.6%
+    }
+}
+
+@media only screen and (max-width:980px) {
+    .main-header .logo {
+        top: 0;
+        left: 10px;
+    }
+    .boxAside .title_h2 {
+        height: 46.5px;
+        margin-left: 0;
+        line-height: 44px;
+        margin-bottom: 12px;
+    }
+    .boxAside {
+        border: 1px solid #fff;
+        margin-bottom: 18px;
+        padding-bottom: 12px;
+        margin: 10px 0px;
+    }
+    .boxAside .asideBody {
+        margin-left: 0;
+        padding: 8px;
+    }
+    .fixedFilter {
+        width: 72.2%
+    }
+}
+
+@media only screen and (max-width:800px) {
+    .menuTop ul li {
+        padding: 0 0 0 24px;
+        font-size: 12px;
+        margin-right: 24px;
+        background-position: 0 center;
+    }
+    .fixedFilter {
+        width: 88.8%
+    }
+}
+
+@media only screen and (max-width:768px) {
+    body {
+        cursor: pointer;
+    }
+    .show-desktop {
+        display: none;
+    }
+    .show-mobile {
+        display: block;
+    }
+    .fixedFilter {
+        width: 92%
+    }
+    .boxFormFilter {
+        border: none;
+        padding: 15px 10px 5px 20px;
+    }
+    .boxFormFilter .miniFilterForprice,
+    .boxFormFilter .miniFilterMang {
+        position: relative;
+    }
+    .boxFormFilter .miniFilterForprice:before,
+    .boxFormFilter .miniFilterMang:before {
+        display: block;
+        height: 25px;
+        width: 25px;
+        position: absolute;
+        content: " ";
+        z-index: 90;
+        top: 3px;
+        left: 2px;
+    }
+    .boxFormFilter .miniFilterMang:before {
+        background: url(../images/icon/simhoptuoi_03.png) no-repeat;
+    }
+    .boxFormFilter .miniFilterForprice:before {
+        background: url(../images/icon/simhoptuoi_05.png) no-repeat;
+    }
+    .boxFormFilter .hvr-underline-from-left,
+    .boxFormFilter label {
+        display: none;
+    }
+    .boxFormFilter .myinput {
+        border: none;
+        background: #2ba60a;
+        color: #fff;
+        max-width: 109px;
+        width: 109px;
+        padding-left: 25px;
+        position: relative;
+        margin-bottom: 10px;
+    }
+    .boxFormFilter .myinput option {
+        background: #fff;
+        color: #000;
+    }
+    .miniboxFilterExtend {
+        border: none;
+        background: #2ba60a;
+        color: #fff;
+        max-width: 116px;
+        padding-left: 29px;
+        position: relative;
+        height: 27px;
+    }
+    .miniboxFilterExtend:before {
+        content: " ";
+        display: block;
+        height: 25px;
+        width: 25px;
+        background: url(../images/icon/simhoptuoi_07.png) no-repeat;
+        position: absolute;
+        z-index: 90;
+        top: 3px;
+        left: 2px;
+    }
+    .cart_form {
+        padding: 10px;
+    }
+    .heading-checkout-form {
+        margin: -10px;
+        margin-bottom: 15px;
+    }
+    .chi-tiet-sim {
+        margin-bottom: 10px;
+    }
+    .boxFormFilter .btn_btnfilter_now,
+    .miniboxFilterExtend .badge {
+        display: none;
+    }
+    .custom_child_ac,
+    .custom_child_ac .glyphicon {
+        color: #fff;
+    }
+    .miniboxFilterExtend .icon-down {
+        float: left;
+        padding-top: 7px !important;
+        padding-left: 6px;
+        font-size: 8px !important;
+    }
+    .miniboxFilterExtend .show-mobile {
+        float: left;
+    }
+    .dungmama .link1 {
+        bottom: 20px;
+        right: 135px;
+    }
+    .dungmama .link2 {
+        bottom: 20px;
+        right: 15px;
+    }
+    .dungmama a {
+        font-size: 10px;
+    }
+    .title_h1 .left {
+        float: left;
+        font-size: 10px;
+    }
+    .box-404 img {
+        width: 100%;
+    }
+    /*tách view*/
+    .styleError {
+        border: 2px solid red !important;
+    }
+    .styleError:focus {
+        border: unset !important;
+    }
+    .main-header {
+        position: relative;
+    }
+    .banner_mobile img {
+        width: 100%
+    }
+    .banner_mobile .name_web {
+        position: absolute;
+        top: 25%;
+        right: 5%;
+        z-index: 1;
+        font-family: VNI Thufap1;
+        font-size: 11px;
+        color: #fff
+    }
+    .searchSimMobi {
+        position: absolute;
+        top: 25%;
+        left: 3%;
+        text-align: left;
+        width: 70%;
+        z-index: 1
+    }
+    .searchSimMobi input {
+        width: 85%;
+        float: left;
+        border-top-left-radius: 0;
+        border-bottom-left-radius: 0;
+        border-top-right-radius: 15px;
+        border-bottom-right-radius: 15px;
+        border: 0;
+        outline: none;
+        background-color: #fff;
+        height: 30px;
+        line-height: 30px
+    }
+    .searchSimMobi input::placeholder {
+        color: #8a8383;
+        font-family: UTM Times;
+        font-size: 13px;
+    }
+    .searchSimMobi button {
+        width: 15%;
+        float: left;
+        border-top-left-radius: 15px;
+        border-bottom-left-radius: 15px;
+        border: 0;
+        outline: none;
+        color: #500200;
+        background-color: #fff;
+        height: 30px;
+        line-height: 30px
+    }
+    .main-content {
+        padding: 0 10px;
+    }
+    .box_incol_padd6 {
+        padding: 10px;
+        margin-left: -6px;
+        margin-right: -6px;
+    }
+    .bg_1 {
+        margin-left: -10px;
+        margin-right: -10px;
+        padding: 10px;
+        background: #fff url('../images/mobile/bg_luhuong.png') 100% no-repeat;
+        background-position: bottom left;
+        background-size: 100% auto;
+    }
+    .bg_2 {
+        margin-left: -10px;
+        margin-right: -10px;
+        padding: 10px;
+        background: #fff url('../images/mobile/bg_12tuoi.png') 100%;
+    }
+    .title_1 {
+        font-family: UTMTimesItalic;
+        font-size: 13px;
+        text-transform: uppercase;
+        color: #682929;
+        border-bottom: 1px solid #e8c7c6;
+        font-weight: bold;
+        padding-bottom: 10px
+    }
+    .title_2 {
+        font-family: UTMTimesItalic;
+        font-size: 15px;
+        color: #682929;
+        padding-bottom: 10px;
+        text-align: center;
+    }
+    .box_shadow {
+        margin-top: 10px;
+        padding: 10px;
+        text-align: justify;
+    }
+    .btn_1 {
+        background: unset;
+        border: 0;
+        outline: none;
+        margin: 10px auto;
+        display: inherit;
+        margin-bottom: 0px
+    }
+    .btn_1 .icon_chevron {
+        color: #fff;
+        font-size: 13px;
+        margin-right: 10px;
+        float: left;
+        background: url('../images/mobile/btn_1.png');
+        background-size: 100%;
+        width: 25px;
+        text-align: center;
+    }
+    .btn_1 .btn_label {
+        color: #550200;
+        font-family: UTMTimesItalic;
+        font-size: 15px;
+        float: left;
+    }
+    .btn_1:focus {
+        outline: none;
+    }
+    .box_tit1 {
+        background: transparent url('../images/mobile/bg_boxtit1.jpg') 100% no-repeat;
+        text-align: center;
+        text-transform: uppercase;
+        font-family: UTMTimesItalic;
+        color: #fefefe;
+        font-size: 15px;
+        background-size: 100% 100%;
+        padding: 3px 0;
+        text-shadow: 1px 1px 3px #00000096, 1px 1px 2px #7c5723;
+    }
+    .box_tit2 {
+        background: transparent url('../images/mobile/bg_boxtit2.jpg') 100% no-repeat;
+        text-align: center;
+        font-family: UTMTimesItalic;
+        color: #fefefe;
+        font-size: 15px;
+        background-size: 100% 100%;
+        text-shadow: 1px 1px 3px #00000096, 1px 1px 2px #7c5723;
+        line-height: 20px;
+        padding: 0 3px;
+    }
+    .box_tit3 {
+        background: transparent url('../images/mobile/bg_boxtit3.jpg') 100% no-repeat;
+        text-align: center;
+        font-family: UTMTimesItalic;
+        color: #fefefe;
+        font-size: 13px;
+        background-size: 100% 100%;
+        text-shadow: 1px 1px 3px #00000096, 1px 1px 2px #7c5723;
+        line-height: 20px;
+        padding: 0 3px;
+    }
+    .box_tit6 {
+        background: transparent url('../images/mobile/bg_boxtit6.jpg') 100% no-repeat;
+        text-align: center;
+        font-family: UTMTimesBold;
+        color: #e6bc80;
+        font-size: 15px;
+        background-size: 100% 100%;
+        text-shadow: 1px 1px 3px #00000096, 1px 1px 2px #7c5723;
+        padding: 5px;
+        text-transform: uppercase;
+        margin-top: 10px;
+    }
+    .box_tit7 {
+        background: transparent url('../images/mobile/bg_boxtit7.jpg') 100% no-repeat;
+        text-align: center;
+        font-family: UTM Times;
+        color: #fff;
+        font-size: 13px;
+        background-size: 100% 100%;
+        line-height: 20px;
+        padding: 3px;
+        text-transform: uppercase;
+        margin-top: 10px;
+        font-weight: bold;
+    }
+    .box_tit8 {
+        background: transparent url('../images/mobile/bg_boxtit8.jpg') 100% no-repeat;
+        text-align: center;
+        font-family: UTMTimesItalic;
+        color: #e7ea9a;
+        font-size: 13px;
+        background-size: 100% 100%;
+        line-height: 20px;
+        padding: 3px;
+        text-transform: uppercase;
+        margin-top: 10px;
+        font-weight: bold;
+    }
+    .box_tit9 {
+        background: transparent url('../images/mobile/bg_boxtit3.jpg') 100% no-repeat;
+        text-align: center;
+        font-family: UTMTimesItalic;
+        color: #fefefe;
+        font-size: 16px;
+        background-size: 100% 100%;
+        text-shadow: 1px 1px 3px #00000096, 1px 1px 2px #7c5723;
+        padding: 3px 5px;
+        text-transform: uppercase;
+    }
+    .box_tit4 {
+        background-color: #590203;
+        color: #fefefe;
+        font-size: 15px;
+        font-family: UTMTimesBold;
+        padding: 3px;
+        text-transform: uppercase;
+        text-align: center;
+    }
+    .box_tit5 {
+        background-color: #3b1010;
+        color: #e0d292;
+        font-size: 13px;
+        font-family: UTMTimesBold;
+        padding: 3px 7px;
+        margin-bottom: 5px
+    }
+    .bg_white {
+        background-color: #fff;
+    }
+    .padd-10 {
+        padding: 10px
+    }
+    .lbl_1 {
+        color: #580908;
+        font-weight: bolder;
+        font-size: 13px;
+    }
+    .nopadd-r {
+        padding-right: 0 !important
+    }
+    .mar-bot {
+        margin-bottom: 10px
+    }
+    .congiap {
+        border-radius: 5px;
+        box-shadow: 0px 0px 2px #00000054;
+        margin: 5px 0 55px 0;
+        padding: 10px;
+        position: relative;
+    }
+    .congiap ul {
+        list-style: none;
+        padding: 0;
+        margin: 0
+    }
+    .congiap ul li {
+        position: relative;
+        padding-left: 20px;
+        height: 20px;
+        line-height: 20px
+    }
+    .congiap ul li:before {
+        position: absolute;
+        z-index: 1;
+        width: 10px;
+        height: 10px;
+        top: 10px;
+        left: 0px;
+        content: "";
+        background-color: #e87519;
+        border-radius: 100%
+    }
+    .congiap ul li a {
+        /*color:#447bad;*/
+        color: #095091;
+        font-family: UTMTimesBold;
+        font-size: 13px;
+        height: 100%;
+        display: inline-block;
+        border-bottom: 1px solid;
+    }
+    .congiap .lbl_link {
+        position: absolute;
+        z-index: 1;
+        bottom: -35px;
+        left: 0;
+        background-color: #550200;
+        border-radius: 25px;
+        width: 100%;
+        text-align: center;
+    }
+    .congiap .lbl_link a {
+        color: #ffeaaa;
+        font-family: UTM AptimaBoldItalic;
+    }
+    .congiap .lbl_link:before {
+        position: absolute;
+        bottom: 20px;
+        left: 10px;
+        width: 10px;
+        height: 20px;
+        background: url('../images/mobile/sticker.png');
+        content: "";
+        background-size: 100% 100%
+    }
+    .congiap .lbl_link:after {
+        position: absolute;
+        bottom: 20px;
+        right: 10px;
+        width: 10px;
+        height: 20px;
+        background: url('../images/mobile/sticker.png');
+        content: "";
+        background-size: 100% 100%
+    }
+    .congiap .lbl_congiap {
+        font-family: iCiel Koni Black;
+        color: #a01113;
+        font-size: 20px;
+        margin-top: 10px;
+        padding-bottom: 10px;
+        text-shadow: 4px 4px 0px #fff, 3px 3px 0px #fff, 2px 2px 0px #fff, 1px 1px 0px #fff, 4px 0px 0px #fff, 3px 0px 0px #fff, 2px 0px 0px #fff, 1px 0px 0px #fff, 0px 4px 0px #fff, 0px 3px 0px #fff, 0px 2px 0px #fff, 0px 1px 0px #fff, -4px -4px 0px #fff, -3px -3px 0px #fff, -2px -2px 0px #fff, -1px -1px 0px #fff, -4px 0px 0px #fff, -3px 0px 0px #fff, -2px 0px 0px #fff, -1px 0px 0px #fff, 0px -4px 0px #fff, 0px -3px 0px #fff, 0px -2px 0px #fff, 0px -1px 0px #fff, 0px 0px 30px #000
+    }
+    .congiap.congiap-ty {
+        background: #f6f3e9 url('../images/mobile/bg_bang/ty.jpg') 100% no-repeat;
+        background-position: top right;
+        background-size: auto 100%;
+    }
+    .congiap.congiap-suu {
+        background: #f6f3e9 url('../images/mobile/bg_bang/suu.jpg') 100% no-repeat;
+        background-position: top right;
+        background-size: auto 100%;
+    }
+    .congiap.congiap-dan {
+        background: #f6f3e9 url('../images/mobile/bg_bang/dan.jpg') 100% no-repeat;
+        background-position: top right;
+        background-size: auto 100%;
+    }
+    .congiap.congiap-mao {
+        background: #f6f3e9 url('../images/mobile/bg_bang/mao.jpg') 100% no-repeat;
+        background-position: top right;
+        background-size: auto 100%;
+    }
+    .congiap.congiap-thin {
+        background: #f6f3e9 url('../images/mobile/bg_bang/thin.jpg') 100% no-repeat;
+        background-position: top right;
+        background-size: auto 100%;
+    }
+    .congiap.congiap-tyj {
+        background: #f6f3e9 url('../images/mobile/bg_bang/tyj.jpg') 100% no-repeat;
+        background-position: top right;
+        background-size: auto 100%;
+    }
+    .congiap.congiap-ngo {
+        background: #f6f3e9 url('../images/mobile/bg_bang/ngo.jpg') 100% no-repeat;
+        background-position: top right;
+        background-size: auto 100%;
+    }
+    .congiap.congiap-mui {
+        background: #f6f3e9 url('../images/mobile/bg_bang/mui.jpg') 100% no-repeat;
+        background-position: top right;
+        background-size: auto 100%;
+    }
+    .congiap.congiap-than {
+        background: #f6f3e9 url('../images/mobile/bg_bang/than.jpg') 100% no-repeat;
+        background-position: top right;
+        background-size: auto 100%;
+    }
+    .congiap.congiap-dau {
+        background: #f6f3e9 url('../images/mobile/bg_bang/dau.jpg') 100% no-repeat;
+        background-position: top right;
+        background-size: auto 100%;
+    }
+    .congiap.congiap-tuat {
+        background: #f6f3e9 url('../images/mobile/bg_bang/tuat.jpg') 100% no-repeat;
+        background-position: top right;
+        background-size: auto 100%;
+    }
+    .congiap.congiap-hoi {
+        background: #f6f3e9 url('../images/mobile/bg_bang/hoi.jpg') 100% no-repeat;
+        background-position: top right;
+        background-size: auto 100%;
+    }
+    .box12congiapSlide *:focus {
+        outline: none;
+    }
+    .main-content {
+        background: #fff;
+    }
+    .formBody {
+        border: 3px solid #e8842f;
+        border-radius: 3px;
+        padding: 10px 15px 10px 20px;
+    }
+    .btn_cam {
+        border-radius: 25px;
+        color: #fff;
+        font-size: 13px;
+        background-color: #e87519;
+        outline: none;
+        border: none;
+        padding: 0 20px;
+        font-family: UTMTimesBold
+    }
+    .input_1 {
+        background-color: #fff;
+        height: 23px;
+        border: 1px solid #000;
+        border-radius: 4px;
+        font-style: italic;
+        font-size: 13px;
+        color: #000;
+        padding: 0 5p;
+        width: 100%;
+    }
+    .input_2 {
+        width: 100%;
+        background-color: #fff;
+        border: 1px solid #d7d7d7;
+        border-radius: 4px;
+        font-style: italic;
+        font-size: 13px;
+        color: #000;
+        padding: 1px 5px;
+    }
+    .input_3 {
+        width: 100%;
+        background-color: #fff;
+        border: 1px solid #d7d7d7;
+        border-radius: 4px;
+        font-size: 10px;
+        color: #2b88bb;
+        padding: 1px 3px;
+        height: 15px;
+        font-family: UTM Times;
+        display: inline-block;
+        overflow-x: hidden;
+        line-height: 13px;
+    }
+    .sl_1 {
+        background-color: #fff;
+        height: 23px;
+        border: 1px solid #000;
+        border-radius: 4px;
+        font-style: italic;
+        font-size: 13px;
+        color: #000;
+        width: 31%;
+    }
+    .sl_3 {
+        background-color: #fff;
+        height: 23px;
+        border: 1px solid #d7d7d7;
+        border-radius: 4px;
+        font-style: italic;
+        font-size: 13px;
+        color: #000;
+        width: 100%
+    }
+    .sl_2 {
+        background-color: #fff;
+        height: 23px;
+        border: 1px solid #000;
+        border-radius: 4px;
+        font-style: italic;
+        font-size: 13px;
+        font-weight: bolder;
+        width: 100%;
+    }
+    .sl_max {
+        max-width: 126px
+    }
+    .warning {
+        position: relative
+    }
+    .warning:before {
+        position: absolute;
+        z-index: 1;
+        left: 0px;
+        top: 0;
+        content: "";
+        background: url('../images/mobile/icon_warn.png') no-repeat;
+        width: 16px;
+        height: 16px;
+        background-size: 100% 100%
+    }
+    .gender {
+        position: relative;
+    }
+    .gender:before {
+        position: absolute;
+        content: "";
+        width: 13px;
+        height: 13px;
+        background-color: #fff;
+        z-index: 1;
+        border-radius: 100%;
+        border: 1px solid #000;
+    }
+    .gender:checked {
+        position: relative;
+    }
+    .gender:checked:before {
+        position: absolute;
+        content: "";
+        width: 13px;
+        height: 13px;
+        background-color: #e87519;
+        z-index: 1;
+        border-radius: 100%;
+        border: 1px solid #e87519;
+    }
+    .gender_icon {
+        margin-top: -15px;
+        margin-right: 7px
+    }
+    .panel_sidebar {
+        background: url('../images/mobile/bg_top.jpg') 100% no-repeat, url('../images/mobile/bg_mid.jpg') 100% repeat-y;
+        background-position: top, top 5px left;
+        position: relative;
+        padding: 15px 10px;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        box-shadow: 0px 0px 10px #000000ba;
+        background-size: 100% auto;
+    }
+    .panel_sidebar:after {
+        position: absolute;
+        content: " ";
+        z-index: 1;
+        left: 0px;
+        bottom: 0px;
+        width: 100%;
+        height: 5px;
+        background: url('../images/mobile/bg_bot.jpg') 100% no-repeat;
+        background-size: 100% auto;
+    }
+    .panel_sidebar .panel_sidehead {
+        background-color: #620303;
+        border-radius: 25px;
+        text-align: center;
+        color: #ffeaaa;
+        font-family: UTMTimesBold;
+        font-style: italic;
+        text-transform: uppercase;
+        padding: 3px 5px;
+    }
+    .panel_sidebar .ul_sidebar {
+        padding: 0 5px;
+        list-style: none;
+    }
+    .panel_sidebar .ul_sidebar li {
+        height: 30px;
+        line-height: 30px;
+        position: relative;
+    }
+    .panel_sidebar .ul_sidebar li:after {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 25%;
+        height: 1px;
+        background-color: #a98952;
+        content: " "
+    }
+    .panel_sidebar .ul_sidebar li a {
+        color: #000;
+        font-family: UTMTimesBold;
+        height: 100%;
+        display: inline-block;
+    }
+    .hotro {
+        background-color: #620303;
+        border: 5px solid #dbb37f;
+        border-radius: 10px;
+        margin-top: 10px;
+        text-align: center;
+        padding: 15px;
+    }
+    .hotro .hotro_tit {
+        font-family: 'UTM Times';
+        font-weight: bolder;
+        text-transform: uppercase;
+        color: #ffeaaa;
+        font-size: 15px;
+        position: relative;
+        padding-left: 46px
+    }
+    .hotro .hotro_tit:before {
+        position: absolute;
+        content: " ";
+        z-index: 1;
+        top: 0;
+        left: 0;
+        background: url('../images/mobile/icon_daunguoi.png') 100% no-repeat;
+        width: 36px;
+        height: 36px
+    }
+    .main-footer {
+        background-color: #fff;
+        padding: 0 10px;
+    }
+    .main-footer .menuFooter {
+        background-color: #620303;
+    }
+    .main-footer .menuFooter ul {
+        text-align: unset;
+    }
+    .main-footer .menuFooter ul li {
+        border: unset;
+    }
+    .main-footer .menuFooter ul li .div_icon {
+        width: 30px;
+    }
+    .main-footer .menuFooter ul li .div_icon img {
+        max-width: 100%;
+        height: auto
+    }
+    .main-footer .contentFooter {
+        background: unset;
+        box-shadow: 0 0 3px #00000045;
+        padding: 10px;
+        text-align: center;
+        margin-bottom: 54px;
+    }
+    .menufoot_new {
+        position: fixed;
+        bottom: 0;
+        z-index: 200;
+        padding: 0 15px;
+        width: 100%
+    }
+    .menufoot_new .botmenu_icon {
+        background: #620303;
+        padding-top: 5px;
+        padding-bottom: 5px
+    }
+    .menufoot_new .botmenu_icon img {
+        height: 25px;
+        width: auto
+    }
+    .menufoot_new .botmenu_txt {
+        font-family: UTMTimesBold;
+        font-weight: bold;
+        font-size: 13px;
+        color: #620303;
+        background-color: #fff;
+        position: relative;
+        height: 18px
+    }
+    .menufoot_new .botmenu_txt>span {
+        position: absolute;
+        z-index: 1;
+        bottom: 2px;
+        display: inherit;
+        width: 100%
+    }
+    .menu_content,
+    .cart_content {
+        position: fixed;
+        bottom: 54px;
+        left: 0;
+        width: 100%;
+        background-color: #fff;
+        padding: 10px;
+        z-index: 200;
+        box-shadow: 2px 0 4px #00000054
+    }
+    .menu_content .menu_content_inner {
+        background-color: #5b0303;
+    }
+    .menu_content .menu_content_inner ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+    .menu_content .menu_content_inner .ul_parent>li {
+        line-height: 36px;
+        height: 36px;
+        border-bottom: 1px solid #650707;
+        text-align: center;
+        color: #eedbb7;
+        font-family: UTM Times;
+        font-size: 15px;
+    }
+    .menu_content .menu_content_inner .ul_parent>li:last-child {
+        border-bottom: 0px
+    }
+    .menu_content .menu_content_inner .ul_parent>li a {
+        height: 100%;
+        width: 100%;
+        display: inline-block;
+        color: #eedbb7
+    }
+    .menu_content .menu_content_inner .ul_parent>li>.div_ul_children {
+        background-color: #fff;
+        z-index: 201;
+        position: fixed !important;
+        bottom: 54px;
+        left: 0;
+        padding: 10px;
+        width: 100%;
+        padding-top: 80px;
+        box-shadow: 2px 0 8px #000000ba;
+        height: 85%
+    }
+    .menu_content .menu_content_inner .ul_parent>li>.div_ul_children .close_ul_children,
+    .cart_content .close_cart {
+        position: absolute;
+        left: 10px;
+        top: 30px;
+        z-index: 1;
+        box-shadow: 0 0 3px #00000054;
+        padding: 2px 25px;
+        border-top-right-radius: 40px;
+        line-height: 26px;
+        color: #000;
+        font-family: UTM Times
+    }
+    .menu_content .menu_content_inner .ul_parent>li>.div_ul_children .close_ul_children>i,
+    .cart_content .close_cart>i {
+        color: #620303;
+        padding-right: 15px;
+    }
+    .menu_content .menu_content_inner .ul_parent>li>.div_ul_children .head_ul_children {
+        color: #620303;
+        font-family: UTMTimesBold;
+        font-size: 15px;
+        text-transform: uppercase;
+    }
+    .menu_content .menu_content_inner .ul_parent>li .ul_children {
+        display: table;
+        margin: 0 auto;
+        text-align: left;
+        height: 26px;
+        line-height: 26px;
+    }
+    .menu_content .menu_content_inner .ul_parent>li .ul_children>li a {
+        color: #000;
+        text-decoration: underline;
+        padding: 1px 0
+    }
+    .txt_shadow {
+        text-shadow: 4px 4px 5px #fff, 3px 3px 2px #fff, 2px 2px 2px #fff, 1px 1px 2px #fff, 4px 0px 5px #fff, 3px 0px 2px #fff, 2px 0px 2px #fff, 1px 0px 2px #fff, 0px 4px 5px #fff, 0px 3px 2px #fff, 0px 2px 2px #fff, 0px 1px 2px #fff, -4px -4px 5px #fff, -3px -3px 2px #fff, -2px -2px 2px #fff, -1px -1px 2px #fff, -4px 0px 5px #fff, -3px 0px 2px #fff, -2px 0px 2px #fff, -1px 0px 2px #fff, 0px -4px 5px #fff, 0px -3px 2px #fff, 0px -2px 2px #fff, 0px -1px 2px #fff, 0px 2px 13px #000, 2px 0px 13px #000
+    }
+    .open_cart {}
+    .open_cart .seen_simcart {
+        position: absolute;
+        right: 20px;
+        z-index: 33333333;
+        top: 1px;
+        color: #620303;
+        font-weight: bold;
+        font-size: 11px
+    }
+    .cart_content {
+        padding-top: 80px;
+        height: 85%;
+        overflow: scroll;
+    }
+    .sodaxem {
+        background-color: #156008;
+        padding: 10px;
+    }
+    .sodaxem .ul_cart {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        text-align: left;
+    }
+    .sodaxem .ul_cart li {
+        background: #fff;
+        border-radius: 4px;
+        margin-bottom: 10px;
+        padding: 8px
+    }
+    .sodaxem .ul_cart li:last-child {
+        margin-bottom: 0px;
+    }
+    .sodaxem .ul_cart li .cart_sosim a {
+        color: #23a00e;
+        font-size: 17px;
+        font-weight: bold;
+    }
+    .sodaxem .ul_cart li .cart_gia,
+    .goiysim_gia {
+        text-align: center;
+        color: #590203;
+        font-size: 12px;
+        font-weight: bolder;
+        position: relative;
+    }
+    .sodaxem .ul_cart li .cart_gia:before,
+    .goiysim_gia:before {
+        position: absolute;
+        top: 5px;
+        left: 0;
+        z-index: 1;
+        content: "";
+        width: 1px;
+        height: 15px;
+        background-color: #590203;
+    }
+    .sodaxem .ul_cart li .cart_diempt {
+        font-size: 11px;
+        font-style: italic;
+    }
+    .sodaxem .ul_cart li .cart_diempt .dot,
+    .goiysim_dpt .dot {
+        position: relative;
+        width: 8px;
+        height: 8px;
+        border-radius: 100%;
+        background-color: #ddd;
+        border: 1px solid #000;
+        display: inline-block;
+    }
+    .sodaxem .ul_cart li .cart_diempt .dot:before,
+    .goiysim_dpt .dot:before {
+        position: absolute;
+        top: 2px;
+        left: 2px;
+        z-index: 1;
+        content: "";
+        width: 2px;
+        height: 2px;
+        border-radius: 100%;
+        background: #000
+    }
+    .sodaxem .ul_cart li .cart_diempt .cart_linkluanpt {
+        color: #590203;
+        font-family: UTMTimesItalic;
+        text-decoration: underline;
+        border: unset;
+        box-shadow: unset !important;
+        background-color: unset;
+        font-size: 13px
+    }
+    .sodaxem .ul_cart li .cart_datsim {
+        background-color: #590203;
+        padding: 0 15px;
+        color: #e0d292;
+        border-radius: 25px;
+        border: 0;
+        outline: none;
+        font-family: UTMTimesItalic
+    }
+    /*fixed button bottom left*/
+    .mess_button {
+        position: fixed;
+        right: 10px;
+        bottom: 250px;
+        z-index: 200;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        text-align: center;
+        border-radius: 4px;
+        background-color: #fff;
+        box-shadow: 0px 4px 5px #0000004a
+    }
+    .chat_ms {
+        z-index: 200
+    }
+    .mess_button img {
+        max-width: 100%
+    }
+    .call_phone {
+        background-color: unset;
+        right: 0px;
+        bottom: 185px;
+        z-index: 200
+    }
+    .call_phone img {
+        width: unset;
+    }
+    .call_phone a b {
+        font-size: 11px;
+        color: #ffbf46;
+        background-color: #fff;
+        padding: 2px 10px 0 10px;
+        border-radius: 25px;
+        margin-top: -10px;
+        box-shadow: 3px 5px 5px #0000004a;
+        display: block;
+    }
+    .arrowPageUp {
+        z-index: 200 !important;
+        background: #fff;
+        width: 40px;
+        height: 40px;
+        box-shadow: 0px 4px 5px #0000004a;
+        border-radius: 4px;
+        line-height: 40px;
+        text-align: center;
+        right: 10px !important;
+        opacity: unset !important;
+        bottom: 135px !important
+    }
+    .mb_breadcrumbs {}
+    .mb_breadcrumbs .breadcrumb {
+        padding: 0 0 0 10px;
+        margin: 0 -6px;
+        box-shadow: 0px 3px 3px #00000042;
+        border-radius: unset;
+    }
+    .mb_breadcrumbs .breadcrumb * {
+        color: #000;
+        font-family: 'UTM Times';
+        font-size: 13px
+    }
+    .mb_breadcrumbs .breadcrumb li {
+        display: contents
+    }
+    .mb_breadcrumbs .breadcrumb li:before {
+        content: "";
+        background: url(../images/mobile/icon_left_arr.png) 100% no-repeat;
+        display: inline-block;
+        width: 10px;
+        height: 10px
+    }
+    .mb_breadcrumbs .breadcrumb li:first-child:before {
+        background: unset;
+        width: unset;
+        ;
+        height: unset;
+    }
+    .mb_breadcrumbs .breadcrumb .active {
+        color: #000
+    }
+    .click_showformsht,
+    .box_tit10 {
+        color: #ffeaaa;
+        font-size: 15px;
+        background: url('../images/mobile/bg_clickshowform.jpg') 100% no-repeat;
+        background-size: 100% 100%;
+        text-align: center;
+        font-family: UTMTimesBold;
+        padding: 3px 0
+    }
+    .like_btn {
+        padding: 3px 10px;
+        border-radius: 25px;
+        background-color: #e4cb93;
+        color: #5b0203;
+        font-size: 13px;
+        display: inline-block;
+    }
+    .cart_empty {
+        padding: 10px;
+        background-color: #fff;
+        text-align: center;
+    }
+    .formSec {}
+    .formSec_2 .formBody_2 {
+        border: 3px solid #5b0203;
+        border-radius: 3px;
+        padding: 10px 15px 10px 20px;
+    }
+    .formSec_2 button {
+        border-radius: 25px;
+        padding: 3px 15px;
+        background-color: #590203;
+        color: #fff;
+        font-family: UTMTimesBold;
+        font-size: 12px;
+    }
+    .formSec_2 label {
+        color: #580908;
+    }
+    .thongtin table {
+        margin-bottom: unset;
+    }
+    .thongtin table:first-of-type tr td:first-child {
+        font-family: UTMTimesBold;
+        font-size: 13px;
+        color: #000
+    }
+    .thongtin table tr td {
+        font-size: 13px;
+    }
+    .thongtin .tableLuanSim {
+        padding: 0 10px;
+        color: #000;
+    }
+    .thongtin .tableLuanSim .luanDiemShow {
+        border-radius: 25px;
+        text-align: center;
+        background-color: #e0d292;
+        color: #000;
+        font-family: UTM Androgyne;
+        font-size: 13px;
+        margin: 10px 0;
+        padding: 3px;
+    }
+    .thongtin .tableLuanSim .contentLuanDiemShow {
+        font-family: UTMTimesItalic;
+        background-color: #fff;
+        box-shadow: 0 0 10px #0000002b;
+        margin: 10px 0;
+    }
+    .thongtin .tableLuanSim .luanSim_diem {
+        font-family: UTMTimesBold;
+        background-color: #872727;
+        color: #fff;
+        font-size: 13px;
+        padding: 0px 15px;
+        border-top-right-radius: 15px;
+        margin-bottom: 10px;
+        display: inline-block;
+    }
+    .thongtin .tableLuanSim .tbl_tutrudayso {
+        border-collapse: collapse;
+        background: unset;
+        width: 80% !important;
+        margin: 0 auto;
+    }
+    .thongtin .tableLuanSim .tbl_tutrudayso tr td {
+        border: 1px solid #4b4b4b;
+        padding: 5px
+    }
+    .thongtin .tableLuanSim .tbl_tutrudayso tr td:first-child {
+        border-left-color: #000;
+        padding-left: 30px;
+        text-align: left;
+    }
+    .thongtin .tableLuanSim .tbl_tutrudayso tr td:last-child {
+        border-right-color: #000;
+        font-size: 20px;
+        color: #000;
+        font-weight: bold;
+    }
+    .thongtin .tableLuanSim .tbl_tutrudayso tr:first-child td {
+        border-top-color: #000
+    }
+    .thongtin .tableLuanSim .tbl_tutrudayso tr:last-child td {
+        border-bottom-color: #000
+    }
+    .totalPoint {
+        border: 5px solid #f1c059;
+        color: #e0d292;
+        background-color: #590203;
+        padding: 20px 15px 23px 15px;
+        font-family: UTM Times
+    }
+    .totalPoint .totalPoint_scores {
+        font-size: 25px;
+        font-weight: bold;
+    }
+    .totalPoint .div_bglatre {
+        background: url('../images/mobile/bg_latre.jpg') 100% no-repeat;
+        background-size: 100% 100%;
+        padding: 10px;
+        text-align: center;
+        color: #000;
+    }
+    .totalPoint .div_bglatre .totalPoint_kho {
+        color: #590203;
+        font-family: UTMTimesBold;
+        font-size: 15px;
+        text-transform: uppercase;
+    }
+    .totalPoint .buttonCustom_datMuaSim>a {
+        background-color: #156008;
+        border-radius: 25px;
+        border: 1px solid #f1c059;
+        outline: none;
+        color: #e0d493;
+        height: 30px;
+        padding: 0px 20px;
+        margin-top: 10px;
+        display: inline-block;
+        font-family: UTMTimesBold
+    }
+    .simdaxem_songuoi {
+        position: relative;
+        color: #000;
+        font-style: italic;
+        padding-left: 30px;
+        font-family: UTMTimesBold;
+        margin-top: 10px
+    }
+    .simdaxem_songuoi:after {
+        position: absolute;
+        content: '';
+        z-index: 1;
+        top: 0;
+        left: 0;
+        width: 17px;
+        height: 20px;
+        background: url('../images/mobile/icon_dangxem.png') 100% no-repeat;
+        background-size: 100% 100%;
+    }
+    .box_sodaxem {
+        padding-top: 2px;
+    }
+    .box_sodaxem .simdaxem_tit {
+        position: relative;
+        background-color: #156008;
+        text-align: center;
+        color: #fff;
+        font-style: italic;
+        text-transform: uppercase;
+        font-size: 15px;
+        margin: 10px 0;
+        padding: 3px 0;
+        border-top-left-radius: 30px;
+        border-bottom-left-radius: 30px;
+        border-top-right-radius: 60px
+    }
+    .box_sodaxem .simdaxem_tit:after {
+        position: absolute;
+        content: '';
+        z-index: 1;
+        top: -10px;
+        left: -3px;
+        width: 46px;
+        height: 46px;
+        background: url('../images/mobile/icon_daxemlist.png') 100% no-repeat;
+        background-size: 100% 100%;
+        box-shadow: 0 3px 5px #000000ba;
+        border-radius: 100%;
+    }
+    .box_goiysim {
+        color: #000;
+        padding-top: 10px
+    }
+    .box_goiysim .goiysim_tit {
+        position: relative;
+        background-color: #590203;
+        color: #e0d292;
+        text-align: center;
+        padding: 10px;
+        font-family: UTMTimesBold;
+        padding-right: 30px;
+        border-top-right-radius: 40px
+    }
+    .box_goiysim .goiysim_tit>img {
+        position: absolute;
+        bottom: 0px;
+        right: 0px
+    }
+    .box_goiysim .goiysim_tit:before {
+        position: absolute;
+        bottom: -12px;
+        left: 10px;
+        width: 10px;
+        height: 20px;
+        background: url(../images/mobile/sticker.png);
+        content: "";
+        background-size: 100% 100%
+    }
+    .box_goiysim .goiysim_tit:after {
+        position: absolute;
+        bottom: -12px;
+        right: 10px;
+        width: 10px;
+        height: 20px;
+        background: url(../images/mobile/sticker.png);
+        content: "";
+        background-size: 100% 100%
+    }
+    .box_goiysim .goiysim_list {
+        margin-top: 5px;
+        padding: 10px;
+        background-color: #590203;
+    }
+    .box_goiysim .goiysim_list ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+    .box_goiysim .goiysim_list ul li {
+        background-color: #fff;
+        border-radius: 4px;
+        padding: 10px;
+        margin-bottom: 10px
+    }
+    .box_goiysim .goiysim_list ul li:last-child {
+        margin-bottom: unset;
+    }
+    .box_goiysim .goiysim_list ul li .goiysim_sosim a {
+        color: #e7a008;
+        font-size: 17px;
+        font-weight: bold;
+    }
+    .box_goiysim .goiysim_list ul li .goiysim_datsim {
+        border-radius: 25px;
+        background-color: #156008;
+        font-family: UTMTimesItalic;
+        font-weight: bold;
+        color: #e0d292;
+        border: 0;
+        outline: none;
+        padding: 2px 10px;
+    }
+    .box_goiysim .goiysim_list ul li .goiysim_linkluanpt {
+        border-radius: 25px;
+        background-color: #590203;
+        font-family: UTMTimesItalic;
+        font-weight: bold;
+        color: #e0d292;
+        border: 0;
+        outline: none;
+        padding: 2px 10px;
+        display: inline-block;
+    }
+    .hand_click {
+        position: relative;
+        padding-left: 47px;
+        margin-top: 10px;
+    }
+    .hand_click:before {
+        position: absolute;
+        z-index: 1;
+        background: url('../images/mobile/hand.gif');
+        content: "";
+        width: 42px;
+        height: 21px;
+        left: 0;
+        top: 0;
+    }
+    .hand_click a {
+        background: #156008;
+        border-radius: 15px;
+        font-size: 17px;
+        font-family: UTMTimesItalic;
+        display: inline-block;
+        padding: 0 10px;
+        color: #fff;
+        font-weight: bold;
+        padding: 3px 10px;
+    }
+    .ul_listsim {
+        list-style: none;
+        margin: 0;
+        padding: 10px;
+        background-color: #590203;
+        color: #000;
+    }
+    .ul_listsim * {
+        font-size: 13px
+    }
+    .ul_listsim li {
+        background-color: #fff;
+        margin-bottom: 10px;
+        padding: 10px;
+        border-radius: 4px;
+    }
+    .ul_listsim li:last-child {
+        margin-bottom: unset;
+    }
+    .ul_listsim li .w_15 img {
+        width: 95%;
+        border: 1px solid #ddd;
+        border-radius: 100%
+    }
+    .ul_listsim .item_simso a {
+        color: #23a00e;
+        font-size: 17px;
+        font-weight: bold;
+    }
+    .nut_do {
+        border-radius: 25px;
+        background-color: #590203;
+        font-family: UTMTimesItalic;
+        font-weight: bold;
+        color: #e0d292;
+        border: 0;
+        outline: none;
+        padding: 2px 9px;
+        display: inline-block;
+    }
+    .nut_xanh {
+        border-radius: 25px;
+        background-color: #156008;
+        font-family: UTMTimesItalic;
+        font-weight: bold;
+        color: #e0d292;
+        border: 0;
+        outline: none;
+        padding: 2px 9px;
+        display: inline-block;
+    }
+    .sim_pagination {
+        text-align: center;
+    }
+    .sim_pagination .pagination {
+        margin: 10px 0;
+        ;
+        text-align: center;
+    }
+    .sim_pagination .pagination>li>a {
+        padding: 1px 7px;
+        color: #000;
+        margin-left: 3px;
+        font-weight: normal;
+    }
+    .sim_pagination .pagination>.active>a {
+        border-radius: 4px;
+        background-color: #590203;
+        color: #fff;
+    }
+    .sim_pagination .pagination>.first>a,
+    .sim_pagination .pagination>.last>a {
+        font-weight: bold;
+    }
+    .bg_darkred {
+        background-color: #570203;
+        padding: 10px;
+    }
+    .box_xemnhieunhat {
+        background: #fff url('../images/mobile/bg_xemnhieunhat.png') top right no-repeat;
+        background-size: auto 100%;
+        border-top-right-radius: 47px;
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+        padding: 10px;
+    }
+    .box_xemnhieunhat .xemnhieu_tit {
+        color: #560203;
+        text-align: center;
+        font-family: UTMTimesBold;
+        font-size: 13px
+    }
+    .ul_listxemnn li {
+        position: relative;
+        padding-left: 27px;
+    }
+    .ul_listxemnn li:before {
+        position: absolute;
+        top: 12px;
+        left: 0px;
+        width: 25px;
+        height: 15px;
+        content: '';
+        background: url('../images/mobile/hand.gif') no-repeat;
+        background-size: 100% auto
+    }
+    .ul_listxemnn li a {
+        font-family: UTM Times;
+        font-size: 13px;
+        width: 100%;
+        height: 100%;
+        display: inline-block;
+        text-decoration: underline;
+        padding-top: 5px
+    }
+    .mar-negative {
+        margin-left: -10px;
+        margin-right: -10px
+    }
+    .title_12congiap {
+        font-family: UTMTimesBold;
+        font-size: 13px;
+        text-transform: uppercase;
+        color: #ead5a2;
+        background: url('../images/mobile/bg_tit_12congiap.png');
+        background-size: 100% 100%;
+        position: relative;
+        text-align: center;
+        margin-bottom: 20px
+    }
+    .box_215:after,
+    .box_216:after,
+    .box_217:after,
+    .box_218:after,
+    .box_219:after,
+    .box_220:after,
+    .box_221:after,
+    .box_222:after,
+    .box_223:after,
+    .box_224:after,
+    .box_225:after,
+    .box_226:after {
+        position: absolute;
+        top: -10px;
+        left: -7px;
+        z-index: 1;
+        width: 48px;
+        height: 47px;
+        content: ''
+    }
+    .title_12congiap.box_220:after {
+        background: url('../images/mobile/congiap/220.png');
+        background-size: 100% 100%;
+    }
+    .title_12congiap.box_219:after {
+        background: url('../images/mobile/congiap/219.png');
+        background-size: 100% 100%;
+    }
+    .title_12congiap.box_218:after {
+        background: url('../images/mobile/congiap/218.png');
+        background-size: 100% 100%;
+    }
+    .title_12congiap.box_217:after {
+        background: url('../images/mobile/congiap/217.png');
+        background-size: 100% 100%;
+    }
+    .title_12congiap.box_216:after {
+        background: url('../images/mobile/congiap/216.png');
+        background-size: 100% 100%;
+    }
+    .title_12congiap.box_215:after {
+        background: url('../images/mobile/congiap/215.png');
+        background-size: 100% 100%;
+    }
+    .title_12congiap.box_221:after {
+        background: url('../images/mobile/congiap/221.png');
+        background-size: 100% 100%;
+    }
+    .title_12congiap.box_222:after {
+        background: url('../images/mobile/congiap/222.png');
+        background-size: 100% 100%;
+    }
+    .title_12congiap.box_226:after {
+        background: url('../images/mobile/congiap/226.png');
+        background-size: 100% 100%;
+    }
+    .title_12congiap.box_223:after {
+        background: url('../images/mobile/congiap/223.png');
+        background-size: 100% 100%;
+    }
+    .title_12congiap.box_224:after {
+        background: url('../images/mobile/congiap/224.png');
+        background-size: 100% 100%;
+    }
+    .title_12congiap.box_225:after {
+        background: url('../images/mobile/congiap/225.png');
+        background-size: 100% 100%;
+    }
+    .congiap.baiviet_congiap_220 {
+        background: url('../images/mobile/congiap/bv_220.jpg') 100% no-repeat;
+        background-position: top right
+    }
+    .congiap.baiviet_congiap_219 {
+        background: url('../images/mobile/congiap/bv_219.jpg') 100% no-repeat;
+        background-position: top right
+    }
+    .congiap.baiviet_congiap_218 {
+        background: url('../images/mobile/congiap/bv_218.jpg') 100% no-repeat;
+        background-position: top right
+    }
+    .congiap.baiviet_congiap_217 {
+        background: url('../images/mobile/congiap/bv_217.jpg') 100% no-repeat;
+        background-position: top right
+    }
+    .congiap.baiviet_congiap_216 {
+        background: url('../images/mobile/congiap/bv_216.jpg') 100% no-repeat;
+        background-position: top right
+    }
+    .congiap.baiviet_congiap_215 {
+        background: url('../images/mobile/congiap/bv_215.jpg') 100% no-repeat;
+        background-position: top right
+    }
+    .congiap.baiviet_congiap_221 {
+        background: url('../images/mobile/congiap/bv_221.jpg') 100% no-repeat;
+        background-position: top right
+    }
+    .congiap.baiviet_congiap_222 {
+        background: url('../images/mobile/congiap/bv_222.jpg') 100% no-repeat;
+        background-position: top right
+    }
+    .congiap.baiviet_congiap_226 {
+        background: url('../images/mobile/congiap/bv_226.jpg') 100% no-repeat;
+        background-position: top right
+    }
+    .congiap.baiviet_congiap_223 {
+        background: url('../images/mobile/congiap/bv_223.jpg') 100% no-repeat;
+        background-position: top right
+    }
+    .congiap.baiviet_congiap_224 {
+        background: url('../images/mobile/congiap/bv_224.jpg') 100% no-repeat;
+        background-position: top right
+    }
+    .congiap.baiviet_congiap_225 {
+        background: url('../images/mobile/congiap/bv_225.jpg') 100% no-repeat;
+        background-position: top right
+    }
+    .body_12congiap {
+        background: url('../images/mobile/bg_border.png') 100% repeat;
+        border-radius: 15px;
+        padding: 4px;
+    }
+    .body_12congiap .content_12congiap {
+        padding: 10px;
+        background-color: #fff;
+        border-radius: 15px;
+    }
+    .body_12congiap .content_12congiap .text_content_12cg {
+        text-align: justify;
+        width: 100%;
+        float: inherit;
+    }
+    .body_12congiap .content_12congiap .img_content_12cg {
+        width: 50%;
+        float: right;
+        padding-left: 10px
+    }
+    .body_12congiap .content_12congiap .img_content_12cg img {}
+    .txt_1 {
+        color: #000;
+        font-family: UTMTimesBold;
+        font-size: 15px;
+        text-transform: uppercase;
+    }
+    .txt_2 {
+        color: #23a00e;
+        font-family: UTMTimesBold;
+        font-size: 20px
+    }
+    .txt_3 {
+        color: #590203;
+        font-family: UTMTimesBold;
+        font-size: 15px;
+    }
+    .txt_4 {
+        color: #942b2b !important;
+        font-family: UTMTimesItalic;
+        font-size: 13px;
+    }
+    .txt_5,
+    .txt_5 * {
+        font-family: UTMTimesItalic;
+        text-transform: uppercase;
+        color: #ffeaaa;
+        font-size: 15px;
+    }
+    .txt_6 {
+        font-family: UTMTimesBold;
+        text-transform: uppercase;
+        color: #630100;
+        text-decoration: underline;
+        font-size: 13px;
+    }
+    .txt_7 {
+        font-family: UTMTimesItalic;
+        color: #5b0203;
+        font-size: 15px;
+        text-align: center;
+        padding: 5px;
+    }
+    .txt_capital *::first-letter {
+        text-transform: uppercase;
+    }
+    .dot_xanh {
+        position: relative;
+        padding-left: 15px
+    }
+    .dot_xanh:before {
+        position: absolute;
+        content: '';
+        width: 10px;
+        height: 10px;
+        z-index: 1;
+        bottom: 3px;
+        left: 0;
+        background-color: #23a00e;
+        border-radius: 100%
+    }
+    .thongtin_body {
+        color: #000;
+        margin-top: 3px;
+    }
+    .thongtin_body * {
+        font-family: 'UTM Times'
+    }
+    .asConhang::firt-letter {
+        text-transform: uppercase;
+    }
+    /*custom placeholder*/
+    .outer_myholder {
+        position: relative;
+    }
+    .outer_myholder input:valid+.holder {
+        display: none;
+    }
+    .holder {
+        position: absolute;
+        pointer-events: none;
+        top: 0;
+        bottom: 0;
+        height: 25px;
+        font-size: 13px;
+        left: 10px;
+        margin: auto;
+        color: #000;
+        font-style: italic;
+    }
+    textarea.input_2::placeholder {
+        color: #000;
+    }
+    input.input_2::placeholder {
+        color: #000;
+    }
+    .div_error .error {
+        background-color: #fff;
+        padding-left: 20px;
+        position: relative;
+    }
+    .div_error .error:before {
+        position: absolute;
+        width: 15px;
+        height: 15px;
+        z-index: 1;
+        left: 0px;
+        top: 2px;
+        content: '';
+        background: url('../images/mobile/icon_warn.png')
+    }
+    .tuvan_datsim {
+        background: #156008 url('../images/mobile/bg_tuvandatsim.png') 100% no-repeat;
+        background-position: left bottom;
+        border-radius: 6px;
+        color: #e0d292;
+        font-family: UTMTimesItalic;
+        padding: 5px 5px 5px 20px;
+        background-size: auto 80%;
+        text-align: center;
+        font-size: 18px;
+        box-shadow: 0 0 15px #000
+    }
+    .tuvan_datsim a {
+        color: #fff;
+        text-decoration: underline;
+        font-family: UTMTimesBold;
+        font-size: 18px;
+        text-shadow: 2px 0 4px #3a3831;
+        font-style: italic;
+    }
+    .txt_order_success {
+        background: -webkit-linear-gradient(#f8da7b 59%, #bb9842 100%);
+        background: -o-linear-gradient(#f8da7b 59%, #bb9842 100%);
+        background: linear-gradient(#f8da7b 59%, #bb9842 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-family: UTMTimesBold;
+        font-size: 20px;
+        text-align: center;
+    }
+    .icon_order {
+        font-size: 13px;
+        font-family: UTMTimes;
+        color: #000;
+        background: url('../images/mobile/icon_order_success.png') 100% no-repeat;
+        background-position: top 5px left;
+        padding-left: 20px;
+        text-align: center;
+        margin-top: 20px;
+    }
+    .div_bodybox {
+        background: url('../images/mobile/bg_socxanh.jpg') 100% repeat;
+        padding: 1px 5px 10px 5px;
+    }
+    .div_bodybox .mini_bgwhite {
+        background: #fff;
+        padding: 10px 5px;
+    }
+    .div_bodybox .mini_bgwhite .tbl_bodySHM {
+        font-size: 13px;
+    }
+    .div_bodybox .mini_bgwhite .tbl_bodySHM thead tr th {
+        color: #cdc585;
+        font-family: UTM Times;
+        background-color: #156008;
+        border: 1px solid #a0a867;
+        text-align: center;
+    }
+    .div_bodybox .mini_bgwhite .tbl_bodySHM tbody tr td {
+        border: 1px solid #a0a867;
+        padding: 3px;
+        color: #000;
+        font-family: UTM Times;
+        font-size: 13px;
+    }
+    .div_bodybox .mini_bgwhite .tbl_bodySHM tbody tr td a {
+        color: #156008;
+        text-decoration: underline;
+    }
+    .div_bodybox .mini_bgwhite .tbl_bodySHM tfoot tr td {
+        padding-top: 10px;
+    }
+    .fil_sim_mobile {
+        padding: 10px 0;
+        color: #000;
+        font-size: 13px;
+        font-family: UTM Times
+    }
+    .fil_sim_mobile .fil_left {
+        float: left;
+    }
+    .fil_sim_mobile .fil_left .fil_icon1 {
+        position: relative;
+        padding-left: 30px;
+    }
+    .fil_sim_mobile .fil_left .fil_icon1:before {
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 1;
+        content: '';
+        width: 26px;
+        height: 26px;
+        background: #fff url('../images/mobile/locsim/icon1.jpg') 100% no-repeat;
+        box-shadow: 0 0 5px #00000054;
+        border-radius: 100%;
+        background-position: center center
+    }
+    .fil_sim_mobile .fil_left .icon_loc_fixed {
+        position: fixed;
+        top: 65px;
+        left: 20px;
+        z-index: 100;
+        content: '';
+        width: 60px;
+        height: 60px;
+        background: url('../images/mobile/locsim/icon1.png') 100% no-repeat;
+        box-shadow: unset;
+        border-radius: unset;
+        background-size: 100% 100%
+    }
+    .fil_sim_mobile .fil_right {
+        float: right;
+    }
+    .fil_sim_mobile .fil_content {
+        padding-top: 10px
+    }
+    .fil_sim_mobile .fil_content .tab-content {
+        padding: 10px;
+        background-color: #c2c0c0;
+    }
+    .fil_sim_mobile .fil_content .item_mang {
+        width: 20%;
+        float: left;
+        text-align: center;
+    }
+    .fil_sim_mobile .fil_content .item_mang img {
+        max-width: 100%
+    }
+    .fil_sim_mobile .fil_content .close-tab {
+        color: #630100;
+        font-size: 13px;
+        text-transform: uppercase;
+        text-align: center;
+        background-color: #c2c0c0;
+        margin-top: 10px;
+        font-family: UTMTimesBold
+    }
+    .fil_sim_mobile .fil_content .nav-tabs {
+        border-radius: 4px;
+        background-color: #610100;
+        padding: 0;
+        margin-bottom: 10px
+    }
+    .fil_sim_mobile .fil_content .nav-tabs>li {
+        margin-bottom: -2px
+    }
+    .fil_sim_mobile .fil_content .nav-tabs>li>a {
+        width: 100%;
+        height: 100%;
+        display: inline-block;
+        color: #e1b87d;
+        font-family: UTMTimesBold;
+        font-size: 13px;
+        text-align: center;
+        position: relative;
+        padding: 5px;
+    }
+    .fil_sim_mobile .fil_content .nav-tabs>li:not(:last-child)>a:before {
+        position: absolute;
+        top: 30%;
+        right: 0px;
+        z-index: 1;
+        content: '';
+        width: 2px;
+        height: 15px;
+        background-color: #937345;
+    }
+    .fil_sim_mobile .fil_content .nav-tabs>li.active>a,
+    .fil_sim_mobile .fil_content .nav-tabs>li.active>a:hover,
+    .fil_sim_mobile .fil_content .nav-tabs>li.active>a:focus {
+        background-color: #de6b06;
+        border: 0;
+        border-radius: 0
+    }
+    .fil_sim_mobile .fil_content .item_mang input[name="mang"]:checked+label img {
+        box-shadow: 0 0 5px #000
+    }
+    .radio_1 input[type="radio"] {
+        position: relative;
+        width: 8px;
+        height: 8px;
+        margin: 0 5px 0 10px
+    }
+    .radio_1 label {
+        font-weight: normal;
+        font-family: UTM Times;
+        font-size: 13px;
+    }
+    .radio_1 input[type="radio"]:before {
+        position: absolute;
+        content: "";
+        width: 8px;
+        height: 8px;
+        background-color: #fff;
+        z-index: 1;
+        border-radius: 100%;
+        border: 1px solid #fff;
+    }
+    .radio_1 input[type="radio"]:checked {
+        position: relative;
+    }
+    .radio_1 input[type="radio"]:checked:before {
+        position: absolute;
+        content: "";
+        width: 8px;
+        height: 8px;
+        background-color: #267f2c;
+        z-index: 1;
+        border-radius: 100%;
+        border: 1px solid #fff;
+    }
+    .radio_2 label {
+        background-color: #fff;
+        border-radius: 25px;
+        box-shadow: 0 0 5px #00000054;
+        color: #000;
+        font-family: UTMTimesBold;
+        font-style: italic;
+        font-size: 13px;
+        text-align: center;
+        width: 48%;
+        float: left;
+        margin: 5px 1%;
+    }
+    .radio_2 input[type="radio"]:checked+label {
+        box-shadow: 0 1px 8px #267f2c
+    }
+    .fil_btn {
+        background-color: #156008;
+        color: #e0d292;
+        font-family: UTM Times;
+        font-size: 13px;
+        width: 100%;
+        border: 0;
+        outline: none;
+        border-radius: 15px;
+        font-weight: bold;
+        width: 100%;
+        height: 20px;
+        line-height: 8px
+    }
+    .fixed_menuMobile {
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 250
+    }
+    .mobilewrap {
+        position: unset !important;
+    }
+    .myfont {
+        font-family: UTM Times
+    }
+    .dathang_ok {
+        font-family: 'UTM Androgyne';
+        font-size: 15px;
+    }
+    .img_icon_menh {
+        width: 23px;
+        height: auto;
+        margin-right: 5px
+    }
+    .box_vang {
+        background-color: #ffeaaa;
+        border: 1px solid #fff;
+        font-family: UTMTimesBold;
+        color: #620303;
+        padding: 2px 5px
+    }
+    .box_vang * {
+        color: #620303;
+    }
+    .style_star {
+        position: relative;
+    }
+    .style_star {
+        position: absolute;
+        content: '(*)';
+        z-index: 1;
+        top: 0;
+        right: 0;
+        width: 20px;
+        height: 20px
+    }
+    form[name="name_formDathang"] .warning>input {
+        padding-left: 20px
+    }
+    .menuFooter ul li {
+        width: 100%;
+    }
+    .menuFooter ul li a {
+        font-family: UTM Times;
+        font-weight: unset;
+    }
+    .menu_content .menu_content_inner .ul_parent>li .ul_children.ul_undung_menubot {
+        height: 90% !important;
+        overflow: scroll;
+        display: inherit;
+        padding-left: 20%;
+    }
+    textarea.style_holder::placeholder {
+        color: #ccc;
+    }
+}
+
+@media only screen and (max-width:720px) {
+    .fixedFilter {
+        width: 94%
+    }
+    .formSearchHead {
+        display: none;
+    }
+    .formSearchHeadMb {
+        display: block;
+    }
+}
+
+@media only screen and (max-width:668px) {
+    .menuTop ul li {
+        margin-right: 16px;
+    }
+    .main-header .titleHead {
+        height: 25px;
+    }
+    .headPositionButton {
+        text-align: center;
+    }
+    /* * {
+        font-size: 14px;
+    } */
+    .fixedFilter {
+        width: 92%
+    }
+    .date_am a {
+        font-size: 60px !important;
+    }
+    .date_duong a {
+        font-size: 60px !important;
+    }
+}
+
+@media only screen and (max-width:640px) {
+    .main-header .titleHead {
+        height: 23px;
+    }
+    .menuTop ul li {
+        padding: 0 0 0 24px;
+        margin-right: 5px;
+    }
+    .boxForm .bodyForm .title_label {
+        text-align: left;
+    }
+    .btnMuaHang,
+    .buttonOrderSim {
+        padding: 10px 3px;
+        font-size: 9px;
+    }
+    .boxFormSim,
+    .simOrderNew ul li {
+        width: 100%
+    }
+    .hidden_mb {
+        display: none;
+    }
+    .hidden_desk {
+        display: block;
+    }
+    .validationInput:before {
+        content: "(*)";
+        display: block;
+        height: 25px;
+        width: 25px;
+        position: absolute;
+        top: 1px;
+        left: 2px;
+        color: #ff4d00;
+    }
+    .validationInput {
+        position: relative;
+    }
+    .validationInput input.myinput {
+        padding: 4px 22px !important;
+    }
+    .validationInput select.myinput {
+        padding: 4px 22px !important;
+    }
+}
+
+@media only screen and (max-width:568px) {
+    /* form biển số xe  */
+    .bien_so,
+    .form_boi_bien_so_xe select {
+        min-height: 30px;
+    }
+    /* end  */
+    .support {
+        position: fixed;
+        bottom: 35px;
+        right: 35px;
+        width: 67px;
+        height: 67px;
+        background: transparent;
+        border-radius: 15px;
+        transition: all linear 0.3s;
+        z-index: 1;
+    }
+    .support-sdt,
+    .support-zalo,
+    .support-mess,
+    .support-delete {
+        visibility: hidden;
+        opacity: 0;
+        transition: all linear 0.3s;
+    }
+    .support img {
+        width: 100%;
+        -o-object-fit: contain;
+        object-fit: contain;
+        transform: scale(1);
+        transition: all linear 0.3s;
+        transform: scale(1);
+        cursor: pointer;
+    }
+    .support-user {
+        width: 67px;
+        height: 67px;
+        position: absolute;
+        bottom: 40px;
+        right: 40px;
+        transition: all linear 0.3s;
+    }
+    .menuTop {
+        display: none;
+    }
+    .hiddenDesktop {
+        display: block;
+    }
+    .tableSim .tableBody tr td:nth-child(1),
+    .tableSim .tableBody tr td:nth-child(4) p,
+    .tableSim .tableHead,
+    .tableSim:before {
+        display: none;
+    }
+    .main-header .logo img {
+        width: 90px;
+    }
+    .tableSim .tableBody .viewMore {
+        padding: 1px 0 0;
+    }
+    .tableSim .tableBody tr {
+        float: left;
+        width: 100%;
+        margin-bottom: 1px;
+        font-size: 13px;
+    }
+    .tableSim .tableBody tr td:nth-child(3) {
+        padding-bottom: 0;
+    }
+    .tableSim .tableBody tr td:nth-child(4) {
+        width: 100%;
+        float: left;
+    }
+    .tableSim .tableBody .viewMore {
+        display: block !important;
+    }
+    .tableSim .tableBody tr td:nth-child(5) {
+        display: none;
+    }
+    .table-bordered .tableBody tr>td,
+    .table-bordered .tableBody tr>th {
+        border: none !important;
+    }
+    .btnMuaHang,
+    .buttonOrderSim {
+        font-size: 10px;
+    }
+    .tableSim .tableBody .viewMore a {
+        background: #dc0a0a;
+        color: #fff;
+        padding: 3px 5px;
+        text-align: center;
+    }
+    .fixedFilter {
+        display: block;
+        left: 0;
+        width: 100%
+    }
+    .menuMini {
+        padding: 9px !important;
+    }
+    .show_acount {
+        left: -22px;
+        padding: 15px 0 8px 20px;
+    }
+    .arr-top {
+        right: 60%
+    }
+    .tableSim .tableBody tr td:nth-child(2) {
+        width: 50%;
+        float: left;
+    }
+    .tableSim .tableBody tr td:nth-child(3) {
+        width: 50%;
+        float: left;
+        padding-top: 6px;
+    }
+    .tableSim .tableBody tr td p.text-center {
+        background: #2ba60a;
+        margin-top: 0;
+    }
+    .tableSim .tableBody tr td .hiddenDesktop {
+        background: #2ba60a;
+    }
+    .tableSim .tableBody .foneNumber {
+        font-size: 21px;
+        padding-top: 25px;
+        color: #fff;
+        line-height: 25px;
+    }
+    .tableSim .tableBody .priceSim {
+        color: #1e8003;
+        margin-bottom: 13px;
+    }
+    .tableSim .tableBody tr td b {
+        color: #d72828;
+    }
+    .buttonOrderSim {
+        background: #fff;
+        line-height: 6px;
+        border-radius: 15px;
+        color: #2ba60a;
+        padding: 11px 23px;
+        font-size: 13px;
+        margin-bottom: 21px;
+        display: inline-block;
+    }
+    .buttonOrderSim img {
+        display: none;
+    }
+    .tableSim .tableBody .viewMore {
+        text-align: center;
+        padding-bottom: 11px;
+        border-bottom: 3px solid transparent;
+        border-top: none !important;
+        border-image: url(../images/icon/Rectangle-9.png) 30 round;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+    }
+    .tableSim .tableBody .viewMore a {
+        border-radius: 0;
+    }
+    .tableSim .tableBody tr td:nth-child(3) a {
+        color: #000;
+        text-decoration: underline;
+    }
+    .textTopHome {
+        margin-bottom: 10px;
+    }
+    /** Mobile sim search **/
+    .contentSearchSim {
+        margin-top: 15px;
+    }
+    .contentSearchSim .textBangsim {
+        font-size: 15px;
+    }
+    .contentSearchSim .tableBangsim {
+        display: none;
+    }
+    .contentSearchSim .tableBangsimMb {
+        display: block;
+    }
+    .contentSearchSim .tableBangsimMb .minibox {
+        width: 100%;
+        border: 2px solid #ae823e;
+        margin-bottom: 10px;
+    }
+    .contentSearchSim .tableBangsimMb .imageIcon {
+        background: #ffffff;
+        border-radius: 5px;
+        margin-bottom: 8px;
+    }
+    .contentSearchSim .tableBangsimMb .imageIcon img {
+        height: 22px;
+    }
+    .contentSearchSim .tableBangsimMb .miniTop {
+        text-align: center;
+        padding: 10px 15px 6px 15px;
+        background: #ffad01;
+        font-size: 15px;
+        color: #fff;
+        font-weight: bold;
+    }
+    .contentSearchSim .tableBangsimMb .miniBody {
+        padding: 9px 6px;
+        color: #000;
+        font-size: 11px;
+        font-weight: bold;
+    }
+    .contentSearchSim .tableBangsimMb .price_cst_mb {
+        font-size: 13px;
+        color: #1f8507;
+        font-weight: bold;
+    }
+    .contentSearchSim .tableBangsimMb .luanphongthuy_mb {
+        text-align: center;
+        color: #000;
+        font-weight: bold;
+        background: #f4e674;
+        line-height: 28px;
+        font-size: 13px;
+        margin-bottom: 10px;
+        margin-top: 5px;
+    }
+    .contentSearchSim .tableBangsimMb .luanphongthuy_mb a {
+        color: #000;
+    }
+    .contentSearchSim .tableBangsimMb .btn_datsim_mb {
+        text-align: center;
+    }
+    .contentSearchSim .tableBangsimMb .btn_datsim_mb a {
+        padding: 4px 24px;
+        background: #d81212;
+        color: #fff;
+        border-radius: 15px;
+    }
+    .contentSearchSim .tableBangsimMb .row {
+        margin-left: -8px;
+        margin-right: -8px;
+    }
+    .contentSearchSim .tableBangsimMb .col-xs-6 {
+        padding-left: 8px;
+        padding-right: 8px;
+    }
+    .contentSearchSim .listGoiy ul li {
+        float: left;
+        width: 100%;
+        margin: 0px;
+        margin-bottom: 10px;
+    }
+    .contentSearchSim .listGoiy ul li select {
+        width: 320px;
+    }
+    .contentSearchSim .title_lan {
+        padding: 10px 20px;
+    }
+    #btnback {
+        top: -28px;
+        right: -5px;
+    }
+    .orderPage .title_p {
+        font-size: 13px;
+    }
+}
+
+@media only screen and (max-width:480px) {
+    .tableSim .tableBody tr td:nth-child(3),
+    .tableSim .tableBody tr td:nth-child(4) {
+        text-align: left;
+    }
+    .boxAside .title_h2:after {
+        right: -22px;
+    }
+    .menuFooter {
+        background: #310202;
+    }
+    .main-header .titleHead {
+        height: 18px;
+    }
+    .boxListAge .box {
+        width: 33.33333333%
+    }
+    .asideBodySim {
+        height: auto;
+    }
+    .hidden_destop {
+        display: block;
+        text-align: justify;
+    }
+    .hidden_mobile {
+        display: none;
+        text-align: justify;
+    }
+    .siteBodyContent {
+        padding: 0;
+    }
+    .bodyPage {
+        padding: 0px;
+    }
+    .container {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+}
+
+@media only screen and (max-width:435px) {
+    .simHopMenhTraCuu .boxListProductTop {
+        padding: 0;
+    }
+    .contentPage .title_h1 {
+        padding-top: 5px;
+        line-height: normal;
+    }
+    .contentPage .title_h1:before {
+        display: none;
+    }
+}
+
+@media only screen and (max-width:375px) {
+    .boxListAge .box {
+        width: 33.33333333%
+    }
+    .main-header .titleHead {
+        height: 10px;
+    }
+    .boxFormFilter .myinput {
+        background: url(../images/select-arrow.png) right center no-repeat #2ba60a !important;
+        padding-left: 28px !important;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+    }
+    .menu_content .menu_content_inner .ul_parent>li>.div_ul_children .close_ul_children,
+    .cart_content .close_cart {
+        top: 25px;
+    }
+}
+
+@media only screen and (max-width:360px) {
+    .main-header .titleHead {
+        height: 10px;
+    }
+    .main-header .logo img {
+        width: 70px;
+    }
+    .boxFormFilter .myinput {
+        width: 92px;
+    }
+    .searchSimMobi {
+        top: 15%;
+    }
+}
+
+@media only screen and (max-width:320px) {
+    .btnMuaHang,
+    .buttonOrderSim {
+        font-size: 8px;
+    }
+    .tableSim .tableBody .foneNumber {
+        font-size: 18px;
+    }
+    .tableSim .tableBody tr td:nth-child(2) {
+        padding-right: 0;
+    }
+    .boxMaxForm .minibox {
+        padding-right: 2px;
+    }
+    .buttonOrderSim {
+        font-size: 11px;
+    }
+    .contentSearchSim .listGoiy ul li select {
+        width: 250px;
+    }
+    .orderPage .price_cst {
+        font-size: 15px;
+    }
+}
+
+@media only screen and (min-width:1300px) {
+    .sim_collection .sim-type>div {
+        padding: 0px 18px;
+        font-size: 14px;
+    }
+    .sim_collection .select-network img {
+        height: 22px;
+    }
+    .sim_collection .select-item>div:not(:first-child) {}
+}
