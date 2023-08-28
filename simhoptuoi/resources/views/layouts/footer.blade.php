@@ -1,0 +1,47 @@
+<footer class="main-footer">
+    <div class="f-inner">
+        <div class="f-inner2">
+            <div class="container">
+                <div class="row">
+                    <div class="col col-12 col-md-4">
+                        <a href="https://simhoptuoi.com.vn/"><img src="{{  asset('/common/templates/site/images/Simhoptuoi-logo.png')}}" alt="Sim Hơp Tuổi" /></a>
+                        <p class="copyright">© simhoptuoi.com.vn 2023. All Rights Reserved. </p>
+                    </div>
+                    <div class="col col-12 col-md-5">
+                        <div class="row">
+                            <div class="col col-sm-6 col-6 col-md-6">
+                                <ul class="link-footer">
+                                    <li><a href="https://simhoptuoi.com.vn/mua-hang-va-thanh-toan.html">Mua
+                                            hàng & Thanh toán</a></li>
+                                    <li><a href="https://simhoptuoi.com.vn/chinh-sach-van-chuyen.html">Chính
+                                            sách vận chuyển</a></li>
+                                    <li><a href="https://simhoptuoi.com.vn/chinh-sach-doi-tra.html">Chính
+                                            sách đổi trả sim</a></li>
+                                </ul>
+                            </div>
+                            <div class="col col-sm-6 col-6 col-md-6">
+                                <ul class="link-footer">
+                                    <li><a href="https://simhoptuoi.com.vn/chinh-sach-bao-hanh.html">Chính
+                                            sách bảo hành</a></li>
+                                    <li><a href="https://simhoptuoi.com.vn/chinh-sach-bao-mat.html">Chính
+                                            sách bảo mật</a></li>
+                                    <li><a href="https://simhoptuoi.com.vn/dieu-khoan-va-dieu-kien.html">Điều
+                                            khoản & Điều kiện </a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-12 col-md-3">
+                        <p class="f-address">
+                            Địa chỉ: Số 25 Tô Vĩnh Diện, Phường Khương Trung, Quận Thanh Xuân, Hà Nội.<br /> Hotline: <a class="hotline" href="tel:0766139189">0766.139.189</a>
+                        </p>
+                        <p>
+                            <span class="f-dangky">100% Đăng ký chính chủ</span>
+                            <span class="f-shipping">Giao sim toàn quốc</span><br />
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>

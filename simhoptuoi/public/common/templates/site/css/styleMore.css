@@ -1,0 +1,569 @@
+.clickToShow {
+    color: blue;
+}
+
+.contentPage img {
+    height: auto !important;
+}
+
+.mucLuc {
+    position: relative;
+    font-family: 'uvn_hai_ba_trungregular';
+    color: #163357;
+    font-size: 32px;
+    text-transform: none;
+    line-height: normal;
+}
+
+.form_title {
+    position: relative;
+    font-family: 'uvn_hai_ba_trungregular';
+    color: #163357;
+    font-size: 25px;
+    text-transform: none;
+    line-height: normal;
+}
+
+.headerLichamduong {
+    background: #1890ff !important;
+}
+
+.tableContent {
+    border: 1px solid #5b0203;
+    padding: 10px;
+}
+
+.contentPage #toc {
+    margin-bottom: 20px !important;
+    display: block;
+    overflow: hidden;
+}
+
+.accordion-button {
+    width: 100%;
+    text-align: left;
+}
+
+.accordion-button:first-letter {
+    text-transform: capitalize
+}
+
+.tableContent ul {
+    padding-left: 0px;
+}
+
+.tableContent ul .h2,
+.tableContent ul .h3 {
+    line-height: 13px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    ;
+    list-style-type: none;
+    font-size: 16px;
+}
+
+.tableContent ul .h2 a,
+.tableContent ul .h3 a {
+    color: #000;
+}
+
+.tableContent ul .h2 a {
+    font-weight: bold;
+}
+
+.tableContent .row .col-md-12 ul .h3 {
+    padding-left: 10px;
+}
+
+.btn_toogle_limit {
+    margin: 0px auto;
+}
+
+.box_shadow .buttonShowMore {
+    margin: 0px auto;
+    margin-bottom: 30px;
+    margin-top: 15px;
+}
+
+/* show cache */
+
+.tableContent .row .col-md-12 ul .h3 {
+    padding-left: 10px;
+}
+
+@media only screen and (max-width:640px) {
+    .boxFormSim .bgFormSim {
+        padding: 20px 15px;
+    }
+    .home .boxFormSim .bgFormSim {
+        padding: 20px 15px;
+    }
+    .boxFormSim label {
+        margin-bottom: 0px;
+    }
+    .boxFormSim .bgFormSim .row .row {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    .top_message {
+        padding: 0px 10px;
+    }
+    .chi-tiet-sim .label,
+    .chi-tiet-sim .value_row {
+        padding-left: 5px;
+    }
+    .image-hide-mobile {
+        display: none;
+    }
+    .image-hide-desktop {
+        display: block;
+    }
+    .boxAside .title_h2,
+    .title_h1 {
+        font-size: 20px;
+    }
+    .left-sizebar {
+        display: none;
+    }
+    .main-content {
+        background: none;
+    }
+    .label-mobile {
+        display: block;
+    }
+    .label-desktop {
+        display: none;
+    }
+    .filter_lists .select-item-network,
+    .filter_lists .d-flex.sim-types {
+        -webkit-box-pack: justify !important;
+        -ms-flex-pack: justify !important;
+        display: flex !important;
+        /* justify-content: space-between; */
+        overflow-x: auto !important;
+        overflow-y: hidden !important;
+        position: static !important;
+        flex-wrap: nowrap;
+    }
+    .dropdown {
+        position: static;
+    }
+    .dropdown .dropdown-toggle {
+        flex-shrink: 0;
+        font-size: 12.8px;
+        border: solid 0.5px #666;
+        border-radius: 4px;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        padding: 8px 5px;
+        position: relative;
+        background: #fff;
+        max-height: 40px;
+        display: flex;
+        justify-content: space-between;
+    }
+    .dropdown .dropdown-menu {
+        margin-top: 10px;
+    }
+    .so-tranh>div {
+        margin-top: 10px;
+    }
+    .dropdown.show .destination-point {
+        width: 27px;
+        height: 14px;
+        top: 75px;
+        left: 25px;
+        position: absolute;
+        overflow: hidden;
+        z-index: 100000;
+    }
+    .dropdown.show .destination-point::after {
+        content: "";
+        position: absolute;
+        width: 27px;
+        height: 27px;
+        background: #fff;
+        transform: rotate(45deg);
+        top: 10px;
+        left: 0;
+        box-shadow: -2px -2px 5px -4px;
+    }
+    .dropdown-menu {
+        top: auto;
+    }
+    .first-list-items {
+        overflow-x: auto !important;
+    }
+    .filter_lists .d-flex.select-item::-webkit-scrollbar,
+    .select-item-network::-webkit-scrollbar {
+        display: none;
+    }
+    .wapper_sim_content {
+        min-height: 192px;
+        display: block;
+    }
+    .simgiare_index .wapper_sim_content {
+        min-height: 150px;
+        display: block;
+    }
+    .sim_order_success .main-content {
+        min-height: 400px;
+    }
+    .wapper_breadcumb .breadcrumb {
+        padding-bottom: 0px;
+    }
+    .sim_order_success .main-content .boxAside {
+        display: none;
+    }
+    .contentPage .title_h1 {
+        padding-top: 0px;
+    }
+    .filter_lists .select-item-network .select-network:not(:first-child) {
+        margin-left: 0px;
+    }
+    .contentPage ul {
+        margin-bottom: 0px;
+        margin-left: 15px;
+        padding-left: 10px;
+    }
+    .boxNice {
+        background: #eee;
+    }
+    .hide-mobile {
+        display: none !important;
+    }
+    .filter_lists .d-flex.select-item {
+        padding-bottom: 8px;
+        /* padding-top: 2px; */
+        flex-wrap: inherit;
+    }
+    .sim_collection .sim-type>div {
+        margin-bottom: 0px;
+    }
+    .filter_lists .select-item-network .select-network,
+    .filter_lists .d-flex.sim-types .sim-type {
+        flex-shrink: 0;
+        font-size: 12.8px;
+        border-radius: 4px;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        position: relative;
+        background: #fff;
+        max-height: 40px;
+    }
+    .main_box_sim_item .logoNhaMang img {
+        max-width: 75px;
+        float: left;
+    }
+    .main_box_sim_item p.so a span {
+        font-size: 20px !important
+    }
+    .home .sim_collection {
+        padding-top: 0px;
+    }
+    .btnMenu {
+        background: no-repeat;
+        border: none;
+        outline: none;
+        padding: 6px 15px;
+        color: #163357;
+        font-size: 14px;
+        border: 2px solid #163357;
+        border-radius: 5px;
+        z-index: 9999;
+    }
+    .main-header {
+        position: relative;
+    }
+    .main-header .btnMenu {
+        position: absolute;
+        top: 7px;
+        right: 10px;
+        padding-left: 0px;
+    }
+    .main-header {
+        padding: 15px 0px;
+    }
+    .main-header .top-logo {
+        text-align: center;
+    }
+    .main-header .titleHead {
+        height: auto !important
+    }
+    .search-mobile {
+        padding: 0px 10px;
+    }
+    .search-mobile .search_header {
+        background: #efefef;
+        padding: 8px;
+        border-radius: 10px;
+        border: 2px solid #163357;
+    }
+    .top-logo {
+        margin-bottom: 10px;
+    }
+    .search-mobile .search_header .search-key {
+        max-width: 100%;
+        background: #efefef;
+        border: 1px solid #ced4da;
+        padding: 4px 5px;
+        border-radius: 5px;
+        color: #0056b3;
+    }
+    .congcuxemboi_xemboitheonamsinhloai2 .headPositionButton {
+        text-align: left;
+    }
+    .search-mobile .search_header .form-control {
+        background: #efefef;
+        color: #0056b3;
+        font-size: 14px;
+    }
+    .header-2 .main-header {
+        padding: 11px 0px 15px 0px;
+        background: #163357;
+    }
+    .header-2 .btnMenu i {
+        color: #fff;
+        font-size: 20px;
+    }
+    .header-2 .top_message {
+        display: none;
+    }
+    .main-content {
+        padding: 10px;
+    }
+    .hide-mobile {
+        display: none;
+    }
+    .mobi_menu_top_fix {
+        position: fixed;
+        top: 0;
+        left: 0;
+        animation: smoothScroll 0.25s forwards;
+        z-index: 9;
+    }
+    .wapper_header {
+        display: block;
+    }
+    .sim_order .wapper_header,
+    .simphongthuy_chitietsim .wapper_header {
+        min-height: 80px;
+    }
+    .simphongthuy_chitietsim .boxAside,
+    .sim_order .boxAside {
+        display: none;
+    }
+    .simphongthuy_boisim .breadcrumb {
+        display: none;
+    }
+    .boxForm {
+        max-width: 100%;
+    }
+    .boxForm .headForm .title_p {
+        text-align: center;
+    }
+    #mobi_menu_top {
+        -webkit-transition: all 0.5s ease;
+        -moz-transition: position 10s;
+        -ms-transition: position 10s;
+        -o-transition: position 10s;
+        transition: all 0.5s ease;
+    }
+    @keyframes smoothScroll {
+        0% {
+            transform: translateY(-40px);
+        }
+        100% {
+            transform: translateY(0px);
+        }
+    }
+    .form_boi_bien_so_xe {
+        padding: 20px 10px !important;
+    }
+    .form_boi_bien_so_xe #date-group1-2 {
+        position: absolute;
+        background: none;
+        border: none;
+        height: inherit;
+        padding: 0 5px;
+        width: 100%;
+        left: -5px;
+        top: 0;
+    }
+    .form_boi_bien_so_xe #date-group1-2:focus {
+        outline: none;
+    }
+    .frm-submit button {
+        padding: 5px 15px;
+    }
+    #date-group1-2 {
+        position: relative;
+        z-index: 123;
+        background: none;
+        /* top: -16px;
+        left: -5px; */
+        padding: 5px;
+    }
+    #date-group1-2 {
+        text-align: right;
+    }
+    .rolldate-content {
+        margin: 0 auto;
+    }
+    .rolldate-panel .form-control {
+        font-size: 16px;
+    }
+    .rolldate-container .rolldate-wrapper li {
+        height: 36px;
+        font-size: 16px;
+    }
+    .nam-mang,
+    .nu-mang {
+        margin-left: 8px;
+        margin-bottom: 0px;
+    }
+    .rolldate-container header {
+        line-height: 60px;
+        font-size: 18px;
+    }
+    .rolldate-container .gioitinhselect {
+        margin: 0 auto;
+    }
+    .contentPage {
+        padding: 15px 0px;
+        padding-top: 0px;
+    }
+    .contentPage.luanSim {
+        padding-top: 0px;
+    }
+    .bgMenuShow {
+        display: none !important
+    }
+    .chi-tiet-sim .TitleThongTinTinChu {
+        font-size: 25px;
+    }
+    .chi-tiet-sim .heading-box {
+        font-size: 26px;
+        padding-left: 10px;
+        text-align: left;
+    }
+    .btnMenu span {
+        color: #fff;
+        font-size: 24px;
+    }
+    .congiap_thanchu {
+        text-align: center;
+        width: 116px;
+        margin: 10px auto;
+    }
+    .simphongthuy_boisim .boxFormSim .bgFormSim form {
+        padding: 0px 0px;
+    }
+    .boxFormSim .bgFormSim {
+        padding: 15px 10px;
+    }
+    .chitietbox_sim {
+        background: #193457;
+        padding: 10px 15px;
+        border-radius: 15px;
+        margin: 10px 0px;
+    }
+    .sidebarSupport {
+        display: none;
+    }
+    .luansim_new_diem {
+        font-weight: normal;
+    }
+    .luansim_new_nh_tuong_sinh_desktop {
+        display: none;
+    }
+    .luansim_new_nh_tuong_sinh_mobile {
+        display: block;
+    }
+    .main_box_sim_daxem p.so a {
+        font-size: 18px;
+    }
+    .main_box_sim_daxem p.so .dsdb {
+        font-size: 18px;
+    }
+    .btn_mua b,
+    .btn_mua strong {
+        font-size: 11px;
+    }
+    .btn_mua2 {
+        margin-left: -10px;
+        margin-right: -5px;
+    }
+    .sim_collection .remove-all {
+        margin-top: 5px;
+    }
+    .wraper-item-select {
+        margin-top: 5px;
+    }
+    .boxFormSim .myinput {
+        margin-bottom: 10px;
+    }
+    .sim_order .search-header-wapper,
+    .sim_order .breadcrumb,
+    .simphongthuy_chitietsim .search-header-wapper,
+    .simphongthuy_chitietsim .breadcrumb {
+        display: none;
+    }
+    .img_tuoi {
+        display: none !important;
+    }
+    .boxSearch {
+        transition: all .5s ease;
+    }
+    .boxSearch.fixed {
+        position: fixed;
+        top: 69px;
+        z-index: 100000;
+        width: 100%;
+        left: 0;
+        background: #163357;
+        border-radius: inherit;
+        animation: smoothScroll 0.25s forwards;
+    }
+}
+
+@media only screen and (min-width:800px) {
+    .wapper_header {
+        position: relative;
+        top: 0;
+        left: 0;
+        z-index: 999;
+        width: 100%;
+    }
+    #wrap {
+        padding-top: 81px;
+    }
+    .wapper_header_fix {
+        background: #163357;
+        padding-bottom: 10px;
+        position: fixed !important;
+        top: 0;
+        left: 0;
+        z-index: 999;
+        width: 100%;
+    }
+}
+
+.luan_sim_diem span {
+    font-weight: bold;
+    margin-bottom: 10px;
+    background: #d50303;
+    color: #fff;
+    padding: 5px 10px;
+}
+
+.luan_sim_tblsk td,
+.luan_sim_tblnh td {
+    text-align: center;
+    vertical-align: middle;
+    padding: 0px 5px 5px 5px;
+    font-weight: bold;
+    font-size: 16px;
+}
