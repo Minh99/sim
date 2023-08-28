@@ -5,95 +5,125 @@ namespace App\Http\Controllers;
 use App\Services\GoogleSheetsService;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Log;
-use Illuminate\Support\Facades\Storage;
-use Google\Client;
-use Google\Service\Drive;
-use Google\Service\Sheets;
-use PhpOffice\PhpSpreadsheet\IOFactory;
 
 class GoogleSheetsController extends Controller
 {
     protected $googleSheetsService;
+
+    const TYPE_BOI_SIM = 1;
+    const TYPE_SIM_DATA = 2;
 
     public function __construct(GoogleSheetsService $googleSheetsService)
     {
         $this->googleSheetsService = $googleSheetsService;
     }
 
-    public function readSheet()
+    public function sync(Request $request)
     {
-        $spreadsheetId = env('GOOGLE_SHEETS_SPREADSHEET_ID_BOI_SIM');
-        $range = 'Sheet1!A1:B2';
-        $data = $this->googleSheetsService->readSheet($spreadsheetId, $range);
-        
-        // Xử lý dữ liệu đọc được từ Google Sheets
-        dd($data);
+        $syncType = $request->get('sync_type');
+
+        switch ($syncType) {
+            case self::TYPE_BOI_SIM:
+                $this->syncBoiSim();
+                break;
+            case self::TYPE_SIM_DATA:
+                $this->syncSimData();
+                break;
+            default:
+                $jsonData = [];
+                break;
+        }
+
+        return redirect()->route('admin.home')->with('success', 'Sync successfully');
     }
 
-    public function writeSheet()
+    function syncBoiSim()
     {
-        $spreadsheetId = 'your_spreadsheet_id';
-        $range = 'Sheet1!A1';
-        $values = [
-            ['Hello', 'World'],
-        ];
-        
-        $this->googleSheetsService->writeSheet($spreadsheetId, $range, $values);
-        
-        return "Data written to Google Sheets!";
+        try {
+            $spreadsheetId = env('GOOGLE_SHEETS_SPREADSHEET_ID_BOI_SIM');
+            $rowStart = env('BOI_SIM_ROW_START');
+            $rowEnd = env('BOI_SIM_ROW_END');
+            $colStart = env('BOI_SIM_COL_START');
+            $colEnd = env('BOI_SIM_COL_END');
+            $header = [
+                'B' => 'id',
+                'C' => 'so_que',
+                'D' => 'ten_que',
+                'E' => 'hinh_que',
+                'F' => 'tong_quat',
+                'G' => 'que',
+                'H' => 'danh_gia',
+                'I' => 'y_nghia_que',
+                'J' => 'luan_giai_sim',
+                'K' => 'chiem_nghiem_ve_van_the',
+                'L' => 'xet_ve_gia_dao_tinh_cam',
+                'M' => 'dong_hao_1',
+                'N' => 'dong_hao_2',
+                'O' => 'dong_hao_3',
+                'P' => 'dong_hao_4',
+                'Q' => 'dong_hao_5',
+                'R' => 'dong_hao_6',
+                'S' => 'nx_ve_mqh_giua_chu_va_sim',
+            ];
+
+            $excelFilePath = $this->googleSheetsService->downloadFileExcelFromDriver($spreadsheetId);
+            list($link, $jsonData) = $this->googleSheetsService->convertExcelToJson(
+                $excelFilePath, 
+                $spreadsheetId,
+                0,
+                $header,
+                $rowStart,
+                $rowEnd,
+                $colStart,
+                $colEnd
+            );
+
+            Log::info($link);
+        } catch (\Exception $e) {
+            Log::error($e->getMessage());
+
+            throw new \Exception("Sync Boi Sim failed:". $e->getMessage(), 400);
+        }
     }
-
-    public function downloadAndConvertToJSON()
+    
+    function syncSimData()
     {
-          // Khởi tạo Google Client
-          $client = new Client();
-          $client->setAuthConfig(storage_path('service_account.json'));
-          $client->setScopes([Drive::DRIVE_READONLY]);
-  
-          // Khởi tạo Drive Service
-          $driveService = new Drive($client);
-  
-          // ID của tệp Google Sheets
-          $spreadsheetId = env('GOOGLE_SHEETS_SPREADSHEET_ID_BOI_SIM');
-  
-          // Tải xuống tệp Google Sheets dưới dạng Excel (XLSX)
-          $response = $driveService->files->get($spreadsheetId, ['alt' => 'media']);
-          $excelData = $response->getBody()->getContents();
-  
-          // Lưu tệp Excel vào thư mục tạm
-          $excelFilePath = storage_path($spreadsheetId . '.xlsx');
-          file_put_contents($excelFilePath, $excelData);
-  
-          // Sử dụng PhpSpreadsheet để đọc tệp Excel
-          $spreadsheet = IOFactory::load($excelFilePath);
-          $worksheet = $spreadsheet->getActiveSheet();
-  
-          $data = [];
-          $highestRow = $worksheet->getHighestDataRow();
-          $highestColumn = $worksheet->getHighestDataColumn();
-  
-          // Lặp qua từng dòng để đọc dữ liệu
-          for ($row = 1; $row <= $highestRow; $row++) {
-              $rowData = [];
-              for ($col = 'A'; $col <= $highestColumn; $col++) {
-                  $cellValue = $worksheet->getCell($col . $row)->getValue();
-                  $rowData[$col] = $cellValue;
-              }
-              $data[] = $rowData;
-          }
-          dd($data);
+        try {
+            $spreadsheetId = env('GOOGLE_SHEETS_SPREADSHEET_ID_SIM_DATA');
+            $rowStart = env('SIM_DATA_ROW_START');
+            $rowEnd = env('SIM_DATA_ROW_END');
+            $colStart = env('SIM_DATA_COL_START');
+            $colEnd = env('SIM_DATA_COL_END');
+            $header = [
+                'C' => 'nha_mang',
+                'D' => 'loai_sim',
+                'E' => 'sdt',
+                'F' => 'sdt',
+                'G' => 'que',
+                'H' => 'que_chinh',
+                'I' => 'que_bien',
+                'J' => 'gia_ban',
+                'K' => 'diem_phong_thuy',
+                'L' => 'tinh_trang',
+            ];
 
-  
-          // Chuyển đổi dữ liệu thành JSON
-          $jsonData = json_encode($data, JSON_PRETTY_PRINT);
-  
-          // Lưu dữ liệu JSON vào tệp
-          $jsonFilePath = storage_path('converted_data.json');
-          file_put_contents($jsonFilePath, $jsonData);
-  
-          // Xóa tệp Excel tạm sau khi đã đọc và chuyển đổi
-          unlink($excelFilePath);
-  
-          return response()->download($jsonFilePath)->deleteFileAfterSend();
+            $excelFilePath = $this->googleSheetsService->downloadFileExcelFromDriver($spreadsheetId);
+            list($link, $jsonData) = $this->googleSheetsService->convertExcelToJson(
+                $excelFilePath, 
+                $spreadsheetId,
+                1,
+                $header,
+                $rowStart,
+                $rowEnd,
+                $colStart,
+                $colEnd
+            );
+
+            Log::info($link);
+        } catch (\Exception $e) {
+            Log::error($e->getMessage());
+
+            throw new \Exception("Sync Boi Sim failed:". $e->getMessage(), 400);
+        }
     }
 }
