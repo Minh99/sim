@@ -37,6 +37,7 @@ Route::get('/sim-hop-menh-tho', function () {
     return view('layouts.menu_pages.sim_menh_tho');
 });
 
+// page nay có format khác
 Route::get('/sim-so-dep', function () {
     return view('layouts.menu_pages.sim_so_dep');
 });
@@ -57,6 +58,7 @@ Route::get('/sim-xoa-giai-han', function () {
     return view('layouts.menu_pages.sim_xoa_giai_han');
 });
 
+// những page này chưa có
 Route::get('/sim-hop-tuoi_200x', function () {
     return view('layouts.menu_pages.sim_hop_tuoi_200x');
 });

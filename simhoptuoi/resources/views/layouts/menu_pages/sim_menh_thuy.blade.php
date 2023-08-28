@@ -1,6 +1,6 @@
 @extends('app')
 
-@section('title', 'Tìm Mua Sim Hợp Tuổi Uy Tín.')
+@section('title', 'Cách chọn sim hợp mệnh Thủy chuẩn xác? Mệnh Thủy hợp số điện thoại nào?')
 
 @section('content')
 <section class="contentPage">
