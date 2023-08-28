@@ -79,5 +79,14 @@ Route::get('/sim-hop-tuoi_195x', function () {
 
 
 
-Route::get('/read-sheet', [App\Http\Controllers\GoogleSheetsController::class, 'readSheet']);
-Route::get('/sync-boi-sim', [App\Http\Controllers\GoogleSheetsController::class, 'downloadAndConvertToJSON']);
+
+Route::get('/admin/home', function () {
+    return view('layouts.admin.home');
+})->name('admin.home');
+
+Route::post('/sync', [App\Http\Controllers\GoogleSheetsController::class, 'sync'])->name('sync');
+
+
+Route::get('/test1', [App\Http\Controllers\Test::class, 'getThongTinPhongThuyBangSdt'])->name('test1');
+Route::get('/test2', [App\Http\Controllers\Test::class, 'getListSimData'])->name('test2');
+Route::get('/test3', [App\Http\Controllers\Test::class, 'getDetailSimData'])->name('test3');
