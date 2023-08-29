@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\BoiSim;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\NewsController;
 
@@ -84,11 +85,29 @@ Route::get('/tin-tuc/{slug}', [NewsController::class, 'news']);
 
 Route::get('/tin-sim/{slug}', [NewsController::class, 'simNews']);
 
+
+
+
+
+
+
+
+
 Route::get('/admin/home', function () {
     return view('layouts.admin.home');
 })->name('admin.home');
 
+
 Route::post('/sync', [App\Http\Controllers\GoogleSheetsController::class, 'sync'])->name('sync');
+Route::get('/coming-soon', function () {
+    return view('layouts.coming-soon');
+})->name('coming-soon');
+
+
+
+
+Route::match(['get', 'post'], '/boi-sim', [BoiSim::class, 'index'])->name('boi-sim');
+
 
 
 Route::get('/test1', [App\Http\Controllers\Test::class, 'getThongTinPhongThuyBangSdt'])->name('test1');

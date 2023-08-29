@@ -4,7 +4,10 @@
             <div class="container">
                 <div class="row">
                     <div class="col col-12 col-md-4">
-                        <a href="https://simhoptuoi.com.vn/"><img src="{{  asset('/common/templates/site/images/Simhoptuoi-logo.png')}}" alt="Sim Hơp Tuổi" /></a>
+                        <a style="font-size: 25px" class="text-white text-bold pl-4 text-center" href="/">
+                            {{-- <img src="{{  asset('common/templates/site/images/Simhoptuoi-logo.png')}}" alt="Sim Hơp Tuổi"> --}}
+                                BOI SIM KINH DICH
+                        </a>
                         <p class="copyright">© simhoptuoi.com.vn 2023. All Rights Reserved. </p>
                     </div>
                     <div class="col col-12 col-md-5">
