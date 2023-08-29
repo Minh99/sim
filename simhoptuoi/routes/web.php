@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\NewsController;
 
 /*
 |--------------------------------------------------------------------------
@@ -79,8 +80,9 @@ Route::get('/sim-hop-tuoi_195x', function () {
     return view('layouts.menu_pages.sim_hop_tuoi_195x');
 });
 
+Route::get('/tin-tuc/{slug}', [NewsController::class, 'news']);
 
-
+Route::get('/tin-sim/{slug}', [NewsController::class, 'simNews']);
 
 Route::get('/admin/home', function () {
     return view('layouts.admin.home');
