@@ -2,48 +2,44 @@
     <div class="asideBody">
         <p class="title_h2">Menu</p>
         <ul class="ul">
-            <li class="active"><a href="https://simhoptuoi.com.vn/">Trang chủ</a></li>
+            <li class="active"><a href="/">Trang chủ</a></li>
             <li>
-                <h3><a href="https://simhoptuoi.com.vn/xem-phong-thuy-sim.html">Xem phong thủy sim</a>
+                <h3><a href="/sim-hop-menh-kim">Sim hợp mệnh Kim</a>
                 </h3>
             </li>
             <li>
-                <h3><a href="https://simhoptuoi.com.vn/Sim-hop-menh-Kim.html">Sim hợp mệnh Kim</a>
+                <h3><a href="/sim-hop-menh-moc">Sim hợp mệnh Mộc</a>
                 </h3>
             </li>
             <li>
-                <h3><a href="https://simhoptuoi.com.vn/Sim-hop-menh-Moc.html">Sim hợp mệnh Mộc</a>
+                <h3><a href="/sim-hop-menh-thuy">Sim hợp mệnh Thủy</a>
                 </h3>
             </li>
             <li>
-                <h3><a href="https://simhoptuoi.com.vn/Sim-hop-menh-Thuy.html">Sim hợp mệnh Thủy</a>
+                <h3><a href="/sim-hop-menh-hoa">Sim hợp mệnh Hỏa</a>
                 </h3>
             </li>
             <li>
-                <h3><a href="https://simhoptuoi.com.vn/Sim-hop-menh-Hoa.html">Sim hợp mệnh Hỏa</a>
+                <h3><a href="/sim-hop-menh-tho">Sim hợp mệnh Thổ</a>
                 </h3>
             </li>
             <li>
-                <h3><a href="https://simhoptuoi.com.vn/Sim-hop-menh-Tho.html">Sim hợp mệnh Thổ</a>
+                <h3><a href="/sim-thang-quan-tien-chuc">Sim thăng quan tiến chức</a>
                 </h3>
             </li>
             <li>
-                <h3><a href="https://simhoptuoi.com.vn/sim-phong-thuy-hop-tuoi-kich-cong-danh-su-nghiep.html">Sim thăng quan tiến chức</a>
+                <h3><a href="/sim-kich-tai-van">Sim phong thủy kích tài vận</a>
                 </h3>
             </li>
             <li>
-                <h3><a href="https://simhoptuoi.com.vn/sim-phong-thuy-hop-tuoi-kich-tai-van.html">Sim phong thủy kích tài vận</a>
+                <h3><a href="/sim-tinh-duyen-gia-dao">Sim kích gia đạo tình duyên</a>
                 </h3>
             </li>
             <li>
-                <h3><a href="https://simhoptuoi.com.vn/sim-phong-thuy-hop-tuoi-kich-gia-dao-tinh-yeu.html">Sim kích gia đạo tình duyên</a>
+                <h3><a href="/sim-xoa-giai-han">Sim hóa giải vận hạn theo tuổi</a>
                 </h3>
             </li>
-            <li>
-                <h3><a href="https://simhoptuoi.com.vn/sim-phong-thuy-hop-tuoi-hoa-giai-van-han.html">Sim hóa giải vận hạn theo tuổi</a>
-                </h3>
-            </li>
-            <li><a href="https://simhoptuoi.com.vn/sim-so-dep.html">Sim số đẹp</a></li>
+            <li><a href="/sim-so-dep">Sim số đẹp</a></li>
             <li>
                 <b class="sht_item">Sim hợp tuổi 200x</b>
                 <ul class="sht_item_ul" style="display: none;">
