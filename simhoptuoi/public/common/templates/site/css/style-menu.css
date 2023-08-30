@@ -11,9 +11,10 @@
     bottom: 0;
     right: 0;
     width: 280px;
-    background: #607475;
+    background: #af2633;
     z-index: 100;
     margin-right: -280px;
+    padding: 5px 10px 5px 5px;
 }
 
 .menuMobile ul {
@@ -36,7 +37,7 @@
 }
 
 .menuMobile ul li.active a {
-    background: #163357;
+    background: #dc3545 !important;
     color: #fff;
 }
 

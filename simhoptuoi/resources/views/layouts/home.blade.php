@@ -461,7 +461,7 @@
                 });
 
                 $.ajax({
-                    url: '/api/danh-sach-sim',
+                    url:  "{{ route('danh-sach-sim') }}",
                     type: 'GET',
                     data: {
                         'duoi_sim': duoi_sim,
@@ -498,13 +498,15 @@
                             }
 
                             var sdt = item['sdt'];
+                            var linkDetail = "{{ route('detail-sim', ['sdt' => 'PLACEHOLDER']) }}";
+                            linkDetail = linkDetail.replace('PLACEHOLDER', sdt);
 
                             var html = '<div class="col-6 col-sm-6 col-md-6">';
                             html += '<div class="main_box_sim_item">';
                             html += '<div class="wapper_sim_content">';
                             html += '<div class="row">';
                             html += '<div class="col-12 col-sm-12 col-md-6">';
-                            html += `<p class="so"><a href="/chi-tiet-sim/${sdt}">${sdt}</a></p>`;
+                            html += `<p class="so"><a href="${linkDetail}">${sdt}</a></p>`;
                             html += '</div>';
                             html += `<div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img alt="" src="{{  asset('common/templates/site/images/icon/` + logo_nha_mang +`')}}" /></div>`;
                             html += '</div>';
@@ -515,10 +517,10 @@
                             html += '</div>';
                             html += '<div class="row">';
                             html += '<div class="col-6 col-sm-6 col-md-6">';
-                            html += `<p class="btnmua pt-2"><a href="/chi-tiet-sim/${sdt}" class="btn_mua">Chi tiết <b>>></b></a></p>`;
+                            html += `<p class="btnmua pt-2"><a href="${linkDetail}" class="btn_mua">Chi tiết <b>>></b></a></p>`;
                             html += '</div>';
                             html += '<div class="col-6 col-sm-6 col-md-6">';
-                            html += `<p class="btnmua btn_mua2 text-right pt-2"><a href="/chi-tiet-sim/${sdt}" class="btn_mua">Mua ngay <strong>>></strong></a></p>`;
+                            html += `<p class="btnmua btn_mua2 text-right pt-2"><a href="${linkDetail}" class="btn_mua">Mua ngay <strong>>></strong></a></p>`;
                             html += '</div>';
                             html += '</div>';
                             html += '</div>';

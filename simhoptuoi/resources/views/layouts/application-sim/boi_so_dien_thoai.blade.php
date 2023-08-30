@@ -8,7 +8,7 @@
     <div class="bodyPage bodyLuanSim">
         <section class="boxFormSim">
             <div class="bgFormSim">
-                <form id="form_xpts" name="form_xpts" action="/boi-sim" method="post">
+                <form id="form_xpts" name="form_xpts" action="{{ route('boi-sim') }}" method="post">
                     @csrf
                     <div style="display:none"></div>
                     <div class="row">

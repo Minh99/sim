@@ -282,7 +282,7 @@
         position: absolute;
         top: 7px;
         right: 10px;
-        padding-left: 0px;
+        padding: 0px;
     }
     .main-header {
         padding: 15px 0px;
@@ -323,7 +323,7 @@
     }
     .header-2 .main-header {
         padding: 11px 0px 15px 0px;
-        background: #163357;
+        background: #dc3545 !important;
     }
     .header-2 .btnMenu i {
         color: #fff;
