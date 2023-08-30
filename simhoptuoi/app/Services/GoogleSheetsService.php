@@ -22,6 +22,43 @@ class GoogleSheetsService
         $this->service = new Sheets($this->client);
     }
 
+
+    /**
+     * Write data to google sheets
+     */
+    public function writeDataToGoogleSheetsInvoice($spreadsheetId, $sheetName = 'invoice', $data)
+    {
+        $this->client->setScopes([Sheets::SPREADSHEETS]);
+        $this->client->setAccessType('offline');
+
+        $sheetsService = new Sheets($this->client);
+
+        $range = "$sheetName!A:A";
+        $response = $sheetsService->spreadsheets_values->get($spreadsheetId, $range);
+        $values = $response->getValues();
+
+        // Determine the next empty row
+        $nextRow = empty($values) ? 1 : count($values) + 1;
+
+        // Data to be written
+        $valuesToWrite = [
+            $data
+        ];
+
+
+        $rangeToWrite = "$sheetName!A$nextRow";
+
+        $body = new \Google\Service\Sheets\ValueRange([
+            'values' => $valuesToWrite,
+        ]);
+
+        $result = $sheetsService->spreadsheets_values->update($spreadsheetId, $rangeToWrite, $body, [
+            'valueInputOption' => 'RAW',
+        ]);
+
+        return "Data written successfully to Google Sheets!";
+    }
+
     /**
      * Only use by admin
      */

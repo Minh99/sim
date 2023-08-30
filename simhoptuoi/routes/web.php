@@ -3,6 +3,7 @@
 use App\Http\Controllers\BoiSim;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\NewsController;
+use App\Http\Controllers\Sim;
 
 /*
 |--------------------------------------------------------------------------
@@ -17,7 +18,7 @@ use App\Http\Controllers\NewsController;
 
 Route::get('/', function () {
     return view('layouts.home');
-});
+})->name('home');
 
 Route::get('/sim-hop-menh-kim', function () {
     return view('layouts.menu_pages.sim_menh_kim');
@@ -107,9 +108,9 @@ Route::get('/coming-soon', function () {
 
 
 Route::match(['get', 'post'], '/boi-sim', [BoiSim::class, 'index'])->name('boi-sim');
+Route::get('/chi-tiet-sim/{sdt}', [Sim::class, 'detail'])->name('detail-sim');
+Route::match(['get', 'post'], '/checkout/{sdt}', [Sim::class, 'checkout'])->name('checkout');
 
-
-
-Route::get('/test1', [App\Http\Controllers\Test::class, 'getThongTinPhongThuyBangSdt'])->name('test1');
-Route::get('/test2', [App\Http\Controllers\Test::class, 'getListSimData'])->name('test2');
-Route::get('/test3', [App\Http\Controllers\Test::class, 'getDetailSimData'])->name('test3');
+// Route::get('/test1', [App\Http\Controllers\Test::class, 'getThongTinPhongThuyBangSdt'])->name('test1');
+// Route::get('/test2', [App\Http\Controllers\Test::class, 'getListSimData'])->name('test2');
+// Route::get('/test3', [App\Http\Controllers\Test::class, 'getDetailSimData'])->name('test3');

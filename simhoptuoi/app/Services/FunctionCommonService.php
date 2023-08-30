@@ -16,6 +16,11 @@ class FunctionCommonService {
         $this->GoogleSheetsService = $GoogleSheetsService;
     }
 
+    public function writeDataToGoogleSheetsInvoice($spreadsheetId, $sheetName = 'invoice', $data)
+    {
+        return $this->GoogleSheetsService->writeDataToGoogleSheetsInvoice($spreadsheetId, $sheetName = 'invoice', $data);
+    }
+
     public function getDataBySpreadsheetId($spreadsheetId)
     {
         return $this->GoogleSheetsService->getJsonData($spreadsheetId);
@@ -72,12 +77,14 @@ class FunctionCommonService {
 
 
         foreach ($result as $key => $item) {
+            if ($item['tinh_trang'] !== 'còn hàng') {
+                unset($result[$key]);
+            }
             $result[$key]['sdt'] = $this->formatPhoneNumber($item['sdt']);
             $result[$key]['gia_ban'] = $this->formatGiaBan($item['gia_ban']);
         }
 
         return $result;
-        
     }
 
     function getDetailSimData($sdt) 
@@ -139,7 +146,7 @@ class FunctionCommonService {
         return $sdt;
     }
 
-    private function formatGiaBan($gia) {
+    public function formatGiaBan($gia) {
         $gia = str_replace(' ', '', $gia);
         $gia = str_replace('.', '', $gia);
         $gia = str_replace(',', '', $gia);

@@ -759,33 +759,33 @@ $('.item_sim_type').click(function() {
     check_active($(this))
 })
 $('.price-item').click(function() {
-    $(".read-more").data('page', 1);
-    check_active($(this))
-    active_drop_down($(this))
-    add_value_input_price($(this))
+    // $(".read-more").data('page', 1);
+    // check_active($(this))
+    // active_drop_down($(this))
+    // add_value_input_price($(this))
 })
 $('.dauso-item').click(function() {
-    $(".read-more").data('page', 1);
+    // $(".read-more").data('page', 1);
     check_active($(this))
-    active_drop_down($(this))
+        // active_drop_down($(this))
 })
 $('.diemso-item').click(function() {
-    $(".read-more").data('page', 1);
-    check_active($(this))
-    active_drop_down($(this))
-})
-// search duoi so
+        $(".read-more").data('page', 1);
+        check_active($(this))
+        active_drop_down($(this))
+    })
+    // search duoi so
 $('.search_phone_last').keyup(function() {
     $(".read-more").data('page', 1);
     if ($(this).val() != '') {
         addNumberPhoneToList($(this).val())
         let arr = get_arr_filter();
         arr.push([7, $(this).val()])
-        doCall(arr)
+            // doCall(arr)
     } else {
         $('.list_filter_item').find('.searchDuoiSo').remove()
         let arr = get_arr_filter();
-        doCall(arr)
+        // doCall(arr)
     }
     var lists = count_item_filter();
     if (lists > 1) {
@@ -810,63 +810,63 @@ function addNumberPhoneToList(value) {
 }
 // input price 
 // desktop
-$('.priceStartPc').keyup(function() {
-    $(".read-more").data('page', 1);
-    $(this).val(labelInputPrice($(this).val()))
-    var label = '';
-    var value = '';
-    if ($('.priceEndPc').val() != '') {
-        label = labelPricePC($(this).val()) + ' - ' + labelPricePC($(this).val())
-        value = ($(this).val()).replaceAll('.', '') * 1000 + '-' + ($('.priceEndPc').val()).replaceAll('.', '') * 1000
-    } else {
-        label = 'Trên ' + labelPricePC($(this).val())
-        value = ($(this).val()).replaceAll('.', '') * 1000 + '-' + 1000000000000
-    }
-    addCustomPriceToList(label, value)
-})
-$('.priceEndPc').keyup(function() {
-    $(".read-more").data('page', 1);
-    $(this).val(labelInputPrice($(this).val()))
-    var label = '';
-    var value = '';
-    if ($('.priceStartPc').val() != '') {
-        label = labelPricePC($('.priceStartPc').val()) + ' - ' + labelPricePC($(this).val())
-        value = ($('.priceStartPc').val()).replaceAll('.', '') * 1000 + '-' + ($(this).val()).replaceAll('.', '') * 1000
-    } else {
-        label = 'Dưới ' + labelPricePC($(this).val())
-        value = '0-' + ($(this).val()).replaceAll('.', '') * 1000
-    }
-    addCustomPriceToList(label, value)
-})
+// $('.priceStartPc').keyup(function() {
+//     $(".read-more").data('page', 1);
+//     $(this).val(labelInputPrice($(this).val()))
+//     var label = '';
+//     var value = '';
+//     if ($('.priceEndPc').val() != '') {
+//         label = labelPricePC($(this).val()) + ' - ' + labelPricePC($(this).val())
+//         value = ($(this).val()).replaceAll('.', '') * 1000 + '-' + ($('.priceEndPc').val()).replaceAll('.', '') * 1000
+//     } else {
+//         label = 'Trên ' + labelPricePC($(this).val())
+//         value = ($(this).val()).replaceAll('.', '') * 1000 + '-' + 1000000000000
+//     }
+//     addCustomPriceToList(label, value)
+// })
+// $('.priceEndPc').keyup(function() {
+//         $(".read-more").data('page', 1);
+//         $(this).val(labelInputPrice($(this).val()))
+//         var label = '';
+//         var value = '';
+//         if ($('.priceStartPc').val() != '') {
+//             label = labelPricePC($('.priceStartPc').val()) + ' - ' + labelPricePC($(this).val())
+//             value = ($('.priceStartPc').val()).replaceAll('.', '') * 1000 + '-' + ($(this).val()).replaceAll('.', '') * 1000
+//         } else {
+//             label = 'Dưới ' + labelPricePC($(this).val())
+//             value = '0-' + ($(this).val()).replaceAll('.', '') * 1000
+//         }
+//         addCustomPriceToList(label, value)
+//     })
 // mobile
-$('.priceStart').keyup(function() {
-    $(".read-more").data('page', 1);
-    $(this).val(labelInputPrice($(this).val()))
-    var label = '';
-    var value = '';
-    if ($('.priceEnd').val() != '') {
-        label = labelPrice($(this).val()) + ' - ' + labelPrice($(this).val())
-        value = ($(this).val()).replaceAll('.', '') + '-' + ($('.priceEnd').val()).replaceAll('.', '')
-    } else {
-        label = 'Trên ' + labelPrice($(this).val())
-        value = ($(this).val()).replaceAll('.', '') + '-' + 1000000000000
-    }
-    addCustomPriceToList(label, value)
-})
-$('.priceEnd').keyup(function() {
-    $(".read-more").data('page', 1);
-    $(this).val(labelInputPrice($(this).val()))
-    var label = '';
-    var value = '';
-    if ($('.priceStart').val() != '') {
-        label = labelPrice($('.priceStart').val()) + ' - ' + labelPrice($(this).val())
-        value = ($('.priceStart').val()).replaceAll('.', '') + '-' + ($(this).val()).replaceAll('.', '')
-    } else {
-        label = 'Dưới ' + labelPrice($(this).val())
-        value = '0-' + ($(this).val()).replaceAll('.', '')
-    }
-    addCustomPriceToList(label, value)
-})
+// $('.priceStart').keyup(function() {
+//     $(".read-more").data('page', 1);
+//     $(this).val(labelInputPrice($(this).val()))
+//     var label = '';
+//     var value = '';
+//     if ($('.priceEnd').val() != '') {
+//         label = labelPrice($(this).val()) + ' - ' + labelPrice($(this).val())
+//         value = ($(this).val()).replaceAll('.', '') + '-' + ($('.priceEnd').val()).replaceAll('.', '')
+//     } else {
+//         label = 'Trên ' + labelPrice($(this).val())
+//         value = ($(this).val()).replaceAll('.', '') + '-' + 1000000000000
+//     }
+//     addCustomPriceToList(label, value)
+// })
+// $('.priceEnd').keyup(function() {
+//     $(".read-more").data('page', 1);
+//     $(this).val(labelInputPrice($(this).val()))
+//     var label = '';
+//     var value = '';
+//     if ($('.priceStart').val() != '') {
+//         label = labelPrice($('.priceStart').val()) + ' - ' + labelPrice($(this).val())
+//         value = ($('.priceStart').val()).replaceAll('.', '') + '-' + ($(this).val()).replaceAll('.', '')
+//     } else {
+//         label = 'Dưới ' + labelPrice($(this).val())
+//         value = '0-' + ($(this).val()).replaceAll('.', '')
+//     }
+//     addCustomPriceToList(label, value)
+// })
 
 function labelInputPrice(price) {
     return price.replaceAll(/\D/g, "").replaceAll(/\B(?=(\d{3})+(?!\d))/g, ".");
@@ -922,7 +922,7 @@ function addCustomPriceToList(label, value) {
         $('.remove-all').css('display', 'none')
     }
     let arr = get_arr_filter();
-    doCall(arr)
+    // doCall(arr)
 }
 // end
 // custom điểm sim
@@ -964,7 +964,7 @@ function addCustomDiemToList(label, value) {
         $('.remove-all').css('display', 'none')
     }
     let arr = get_arr_filter();
-    doCall(arr)
+    // doCall(arr)
 }
 //end 
 function active_drop_down(elm) {
@@ -1001,16 +1001,16 @@ function check_active(elm) {
             $('.remove-all').css('display', 'none')
         }
     }
-    doCall(get_arr_filter())
+    // doCall(get_arr_filter())
 }
 const nguHanh = {
-    1: 'Kim',
-    2: 'Mộc',
-    3: 'Thủy',
-    4: 'Hỏa',
-    5: 'Thổ'
-}
-// xử lý delay khi thao tác nhanh
+        1: 'Kim',
+        2: 'Mộc',
+        3: 'Thủy',
+        4: 'Hỏa',
+        5: 'Thổ'
+    }
+    // xử lý delay khi thao tác nhanh
 const apiCall = () => new Promise(res => setTimeout(res, 200));
 
 let lastReject;
@@ -1216,7 +1216,7 @@ $('.list_filter_item').on('click', '.remove-item-filter', function() {
     } else {
         $('.remove-all').css('display', 'none')
     }
-    doCall(get_arr_filter())
+    // doCall(get_arr_filter())
 })
 $('.reset').click(function() {
     var parent = $(this).parents('.dropdown-menu').children('.drop-select').data('type');
@@ -1229,7 +1229,7 @@ $('.reset').click(function() {
     } else {
         $('.remove-all').css('display', 'none')
     }
-    doCall(get_arr_filter())
+    // doCall(get_arr_filter())
 })
 
 function add_item_to_list_filter_html(elm) {
@@ -1265,7 +1265,7 @@ $('.filter-price').click(function() {
     let sort = $(this).attr('filter');
     let arr = get_arr_filter();
     // arr.push([6, sort])
-    doCall(arr)
+    // doCall(arr)
 })
 var j = 1;
 $('.sort-price').click(function() {
@@ -1290,7 +1290,7 @@ $('.sort-price').click(function() {
     let sort = $(this).data('action')
     let arr = get_arr_filter();
     arr.push([6, sort])
-    doCall(arr)
+        // doCall(arr)
 })
 
 var j = 1;
@@ -1310,7 +1310,7 @@ $('.sort-price-twomode').click(function() {
     let sort = $(this).data('action')
     let arr = get_arr_filter();
     arr.push([6, sort])
-    doCall(arr)
+        // doCall(arr)
 })
 
 $('.dropdown-menu').click(function(event) {
@@ -1764,7 +1764,7 @@ $(function() {
                     url_form += '?sosim=' + sosim + '&tk=0&ns=' + ngay_sinh + '&gt=' + gioi_tinh + '&gs=' + gio_sinh;
                 }
                 console.log(url_form)
-                //alert(url_form);
+                    //alert(url_form);
                 window.location = url_form;
                 //$('#form_xpts').attr('action', url_form).submit();
             },

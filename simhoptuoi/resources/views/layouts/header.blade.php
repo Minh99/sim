@@ -217,7 +217,7 @@
         <li><a href="/coming-soon">Tin tức phong thủy</a></li>
     </ul>
 </div>
-<div class="wapper_header">
+<div class="wapper_header bg-danger">
     <div class="container header-2">
         <header id="mobi_menu_top" class="main-header">
             <button type="button" name="button-menu" class="btnMenu d-block d-sm-none">
@@ -230,7 +230,6 @@
                             {{-- <img src="{{  asset('common/templates/site/images/Simhoptuoi-logo.png')}}" alt="Sim Hơp Tuổi"> --}}
                                 BOI SIM KINH DICH
                         </a>
-
                     </div>
                 </div>
                 <div class="col col-12 col-sm-9 col-md-8">

@@ -3,11 +3,14 @@
 @section('title', 'Tìm Mua Sim Hợp Tuổi Uy Tín.')
 
 @section('content')
+    @if (session('success'))
+        <div class="alert alert-success">
+            {{ session('success') }}
+        </div>
+    @endif
     <section class="main-content-wapper">
         <div class="form-timsim">
             <p class="headding-box">Nhập thông tin có ngay Sim hợp tuổi</p>
-            <!-- /tuoi-at-dau-hop-voi-nghe-gi.html -->
-
             <section class="boxFormSim">
                 <div class="bgFormSim">
                     <form method="post" name="form_tim_sin" onsubmit="tim_sim(); return false;">
@@ -184,8 +187,6 @@
                         </div>
                     </form>
                 </div>
-
-
             </section>
         </div>
         <div class="sim_collection">
@@ -205,16 +206,17 @@
                         <div class="dropdown-menu dropdown-menu-center">
                             <div class="close-menu no-coppy">Đóng</div>
                             <div class="custom-price col-10 col-md-10 align-items-center justify-content-between row d-flex">
-                                <div class="col-5 col-md-5" id="start-price">
+                                {{-- <div class="col-5 col-md-5" id="start-price">
                                     <input type="text" class="priceStartPc" value="" placeholder="100">
                                     <label class="place-holder">.000đ</label>
-                                </div>
-                                <div class="col-5 col-md-5" id="end-price">
-                                    <input type="text" class="priceEndPc" value="" placeholder="100.000">
+                                </div> --}}
+                                <label for="">Giá dưới</label>
+                                <div class="col-12 col-md-12" id="end-price">
+                                    <input type="text" class="priceEndPc" value="">
                                     <label class="place-holder">.000đ</label>
                                 </div>
                             </div>
-                            <div class="drop-select col-12 col-md-12 row price_item justify-content-center m-0 p-0" data-type="3" style="padding-right: 10px !important">
+                            {{-- <div class="drop-select col-12 col-md-12 row price_item justify-content-center m-0 p-0" data-type="3" style="padding-right: 10px !important">
                                 <div class="col-3 no-coppy price-item" data-id="0to2" id="0to2" name="Dưới 2 triệu">
                                     Dưới 2 triệu
                                 </div>
@@ -233,17 +235,11 @@
                                 <div class="col-3 col-md-3 no-coppy price-item" data-id="10tomax" id="10tomax" name="Trên 10 triệu">
                                     Trên 10 triệu
                                 </div>
-                            </div>
+                            </div> --}}
                             <div class="row action-result col-10 col-md-10">
-                                <div class="col-5 col-md-5 reset no-coppy">Bỏ chọn</div>
-                                <div class="col-5 col-md-5 result no-coppy">
-                                    Xem
-                                    <div class="spinner-border text-light loading" role="status">
-                                        <span class="sr-only">Loading...</span>
-                                    </div>
-                                    <div class="count_result">
-                                        6,567 </div>
-                                    sim
+                                {{-- <div class="col-5 col-md-5 reset no-coppy">Bỏ chọn</div> --}}
+                                <div class="col-5 col-md-5 result no-coppy p-3 search-sim">
+                                    Chọn
                                 </div>
                             </div>
                         </div>
@@ -263,15 +259,8 @@
                                 <div class="dauso-item " data-id="03" id="03" name="Đầu số 03">03x</div>
                             </div>
                             <div class=" action-result col-10 col-md-10">
-                                <div class="col-5 col-md-5 reset">Bỏ chọn</div>
-                                <div class="col-5 col-md-5 result">
-                                    Xem
-                                    <div class="spinner-border text-light loading" role="status">
-                                        <span class="sr-only">Loading...</span>
-                                    </div>
-                                    <div class="count_result">
-                                        6,567 </div>
-                                    sim
+                                <div class="col-5 col-md-5 result search-sim p-3">
+                                    Chọn
                                 </div>
                             </div>
                         </div>
@@ -297,10 +286,8 @@
                                         </div>
                                     </div>
                                 </div>
-
-
                             </div>
-                            <div class="drop-select row diem-so m-0 justify-content-center" data-type="5">
+                            {{-- <div class="drop-select row diem-so m-0 justify-content-center" data-type="5">
                                 <div class="diemso-item col-3 col-md-3" data-id="10-10" id="10-10" name="10 điểm">10 điểm</div>
                                 <div class="diemso-item col-3 col-md-3" data-id="9-10" id="9-10" name="9 - 10 điểm">9 - 10 điểm
                                 </div>
@@ -308,17 +295,10 @@
                                 <div class="diemso-item col-3 col-md-3" data-id="7-8" id="7-8" name="7 - 8 điểm">7 - 8 điểm</div>
                                 <div class="diemso-item col-3 col-md-3" data-id="6-7" id="6-7" name="6 - 7 điểm">6 - 7 điểm</div>
                                 <div class="diemso-item col-3 col-md-3" data-id="0-6" id="0-6" name="Dưới 6 điểm">Dưới 6 điểm</div>
-                            </div>
+                            </div> --}}
                             <div class="row action-result col-10 col-md-10">
-                                <div class="col-5 col-md-5 reset">Bỏ chọn</div>
-                                <div class="col-5 col-md-5 result">
-                                    Xem
-                                    <div class="spinner-border text-light loading" role="status">
-                                        <span class="sr-only">Loading...</span>
-                                    </div>
-                                    <div class="count_result">
-                                        6,567 </div>
-                                    sim
+                                <div class="col-5 col-md-5 result search-sim p-3">
+                                    Chọn
                                 </div>
                             </div>
                         </div>
@@ -426,20 +406,10 @@
                     </div>
                 </div>
                 <div class="row result-filter d-flex">
-                    <div class="col-8 col-md-8">
-                        <div class="result-total no-coppy">
-                            Xem
-                            <div class="spinner-border text-light loading" role="status">
-                                <span class="sr-only">Loading...</span>
-                            </div>
-                            <div class="count_result">
-                                6,567 </div>
-                            sim
+                    <div class="col-12 col-md-12">
+                        <div class="result-total no-coppy bg-danger">
+                            Xem Kết Quả
                         </div>
-                    </div>
-                    <div class="col-3 col-md-2 d-flex align-items-center justify-content-end sort-price no-coppy" data-action=''>
-                        <span class="label-sort">Sắp xếp</span>
-                        <i class="sort-action fa-solid fa-chevron-up"></i>
                     </div>
                 </div>
             </div>
@@ -448,453 +418,140 @@
                     cursor: pointer;
                 }
             </style>
-            <section class="list_sim">
+            
+            <section class="list_sim mb-4">
+                <div style="margin: 1rem auto; text-align: center; width: 30px; height: 30px;" class="bg-danger spinner-border text-light loading" role="status">
+                    <span class="sr-only">Loading...</span>
+                </div>
                 <div class="row listSim list_sim_item">
-                    <div class="col-6 col-sm-6 col-md-6">
-                        <div class="main_box_sim_item">
-                            <div class="wapper_sim_content">
-                                <div class="row">
-                                    <div class="col-12 col-sm-12 col-md-6">
-                                        <p class="so"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0769007289.html">0769.007.289</a></p>
-                                    </div>
-                                    <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img alt="" src="{{  asset('common/templates/site/images/icon/3.gif')}}" /></div>
-                                </div>
-                                <p class="vuong"><strong>Điểm phong thủy sim: </strong> 8.5/10</p>
-                                <p class="price"><b>Giá: </b>1,980,000 VND</p>
-                                <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">Thủy</span></p>
-                                <p class="yn"><strong>Quẻ Kinh dịch: </strong>Thủy Trạch Tiết (節 jié)</p>
-                            </div>
-                            <div class="row">
-                                <div class="col-6 col-sm-6 col-md-6">
-                                    <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0769007289.html" class="btn_mua">Chi tiết <b>>></b></a></p>
-                                </div>
-                                <div class="col-6 col-sm-6 col-md-6">
-                                    <p class="btnmua btn_mua2"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0769007289.html" class="btn_mua">Mua ngay <strong>>></strong></a></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-6 col-sm-6 col-md-6">
-                        <div class="main_box_sim_item">
-                            <div class="wapper_sim_content">
-                                <div class="row">
-                                    <div class="col-12 col-sm-12 col-md-6">
-                                        <p class="so"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0848927939.html">0848.927.939</a></p>
-                                    </div>
-                                    <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img alt="" src="{{  asset('common/templates/site/images/icon/2.gif')}}" /></div>
-                                </div>
-                                <p class="vuong"><strong>Điểm phong thủy sim: </strong> 10/10</p>
-                                <p class="price"><b>Giá: </b>3,380,000 VND</p>
-                                <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">Thủy</span></p>
-                                <p class="yn"><strong>Quẻ Kinh dịch: </strong>Phong Thủy Hoán (渙 huàn)</p>
-                            </div>
-                            <div class="row">
-                                <div class="col-6 col-sm-6 col-md-6">
-                                    <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0848927939.html" class="btn_mua">Chi tiết <b>>></b></a></p>
-                                </div>
-                                <div class="col-6 col-sm-6 col-md-6">
-                                    <p class="btnmua btn_mua2"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0848927939.html" class="btn_mua">Mua ngay <strong>>></strong></a></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-6 col-sm-6 col-md-6">
-                        <div class="main_box_sim_item">
-                            <div class="wapper_sim_content">
-                                <div class="row">
-                                    <div class="col-12 col-sm-12 col-md-6">
-                                        <p class="so"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0769028079.html">0769.028.079</a></p>
-                                    </div>
-                                    <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img alt="" src="{{  asset('common/templates/site/images/icon/3.gif')}}" /></div>
-                                </div>
-                                <p class="vuong"><strong>Điểm phong thủy sim: </strong> 10/10</p>
-                                <p class="price"><b>Giá: </b>3,780,000 VND</p>
-                                <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">Thủy</span></p>
-                                <p class="yn"><strong>Quẻ Kinh dịch: </strong>Thủy Trạch Tiết (節 jié)</p>
-                            </div>
-                            <div class="row">
-                                <div class="col-6 col-sm-6 col-md-6">
-                                    <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0769028079.html" class="btn_mua">Chi tiết <b>>></b></a></p>
-                                </div>
-                                <div class="col-6 col-sm-6 col-md-6">
-                                    <p class="btnmua btn_mua2"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0769028079.html" class="btn_mua">Mua ngay <strong>>></strong></a></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-6 col-sm-6 col-md-6">
-                        <div class="main_box_sim_item">
-                            <div class="wapper_sim_content">
-                                <div class="row">
-                                    <div class="col-12 col-sm-12 col-md-6">
-                                        <p class="so"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0949019268.html">0949.019.268</a></p>
-                                    </div>
-                                    <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img alt="" src="{{  asset('common/templates/site/images/icon/2.gif')}}" /></div>
-                                </div>
-                                <p class="vuong"><strong>Điểm phong thủy sim: </strong> 10/10</p>
-                                <p class="price"><b>Giá: </b>3,980,000 VND</p>
-                                <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">Thủy</span></p>
-                                <p class="yn"><strong>Quẻ Kinh dịch: </strong>Thủy Trạch Tiết (節 jié)</p>
-                            </div>
-                            <div class="row">
-                                <div class="col-6 col-sm-6 col-md-6">
-                                    <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0949019268.html" class="btn_mua">Chi tiết <b>>></b></a></p>
-                                </div>
-                                <div class="col-6 col-sm-6 col-md-6">
-                                    <p class="btnmua btn_mua2"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0949019268.html" class="btn_mua">Mua ngay <strong>>></strong></a></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-6 col-sm-6 col-md-6">
-                        <div class="main_box_sim_item">
-                            <div class="wapper_sim_content">
-                                <div class="row">
-                                    <div class="col-12 col-sm-12 col-md-6">
-                                        <p class="so"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0849012779.html">0849012779</a></p>
-                                    </div>
-                                    <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img alt="" src="{{  asset('common/templates/site/images/icon/2.gif')}}" /></div>
-                                </div>
-                                <p class="vuong"><strong>Điểm phong thủy sim: </strong> 9.5/10</p>
-                                <p class="price"><b>Giá: </b>3,990,000 VND</p>
-                                <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">Thủy</span></p>
-                                <p class="yn"><strong>Quẻ Kinh dịch: </strong>Phong Trạch Trung Phu (中孚 zhōng fú)</p>
-                            </div>
-                            <div class="row">
-                                <div class="col-6 col-sm-6 col-md-6">
-                                    <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0849012779.html" class="btn_mua">Chi tiết <b>>></b></a></p>
-                                </div>
-                                <div class="col-6 col-sm-6 col-md-6">
-                                    <p class="btnmua btn_mua2"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0849012779.html" class="btn_mua">Mua ngay <strong>>></strong></a></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-6 col-sm-6 col-md-6">
-                        <div class="main_box_sim_item">
-                            <div class="wapper_sim_content">
-                                <div class="row">
-                                    <div class="col-12 col-sm-12 col-md-6">
-                                        <p class="so"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0839123669.html">0839123669</a></p>
-                                    </div>
-                                    <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img alt="" src="{{  asset('common/templates/site/images/icon/2.gif')}}" /></div>
-                                </div>
-                                <p class="vuong"><strong>Điểm phong thủy sim: </strong> 9.5/10</p>
-                                <p class="price"><b>Giá: </b>4,100,000 VND</p>
-                                <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">Thủy</span></p>
-                                <p class="yn"><strong>Quẻ Kinh dịch: </strong>Phong Trạch Trung Phu (中孚 zhōng fú)</p>
-                            </div>
-                            <div class="row">
-                                <div class="col-6 col-sm-6 col-md-6">
-                                    <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0839123669.html" class="btn_mua">Chi tiết <b>>></b></a></p>
-                                </div>
-                                <div class="col-6 col-sm-6 col-md-6">
-                                    <p class="btnmua btn_mua2"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0839123669.html" class="btn_mua">Mua ngay <strong>>></strong></a></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-6 col-sm-6 col-md-6">
-                        <div class="main_box_sim_item">
-                            <div class="wapper_sim_content">
-                                <div class="row">
-                                    <div class="col-12 col-sm-12 col-md-6">
-                                        <p class="so"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0966899930.html">0966.899.930</a></p>
-                                    </div>
-                                    <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img alt="" src="{{  asset('common/templates/site/images/icon/1.gif')}}" /></div>
-                                </div>
-                                <p class="vuong"><strong>Điểm phong thủy sim: </strong> 10/10</p>
-                                <p class="price"><b>Giá: </b>4,290,000 VND</p>
-                                <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">Thủy</span></p>
-                                <p class="yn"><strong>Quẻ Kinh dịch: </strong>Phong Thủy Hoán (渙 huàn)</p>
-                            </div>
-                            <div class="row">
-                                <div class="col-6 col-sm-6 col-md-6">
-                                    <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0966899930.html" class="btn_mua">Chi tiết <b>>></b></a></p>
-                                </div>
-                                <div class="col-6 col-sm-6 col-md-6">
-                                    <p class="btnmua btn_mua2"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0966899930.html" class="btn_mua">Mua ngay <strong>>></strong></a></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-6 col-sm-6 col-md-6">
-                        <div class="main_box_sim_item">
-                            <div class="wapper_sim_content">
-                                <div class="row">
-                                    <div class="col-12 col-sm-12 col-md-6">
-                                        <p class="so"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0849106363.html">0849.10.6363</a></p>
-                                    </div>
-                                    <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img alt="" src="{{  asset('common/templates/site/images/icon/2.gif')}}" /></div>
-                                </div>
-                                <p class="vuong"><strong>Điểm phong thủy sim: </strong> 10/10</p>
-                                <p class="price"><b>Giá: </b>4,368,000 VND</p>
-                                <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">Thủy</span></p>
-                                <p class="yn"><strong>Quẻ Kinh dịch: </strong>Thủy Trạch Tiết (節 jié)</p>
-                            </div>
-                            <div class="row">
-                                <div class="col-6 col-sm-6 col-md-6">
-                                    <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0849106363.html" class="btn_mua">Chi tiết <b>>></b></a></p>
-                                </div>
-                                <div class="col-6 col-sm-6 col-md-6">
-                                    <p class="btnmua btn_mua2"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0849106363.html" class="btn_mua">Mua ngay <strong>>></strong></a></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-6 col-sm-6 col-md-6">
-                        <div class="main_box_sim_item">
-                            <div class="wapper_sim_content">
-                                <div class="row">
-                                    <div class="col-12 col-sm-12 col-md-6">
-                                        <p class="so"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0849903636.html">0849.90.3636</a></p>
-                                    </div>
-                                    <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img alt="" src="{{  asset('common/templates/site/images/icon/2.gif')}}" /></div>
-                                </div>
-                                <p class="vuong"><strong>Điểm phong thủy sim: </strong> 10/10</p>
-                                <p class="price"><b>Giá: </b>4,590,000 VND</p>
-                                <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">Thủy</span></p>
-                                <p class="yn"><strong>Quẻ Kinh dịch: </strong>Thủy Trạch Tiết (節 jié)</p>
-                            </div>
-                            <div class="row">
-                                <div class="col-6 col-sm-6 col-md-6">
-                                    <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0849903636.html" class="btn_mua">Chi tiết <b>>></b></a></p>
-                                </div>
-                                <div class="col-6 col-sm-6 col-md-6">
-                                    <p class="btnmua btn_mua2"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0849903636.html" class="btn_mua">Mua ngay <strong>>></strong></a></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-6 col-sm-6 col-md-6">
-                        <div class="main_box_sim_item">
-                            <div class="wapper_sim_content">
-                                <div class="row">
-                                    <div class="col-12 col-sm-12 col-md-6">
-                                        <p class="so"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0785403678.html">0785.403.678</a></p>
-                                    </div>
-                                    <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img alt="" src="{{  asset('common/templates/site/images/icon/3.gif')}}" /></div>
-                                </div>
-                                <p class="vuong"><strong>Điểm phong thủy sim: </strong> 10/10</p>
-                                <p class="price"><b>Giá: </b>5,600,000 VND</p>
-                                <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">Thủy</span></p>
-                                <p class="yn"><strong>Quẻ Kinh dịch: </strong>Thuần Khôn (坤 kūn)</p>
-                            </div>
-                            <div class="row">
-                                <div class="col-6 col-sm-6 col-md-6">
-                                    <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0785403678.html" class="btn_mua">Chi tiết <b>>></b></a></p>
-                                </div>
-                                <div class="col-6 col-sm-6 col-md-6">
-                                    <p class="btnmua btn_mua2"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0785403678.html" class="btn_mua">Mua ngay <strong>>></strong></a></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="read-more" data-page='1'>
-                    Xem thêm còn (
-                    <div class="spinner-border text-info loading" role="status">
-                        <span class="sr-only">Loading...</span>
-                    </div>
-                    <div class="total-sim-read-more">
-                        6,547 </div>
-                    ) sim
-                </div>
-            </section>
-            <section class="luansim">
-                <h2 class="title_h1">Luận phong thủy sim số</h2>
-                <div class="bodyPage bodyLuanSim">
-                    <section class="boxFormSim">
-                        <div class="bgFormSim">
-                            <form id="form_xpts" name="form_xpts" action="https://simhoptuoi.com.vn/xem-phong-thuy-sim.html" method="post">
-                                <div style="display:none"></div>
-                                <div class="row">
-                                    <div class="col-3 col-md-3 col-sm-3 col-xs-3">
-                                        <p class="title_label"><label>Số điện thoại</label></p>
-                                    </div>
-                                    <div class="col-9 col-md-9 col-sm-9 col-xs-9">
-                                        <input id="xpts_phone" class="myinput" name="sosim" placeholder="Mời nhập số sim" value="">
-                                    </div>
-                                    <div class="col-12 col-md-12">
-                                        <div class="row">
-                                            <div class="col-3 col-md-3 col-sm-3 col-xs-3">
-                                                <p class="title_label"><label>Ngày sinh</label></p>
-                                            </div>
-                                            <div class="col-3 col-md-3 col-sm-3 col-xs-3">
-                                                <select id="xpts_ngay" name="ngay" class="myinput" required>
-                                                    <option value="">Ngày</option>
-                                                    <option value="1" >1</option>
-                                                    <option value="2" >2</option>
-                                                    <option value="3" >3</option>
-                                                    <option value="4" >4</option>
-                                                    <option value="5" >5</option>
-                                                    <option value="6" >6</option>
-                                                    <option value="7" >7</option>
-                                                    <option value="8" selected="">8</option>
-                                                    <option value="9" >9</option>
-                                                    <option value="10" >10</option>
-                                                    <option value="11" >11</option>
-                                                    <option value="12" >12</option>
-                                                    <option value="13" >13</option>
-                                                    <option value="14" >14</option>
-                                                    <option value="15" >15</option>
-                                                    <option value="16" >16</option>
-                                                    <option value="17" >17</option>
-                                                    <option value="18" >18</option>
-                                                    <option value="19" >19</option>
-                                                    <option value="20" >20</option>
-                                                    <option value="21" >21</option>
-                                                    <option value="22" >22</option>
-                                                    <option value="23" >23</option>
-                                                    <option value="24" >24</option>
-                                                    <option value="25" >25</option>
-                                                    <option value="26" >26</option>
-                                                    <option value="27" >27</option>
-                                                    <option value="28" >28</option>
-                                                    <option value="29" >29</option>
-                                                    <option value="30" >30</option>
-                                                    <option value="31" >31</option>
-                                                </select>
-                                            </div>
-                                            <div class="col-3 col-md-3 col-sm-3 col-xs-3">
-                                                <select id="xpts_thang" name="thang" class="myinput" required>
-                                                    <option value="">Tháng</option>
-                                                    <option value="1" >1</option>
-                                                    <option value="2" >2</option>
-                                                    <option value="3" >3</option>
-                                                    <option value="4" >4</option>
-                                                    <option value="5" >5</option>
-                                                    <option value="6" >6</option>
-                                                    <option value="7" >7</option>
-                                                    <option value="8" selected="">8</option>
-                                                    <option value="9" >9</option>
-                                                    <option value="10" >10</option>
-                                                    <option value="11" >11</option>
-                                                    <option value="12" >12</option>
-                                                </select>
-                                            </div>
-                                            <div class="col-3 col-md-3 col-sm-3 col-xs-3">
-                                                <select id="xpts_nam" name="nam" class="myinput" required>
-                                                    <option value="">Năm</option>
-                                                    <option value="1950" >1950</option>
-                                                    <option value="1951" >1951</option>
-                                                    <option value="1952" >1952</option>
-                                                    <option value="1953" >1953</option>
-                                                    <option value="1954" >1954</option>
-                                                    <option value="1955" >1955</option>
-                                                    <option value="1956" >1956</option>
-                                                    <option value="1957" >1957</option>
-                                                    <option value="1958" >1958</option>
-                                                    <option value="1959" >1959</option>
-                                                    <option value="1960" >1960</option>
-                                                    <option value="1961" >1961</option>
-                                                    <option value="1962" >1962</option>
-                                                    <option value="1963" >1963</option>
-                                                    <option value="1964" >1964</option>
-                                                    <option value="1965" >1965</option>
-                                                    <option value="1966" >1966</option>
-                                                    <option value="1967" >1967</option>
-                                                    <option value="1968" >1968</option>
-                                                    <option value="1969" >1969</option>
-                                                    <option value="1970" >1970</option>
-                                                    <option value="1971" >1971</option>
-                                                    <option value="1972" >1972</option>
-                                                    <option value="1973" >1973</option>
-                                                    <option value="1974" >1974</option>
-                                                    <option value="1975" >1975</option>
-                                                    <option value="1976" >1976</option>
-                                                    <option value="1977" >1977</option>
-                                                    <option value="1978" >1978</option>
-                                                    <option value="1979" >1979</option>
-                                                    <option value="1980" >1980</option>
-                                                    <option value="1981" >1981</option>
-                                                    <option value="1982" >1982</option>
-                                                    <option value="1983" >1983</option>
-                                                    <option value="1984" >1984</option>
-                                                    <option value="1985" >1985</option>
-                                                    <option value="1986" >1986</option>
-                                                    <option value="1987" >1987</option>
-                                                    <option value="1988" >1988</option>
-                                                    <option value="1989" >1989</option>
-                                                    <option value="1990" >1990</option>
-                                                    <option value="1991" >1991</option>
-                                                    <option value="1992" >1992</option>
-                                                    <option value="1993" >1993</option>
-                                                    <option value="1994" >1994</option>
-                                                    <option value="1995" >1995</option>
-                                                    <option value="1996" >1996</option>
-                                                    <option value="1997" >1997</option>
-                                                    <option value="1998" >1998</option>
-                                                    <option value="1999" >1999</option>
-                                                    <option value="2000" >2000</option>
-                                                    <option value="2001" >2001</option>
-                                                    <option value="2002" >2002</option>
-                                                    <option value="2003" >2003</option>
-                                                    <option value="2004" >2004</option>
-                                                    <option value="2005" >2005</option>
-                                                    <option value="2006" >2006</option>
-                                                    <option value="2007" >2007</option>
-                                                    <option value="2008" >2008</option>
-                                                    <option value="2009" >2009</option>
-                                                    <option value="2010" >2010</option>
-                                                    <option value="2011" >2011</option>
-                                                    <option value="2012" >2012</option>
-                                                    <option value="2013" >2013</option>
-                                                    <option value="2014" >2014</option>
-                                                    <option value="2015" >2015</option>
-                                                    <option value="2016" >2016</option>
-                                                    <option value="2017" >2017</option>
-                                                    <option value="2018" >2018</option>
-                                                    <option value="2019" >2019</option>
-                                                    <option value="2020" >2020</option>
-                                                </select>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-2 col-md-2 col-sm-2 col-xs-2">
-                                        <input type="radio" name="gioitinh" value="nam" checked /> Nam
-                                    </div>
-                                    <div class="col-2 col-md-2 col-sm-2 col-xs-2">
-                                        <input type="radio" name="gioitinh" value="nu" /> Nữ
-                                    </div>
-                                    <div class="col-3 col-md-2 col-sm-2 col-xs-2">
-                                        <p class="title_label"><label>Giờ sinh</label></p>
-                                    </div>
-                                    <div class="col-5 col-md-6 col-sm-6 col-xs-6">
-                                        <select id="xpts_giosinh" class="myinput" name="giosinh" required>
-                                            <option value="">Chọn giờ sinh</option>
-                                            <option value="1" selected="" >Tý (23g - 1g)</option>
-                                            <option value="2"  >Sửu (1g - 3g)</option>
-                                            <option value="3"  >Dần (3g - 5g)</option>
-                                            <option value="4"  >Mão (5g - 7g)</option>
-                                            <option value="5"  >Thìn (7g - 9g)</option>
-                                            <option value="6"  >Tỵ (9g - 11g)</option>
-                                            <option value="7"  >Ngọ (11g - 13g)</option>
-                                            <option value="8"  >Mùi (13g - 15g)</option>
-                                            <option value="9"  >Thân (15g - 17g)</option>
-                                            <option value="10"  >Dậu (17g - 19g)</option>
-                                            <option value="11"  >Tuất (19g - 21g)</option>
-                                            <option value="12"  >Hợi (21g - 23g)</option>
-                                        </select>
-                                    </div>
-                                </div>
-
-                            </form>
-                            <div class="row">
-                                <div class="col-12 col-md-12 col-sm-12 col-xs-12 text-center">
-                                    <button id="submit_form_xpt" class="btn_xemngay"><span>Luận phong thủy sim</span></button>
-                                </div>
-                            </div>
-                        </div>
-
-
-
-                    </section>
+                    {{-- list sim auto gender --}}
                 </div>
             </section>
         </div>
+
+        <script>
+            function getList() {
+                var dauso_item = $('.dauso-item');
+                var dau_so = [];
+                dauso_item.each(function() {
+                    if ($(this).hasClass('active')) {
+                        dau_so.push($(this).attr('data-id'));
+                    }
+                });
+                
+                var duoi_sim = $('.search_phone_last').val();
+                var gia_max = $('.priceEndPc').val();
+                var diem_tu = $('.diemStart').val();
+                var diem_den = $('.diemEnd').val();
+
+                var loai_sim = [];
+                var loai_sim_active = $('.item_sim_type');
+                loai_sim_active.each(function() {
+                    if ($(this).hasClass('active')) {
+                        loai_sim.push($(this).attr('data-id'));
+                    }
+                });
+
+                var nha_mang = [];
+                $nha_mang_active = $('.item_network');
+                $nha_mang_active.each(function() {
+                    if ($(this).hasClass('active')) {
+                        nha_mang.push($(this).attr('data-id'));
+                    }
+                });
+
+                $.ajax({
+                    url: '/api/danh-sach-sim',
+                    type: 'GET',
+                    data: {
+                        'duoi_sim': duoi_sim,
+                        'gia_max': gia_max,
+                        'dau_so': dau_so,
+                        'diem_tu': diem_tu,
+                        'diem_den': diem_den,
+                        'loai_sim' : loai_sim,
+                        'nha_mang': nha_mang,
+                    },
+                    dataType: 'json',
+                    beforeSend: function() {
+                        $('.list_sim_item').html('');
+                        $('.loading').show();
+                    },
+                    success: function(data) {
+                        $('.loading').hide();
+                        if (data.length == 0) {
+                            $('.list_sim_item').html('<p class="text-center w-100 text-danger">Không có sim nào phù hợp</p>');
+                            $('.result-filter').attr('style', 'display: none !important');
+                            return;
+                        }
+                        $('.result-filter').attr('style', 'display: flex !important');
+                        data.forEach(function(item) {
+                            let logo_nha_mang = '1.gif';
+                            if (item['nha_mang'] == "mobi") {
+                                logo_nha_mang = '3.gif';
+                            } else if (item['nha_mang'] == "vinaphone") {
+                                logo_nha_mang = '2.gif';
+                            } else if (item['nha_mang'] == "gmobile") {
+                                logo_nha_mang = '5.gif';
+                            } else if (item['nha_mang'] == "vietnamobile") {
+                                logo_nha_mang = '4.gif';
+                            }
+
+                            var sdt = item['sdt'];
+
+                            var html = '<div class="col-6 col-sm-6 col-md-6">';
+                            html += '<div class="main_box_sim_item">';
+                            html += '<div class="wapper_sim_content">';
+                            html += '<div class="row">';
+                            html += '<div class="col-12 col-sm-12 col-md-6">';
+                            html += `<p class="so"><a href="/chi-tiet-sim/${sdt}">${sdt}</a></p>`;
+                            html += '</div>';
+                            html += `<div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img alt="" src="{{  asset('common/templates/site/images/icon/` + logo_nha_mang +`')}}" /></div>`;
+                            html += '</div>';
+                            html += `<p class="vuong"><strong>Điểm phong thủy sim: </strong> ${item['diem_phong_thuy']}</p>`;
+                            html += `<p class="price"><b>Giá: </b>${item['gia_ban']} VND</p>`;
+                            html += `<p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">${item['que_chinh']}</span></p>`;
+                            html += `<p class="yn"><strong>Quẻ Kinh dịch: </strong>${item['que']}</p>`;
+                            html += '</div>';
+                            html += '<div class="row">';
+                            html += '<div class="col-6 col-sm-6 col-md-6">';
+                            html += `<p class="btnmua"><a href="/chi-tiet-sim/${sdt}" class="btn_mua">Chi tiết <b>>></b></a></p>`;
+                            html += '</div>';
+                            html += '<div class="col-6 col-sm-6 col-md-6">';
+                            html += `<p class="btnmua btn_mua2"><a href="/chi-tiet-sim/${sdt}" class="btn_mua">Mua ngay <strong>>></strong></a></p>`;
+                            html += '</div>';
+                            html += '</div>';
+                            html += '</div>';
+                            html += '</div>';
+                            html += '</div>';
+                            $('.list_sim_item').append(html);
+                        });
+                    }
+                });
+            }
+
+            $(document).ready(function() {
+                getList();
+
+                $('.search-sim').click(function() {
+                    getList();
+                });
+
+                $('.item_network').click(function() {
+                    getList();
+                })
+
+                $('.item_sim_type').click(function() {
+                    getList();
+                });
+
+                $('.search_phone_last').on('keyup', function() {
+                    getList();
+                });
+            });
+
+        </script>  
+
         <div class="content_home">
             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><u><a href="https://simhoptuoi.com.vn/">Sim hợp tuổi</a></u></strong> đ&atilde; kh&ocirc;ng c&ograve;n qu&aacute; xa lạ với phần lớn người sử dụng điện thoại. Bởi đ&acirc;y l&agrave; loại sim sở hữu đầy đủ c&aacute;c yếu tố phong thủy ph&ugrave; hợp với người d&ugrave;ng n&ecirc;n sẽ c&oacute; khả năng thu h&uacute;t c&aacute;t kh&iacute;, tăng may giải xui. Tuy nhi&ecirc;n, d&atilde;y sim phong thủy hợp tuổi chỉ thực sự ph&aacute;t huy khả năng của m&igrave;nh khi được lựa chọn v&agrave; sử dụng đ&uacute;ng c&aacute;ch.</span></span>
             </p>
@@ -1188,6 +845,5 @@
             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Với những th&ocirc;ng tin về c&aacute;ch t&igrave;m <strong>sim hợp tuổi</strong> m&agrave; chuy&ecirc;n gia phong thủy của simhoptuoi.com.vn cung cấp th&igrave; người d&ugrave;ng c&oacute; thể biết c&aacute;ch chọn sim ch&iacute;nh x&aacute;c để vận dụng v&agrave; t&igrave;m cho m&igrave;nh một số điện thoại ưng &yacute;. Sử dụng phần mềm chọn số điện thoại hợp tuổi l&agrave; c&aacute;ch gi&uacute;p người d&ugrave;ng r&uacute;t ngắn thời gian luận giải v&agrave; chọn sim ch&iacute;nh x&aacute;c v&agrave; c&oacute; thể đem lại hiệu quả cao trong qu&aacute; tr&igrave;nh sử dụng.</span></span>
             </p>
         </div>
-
     </section>
 @endsection

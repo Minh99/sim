@@ -3754,7 +3754,6 @@ p.mucLuc {
 }
 
 .content_home {
-    max-height: 500px;
     overflow: scroll;
 }
 
