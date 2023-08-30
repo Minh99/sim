@@ -553,7 +553,7 @@
         </script>  
 
         <div class="content_home">
-            <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><u><a href="https://simhoptuoi.com.vn/">Sim hợp tuổi</a></u></strong> đ&atilde; kh&ocirc;ng c&ograve;n qu&aacute; xa lạ với phần lớn người sử dụng điện thoại. Bởi đ&acirc;y l&agrave; loại sim sở hữu đầy đủ c&aacute;c yếu tố phong thủy ph&ugrave; hợp với người d&ugrave;ng n&ecirc;n sẽ c&oacute; khả năng thu h&uacute;t c&aacute;t kh&iacute;, tăng may giải xui. Tuy nhi&ecirc;n, d&atilde;y sim phong thủy hợp tuổi chỉ thực sự ph&aacute;t huy khả năng của m&igrave;nh khi được lựa chọn v&agrave; sử dụng đ&uacute;ng c&aacute;ch.</span></span>
+            <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><u><a href="">Sim hợp tuổi</a></u></strong> đ&atilde; kh&ocirc;ng c&ograve;n qu&aacute; xa lạ với phần lớn người sử dụng điện thoại. Bởi đ&acirc;y l&agrave; loại sim sở hữu đầy đủ c&aacute;c yếu tố phong thủy ph&ugrave; hợp với người d&ugrave;ng n&ecirc;n sẽ c&oacute; khả năng thu h&uacute;t c&aacute;t kh&iacute;, tăng may giải xui. Tuy nhi&ecirc;n, d&atilde;y sim phong thủy hợp tuổi chỉ thực sự ph&aacute;t huy khả năng của m&igrave;nh khi được lựa chọn v&agrave; sử dụng đ&uacute;ng c&aacute;ch.</span></span>
             </p>
 
             <h2 dir="ltr" style="text-align:justify"><span style="color:#FF0000"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">I. Sim hợp tuổi l&agrave; g&igrave;?</span></span>
@@ -704,7 +704,7 @@
             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">+ <strong>Bước 3: </strong>Đọc kết quả v&agrave; đưa ra lựa chọn ph&ugrave; hợp.</span></span>
             </p>
 
-            <p dir="ltr" style="text-align:justify"><em><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt;Hoặc qu&yacute; bạn c&oacute; thể sử dụng ngay phần mềm&nbsp;<u><strong><a href="https://simhoptuoi.com.vn/xem-phong-thuy-sim.html">SIM PHONG THỦY</a></strong></u>&nbsp;của simhoptuoi.com.vn để chấm điểm d&atilde;y sim đang sở hữu theo 5 yếu tố dự b&aacute;o cổ tr&ecirc;n.</span></span></em></p>
+            <p dir="ltr" style="text-align:justify"><em><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt;Hoặc qu&yacute; bạn c&oacute; thể sử dụng ngay phần mềm&nbsp;<u><strong><a href="">SIM PHONG THỦY</a></strong></u>&nbsp;để chấm điểm d&atilde;y sim đang sở hữu theo 5 yếu tố dự b&aacute;o cổ tr&ecirc;n.</span></span></em></p>
 
             <h2 dir="ltr" style="text-align:justify"><span style="color:#FF0000"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">V. Những c&aacute;ch t&igrave;m mua sim hợp tuổi kh&ocirc;ng ch&iacute;nh x&aacute;c</span></span>
                 </strong>
@@ -745,7 +745,7 @@
             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&rarr; <strong>Điểm bất cập:</strong> Kh&ocirc;ng thể dựa v&agrave;o ngũ h&agrave;nh của 1 hay 1 v&agrave;i con số để x&aacute;c định ngũ h&agrave;nh của d&atilde;y sim. Ngũ h&agrave;nh sim số hợp tuổi phải x&aacute;c định dựa tr&ecirc;n tổng h&ograve;a 10 con số theo phương ph&aacute;p Lục Thập Hoa Gi&aacute;p.</span></span>
             </p>
 
-            <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt;Xem chi tiết con số hợp với bản th&acirc;n tại c&ocirc;ng cụ [ <u><a href="https://simhoptuoi.com.vn/con-so-hop-tuoi.html">xem số hợp tuổi</a></u> ]&nbsp;</span></span></strong></em></p>
+            <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt;Xem chi tiết con số hợp với bản th&acirc;n tại c&ocirc;ng cụ [ <u><a href="">xem số hợp tuổi</a></u> ]&nbsp;</span></span></strong></em></p>
 
             <h3 dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">2. C&aacute;ch chọn sim hợp tuổi theo năm sinh</span></span></strong></em></h3>
 

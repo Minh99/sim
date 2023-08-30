@@ -7,8 +7,7 @@
     <h1 class="title_h1">Cách chọn sim hợp mệnh Thủy hút may mắn đón tài lộc chuẩn xác?</h1>
     <div class="row">
         <div class="col-md-12">
-            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer"
-            />
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
             <style>
                 #toc {
                     border: 1px solid #bba;
@@ -80,20 +79,19 @@
                     <li class="toc2"><a class="toc2" href="#1-so-dien-thoai-hop-menh-thuy-la-gi">1. Số điện thoại hợp mệnh Thủy l&agrave; g&igrave;?</a></li>
                     <li class="toc2"><a href="#2-cach-chon-mua-sim-hop-menh-thuy-chinh-xac-theo-5-yeu-to-phong-thuy">2. C&aacute;ch chọn mua sim hợp mệnh Thủy ch&iacute;nh x&aacute;c theo 5 yếu tố phong thủy</a></li>
                     <li class="toc2"><a href="#3-huong-dan-cach-kiem-tra-d-atilde-y-sim-dang-d-u-ng-co-hop-menh-thuy-hay-khong">3. Hướng dẫn c&aacute;ch kiểm tra d&atilde;y sim đang d&ugrave;ng c&oacute; hợp mệnh Thủy hay kh&ocirc;ng?</a></li>
-                    <li
-                        class="toc2"><a href="#4-tong-hop-7-cach-chon-sim-hop-menh-thuy-sai-lech">4. Tổng hợp 7 c&aacute;ch chọn sim hợp mệnh Thủy sai lệch</a></li>
-                        <li class="toc2"><a href="#5-mot-so-luu-y-khi-chon-sim-phong-thuy-hop-menh-thuy">5. Một số lưu &yacute; khi chọn sim phong thủy hợp mệnh Thủy</a></li>
-                        <li class="toc2"><a href="#6-phong-thuy-cua-nguoi-menh-thuy">6. Phong thủy của người mệnh Thủy</a></li>
+                    <li class="toc2"><a href="#4-tong-hop-7-cach-chon-sim-hop-menh-thuy-sai-lech">4. Tổng hợp 7 c&aacute;ch chọn sim hợp mệnh Thủy sai lệch</a></li>
+                    <li class="toc2"><a href="#5-mot-so-luu-y-khi-chon-sim-phong-thuy-hop-menh-thuy">5. Một số lưu &yacute; khi chọn sim phong thủy hợp mệnh Thủy</a></li>
+                    <li class="toc2"><a href="#6-phong-thuy-cua-nguoi-menh-thuy">6. Phong thủy của người mệnh Thủy</a></li>
                 </ul>
             </section>
         </div>
     </div>
     <div class="textTopHome slimContentText">
-        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="https://simhoptuoi.com.vn/Sim-hop-menh-Thuy.html">Sim hợp mệnh Thủy</a> </strong></u>theo quan niệm nhiều nơi l&agrave; d&atilde;y số điện thoại xuất hiện nhiều con số h&agrave;nh Kim (6, 7) v&agrave; số h&agrave;nh Thủy (0, 1). D&atilde;y số điện thoại hợp mệnh Thủy c&oacute; tần suất xuất hiện những con số n&agrave;y c&agrave;ng nhiều th&igrave; c&agrave;ng đem lại may mắn, t&agrave;i lộc cho người mệnh Thủy. Tuy nhi&ecirc;n đối với người am hiểu phong thủy tinh tường th&igrave; quan niệm n&agrave;y ho&agrave;n to&agrave;n sai lầm. V&igrave; một v&agrave;i con số kh&ocirc;ng thể quyết định &yacute; nghĩa cả d&atilde;y sim. Vậy mệnh Thủy hợp số điện thoại n&agrave;o? C&aacute;ch chọn sim phong thủy hợp mệnh Thủy ch&iacute;nh x&aacute;c sẽ được <u><strong><a href="https://simhoptuoi.com.vn/">Simhoptuoi.com.vn</a></strong></u> giải đ&aacute;p tại nội dung dưới đ&acirc;y.</span></span>
+        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="">Sim hợp mệnh Thủy</a> </strong></u>theo quan niệm nhiều nơi l&agrave; d&atilde;y số điện thoại xuất hiện nhiều con số h&agrave;nh Kim (6, 7) v&agrave; số h&agrave;nh Thủy (0, 1). D&atilde;y số điện thoại hợp mệnh Thủy c&oacute; tần suất xuất hiện những con số n&agrave;y c&agrave;ng nhiều th&igrave; c&agrave;ng đem lại may mắn, t&agrave;i lộc cho người mệnh Thủy. Tuy nhi&ecirc;n đối với người am hiểu phong thủy tinh tường th&igrave; quan niệm n&agrave;y ho&agrave;n to&agrave;n sai lầm. V&igrave; một v&agrave;i con số kh&ocirc;ng thể quyết định &yacute; nghĩa cả d&atilde;y sim. Vậy mệnh Thủy hợp số điện thoại n&agrave;o? C&aacute;ch chọn sim phong thủy hợp mệnh Thủy ch&iacute;nh x&aacute;c sẽ được giải đ&aacute;p tại nội dung dưới đ&acirc;y.</span></span>
         </p>
 
         <h2 dir="ltr" style="text-align:justify"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="1-so-dien-thoai-hop-menh-thuy-la-gi">1. Số điện thoại hợp mệnh Thủy l&agrave; g&igrave;?</span></span>
-            </strong>
+                </strong>
             </span>
         </h2>
 
@@ -160,10 +158,8 @@
             </tbody>
         </table>
 
-        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><img alt="" src="https://simhoptuoi.com.vn/media/images/seolink/Arrow-icon(1).png" style="height:30px; width:30px" />&nbsp;Xem chi tiết hơn: <u><a href="https://simhoptuoi.com.vn/tin-sim/sim-phong-thuy-hop-menh.html">C&aacute;ch chọn sim hợp mệnh</a></u></span></span></strong></em></p>
-
         <h2 dir="ltr" style="text-align:justify"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="2-cach-chon-mua-sim-hop-menh-thuy-chinh-xac-theo-5-yeu-to-phong-thuy">2. C&aacute;ch chọn mua sim hợp mệnh Thủy ch&iacute;nh x&aacute;c theo 5 yếu tố phong thủy</span></span>
-            </strong>
+                </strong>
             </span>
         </h2>
 
@@ -953,8 +949,6 @@
             </li>
         </ul>
 
-        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><img alt="" src="https://simhoptuoi.com.vn/media/images/seolink/Arrow-icon(1).png" style="height:30px; width:30px" />&nbsp;</span></span></strong><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Xem chi tiết: <u><a href="https://simhoptuoi.com.vn/tin-sim/cach-tinh-ngu-hanh-cua-day-so-dien-thoai.html">C&aacute;ch x&aacute;c định ngũ h&agrave;nh số điện thoại</a></u></span></span></strong></em></p>
-
         <h4 dir="ltr" style="text-align:justify"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">b.2. Chọn sim phong thủy hợp mệnh Thủy theo bổ khuyết tứ trụ</span></span></strong></h4>
 
         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim hợp mệnh Thủy theo bổ khuyết tứ trụ l&agrave; d&atilde;y sim c&oacute; ngũ h&agrave;nh tr&ugrave;ng với h&agrave;nh suy của tứ trụ mệnh. Tứ trụ gồm bốn trụ (giờ, ng&agrave;y, th&aacute;ng, năm sinh), x&eacute;t theo can chi t&agrave;ng ẩn qu&yacute; bạn sẽ biết được thi&ecirc;n can t&agrave;ng ẩn trong chi. Sau đ&oacute; x&eacute;t theo ngũ h&agrave;nh của thập thi&ecirc;n can ở bảng phần tr&ecirc;n. Tổng hợp lại, qu&yacute; vị sẽ nắm được h&agrave;nh vượng v&agrave; h&agrave;nh suy trong tứ trụ mệnh.</span></span>
@@ -1085,8 +1079,6 @@
         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Số điện thoại hợp mệnh Thủy theo Quẻ Dịch l&agrave; d&atilde;y sim c&oacute; quẻ dịch C&aacute;t, t&ugrave;y v&agrave;o mục đ&iacute;ch sử dụng m&agrave; qu&yacute; bạn sẽ c&oacute; những lựa chọn kh&aacute;c nhau, v&iacute; dụ như: tốt cho thăng tiến - quẻ Địa Phong Thăng; tốt cho t&agrave;i lộc - quẻ Thi&ecirc;n Hỏa Đồng Nh&acirc;n; tốt cho gia đạo t&igrave;nh duy&ecirc;n - quẻ Phong Hỏa Gia Nh&acirc;n;&hellip;</span></span>
         </p>
 
-        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><img alt="" src="https://simhoptuoi.com.vn/media/images/seolink/Arrow-icon(1).png" style="height:30px; width:30px" />&nbsp;</span></span></strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Xem ngay d&atilde;y sim đang d&ugrave;ng thuộc quẻ dịch n&agrave;o bằng c&aacute;ch sử dụng phần mềm [<u><strong><a href="https://simhoptuoi.com.vn/tin-sim/xem-boi-sim-kinh-dich.html">xem sim kinh dịch</a></strong></u>] của simhoptuoi.com.vn.</span></span></em></p>
-
         <p dir="ltr" style="text-align:justify"><em><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">V&iacute; dụ minh họa về một số sim hợp mệnh Thủy theo quẻ dịch:</span></span></em></p>
 
         <ul>
@@ -1105,7 +1097,7 @@
         </ul>
 
         <blockquote>
-            <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Kết luận:</strong> Yếu tố quẻ dịch trong phương ph&aacute;p chọn số điện thoại hợp mệnh Thủy l&agrave; một trọng yếu gi&uacute;p qu&yacute; vị chọn được d&atilde;y sim c&oacute; &yacute; nghĩa tốt cho từng phương diện cuộc sống. Tuy nhi&ecirc;n qu&aacute; tr&igrave;nh chọn sim sẽ gặp nhiều kh&oacute; khăn v&igrave; c&aacute;ch t&iacute;nh quẻ kh&aacute; phức tạp. Để hiểu r&otilde; hơn th&igrave; mời qu&yacute; vị h&atilde;y xem ngay tại b&agrave;i <strong><a href="https://simhoptuoi.com.vn/tin-sim/cach-tinh-que-dich-so-dien-thoai.html">c&aacute;ch t&iacute;nh quẻ dịch số điện thoại</a></strong> của ch&uacute;ng t&ocirc;i.</span></span>
+            <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Kết luận:</strong> Yếu tố quẻ dịch trong phương ph&aacute;p chọn số điện thoại hợp mệnh Thủy l&agrave; một trọng yếu gi&uacute;p qu&yacute; vị chọn được d&atilde;y sim c&oacute; &yacute; nghĩa tốt cho từng phương diện cuộc sống. Tuy nhi&ecirc;n qu&aacute; tr&igrave;nh chọn sim sẽ gặp nhiều kh&oacute; khăn v&igrave; c&aacute;ch t&iacute;nh quẻ kh&aacute; phức tạp. Để hiểu r&otilde; hơn th&igrave; mời qu&yacute; vị h&atilde;y xem ngay tại b&agrave;i <strong><a href="">c&aacute;ch t&iacute;nh quẻ dịch số điện thoại</a></strong> của ch&uacute;ng t&ocirc;i.</span></span>
             </p>
         </blockquote>
 
@@ -1145,17 +1137,17 @@
         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim phong thủy hợp mệnh Thủy theo quan niệm d&acirc;n gian l&agrave; d&atilde;y sim c&oacute; số n&uacute;t nằm trong khoảng từ 8 đến 10 điểm l&agrave; tốt nhất. Đồng thời, những số sim sẽ c&agrave;ng may mắn hơn nếu chứa c&aacute;c bộ số đẹp theo quan niệm d&acirc;n gian như: &Ocirc;ng Địa 38 - 78, Thần T&agrave;i 39 - 79, Lộc Ph&aacute;t 68 - 86, tứ qu&yacute;, tam hoa, lục qu&yacute;, ngũ qu&yacute;,....</span></span>
         </p>
 
-        <ul>
-            <li dir="ltr">
-                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-sim/so-than-tai-la-so-may.html">Số Thần T&agrave;i l&agrave; số mấy</a></span></span></strong></u></p>
-            </li>
-            <li dir="ltr">
-                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-sim/y-nghia-so-loc-phat-la-so-may.html">Số Lộc Ph&aacute;t l&agrave; số mấy</a></span></span></strong></u></p>
-            </li>
-            <li dir="ltr">
-                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-sim/so-ong-dia-la-so-may.html">Số &Ocirc;ng Địa l&agrave; số mấy</a></span></span></strong></u></p>
-            </li>
-        </ul>
+{{--        <ul>--}}
+{{--            <li dir="ltr">--}}
+{{--                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-sim/so-than-tai-la-so-may.html">Số Thần T&agrave;i l&agrave; số mấy</a></span></span></strong></u></p>--}}
+{{--            </li>--}}
+{{--            <li dir="ltr">--}}
+{{--                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-sim/y-nghia-so-loc-phat-la-so-may.html">Số Lộc Ph&aacute;t l&agrave; số mấy</a></span></span></strong></u></p>--}}
+{{--            </li>--}}
+{{--            <li dir="ltr">--}}
+{{--                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-sim/so-ong-dia-la-so-may.html">Số &Ocirc;ng Địa l&agrave; số mấy</a></span></span></strong></u></p>--}}
+{{--            </li>--}}
+{{--        </ul>--}}
 
         <p dir="ltr" style="text-align:justify"><em><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">V&iacute; dụ một số d&atilde;y sim hợp mệnh Thủy:&nbsp;</span></span></em></p>
 
@@ -1179,7 +1171,7 @@
         </p>
 
         <h2 dir="ltr" style="text-align:justify"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="3-huong-dan-cach-kiem-tra-d-atilde-y-sim-dang-d-u-ng-co-hop-menh-thuy-hay-khong">3. Hướng dẫn c&aacute;ch kiểm tra d&atilde;y sim đang d&ugrave;ng c&oacute; hợp mệnh Thủy hay kh&ocirc;ng?</span></span>
-            </strong>
+                </strong>
             </span>
         </h2>
 
@@ -1191,7 +1183,7 @@
 
         <ul>
             <li dir="ltr">
-                <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Bước 1</strong>: Truy cập v&agrave;o c&ocirc;ng cụ &ldquo;<u><strong><a href="https://simhoptuoi.com.vn/xem-phong-thuy-sim.html">XEM PHONG THỦY SIM</a></strong></u>&rdquo;</span></span>
+                <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Bước 1</strong>: Truy cập v&agrave;o c&ocirc;ng cụ &ldquo;<u><strong><a href="">XEM PHONG THỦY SIM</a></strong></u>&rdquo;</span></span>
                 </p>
             </li>
             <li dir="ltr">
@@ -1205,15 +1197,14 @@
         </ul>
 
         <h2 dir="ltr" style="text-align:justify"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="4-tong-hop-7-cach-chon-sim-hop-menh-thuy-sai-lech">4. Tổng hợp 7 c&aacute;ch chọn sim hợp mệnh Thủy sai lệch</span></span>
-            </strong>
+                </strong>
             </span>
         </h2>
 
         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Hiện nay tr&ecirc;n thị trường sim phong thủy xuất hiện nhiều c&aacute;ch chọn số điện thoại hợp mệnh thủy kh&aacute;c nhau, điều n&agrave;y sẽ g&acirc;y kh&oacute; khăn cho qu&yacute; bạn về việc chọn sim ph&ugrave; hợp với bản mệnh Thủy ch&iacute;nh x&aacute;c nhất. Theo đ&oacute; dưới đ&acirc;y l&agrave; 7 c&aacute;ch chọn sim sai lệch m&agrave; qu&yacute; bạn n&ecirc;n nắm r&otilde;.</span></span>
         </p>
 
-        <p dir="ltr" style="text-align: center;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><img alt="cách chọn sim hợp mệnh thủy sai lệch" src="https://simhoptuoi.com.vn/media/images/seolink/chon-sim-hop-menh-thuy-sai.png" /></span></span><br
-            /> &nbsp;
+        <p dir="ltr" style="text-align: center;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><img alt="cách chọn sim hợp mệnh thủy sai lệch" src="https://simhoptuoi.com.vn/media/images/seolink/chon-sim-hop-menh-thuy-sai.png" /></span></span><br /> &nbsp;
         </p>
 
         <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">a. Mệnh thủy hợp với số điện thoại n&agrave;o theo số hợp mệnh?</span></strong>
@@ -1259,8 +1250,6 @@
             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>&nbsp;Đ&aacute;nh gi&aacute; của chuy&ecirc;n gia: </strong>Đ&acirc;y l&agrave; c&aacute;ch lựa chọn sim phong thủy hợp mệnh Thủy sai bởi chỉ đ&aacute;nh gi&aacute; sự hợp - khắc của c&aacute;c số đơn lẻ trong khi d&atilde;y số điện thoại cần đ&aacute;nh gi&aacute; tổng h&ograve;a 10 số nội tại.&nbsp;</span></span>
             </p>
         </blockquote>
-
-        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><img alt="" src="https://simhoptuoi.com.vn/media/images/seolink/Arrow-icon(1).png" style="height:30px; width:30px" />Xem chi tiết: <u><a href="https://simhoptuoi.com.vn/tin-sim/nguoi-menh-thuy-hop-so-nao-may-man.html">Mệnh Thủy hợp số n&agrave;o</a></u></span></span></strong></em></p>
 
         <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">b. C&aacute;ch chọn sim hợp mệnh Thủy theo giới t&iacute;nh</span></strong>
             </span>
@@ -1639,10 +1628,8 @@
             </p>
         </blockquote>
 
-        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><img alt="" src="https://simhoptuoi.com.vn/media/images/seolink/Arrow-icon(1).png" style="height:30px; width:30px" />&nbsp;</span></span></strong></em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sử dụng phần mềm [<u><a href="https://simhoptuoi.com.vn/tin-sim/xem-phong-thuy-4-so-cuoi-dien-thoai.html">XEM B&Oacute;I SIM 4 SỐ CUỐI</a></u>] để xem phong thủy 4 số cuối điện thoại bạn đang d&ugrave;ng hung hay c&aacute;t</span></span></strong></p>
-
         <h2 dir="ltr" style="text-align:justify"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="5-mot-so-luu-y-khi-chon-sim-phong-thuy-hop-menh-thuy">5. Một số lưu &yacute; khi chọn sim phong thủy hợp mệnh Thủy</span></span>
-            </strong>
+                </strong>
             </span>
         </h2>
 
@@ -1678,14 +1665,14 @@
         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Nam giới mệnh Thủy c&oacute; sự quan t&acirc;m nhiều hơn đến c&ocirc;ng danh sự nghiệp. Ch&iacute;nh v&igrave; vậy, trong chọn sim hợp mệnh, nam mạng mệnh Thủy n&ecirc;n ưu ti&ecirc;n lựa chọn c&aacute;c d&atilde;y sim c&oacute; quẻ dịch tốt cho sự nghiệp hay T&agrave;i lộc như: 0815.565.565, 0769.168.589, 0836.92.7799,&nbsp; 0794.079.289, 0833.923.679, 0938.191.789,....</span></span>
         </p>
 
-        <ul>
-            <li dir="ltr">
-                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/sim-phong-thuy-hop-tuoi-kich-cong-danh-su-nghiep.html">Sim thăng quan tiến chức</a></span></span></strong></u></p>
-            </li>
-            <li dir="ltr">
-                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/sim-phong-thuy-hop-tuoi-kich-tai-van.html">Sim k&iacute;ch t&agrave;i vận</a></span></span></strong></u></p>
-            </li>
-        </ul>
+{{--        <ul>--}}
+{{--            <li dir="ltr">--}}
+{{--                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/sim-phong-thuy-hop-tuoi-kich-cong-danh-su-nghiep.html">Sim thăng quan tiến chức</a></span></span></strong></u></p>--}}
+{{--            </li>--}}
+{{--            <li dir="ltr">--}}
+{{--                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/sim-phong-thuy-hop-tuoi-kich-tai-van.html">Sim k&iacute;ch t&agrave;i vận</a></span></span></strong></u></p>--}}
+{{--            </li>--}}
+{{--        </ul>--}}
 
         <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">c Nữ mệnh Thủy n&ecirc;n chọnd&atilde;y sim n&agrave;o?</span></strong>
             </span>
@@ -1694,14 +1681,14 @@
         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Đối với nữ giới mệnh Thủy, mối quan t&acirc;m của họ ngo&agrave;i sự nghiệp th&igrave; d&agrave;nh phần lớn cho gia đ&igrave;nh, con c&aacute;i, giải vận hạn,.... Do đ&oacute;, nữ mạng sinh năm ngũ h&agrave;nh Thủy n&ecirc;n tham khảo c&aacute;c d&atilde;y sim gồm: 0817.913.663, 0327.567.895, 0868.355.557, 0835.179.279, 0838.759.759, 0966.55.99.44,...</span></span>
         </p>
 
-        <ul>
-            <li dir="ltr">
-                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/sim-phong-thuy-hop-tuoi-kich-gia-dao-tinh-yeu.html">Sim k&iacute;ch t&igrave;nh duy&ecirc;n gia đạo</a></span></span></strong></u></p>
-            </li>
-            <li dir="ltr">
-                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/sim-phong-thuy-hop-tuoi-hoa-giai-van-han.html">Sim h&oacute;a giải vận hạn</a></span></span></strong></u></p>
-            </li>
-        </ul>
+{{--        <ul>--}}
+{{--            <li dir="ltr">--}}
+{{--                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/sim-phong-thuy-hop-tuoi-kich-gia-dao-tinh-yeu.html">Sim k&iacute;ch t&igrave;nh duy&ecirc;n gia đạo</a></span></span></strong></u></p>--}}
+{{--            </li>--}}
+{{--            <li dir="ltr">--}}
+{{--                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/sim-phong-thuy-hop-tuoi-hoa-giai-van-han.html">Sim h&oacute;a giải vận hạn</a></span></span></strong></u></p>--}}
+{{--            </li>--}}
+{{--        </ul>--}}
     </div>
     <section class="boxForm fullwidth">
         <div class="bodyForm">
@@ -1764,7 +1751,7 @@
                 </div>
             </div>
             <div>
-                <a class="read-more" href="https://simhoptuoi.com.vn/xem-phong-thuy-sim/Sim-hop-menh-Thuy.html">Xem thêm (9385) sim </a>
+                <a class="read-more" href="">Xem thêm (9385) sim </a>
             </div>
         </section>
     </div>
@@ -1774,7 +1761,7 @@
                 <div class="col-md-12">
                     <div class="textTopHome">
                         <h2 dir="ltr" style="text-align:justify"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="6-phong-thuy-cua-nguoi-menh-thuy">6. Phong thủy của người mệnh Thủy</span></span>
-                            </strong>
+                                </strong>
                             </span>
                         </h2>
 
@@ -1812,36 +1799,36 @@
                             </li>
                         </ul>
 
-                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">THAM KHẢO D&Ograve;NG SIM HỢP TUỔI CHI TIẾT</span></span></strong></p>
+{{--                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">THAM KHẢO D&Ograve;NG SIM HỢP TUỔI CHI TIẾT</span></span></strong></p>--}}
 
-                        <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
-                            <tbody>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Binh-Ty-sinh-nam-1996/45.html">Sim hợp tuổi 1996</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Dinh-Suu-sinh-nam-1997/46.html">Sim hợp tuổi 1997</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Nham-Tuat-sinh-nam-1982/31.html">Sim hợp tuổi 1982</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Quy-Hoi-sinh-nam-1983/32.html">Sim hợp tuổi 1983</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-hop-tuoi-1974-mang-lai-nhieu-may-man/145.html">Sim hợp tuổi 1974</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Huong-dan-mua-sim-hop-tuoi-1975-mang-nhieu-may-man/103.html">Sim hợp tuổi 1975</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                            </tbody>
-                        </table>
+{{--                        <table border="1" cellpadding="10" cellspacing="1" style="width:100%">--}}
+{{--                            <tbody>--}}
+{{--                                <tr>--}}
+{{--                                    <td>--}}
+{{--                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Binh-Ty-sinh-nam-1996/45.html">Sim hợp tuổi 1996</a></span></span></strong></u></p>--}}
+{{--                                    </td>--}}
+{{--                                    <td>--}}
+{{--                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Dinh-Suu-sinh-nam-1997/46.html">Sim hợp tuổi 1997</a></span></span></strong></u></p>--}}
+{{--                                    </td>--}}
+{{--                                </tr>--}}
+{{--                                <tr>--}}
+{{--                                    <td>--}}
+{{--                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Nham-Tuat-sinh-nam-1982/31.html">Sim hợp tuổi 1982</a></span></span></strong></u></p>--}}
+{{--                                    </td>--}}
+{{--                                    <td>--}}
+{{--                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Quy-Hoi-sinh-nam-1983/32.html">Sim hợp tuổi 1983</a></span></span></strong></u></p>--}}
+{{--                                    </td>--}}
+{{--                                </tr>--}}
+{{--                                <tr>--}}
+{{--                                    <td>--}}
+{{--                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-hop-tuoi-1974-mang-lai-nhieu-may-man/145.html">Sim hợp tuổi 1974</a></span></span></strong></u></p>--}}
+{{--                                    </td>--}}
+{{--                                    <td>--}}
+{{--                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Huong-dan-mua-sim-hop-tuoi-1975-mang-nhieu-may-man/103.html">Sim hợp tuổi 1975</a></span></span></strong></u></p>--}}
+{{--                                    </td>--}}
+{{--                                </tr>--}}
+{{--                            </tbody>--}}
+{{--                        </table>--}}
 
                         <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">b. T&iacute;nh c&aacute;ch, vận số của người mang mệnh Thủy</span></strong>
                             </span>

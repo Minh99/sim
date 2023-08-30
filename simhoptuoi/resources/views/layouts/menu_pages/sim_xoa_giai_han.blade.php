@@ -88,7 +88,7 @@
         <section class="boxForm fullwidth">
             <div class="bodyForm">
                 <div class="textTopHome slimContentText">
-                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Với mong muốn bản mệnh được thuận lợi, cuộc sống v&agrave; sự nghiệp rộng mở l&ecirc;n cao, <u><a href="https://simhoptuoi.com.vn/sim-phong-thuy-hop-tuoi-hoa-giai-van-han.html"><strong>sim h&oacute;a giải vận</strong></a></u> hạn ng&agrave;y c&agrave;ng được lựa chọn sử dụng. Bởi lẽ sim phong thủy cải vận hội tụ đầy đủ c&aacute;c yếu tố về phong thủy hợp tuổi gi&uacute;p chủ nh&acirc;n th&acirc;u t&oacute;m may mắn, h&uacute;t t&agrave;i vận đồng thời quan trọng nhất l&agrave; gi&uacute;p h&oacute;a giải vận xui, giảm bớt t&aacute;c động xấu đến cuộc sống.&nbsp;</span></span>
+                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Với mong muốn bản mệnh được thuận lợi, cuộc sống v&agrave; sự nghiệp rộng mở l&ecirc;n cao, <u><a href=""><strong>sim h&oacute;a giải vận</strong></a></u> hạn ng&agrave;y c&agrave;ng được lựa chọn sử dụng. Bởi lẽ sim phong thủy cải vận hội tụ đầy đủ c&aacute;c yếu tố về phong thủy hợp tuổi gi&uacute;p chủ nh&acirc;n th&acirc;u t&oacute;m may mắn, h&uacute;t t&agrave;i vận đồng thời quan trọng nhất l&agrave; gi&uacute;p h&oacute;a giải vận xui, giảm bớt t&aacute;c động xấu đến cuộc sống.&nbsp;</span></span>
                     </p>
                 </div>
             </div>
@@ -147,7 +147,7 @@
                     </div>
                 </div>
                 <div>
-                    <a class="read-more" href="https://simhoptuoi.com.vn/xem-phong-thuy-sim/sim-phong-thuy-hop-tuoi-hoa-giai-van-han.html">Xem thêm (3233) sim </a>
+                    <a class="read-more" href="">Xem thêm (3233) sim </a>
                 </div>
             </section>
         </div>
@@ -260,7 +260,7 @@
                                     </p>
                                 </li>
                                 <li dir="ltr">
-                                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">D&atilde;y sim cần c&oacute; chứa c&aacute;c bộ số đẹp, được coi l&agrave; tốt cho bản mệnh, như: cặp <u><strong><a href="https://simhoptuoi.com.vn/tin-sim/so-ong-dia-la-so-may.html">số &ocirc;ng địa</a></strong></u> 38 - 78, cặp <u><strong><a href="https://simhoptuoi.com.vn/tin-sim/so-than-tai-la-so-may.html">số Thần t&agrave;i</a></strong></u> 39 - 79, cặp <u><strong><a href="https://simhoptuoi.com.vn/tin-sim/y-nghia-so-loc-phat-la-so-may.html">số lộc ph&aacute;t</a></strong></u> 68 - 86, bộ tam hoa, tứ qu&yacute;, lục qu&yacute;, ngũ qu&yacute;,...</span></span>
+                                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">D&atilde;y sim cần c&oacute; chứa c&aacute;c bộ số đẹp, được coi l&agrave; tốt cho bản mệnh, như: cặp <u><strong><a href="">số &ocirc;ng địa</a></strong></u> 38 - 78, cặp <u><strong><a href="">số Thần t&agrave;i</a></strong></u> 39 - 79, cặp <u><strong><a href="">số lộc ph&aacute;t</a></strong></u> 68 - 86, bộ tam hoa, tứ qu&yacute;, lục qu&yacute;, ngũ qu&yacute;,...</span></span>
                                     </p>
                                 </li>
                             </ul>
@@ -320,8 +320,6 @@
 
                             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sử dụng<strong> sim h&oacute;a giải vận</strong> c&oacute; thể gi&uacute;p tăng cường năng lượng dương cho người sử dụng, gi&uacute;p hấp thu v&agrave; cất giữ năng lượng t&iacute;ch cực, đồng thời gi&uacute;p h&oacute;a giải c&aacute;c năng lượng ti&ecirc;u cực để giảm thiểu t&aacute;c động xấu đến cuộc sống. Tuy nhi&ecirc;n, để chọn được sim phong thủy cải vận th&igrave; cần tu&acirc;n theo 5 yếu tố về: Ngũ H&agrave;nh - Kinh Dịch - &Acirc;m Dương - Cửu Tinh - Quan niệm d&acirc;n gian.</span></span>
                             </p>
-
-                            <p dir="ltr" style="text-align:right"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Bi&ecirc;n soạn bởi: </span></span></strong><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/">Sim Hợp Tuổi!</a></span></span></strong></u></em></p>
                         </div>
                     </div>
 
