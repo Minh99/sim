@@ -88,7 +88,7 @@
         <section class="boxForm fullwidth">
             <div class="bodyForm">
                 <div class="textTopHome slimContentText">
-                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Với mong muốn c&ocirc;ng danh sự nghiệp được thuận lợi, rộng mở l&ecirc;n cao, <strong><u><a href="https://simhoptuoi.com.vn/sim-phong-thuy-hop-tuoi-kich-cong-danh-su-nghiep.html">sim thăng quan tiến chức</a></u> </strong>ng&agrave;y c&agrave;ng thu h&uacute;t được nhiều sự quan t&acirc;m t&igrave;m hiểu v&agrave; lựa chọn sử dụng. Bởi lẽ sim thăng tiến hội tụ đầy đủ c&aacute;c yếu tố về VẬN - DANH - T&Agrave;I gi&uacute;p chủ nh&acirc;n th&acirc;u t&oacute;m may mắn, h&uacute;t t&agrave;i vượng sinh quan, nắm được quyền cao chức trọng.&nbsp;</span></span>
+                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Với mong muốn c&ocirc;ng danh sự nghiệp được thuận lợi, rộng mở l&ecirc;n cao, <strong><u><a href="">sim thăng quan tiến chức</a></u> </strong>ng&agrave;y c&agrave;ng thu h&uacute;t được nhiều sự quan t&acirc;m t&igrave;m hiểu v&agrave; lựa chọn sử dụng. Bởi lẽ sim thăng tiến hội tụ đầy đủ c&aacute;c yếu tố về VẬN - DANH - T&Agrave;I gi&uacute;p chủ nh&acirc;n th&acirc;u t&oacute;m may mắn, h&uacute;t t&agrave;i vượng sinh quan, nắm được quyền cao chức trọng.&nbsp;</span></span>
                     </p>
                 </div>
             </div>
@@ -147,7 +147,7 @@
                     </div>
                 </div>
                 <div>
-                    <a class="read-more" href="https://simhoptuoi.com.vn/xem-phong-thuy-sim/sim-phong-thuy-hop-tuoi-kich-cong-danh-su-nghiep.html">Xem thêm (9197) sim </a>
+                    <a class="read-more" href="">Xem thêm (9197) sim </a>
                 </div>
             </section>
         </div>
@@ -173,19 +173,19 @@
                                 /> &nbsp;
                             </p>
 
-                            <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Ngo&agrave;i sim thăng quan tiến chức, qu&yacute; bạn c&oacute; thể kết hợp với những loại sim theo mục đ&iacute;ch kh&aacute;c như sau:</span></span></strong></em></p>
+{{--                            <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Ngo&agrave;i sim thăng quan tiến chức, qu&yacute; bạn c&oacute; thể kết hợp với những loại sim theo mục đ&iacute;ch kh&aacute;c như sau:</span></span></strong></em></p>--}}
 
-                            <ul dir="ltr">
-                                <li style="text-align:justify">
-                                    <p><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/sim-phong-thuy-hop-tuoi-kich-gia-dao-tinh-yeu.html">Sim k&iacute;ch t&igrave;nh duy&ecirc;n gia đạo</a></span></span></strong></u></p>
-                                </li>
-                                <li style="text-align:justify">
-                                    <p><a href="https://simhoptuoi.com.vn/sim-phong-thuy-hop-tuoi-kich-tai-van.html"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim t&agrave;i lộc may mắn</span></span></strong></u></a></p>
-                                </li>
-                                <li style="text-align:justify">
-                                    <p><a href="https://simhoptuoi.com.vn/sim-phong-thuy-hop-tuoi-hoa-giai-van-han.html"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim h&oacute;a giải vận hạn</span></span></strong></u></a></p>
-                                </li>
-                            </ul>
+{{--                            <ul dir="ltr">--}}
+{{--                                <li style="text-align:justify">--}}
+{{--                                    <p><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/sim-phong-thuy-hop-tuoi-kich-gia-dao-tinh-yeu.html">Sim k&iacute;ch t&igrave;nh duy&ecirc;n gia đạo</a></span></span></strong></u></p>--}}
+{{--                                </li>--}}
+{{--                                <li style="text-align:justify">--}}
+{{--                                    <p><a href="https://simhoptuoi.com.vn/sim-phong-thuy-hop-tuoi-kich-tai-van.html"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim t&agrave;i lộc may mắn</span></span></strong></u></a></p>--}}
+{{--                                </li>--}}
+{{--                                <li style="text-align:justify">--}}
+{{--                                    <p><a href="https://simhoptuoi.com.vn/sim-phong-thuy-hop-tuoi-hoa-giai-van-han.html"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim h&oacute;a giải vận hạn</span></span></strong></u></a></p>--}}
+{{--                                </li>--}}
+{{--                            </ul>--}}
 
                             <h2 dir="ltr" style="text-align:justify"><span style="color:#FF0000"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span id="ii-cach-chon-sim-thang-quan-tien-chuc-dua-tren-tieu-chi-nao">II. C&aacute;ch chọn sim thăng quan tiến chức dựa tr&ecirc;n ti&ecirc;u ch&iacute; n&agrave;o?</span></span>
                                                         </span>
@@ -300,7 +300,6 @@
                             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Hiện nay, đại đa số bộ phận người d&ugrave;ng c&oacute; lầm tưởng rằng sim phong thủy thăng tiến c&agrave;ng chứa nhiều con số hợp tuổi th&igrave; c&agrave;ng may mắn, mang lại những điều tốt l&agrave;nh cho c&ocirc;ng danh sự nghiệp. Tuy nhi&ecirc;n, quan niệm n&agrave;y l&agrave; ho&agrave;n to&agrave;n sai lầm bởi con số hợp tuổi được đ&aacute;nh gi&aacute; một c&aacute;ch ri&ecirc;ng lẻ trong khi d&atilde;y sim cần xem x&eacute;t tổng h&ograve;a mối quan hệ của cả 10 con số. Ch&iacute;nh v&igrave; vậy, chọn sim thăng tiến theo số hợp tuổi l&agrave; phương ph&aacute;p sai, kh&ocirc;ng n&ecirc;n &aacute;p dụng.</span></span>
                             </p>
 
-                            <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Đến ngay phần mềm [<u><a href="https://simhoptuoi.com.vn/con-so-hop-tuoi.html">xem số hợp tuổi</a></u>] để biết những con số ph&ugrave; hợp với mệnh chủ theo b&aacute;t tự ng&agrave;y th&aacute;ng năm sinh</span></span></strong></em></p>
 
                             <h3 dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">3. Sim thăng quan tiến chức c&oacute; những cặp số chủ về đại ph&aacute;t</span></span></strong></em></h3>
 
@@ -357,7 +356,6 @@
                             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Sim thăng quan tiến chức</strong> cần c&oacute; sự kết hợp giữa 5 yếu tố bao gồm: &acirc;m dương - ngũ h&agrave;nh - cửu tinh - quẻ dịch - quan niệm d&acirc;n gian. Trong đ&oacute;, yếu tố quan trọng nhất l&agrave; chứa những quẻ dịch mang h&agrave;m &yacute; may mắn, tốt cho thăng tiến như: Địa Phong Thăng, Hỏa Địa Tấn, Hỏa Phong Đỉnh,... Ngo&agrave;i ra, cần ch&uacute; &yacute; kh&ocirc;ng n&ecirc;n &aacute;p dụng c&aacute;c phương thức sai để tr&aacute;nh mang đến những điều kh&ocirc;ng mong đợi.&nbsp;</span></span>
                             </p>
 
-                            <p dir="ltr" style="text-align:right"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Bi&ecirc;n soạn bởi đội ngũ chuy&ecirc;n gia của <u><a href="https://simhoptuoi.com.vn/">simhoptuoi.com.vn</a></u>!</span></span></strong></em></p>
                         </div>
                     </div>
 

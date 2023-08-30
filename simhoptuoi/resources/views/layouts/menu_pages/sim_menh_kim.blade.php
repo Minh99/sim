@@ -90,7 +90,7 @@
             </div>
         </div>
         <div class="textTopHome slimContentText">
-            <p style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><a href="https://simhoptuoi.com.vn/Sim-hop-menh-Kim.html"><strong>Sim phong thủy hợp mệnh Kim</strong></a></u> theo quan niệm nhiều nơi l&agrave; l&agrave; d&atilde;y sim xuất hiện nhiều con số hợp mệnh, tức số 6, 7, 2, 5, 8. Việc sử dụng những d&atilde;y sim n&agrave;y sẽ mang đến sự gi&agrave;u sang ph&uacute; qu&yacute;, đẩy l&ugrave;i vận hạn, rước may mắn cho người mệnh Kim. Tuy nhi&ecirc;n theo chuy&ecirc;n gia th&igrave; quan niệm n&agrave;y ho&agrave;n to&agrave;n sai lệch do một v&agrave;i con số trong sim kh&ocirc;ng thể quyết định hết &yacute; nghĩa cả d&atilde;y sim. Vậy c&aacute;ch x&aacute;c định mệnh kim hợp số điện thoại n&agrave;o ch&iacute;nh x&aacute;c th&igrave; qu&yacute; vị h&atilde;y c&ugrave;ng Simhoptuoi.com.vn ph&acirc;n t&iacute;ch tại nội dung dưới đ&acirc;y.</span></span>
+            <p style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><a href=""><strong>Sim phong thủy hợp mệnh Kim</strong></a></u> theo quan niệm nhiều nơi l&agrave; l&agrave; d&atilde;y sim xuất hiện nhiều con số hợp mệnh, tức số 6, 7, 2, 5, 8. Việc sử dụng những d&atilde;y sim n&agrave;y sẽ mang đến sự gi&agrave;u sang ph&uacute; qu&yacute;, đẩy l&ugrave;i vận hạn, rước may mắn cho người mệnh Kim. Tuy nhi&ecirc;n theo chuy&ecirc;n gia th&igrave; quan niệm n&agrave;y ho&agrave;n to&agrave;n sai lệch do một v&agrave;i con số trong sim kh&ocirc;ng thể quyết định hết &yacute; nghĩa cả d&atilde;y sim. Vậy c&aacute;ch x&aacute;c định mệnh kim hợp số điện thoại n&agrave;o ch&iacute;nh x&aacute;c th&igrave; qu&yacute; vị h&atilde;y c&ugrave;ng Simhoptuoi.com.vn ph&acirc;n t&iacute;ch tại nội dung dưới đ&acirc;y.</span></span>
             </p>
 
             <h2 dir="ltr" style="text-align:justify"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="1-tong-quan-nguoi-menh-kim">1. Tổng Quan Người Mệnh Kim</span></span>
@@ -209,8 +209,6 @@
                 </p>
             </blockquote>
 
-            <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>&gt;&gt;&gt; Xem chi tiết: <u><a href="https://simhoptuoi.com.vn/tin-sim/nguoi-menh-kim-hop-so-nao-may-man.html">Mệnh Kim hợp số n&agrave;o</a></u></strong></span></span>
-            </p>
 
             <h2 dir="ltr" style="text-align:justify"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="3-so-dien-thoaihop-menh-kim-la-gi">3. Số điện thoại&nbsp;hợp mệnh Kim l&agrave; g&igrave;?</span></span>
                                         </strong>
@@ -1068,8 +1066,6 @@
                 </p>
             </blockquote>
 
-            <p dir="ltr" style="text-align:justify"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt;Xem th&ecirc;m: <u><a href="https://simhoptuoi.com.vn/tin-sim/cach-tinh-ngu-hanh-cua-day-so-dien-thoai.html">C&aacute;ch t&iacute;nh ngũ h&agrave;nh của số điện thoại</a></u></span></span></strong></p>
-
             <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">c. C&aacute;ch chọn sim hợp mệnh kim theo yếu tố Cửu Tinh đồ ph&aacute;p</span></strong>
                                         </span>
             </h3>
@@ -1388,10 +1384,7 @@
             </ul>
 
             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>- Quẻ hỗ: </strong>Dựa theo c&aacute;c h&agrave;o quẻ chủ theo quy luật h&agrave;o 5,4,3 (Thượng Qu&aacute;i)&nbsp; - 4,3,2 (Hạ qu&aacute;i). Chồng Thượng Qu&aacute;i v&agrave; Hạ Qu&aacute;i được h&igrave;nh ảnh hỗ thể. Từ h&igrave;nh ảnh 64 quẻ dịch, qu&yacute; vị sẽ x&aacute;c định quẻ hỗ của d&atilde;y sim cần ph&acirc;n t&iacute;ch</span></span>
-            </p>
-
-            <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt;Xem th&ecirc;m: <u><a href="https://simhoptuoi.com.vn/tin-sim/cach-tinh-que-dich-so-dien-thoai.html">C&aacute;ch t&iacute;nh quẻ số điện thoại</a></u></span></span></strong></em></p>
-
+            </p>\
             <p dir="ltr" style="text-align:justify"><em><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">V&iacute; dụ một số d&atilde;y số điện thoại hợp mệnh Kim theo Quẻ Dịch:</span></span></em></p>
 
             <ul>
@@ -1542,7 +1535,7 @@
                                         </span>
             </h2>
 
-            <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Nhằm hỗ trợ qu&yacute; vị kiểm tra d&atilde;y sim đang d&ugrave;ng c&oacute; hợp với bản mệnh Kim hay kh&ocirc;ng, simhoptuoi.com.vn đ&atilde; nghi&ecirc;n cứu một phần mềm <u><a href="https://simhoptuoi.com.vn/xem-phong-thuy-sim.html"><strong>xem phong thủy sim</strong></a></u>. Với ba bước đơn giản, qu&yacute; bạn sẽ dễ d&agrave;ng luận phong thủy d&atilde;y sim đang d&ugrave;ng tốt hay xấu:</span></span>
+            <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Nhằm hỗ trợ qu&yacute; vị kiểm tra d&atilde;y sim đang d&ugrave;ng c&oacute; hợp với bản mệnh Kim hay kh&ocirc;ng, đ&atilde; nghi&ecirc;n cứu một phần mềm <u><a href=""><strong>xem phong thủy sim</strong></a></u>. Với ba bước đơn giản, qu&yacute; bạn sẽ dễ d&agrave;ng luận phong thủy d&atilde;y sim đang d&ugrave;ng tốt hay xấu:</span></span>
             </p>
 
             <ul>
@@ -1739,14 +1732,9 @@
                 </p>
             </blockquote>
 
-            <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><img alt="mũi tên" src="https://lh3.googleusercontent.com/GvqsfnBe-3zU8NutbOD447l2ALq1Gqqss1SQsyrgSx3MLuLYqRt__W71PTX2RELFsFBVEzZ2LHnds5trG-v5rrpDypV_t-wbFqwD8OFGDOgWGYGdH14PyxJBITKO8Q3RozX3Wh8zLcxuqNa3Oas_HJ0" style="height:43px; width:50px" /> Xem chi tiết hơn: <u><strong><a href="https://simhoptuoi.com.vn/tin-sim/sim-phong-thuy-hop-menh.html">C&aacute;ch chọn sim phong thủy hợp mệnh</a></strong></u></span></span>
-            </p>
-
             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Như vậy, để chọn được d&atilde;y <strong>sim phong thủy hợp mệnh Kim</strong> cần đảm bảo hội tụ đầy đủ cả 5 yếu tố bao gồm ngũ h&agrave;nh, &acirc;m dương, quẻ dịch, cửu tinh, quan niệm d&acirc;n gian. B&ecirc;n cạnh đ&oacute;, với c&aacute;c phương ph&aacute;p chọn sim hợp mệnh Kim như số hợp mệnh, số qu&aacute;i, số sinh, du ni&ecirc;n,... c&oacute; nguy&ecirc;n l&yacute; luận giải thiếu ch&iacute;nh x&aacute;c, kh&ocirc;ng kh&aacute;ch quan, to&agrave;n diện cho n&ecirc;n chỉ n&ecirc;n tham khảo giải tr&iacute; chứ kh&ocirc;ng n&ecirc;n &aacute;p dụng.&nbsp;</span></span>
             </p>
 
-            <p dir="ltr" style="text-align:right"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><em><strong>Bi&ecirc;n soạn bởi: <u><a href="https://simhoptuoi.com.vn/">Simhoptuoi.com.vn</a></u></strong></em></span></span>
-            </p>
         </div>
         <section class="boxForm fullwidth">
             <div class="bodyForm">
@@ -1809,7 +1797,7 @@
                     </div>
                 </div>
                 <div>
-                    <a class="read-more" href="https://simhoptuoi.com.vn/xem-phong-thuy-sim/Sim-hop-menh-Kim.html">Xem thêm (11918) sim </a>
+                    <a class="read-more" href="">Xem thêm (11918) sim </a>
                 </div>
             </section>
         </div>

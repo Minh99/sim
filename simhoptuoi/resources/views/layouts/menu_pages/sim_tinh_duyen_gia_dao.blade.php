@@ -88,7 +88,7 @@
         <section class="boxForm fullwidth">
             <div class="bodyForm">
                 <div class="textTopHome slimContentText">
-                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><a href="https://simhoptuoi.com.vn/sim-phong-thuy-hop-tuoi-kich-gia-dao-tinh-yeu.html"><strong>Sim k&iacute;ch gia đạo t&igrave;nh duy&ecirc;n</strong></a></u> được nhiều người quan t&acirc;m v&igrave; T&igrave;nh cảm nam nữ hay t&igrave;nh cảm vợ chồng thường xảy ra nhiều vấn đề, h&ograve;a hợp vui vẻ hạnh ph&uacute;c c&oacute;, m&acirc;u thuẫn khắc khẩu tranh c&atilde;i cũng c&oacute;. Do đ&oacute;, để dĩ h&ograve;a vi qu&yacute; c&aacute;c mối quan hệ, sim phong thủy k&iacute;ch gia đạo t&igrave;nh duy&ecirc;n ra đời gi&uacute;p người d&ugrave;ng h&oacute;a giải, giảm bớt điều xấu cũng như củng cố mối quan hệ thuận h&ograve;a trong gia đạo, vượng t&igrave;nh duy&ecirc;n, t&igrave;nh cảm nhận được kết quả vi&ecirc;n m&atilde;n như &yacute;.&nbsp;</span></span>
+                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><a href=""><strong>Sim k&iacute;ch gia đạo t&igrave;nh duy&ecirc;n</strong></a></u> được nhiều người quan t&acirc;m v&igrave; T&igrave;nh cảm nam nữ hay t&igrave;nh cảm vợ chồng thường xảy ra nhiều vấn đề, h&ograve;a hợp vui vẻ hạnh ph&uacute;c c&oacute;, m&acirc;u thuẫn khắc khẩu tranh c&atilde;i cũng c&oacute;. Do đ&oacute;, để dĩ h&ograve;a vi qu&yacute; c&aacute;c mối quan hệ, sim phong thủy k&iacute;ch gia đạo t&igrave;nh duy&ecirc;n ra đời gi&uacute;p người d&ugrave;ng h&oacute;a giải, giảm bớt điều xấu cũng như củng cố mối quan hệ thuận h&ograve;a trong gia đạo, vượng t&igrave;nh duy&ecirc;n, t&igrave;nh cảm nhận được kết quả vi&ecirc;n m&atilde;n như &yacute;.&nbsp;</span></span>
                     </p>
                 </div>
             </div>
@@ -147,7 +147,7 @@
                     </div>
                 </div>
                 <div>
-                    <a class="read-more" href="https://simhoptuoi.com.vn/xem-phong-thuy-sim/sim-phong-thuy-hop-tuoi-kich-gia-dao-tinh-yeu.html">Xem thêm (3709) sim </a>
+                    <a class="read-more" href="">Xem thêm (3709) sim </a>
                 </div>
             </section>
         </div>
@@ -176,19 +176,19 @@
                                 /> &nbsp;
                             </p>
 
-                            <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Ngo&agrave;i sim thăng quan tiến chức, qu&yacute; bạn c&oacute; thể kết hợp với những loại sim theo mục đ&iacute;ch kh&aacute;c như sau:</span></span></strong></em></p>
+{{--                            <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Ngo&agrave;i sim thăng quan tiến chức, qu&yacute; bạn c&oacute; thể kết hợp với những loại sim theo mục đ&iacute;ch kh&aacute;c như sau:</span></span></strong></em></p>--}}
 
-                            <ul dir="ltr">
-                                <li style="text-align:justify">
-                                    <p><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/sim-phong-thuy-hop-tuoi-kich-gia-dao-tinh-yeu.html">Sim k&iacute;ch t&igrave;nh duy&ecirc;n gia đạo</a></span></span></strong></u></p>
-                                </li>
-                                <li style="text-align:justify">
-                                    <p><a href="https://simhoptuoi.com.vn/sim-phong-thuy-hop-tuoi-kich-tai-van.html"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim t&agrave;i lộc may mắn</span></span></strong></u></a></p>
-                                </li>
-                                <li style="text-align:justify">
-                                    <p><a href="https://simhoptuoi.com.vn/sim-phong-thuy-hop-tuoi-hoa-giai-van-han.html"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim h&oacute;a giải vận hạn</span></span></strong></u></a></p>
-                                </li>
-                            </ul>
+{{--                            <ul dir="ltr">--}}
+{{--                                <li style="text-align:justify">--}}
+{{--                                    <p><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/sim-phong-thuy-hop-tuoi-kich-gia-dao-tinh-yeu.html">Sim k&iacute;ch t&igrave;nh duy&ecirc;n gia đạo</a></span></span></strong></u></p>--}}
+{{--                                </li>--}}
+{{--                                <li style="text-align:justify">--}}
+{{--                                    <p><a href="https://simhoptuoi.com.vn/sim-phong-thuy-hop-tuoi-kich-tai-van.html"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim t&agrave;i lộc may mắn</span></span></strong></u></a></p>--}}
+{{--                                </li>--}}
+{{--                                <li style="text-align:justify">--}}
+{{--                                    <p><a href="https://simhoptuoi.com.vn/sim-phong-thuy-hop-tuoi-hoa-giai-van-han.html"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim h&oacute;a giải vận hạn</span></span></strong></u></a></p>--}}
+{{--                                </li>--}}
+{{--                            </ul>--}}
 
                             <h2 dir="ltr" style="text-align:justify"><span style="color:#FF0000"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span id="2-chon-sim-sim-kich-gia-dao-tinh-duyen-can-dam-bao-nhung-yeu-to-nao">2. Chọn sim sim k&iacute;ch gia đạo t&igrave;nh duy&ecirc;n cần đảm bảo những yếu tố n&agrave;o?</span></span>
                                                         </span>
@@ -294,8 +294,6 @@
                                 </li>
                             </ul>
 
-                            <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; D&atilde;y sim bạn đang d&ugrave;ng c&oacute; thực sự tốt cho t&igrave;nh duy&ecirc;n hay kh&ocirc;ng, sử dụng ngay phần mềm [<u><a href="https://simhoptuoi.com.vn/xem-phong-thuy-sim.html">chấm điểm sim phong thủy</a></u>] của simhoptuoi.com.vn để ph&acirc;n t&iacute;ch chi tiết.</span></span></strong></em></p>
-
                             <h2 dir="ltr" style="text-align:justify"><span style="color:#FF0000"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span id="3-goi-y-mot-so-que-dich-tot-cho-tinh-duyen-gia-dao-trong-chon-sim-tinh-duyen">3. Gợi &yacute; một số quẻ dịch tốt cho t&igrave;nh duy&ecirc;n, gia đạo trong chọn sim t&igrave;nh duy&ecirc;n</span></span>
                                                         </span>
                                                         </strong>
@@ -327,10 +325,6 @@
                             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Như vậy, <strong>sim phong thủy k&iacute;ch gia đạo t&igrave;nh duy&ecirc;n</strong> c&oacute; t&aacute;c dụng cải thiện v&agrave; mang tới may mắn cho t&igrave;nh duy&ecirc;n v&agrave; gia đạo cần đ&aacute;nh gi&aacute; dựa tr&ecirc;n 5 yếu tố bao gồm: ngũ h&agrave;nh - &acirc;m dương - quẻ dịch - cửu tinh - quan niệm d&acirc;n gian. Đặc biệt, để ph&ugrave; hợp với nhu cầu k&iacute;ch t&igrave;nh duy&ecirc;n th&igrave; người d&ugrave;ng n&ecirc;n chọn những d&atilde;y sim chứa c&aacute;c quẻ dịch tốt cho t&igrave;nh cảm, gia đ&igrave;nh.</span></span>
                             </p>
 
-                            <p dir="ltr" style="text-align:right"><span style="font-family:comic sans ms,cursive"><em><strong><span style="font-size:14px">Bi&ecirc;n soạn bởi đội ngũ chuy&ecirc;n gia của <a href="https://simhoptuoi.com.vn/">simhoptuoi.com.vn</a>!</span></strong>
-                                                        </em>
-                                                        </span>
-                            </p>
                         </div>
                     </div>
 
