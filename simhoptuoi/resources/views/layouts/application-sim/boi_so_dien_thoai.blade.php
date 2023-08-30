@@ -16,7 +16,7 @@
                             <p class="title_label"><label>Số điện thoại</label></p>
                         </div>
                         <div class="col-9 col-md-9 col-sm-9 col-xs-9">
-                            <input id="xpts_phone" class="myinput" name="sdt" placeholder="Mời nhập số sim" value="@if($sdt){{$sdt}}@endif">
+                            <input id="xpts_phone" class="myinput" name="sdt" placeholder="Mời nhập số sim" value="">
                         </div>
                         {{-- <div class="col-12 col-md-12">
                             <div class="row">
@@ -196,6 +196,7 @@
     @if (isset($data) && !empty($data))
         <p>
             <div class="wapper_que">
+                <p class="que_so  text-center text-bold">Số sim {{ $sdt }}</p>
                 <p class="que_so  text-center text-bold">Quẻ số {{ $data['so_que'] }}</p>
                 <p class="ten_que tot text-center">{{ $data['ten_que'] }}</p>
                 <p class="y_nghia text-center">{{ $data['tong_quat'] }}</p>
@@ -208,7 +209,7 @@
             @endphp
 
             @if (!empty($data['danh_gia']))
-                <h2 style="font-weight: bold; font-size: 18px; margin-top: 5px"> {{ $index }}. ĐÁNH GIÁ</h2>
+                <h2 class="title_h1 text-left" style="font-weight: bold; margin-top: 5px; text-transform: capitalize"> {{ $index }}. Đánh giá</h2>
                 <p class="pl-4">
                     {{ $data['danh_gia'] }}
                 </p>
@@ -218,7 +219,7 @@
             @endif
             
             @if (!empty($data['chiem_nghiem_ve_van_the']))
-                <h2 style="font-weight: bold; font-size: 18px; margin-top: 5px"> {{ $index }}. CHIÊM NGHIỆM VỀ VẬN THẾ</h2>
+                <h2 class="title_h1 text-left" style="font-weight: bold; margin-top: 5px; text-transform: capitalize"> {{ $index }}. Chiêm nghiệm về vận thế</h2>
                 <p class="pl-4">
                     {{ $data['chiem_nghiem_ve_van_the'] }}
                 </p>
@@ -228,7 +229,7 @@
             @endif
 
             @if (!empty($data['xet_ve_gia_dao_tinh_cam']))
-                <h2 style="font-weight: bold; font-size: 18px; margin-top: 5px"> {{ $index }}. VỀ GIA ĐẠO TÌNH CẢM</h2>
+                <h2 class="title_h1 text-left" style="font-weight: bold; margin-top: 5px; text-transform: capitalize"> {{ $index }}. Về giao đạo tình cảm</h2>
                 <p class="pl-4">
                     {{ $data['xet_ve_gia_dao_tinh_cam'] }}
                 </p>
@@ -238,7 +239,7 @@
             @endif
 
             @if (!empty($data['luan_giai_sim']))
-                <h2 style="font-weight: bold; font-size: 18px; margin-top: 5px"> {{ $index }}. LUẬN GIẢI SIM</h2>
+                <h2 class="title_h1 text-left" style="font-weight: bold; margin-top: 5px; text-transform: capitalize"> {{ $index }}. Luận giải sim</h2>
                 <p class="pl-4">
                     {{ $data['luan_giai_sim'] }}
                 </p>
@@ -248,7 +249,7 @@
             @endif
 
             @if (!empty($data['dong_hao_1']))
-                <h2 style="font-weight: bold; font-size: 18px; margin-top: 5px"> {{ $index }}. ĐỘNG HÀO 1</h2>
+                <h2 class="title_h1 text-left" style="font-weight: bold; margin-top: 5px; text-transform: capitalize"> {{ $index }}. Động hào 1</h2>
                 <p class="pl-4">
                     {{ $data['dong_hao_1'] }}
                 </p>
@@ -258,7 +259,7 @@
             @endif
 
             @if (!empty($data['dong_hao_2']))
-                <h2 style="font-weight: bold; font-size: 18px; margin-top: 5px"> {{ $index }}. ĐỘNG HÀO 2</h2>
+                <h2 class="title_h1 text-left" style="font-weight: bold; margin-top: 5px; text-transform: capitalize"> {{ $index }}. Động hào 2</h2>
                 <p class="pl-4">
                     {{ $data['dong_hao_2'] }}
                 </p>
@@ -268,7 +269,7 @@
             @endif
 
             @if (!empty($data['dong_hao_3']))
-                <h2 style="font-weight: bold; font-size: 18px; margin-top: 5px"> {{ $index }}. ĐỘNG HÀO 3</h2>
+                <h2 class="title_h1 text-left" style="font-weight: bold; margin-top: 5px; text-transform: capitalize"> {{ $index }}. Động hào 3</h2>
                 <p class="pl-4">
                     {{ $data['dong_hao_3'] }}
                 </p>
@@ -278,7 +279,7 @@
             @endif
 
             @if (!empty($data['dong_hao_4']))
-                <h2 style="font-weight: bold; font-size: 18px; margin-top: 5px"> {{ $index }}. ĐỘNG HÀO 4</h2>
+                <h2 class="title_h1 text-left" style="font-weight: bold; margin-top: 5px; text-transform: capitalize"> {{ $index }}. Động hào 4</h2>
                 <p class="pl-4">
                     {{ $data['dong_hao_4'] }}
                 </p>
@@ -288,7 +289,7 @@
             @endif
 
             @if (!empty($data['dong_hao_5']))
-                <h2 style="font-weight: bold; font-size: 18px; margin-top: 5px"> {{ $index }}. ĐỘNG HÀO 5</h2>
+                <h2 class="title_h1 text-left" style="font-weight: bold; margin-top: 5px; text-transform: capitalize"> {{ $index }}. Động hào 5</h2>
                 <p class="pl-4">
                     {{ $data['dong_hao_5'] }}
                 </p>
@@ -298,7 +299,7 @@
             @endif
 
             @if (!empty($data['dong_hao_6']))
-                <h2 style="font-weight: bold; font-size: 18px; margin-top: 5px"> {{ $index }}. ĐỘNG HÀO 6</h2>
+                <h2 class="title_h1 text-left" style="font-weight: bold; margin-top: 5px; text-transform: capitalize"> {{ $index }}. Động hào 6</h2>
                 <p class="pl-4">
                     {{ $data['dong_hao_6'] }}
                 </p>

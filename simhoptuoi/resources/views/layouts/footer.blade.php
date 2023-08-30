@@ -1,4 +1,4 @@
-<footer class="main-footer">
+<footer class="main-footer bg-danger">
     <div class="f-inner">
         <div class="f-inner2">
             <div class="container">
@@ -36,7 +36,7 @@
                     </div>
                     <div class="col col-12 col-md-3">
                         <p class="f-address">
-                            Địa chỉ: Số 25 Tô Vĩnh Diện, Phường Khương Trung, Quận Thanh Xuân, Hà Nội.<br /> Hotline: <a class="hotline" href="tel:0766139189">0766.139.189</a>
+                            Địa chỉ: Số 25 Tô Vĩnh Diện, Phường Khương Trung, Quận Thanh Xuân, Hà Nội.<br /> Hotline: <a class="hotline" href="tel:xxxxxxx">xxxx.xxx.xxx</a>
                         </p>
                         <p>
                             <span class="f-dangky">100% Đăng ký chính chủ</span>

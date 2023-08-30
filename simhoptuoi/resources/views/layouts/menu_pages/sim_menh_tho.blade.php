@@ -902,7 +902,7 @@
         <section class="list_sim">
 
             <!-- khi vào link page sẽ tự động scroll xuống phần bảng sim -->
-            <h2 class="title_h1">Sim hợp mệnh Thổ</h2>
+            {{-- <h2 class="title_h1">Sim hợp mệnh Thổ</h2>
             <div class="row listSim list_sim_item">
                 <div class="col-6 col-sm-6 col-md-6">
                     <div class="main_box_sim_item">
@@ -951,7 +951,7 @@
             </div>
             <div>
                 <a class="read-more" href="">Xem thêm (11849) sim </a>
-            </div>
+            </div> --}}
         </section>
     </div>
     <section class="">

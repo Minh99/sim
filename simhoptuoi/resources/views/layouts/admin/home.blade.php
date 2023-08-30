@@ -70,6 +70,15 @@
     <div style="color: green; text-align: center; font-size: 20px; margin-top: 20px;">
         {{ session('success') }}
     </div>
-@endif
+    @endif
+    <p>
+        <a target="_blank" href="https://docs.google.com/spreadsheets/d/1ciF6dUtKdZtt37A6_uG2t7oHlXxNQ-DENOMUI-xzgn0/edit#gid=0">Link Bói sim</a>
+    </p>
+    <p>
+        <a target="_blank" href="https://docs.google.com/spreadsheets/d/1XmpBOmLi-6bqwrp06gG9d9zNgSxFhXcDXHLtY6vnsFU/edit#gid=541567153">Link Danh sách sim</a>
+    </p>
+    <p>
+        <a target="_blank" href="https://docs.google.com/spreadsheets/d/1XmpBOmLi-6bqwrp06gG9d9zNgSxFhXcDXHLtY6vnsFU/edit#gid=1443068722">Link Hoá Đơn</a>
+    </p>
 </body>
 </html>

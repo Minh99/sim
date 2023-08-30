@@ -33,14 +33,14 @@ class Sim extends Controller
         }
         $results = [];
         foreach ($data as $key => $value) {
-            if (!empty($duoi_sim)) {
+            if (!empty($duoi_sim) && !empty($value['sdt'])) {
                 if (strpos($value['sdt'], $duoi_sim) !== false) {
                     $results[] = $value;
                     continue;
                 }
             }
 
-            if (!empty($gia_max)) {
+            if (!empty($gia_max) && !empty($value['gia_ban'])) {
                 $gia_max .= '000';
                 $gia_max = $this->functionCommonService->formatGiaBan($gia_max);
                 if (floatval($value['gia_ban']) <= floatval($gia_max)) {
@@ -49,7 +49,7 @@ class Sim extends Controller
                 }
             }
 
-            if (!empty($dau_so)) {
+            if (!empty($dau_so) && !empty($value['sdt'])) {
                 $twoFirstChar = substr($value['sdt'], 0, 2);
                 if (in_array($twoFirstChar, $dau_so)) {
                     $results[] = $value;
@@ -57,7 +57,7 @@ class Sim extends Controller
                 }
             }
 
-            if (!empty($diem_tu) && !empty($diem_den)) {
+            if (!empty($diem_tu) && !empty($diem_den) && !empty($value['diem_phong_thuy'])) {
                 $diem = explode('/', $value['diem_phong_thuy']);
                 if (isset($diem[0])) {
                     $diem = intval($diem[0]);
@@ -72,11 +72,11 @@ class Sim extends Controller
                 }
             }
 
-            if (!empty($loai_sim)) {
+            if (!empty($loai_sim) && !empty($value['loai_sim'])) {
             //    TODO
             }
 
-            if (!empty($nha_mang)) {
+            if (!empty($nha_mang) && !empty($value['nha_mang'])) {
                 $network = match ($value['nha_mang']) {
                     'viettel' => '1',
                     'mobi' => '3',

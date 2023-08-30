@@ -1599,7 +1599,7 @@ h6 {
 }
 
 .boxFormSim .bgFormSim {
-    background: #1d3a5f;
+    background: #af0007 !important;
     color: #fff;
     padding: 30px;
     border-radius: 10px;
@@ -4892,9 +4892,10 @@ h3.tt_thanchu_h3 {
 }
 
 .boxAside .xem_them_tin {
-    border: 1px solid #0939a6;
+    border: 2px solid #dc3545 !important;
     border-radius: 10px;
     text-align: center;
+    color: #dc3545 !important;
 }
 
 .simphongthuy_boisim .wapper_breadcumb {
@@ -5464,4 +5465,8 @@ blockquote {
     border-left: 2px solid #446084;
     font-style: italic;
     color: #333;
+}
+
+.btn_mua {
+    color: #dc3545 !important;
 }

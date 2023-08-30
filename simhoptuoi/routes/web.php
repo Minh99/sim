@@ -91,10 +91,6 @@ Route::get('/tin-sim/{slug}', [NewsController::class, 'simNews'])->name('sim-new
 
 
 
-
-
-
-
 Route::get('/admin/home', function () {
     return view('layouts.admin.home');
 })->name('admin.home');
@@ -104,8 +100,6 @@ Route::post('/sync', [App\Http\Controllers\GoogleSheetsController::class, 'sync'
 Route::get('/coming-soon', function () {
     return view('layouts.coming-soon');
 })->name('coming-soon');
-
-
 
 
 Route::match(['get', 'post'], '/boi-sim', [BoiSim::class, 'index'])->name('boi-sim');

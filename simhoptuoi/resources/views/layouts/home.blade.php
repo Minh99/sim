@@ -375,11 +375,11 @@
                                 <img src="{{  asset('common/templates/site/images/logo_network/vinaphone.png')}}" alt="">
                             </div>
                         </div>
-                        <div class="select-network" data-type="2">
+                        {{-- <div class="select-network" data-type="2">
                             <div class="item_network" data-id="6" id="6" name="itelecom">
                                 <img src="{{  asset('common/templates/site/images/logo_network/itelecom.png')}}" alt="">
                             </div>
-                        </div>
+                        </div> --}}
                         <div class="select-network" data-type="2">
                             <div class="item_network" data-id="5" id="5" name="gmobile">
                                 <img src="{{  asset('common/templates/site/images/logo_network/gmobile.png')}}" alt="">
@@ -390,11 +390,11 @@
                                 <img src="{{  asset('common/templates/site/images/logo_network/vietnammobile.png')}}" alt="">
                             </div>
                         </div>
-                        <div class="select-network" data-type="2">
+                        {{-- <div class="select-network" data-type="2">
                             <div class="item_network" data-id="7" id="7" name="reddi">
                                 <img src="{{  asset('common/templates/site/images/logo_network/reddi.png')}}" alt="">
                             </div>
-                        </div>
+                        </div> --}}
 
                     </div>
                 </div>
@@ -515,10 +515,10 @@
                             html += '</div>';
                             html += '<div class="row">';
                             html += '<div class="col-6 col-sm-6 col-md-6">';
-                            html += `<p class="btnmua"><a href="/chi-tiet-sim/${sdt}" class="btn_mua">Chi tiết <b>>></b></a></p>`;
+                            html += `<p class="btnmua pt-2"><a href="/chi-tiet-sim/${sdt}" class="btn_mua">Chi tiết <b>>></b></a></p>`;
                             html += '</div>';
                             html += '<div class="col-6 col-sm-6 col-md-6">';
-                            html += `<p class="btnmua btn_mua2"><a href="/chi-tiet-sim/${sdt}" class="btn_mua">Mua ngay <strong>>></strong></a></p>`;
+                            html += `<p class="btnmua btn_mua2 text-right pt-2"><a href="/chi-tiet-sim/${sdt}" class="btn_mua">Mua ngay <strong>>></strong></a></p>`;
                             html += '</div>';
                             html += '</div>';
                             html += '</div>';
