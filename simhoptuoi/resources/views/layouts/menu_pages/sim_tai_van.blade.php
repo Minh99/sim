@@ -89,7 +89,7 @@
         <section class="boxForm fullwidth">
             <div class="bodyForm">
                 <div class="textTopHome slimContentText">
-                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><a href="https://simhoptuoi.com.vn/sim-phong-thuy-hop-tuoi-kich-tai-van.html"><strong>Sim t&agrave;i lộc</strong></a></u> ng&agrave;y c&agrave;ng được nhiều người y&ecirc;u th&iacute;ch v&agrave; t&igrave;m chọn sử dụng bởi những &yacute; nghĩa may mắn, đem lại cho chủ nh&acirc;n những gi&aacute; trị tốt l&agrave;nh trong l&agrave;m ăn, kinh doanh. Hiện nay, khi b&agrave;n luận về sim k&iacute;ch t&agrave;i vận, nhiều người cho rằng đ&acirc;y l&agrave; những d&atilde;y số điện thoại chứa c&aacute;c bộ số đặc biệt như 68 - 68, 8683, 38 - 78, 39 - 79,... Vậy liệu quan niệm n&agrave;y c&oacute; đ&uacute;ng hay kh&ocirc;ng xin mời c&ugrave;ng t&igrave;m hiểu:&nbsp;</span></span>
+                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><a href=""><strong>Sim t&agrave;i lộc</strong></a></u> ng&agrave;y c&agrave;ng được nhiều người y&ecirc;u th&iacute;ch v&agrave; t&igrave;m chọn sử dụng bởi những &yacute; nghĩa may mắn, đem lại cho chủ nh&acirc;n những gi&aacute; trị tốt l&agrave;nh trong l&agrave;m ăn, kinh doanh. Hiện nay, khi b&agrave;n luận về sim k&iacute;ch t&agrave;i vận, nhiều người cho rằng đ&acirc;y l&agrave; những d&atilde;y số điện thoại chứa c&aacute;c bộ số đặc biệt như 68 - 68, 8683, 38 - 78, 39 - 79,... Vậy liệu quan niệm n&agrave;y c&oacute; đ&uacute;ng hay kh&ocirc;ng xin mời c&ugrave;ng t&igrave;m hiểu:&nbsp;</span></span>
                     </p>
                 </div>
             </div>
@@ -148,7 +148,7 @@
                     </div>
                 </div>
                 <div>
-                    <a class="read-more" href="https://simhoptuoi.com.vn/xem-phong-thuy-sim/sim-phong-thuy-hop-tuoi-kich-tai-van.html">Xem thêm (10524) sim </a>
+                    <a class="read-more" href="">Xem thêm (10524) sim </a>
                 </div>
             </section>
         </div>
@@ -187,19 +187,19 @@
                                 /> &nbsp;
                             </p>
 
-                            <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Ngo&agrave;i sim thăng quan tiến chức, qu&yacute; bạn c&oacute; thể kết hợp với những loại sim theo mục đ&iacute;ch kh&aacute;c như sau:</span></span></strong></em></p>
+{{--                            <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Ngo&agrave;i sim thăng quan tiến chức, qu&yacute; bạn c&oacute; thể kết hợp với những loại sim theo mục đ&iacute;ch kh&aacute;c như sau:</span></span></strong></em></p>--}}
 
-                            <ul dir="ltr">
-                                <li style="text-align:justify">
-                                    <p><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/sim-phong-thuy-hop-tuoi-kich-gia-dao-tinh-yeu.html">Sim k&iacute;ch t&igrave;nh duy&ecirc;n gia đạo</a></span></span></strong></u></p>
-                                </li>
-                                <li style="text-align:justify">
-                                    <p><a href="https://simhoptuoi.com.vn/sim-phong-thuy-hop-tuoi-kich-tai-van.html"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim t&agrave;i lộc may mắn</span></span></strong></u></a></p>
-                                </li>
-                                <li style="text-align:justify">
-                                    <p><a href="https://simhoptuoi.com.vn/sim-phong-thuy-hop-tuoi-hoa-giai-van-han.html"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim h&oacute;a giải vận hạn</span></span></strong></u></a></p>
-                                </li>
-                            </ul>
+{{--                            <ul dir="ltr">--}}
+{{--                                <li style="text-align:justify">--}}
+{{--                                    <p><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/sim-phong-thuy-hop-tuoi-kich-gia-dao-tinh-yeu.html">Sim k&iacute;ch t&igrave;nh duy&ecirc;n gia đạo</a></span></span></strong></u></p>--}}
+{{--                                </li>--}}
+{{--                                <li style="text-align:justify">--}}
+{{--                                    <p><a href="https://simhoptuoi.com.vn/sim-phong-thuy-hop-tuoi-kich-tai-van.html"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim t&agrave;i lộc may mắn</span></span></strong></u></a></p>--}}
+{{--                                </li>--}}
+{{--                                <li style="text-align:justify">--}}
+{{--                                    <p><a href="https://simhoptuoi.com.vn/sim-phong-thuy-hop-tuoi-hoa-giai-van-han.html"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim h&oacute;a giải vận hạn</span></span></strong></u></a></p>--}}
+{{--                                </li>--}}
+{{--                            </ul>--}}
 
                             <h2 dir="ltr" style="text-align:justify"><span style="color:#FF0000"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span id="ii-cach-chon-sim-tai-loc-chinh-xac-theo-5-yeu-tophong-thuy">II. C&aacute;ch chọn sim t&agrave;i lộc ch&iacute;nh x&aacute;c theo 5 yếu tố&nbsp;phong thủy</span></span>
                                                         </span>
@@ -307,10 +307,6 @@
                             <ul>
                                 <li dir="ltr">
                                     <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">C&oacute; tổng n&uacute;t nằm trong khoảng l&yacute; tưởng từ 7 đến 10 điểm l&agrave; tốt nhất.&nbsp;</span></span>
-                                    </p>
-                                </li>
-                                <li dir="ltr">
-                                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">D&atilde;y sim c&oacute; chứa c&aacute;c bộ số đẹp theo quan niệm d&acirc;n gian bao gồm cặp <u><strong><a href="https://simhoptuoi.com.vn/tin-sim/y-nghia-so-loc-phat-la-so-may.html">số lộc ph&aacute;t - ph&aacute;t lộc</a></strong></u> (68 - 86), <u><strong><a href="https://simhoptuoi.com.vn/tin-sim/so-ong-dia-la-so-may.html">số &Ocirc;ng Địa</a></strong></u> 38 - 78, <u><strong><a href="https://simhoptuoi.com.vn/tin-sim/so-than-tai-la-so-may.html">số Thần T&agrave;i</a></strong></u> 39 - 79, bộ số tiến, bộ tam hoa, tứ qu&yacute;,....</span></span>
                                     </p>
                                 </li>
                             </ul>

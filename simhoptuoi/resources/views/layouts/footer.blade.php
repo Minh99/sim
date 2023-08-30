@@ -6,7 +6,7 @@
                     <div class="col col-12 col-md-4">
                         <a style="font-size: 25px" class="text-white text-bold pl-4 text-center" href="/">
                             {{-- <img src="{{  asset('common/templates/site/images/Simhoptuoi-logo.png')}}" alt="Sim Hơp Tuổi"> --}}
-                                BOI SIM KINH DICH
+                            BOI SIM KINH DICH
                         </a>
                         <p class="copyright">© simhoptuoi.com.vn 2023. All Rights Reserved. </p>
                     </div>
@@ -14,21 +14,21 @@
                         <div class="row">
                             <div class="col col-sm-6 col-6 col-md-6">
                                 <ul class="link-footer">
-                                    <li><a href="https://simhoptuoi.com.vn/mua-hang-va-thanh-toan.html">Mua
+                                    <li><a href="">Mua
                                             hàng & Thanh toán</a></li>
-                                    <li><a href="https://simhoptuoi.com.vn/chinh-sach-van-chuyen.html">Chính
+                                    <li><a href="">Chính
                                             sách vận chuyển</a></li>
-                                    <li><a href="https://simhoptuoi.com.vn/chinh-sach-doi-tra.html">Chính
+                                    <li><a href="">Chính
                                             sách đổi trả sim</a></li>
                                 </ul>
                             </div>
                             <div class="col col-sm-6 col-6 col-md-6">
                                 <ul class="link-footer">
-                                    <li><a href="https://simhoptuoi.com.vn/chinh-sach-bao-hanh.html">Chính
+                                    <li><a href="">Chính
                                             sách bảo hành</a></li>
-                                    <li><a href="https://simhoptuoi.com.vn/chinh-sach-bao-mat.html">Chính
+                                    <li><a href="">Chính
                                             sách bảo mật</a></li>
-                                    <li><a href="https://simhoptuoi.com.vn/dieu-khoan-va-dieu-kien.html">Điều
+                                    <li><a href="">Điều
                                             khoản & Điều kiện </a></li>
                                 </ul>
                             </div>
