@@ -9,11 +9,11 @@
                 Sim hợp mệnh
             </a>
             <div class="dropdown-menu" aria-labelledby="simHopMenh">
-                <a href="{{ route('sim-hop-menh-kim') }}">Sim mệnh Kim</a>
-                <a href="{{ route('sim-hop-menh-moc') }}">Sim mệnh Mộc</a>
-                <a href="{{ route('sim-hop-menh-thuy') }}">Sim mệnh Thủy</a>
-                <a href="{{ route('sim-hop-menh-hoa') }}">Sim mệnh Hỏa</a>
-                <a href="{{ route('sim-hop-menh-tho') }}">Sim mệnh Thổ</a>
+                <a href="{{ route('menu-page', ['slug' => 'sim_menh_kim']) }}">Sim mệnh Kim</a>
+                <a href="{{ route('menu-page', ['slug' => 'sim_menh_moc']) }}">Sim mệnh Mộc</a>
+                <a href="{{ route('menu-page', ['slug' => 'sim_menh_thuy']) }}">Sim mệnh Thủy</a>
+                <a href="{{ route('menu-page', ['slug' => 'sim_menh_hoa']) }}">Sim mệnh Hỏa</a>
+                <a href="{{ route('menu-page', ['slug' => 'sim_menh_tho']) }}">Sim mệnh Thổ</a>
             </div>
         </li>
         <li class="nav-item dropdown">
@@ -21,13 +21,13 @@
                 Sim theo mong cầu
             </a>
             <div class="dropdown-menu" aria-labelledby="simTheoMongCau">
-                <a href="{{ route('sim-thang-quan-tien-chuc') }}">Sim
+                <a href="{{ route('menu-page', ['slug' => 'sim_thang_quan']) }}">Sim
                     thăng quan tiến chức</a>
-                <a href="{{ route('sim-kich-tai-van') }}">Sim phong thủy
+                <a href="{{ route('menu-page', ['slug' => 'sim_tai_van']) }}">Sim phong thủy
                     kích tài vận</a>
-                <a href="{{ route('sim-tinh-duyen-gia-dao') }}">Sim kích
+                <a href="{{ route('menu-page', ['slug' => 'sim_tinh_duyen_gia_dao']) }}">Sim kích
                     gia đạo tình duyên</a>
-                <a href="{{ route('sim-xoa-giai-han') }}">Sim hóa giải
+                <a href="{{ route('menu-page', ['slug' => 'sim_xoa_giai_han']) }}">Sim hóa giải
                     vận hạn theo tuổi</a>
             </div>
         </li>

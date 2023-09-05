@@ -81,13 +81,13 @@
                     <li class="toc2"><a href="#3-cach-chon-sim-hop-menh-hoa-chinh-xac-theo-5-yeu-to-vang">3. C&aacute;ch chọn sim hợp mệnh Hỏa ch&iacute;nh x&aacute;c theo 5 yếu tố v&agrave;ng</a></li>
                     <li class="toc2"><a href="#4-danh-sach-04-loai-sim-phong-thuy-hop-menh-hoa-pho-bien-hien-nay">4. Danh s&aacute;ch 04 loại sim phong thủy hợp mệnh Hỏa phổ biến hiện nay</a></li>
                     <li class="toc2"><a href="#5-tong-hop-03-cach-chon-sim-hop-menh-hoa-sai-lech">5. Tổng hợp 03 c&aacute;ch chọn sim hợp mệnh Hỏa sai lệch</a></li>
-                    <li class="toc2"><a href="#6-kho-5000-so-sim-hop-menh-hoa-tai-simhoptuoi-com-vn">6. Kho 5000+ Số sim hợp mệnh Hỏa tại Simhoptuoi.com.vn</a></li>
+                    <li class="toc2"><a href="#6-kho-5000-so-sim-hop-menh-hoa-tai-simhoptuoi-com-vn">6. Kho Số sim hợp mệnh Hỏa tại boisimkinhdich.com</a></li>
                 </ul>
             </section>
         </div>
     </div>
     <div class="textTopHome slimContentText">
-        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="">Sim hợp mệnh Hỏa</a></strong></u><strong> </strong>theo quan niệm của nhiều người l&agrave; d&atilde;y sim mang xuất hiện nhiều con số hợp mệnh (số 9); số (3, 4). Đ&acirc;y l&agrave; những d&atilde;y sim mang đến nhiều nhiều c&aacute;t lợi, sử dụng c&ocirc;ng việc sẽ được hanh th&ocirc;ng, thuận buồm xu&ocirc;i gi&oacute;, t&agrave;i lộc dồi d&agrave;o, gia đạo h&ograve;a hợp. Tuy nhi&ecirc;n theo chuy&ecirc;n gia phong thủy quan niệm n&agrave;y sai lầm v&igrave; con số hợp mệnh chỉ đứng một m&igrave;nh, c&ograve;n khi đứng trong sim th&igrave; &yacute; nghĩa sẽ bị thay đổi. Vậy c&aacute;ch chọn số điện thoại hợp mệnh Hỏa như n&agrave;o ch&iacute;nh x&aacute;c th&igrave; mời qu&yacute; bạn tham khảo tại nội dun của dưới đ&acirc;y.&nbsp;</span></span>
+        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong>Sim hợp mệnh Hỏa</strong></u><strong> </strong>theo quan niệm của nhiều người l&agrave; d&atilde;y sim mang xuất hiện nhiều con số hợp mệnh (số 9); số (3, 4). Đ&acirc;y l&agrave; những d&atilde;y sim mang đến nhiều nhiều c&aacute;t lợi, sử dụng c&ocirc;ng việc sẽ được hanh th&ocirc;ng, thuận buồm xu&ocirc;i gi&oacute;, t&agrave;i lộc dồi d&agrave;o, gia đạo h&ograve;a hợp. Tuy nhi&ecirc;n theo chuy&ecirc;n gia phong thủy quan niệm n&agrave;y sai lầm v&igrave; con số hợp mệnh chỉ đứng một m&igrave;nh, c&ograve;n khi đứng trong sim th&igrave; &yacute; nghĩa sẽ bị thay đổi. Vậy c&aacute;ch chọn số điện thoại hợp mệnh Hỏa như n&agrave;o ch&iacute;nh x&aacute;c th&igrave; mời qu&yacute; bạn tham khảo tại nội dun của dưới đ&acirc;y.&nbsp;</span></span>
         </p>
 
         <h2 dir="ltr" style="text-align:justify"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="1-phong-thuy-nguoi-menh-hoa">1. Phong thủy người mệnh hỏa</span></span>
@@ -1047,7 +1047,7 @@
             <p><span style="font-size:14px"><strong>Đ&aacute;nh gi&aacute; của chuy&ecirc;n gia: </strong>Phương ph&aacute;p chọn sim hợp người mệnh Hỏa theo ph&eacute;p chia chỉ mang t&iacute;nh tham khảo, giải tr&iacute; v&igrave; đu&ocirc;i số kh&ocirc;ng thể quyết định cả d&atilde;y sim v&agrave; ph&eacute;p t&iacute;nh n&agrave;y chưa được kiểm chứng c&oacute; độ ch&iacute;nh x&aacute;c cao</span></p>
         </blockquote>
 
-        <h2 dir="ltr" style="text-align:justify"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="6-kho-5000-so-sim-hop-menh-hoa-tai-simhoptuoi-com-vn">6. Kho 5000+ Số sim hợp mệnh Hỏa tại Simhoptuoi.com.vn</span></span>
+        <h2 dir="ltr" style="text-align:justify"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="6-kho-5000-so-sim-hop-menh-hoa-tai-simhoptuoi-com-vn">6. Kho Số sim hợp mệnh Hỏa tại đây</span></span>
                 </strong>
             </span>
         </h2>
@@ -1057,8 +1057,6 @@
 
         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Với t&iacute;nh năng đặc biệt n&agrave;y, c&aacute;c số điện thoại hợp mệnh hỏa đ&atilde; thu h&uacute;t được sự quan t&acirc;m của rất nhiều kh&aacute;ch h&agrave;ng, đặc biệt l&agrave; những người tin v&agrave;o sự huyền b&iacute; v&agrave; t&aacute;c động của phong thủy đến cuộc sống v&agrave; c&ocirc;ng việc của m&igrave;nh.</span></span>
         </p>
-
-        <p dir="ltr" style="text-align:justify"><em><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Để gi&uacute;p c&aacute;c kh&aacute;ch h&agrave;ng dễ d&agrave;ng chọn sim phong thủy hợp mệnh hỏa th&igrave; mời qu&yacute; bạn h&atilde;y đến với bảng +5000 số sim phong thủy của</span></span></em></p>
     </div>
     <section class="boxForm fullwidth">
         <div class="bodyForm">
@@ -1066,65 +1064,52 @@
         </div>
     </section>
 
-
-
+    @if (count($data) > 0)
     <div class="nopadding sim_collection">
-
         <section class="list_sim">
-
-            <!-- khi vào link page sẽ tự động scroll xuống phần bảng sim -->
-            {{-- <h2 class="title_h1">Sim hợp mệnh Hỏa</h2>
+            <h2 class="title_h1">Sim hợp mệnh Hỏa</h2>
             <div class="row listSim list_sim_item">
+                @foreach ($data as $item)
+                @php
+                    $logo_nha_mang = 'common/templates/site/images/icon/1.gif';
+                    if ($item['nha_mang'] == "mobi") {
+                        $logo_nha_mang = 'common/templates/site/images/icon/3.gif';
+                    } else if ($item['nha_mang'] == "vinaphone") {
+                        $logo_nha_mang = 'common/templates/site/images/icon/2.gif';
+                    } else if ($item['nha_mang'] == "gmobile") {
+                        $logo_nha_mang = 'common/templates/site/images/icon/5.gif';
+                    } else if ($item['nha_mang'] == "vietnamobile") {
+                        $logo_nha_mang = 'common/templates/site/images/icon/4.gif';
+                    }
+                @endphp
                 <div class="col-6 col-sm-6 col-md-6">
                     <div class="main_box_sim_item">
                         <div class="row">
                             <div class="col-12 col-sm-12 col-md-6">
-                                <p class="so"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0836875168.html">0836.875.168</a></p>
+                                <p class="so"><a href="{{ route('detail-sim', ['sdt' => $item['sdt']]) }}">{{ $item['sdt'] }}</a></p>
                             </div>
-                            <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img alt="" src="https://simhoptuoi.com.vn/templates/site/images/icon/2.gif" /></div>
+                            <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img alt="" src="{{ asset($logo_nha_mang) }}" /></div>
                         </div>
-                        <p class="vuong"><strong>Điểm phong thủy sim: </strong> 8/10</p>
-                        <p class="price"><b>Giá: </b>1,399,000 VND</p>
-                        <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">Mộc</span></p>
-                        <p class="yn"><strong>Quẻ Kinh dịch: </strong>Thiên Hỏa Đồng Nhân (同人 tóng rén)</p>
+                        <p class="vuong"><strong>Điểm phong thủy sim: </strong> {{ $item['diem_phong_thuy'] }}</p>
+                        <p class="price"><b>Giá: </b>{{ $item['gia_ban'] }}</p>
+                        <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">{{ $item['ngu_hanh'] }}</span></p>
+                        <p class="yn"><strong>Quẻ Kinh dịch: </strong>{{ $item['que'] }}</p>
                         <div class="row">
                             <div class="col-6 col-sm-6 col-md-6">
-                                <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0836875168.html" class="btn_mua">Chi tiết <b>>></b></a></p>
+                                <p class="btnmua"><a href="{{ route('detail-sim', ['sdt' => $item['sdt']]) }}" class="btn_mua">Chi tiết <b>>></b></a></p>
                             </div>
                             <div class="col-6 col-sm-6 col-md-6">
-                                <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0836875168.html" class="btn_mua">Mua ngay <b>>></b></a></p>
+                                <p class="btnmua"><a href="{{ route('detail-sim', ['sdt' => $item['sdt']]) }}" class="btn_mua">Mua ngay <b>>></b></a></p>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-6 col-sm-6 col-md-6">
-                    <div class="main_box_sim_item">
-                        <div class="row">
-                            <div class="col-12 col-sm-12 col-md-6">
-                                <p class="so"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0366761388.html">0366.761.388</a></p>
-                            </div>
-                            <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img alt="" src="https://simhoptuoi.com.vn/templates/site/images/icon/1.gif" /></div>
-                        </div>
-                        <p class="vuong"><strong>Điểm phong thủy sim: </strong> 10/10</p>
-                        <p class="price"><b>Giá: </b>3,380,000 VND</p>
-                        <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">Mộc</span></p>
-                        <p class="yn"><strong>Quẻ Kinh dịch: </strong>Thủy Trạch Tiết (節 jié)</p>
-                        <div class="row">
-                            <div class="col-6 col-sm-6 col-md-6">
-                                <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0366761388.html" class="btn_mua">Chi tiết <b>>></b></a></p>
-                            </div>
-                            <div class="col-6 col-sm-6 col-md-6">
-                                <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0366761388.html" class="btn_mua">Mua ngay <b>>></b></a></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                @endforeach
             </div>
-            <div>
-                <a class="read-more" href="">Xem thêm (12588) sim </a>
-            </div> --}}
         </section>
     </div>
+    @endif
+
     <section class="">
         <div class="">
             <div class="row">

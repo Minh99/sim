@@ -8,7 +8,7 @@
                             {{-- <img src="{{  asset('common/templates/site/images/Simhoptuoi-logo.png')}}" alt="Sim Hơp Tuổi"> --}}
                             BOI SIM KINH DICH
                         </a>
-                        <p class="copyright">© simhoptuoi.com.vn 2023. All Rights Reserved. </p>
+                        <p class="copyright">© boisimkinhdich.com 2023. All Rights Reserved. </p>
                     </div>
                     <div class="col col-12 col-md-5">
                         <div class="row">
@@ -36,7 +36,7 @@
                     </div>
                     <div class="col col-12 col-md-3">
                         <p class="f-address">
-                            Địa chỉ: Số 25 Tô Vĩnh Diện, Phường Khương Trung, Quận Thanh Xuân, Hà Nội.<br /> Hotline: <a class="hotline" href="tel:xxxxxxx">xxxx.xxx.xxx</a>
+                            Địa chỉ: 173 đường Hiệp Bình, Phường Hiệp Bình Chánh, Tp.Thủ Đức, HCM.<br /> Hotline: <a class="hotline" href="tel:0865194419">0865194419</a>
                         </p>
                         <p>
                             <span class="f-dangky">100% Đăng ký chính chủ</span>

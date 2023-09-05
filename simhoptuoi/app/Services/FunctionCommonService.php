@@ -39,7 +39,7 @@ class FunctionCommonService {
 
     public function getSimData()
     {
-        $spreadsheetId = env('GOOGLE_SHEETS_SPREADSHEET_ID_SIM_DATA');
+        $spreadsheetId = 'sdt';
         $jsonData = $this->getDataBySpreadsheetId($spreadsheetId);
         return $jsonData;
     }

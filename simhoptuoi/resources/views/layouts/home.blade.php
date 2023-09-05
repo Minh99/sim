@@ -486,6 +486,7 @@
                         }
                         $('.result-filter').attr('style', 'display: flex !important');
                         data.forEach(function(item) {
+                            console.log(item);
                             let logo_nha_mang = '1.gif';
                             if (item['nha_mang'] == "mobi") {
                                 logo_nha_mang = '3.gif';
@@ -512,7 +513,7 @@
                             html += '</div>';
                             html += `<p class="vuong"><strong>Điểm phong thủy sim: </strong> ${item['diem_phong_thuy']}</p>`;
                             html += `<p class="price"><b>Giá: </b>${item['gia_ban']} VND</p>`;
-                            html += `<p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">${item['que_chinh']}</span></p>`;
+                            html += `<p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">${item['ngu_hanh']}</span></p>`;
                             html += `<p class="yn"><strong>Quẻ Kinh dịch: </strong>${item['que']}</p>`;
                             html += '</div>';
                             html += '<div class="row">';
@@ -555,7 +556,7 @@
         </script>  
 
         <div class="content_home">
-            <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><u><a href="">Sim hợp tuổi</a></u></strong> đ&atilde; kh&ocirc;ng c&ograve;n qu&aacute; xa lạ với phần lớn người sử dụng điện thoại. Bởi đ&acirc;y l&agrave; loại sim sở hữu đầy đủ c&aacute;c yếu tố phong thủy ph&ugrave; hợp với người d&ugrave;ng n&ecirc;n sẽ c&oacute; khả năng thu h&uacute;t c&aacute;t kh&iacute;, tăng may giải xui. Tuy nhi&ecirc;n, d&atilde;y sim phong thủy hợp tuổi chỉ thực sự ph&aacute;t huy khả năng của m&igrave;nh khi được lựa chọn v&agrave; sử dụng đ&uacute;ng c&aacute;ch.</span></span>
+            <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><u>Sim hợp tuổi</u></strong> đ&atilde; kh&ocirc;ng c&ograve;n qu&aacute; xa lạ với phần lớn người sử dụng điện thoại. Bởi đ&acirc;y l&agrave; loại sim sở hữu đầy đủ c&aacute;c yếu tố phong thủy ph&ugrave; hợp với người d&ugrave;ng n&ecirc;n sẽ c&oacute; khả năng thu h&uacute;t c&aacute;t kh&iacute;, tăng may giải xui. Tuy nhi&ecirc;n, d&atilde;y sim phong thủy hợp tuổi chỉ thực sự ph&aacute;t huy khả năng của m&igrave;nh khi được lựa chọn v&agrave; sử dụng đ&uacute;ng c&aacute;ch.</span></span>
             </p>
 
             <h2 dir="ltr" style="text-align:justify"><span style="color:#FF0000"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">I. Sim hợp tuổi l&agrave; g&igrave;?</span></span>
@@ -677,7 +678,7 @@
                 </li>
             </ul>
 
-            <h3 dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">2. Theo phần mềm t&igrave;m sim hợp tuổi</span></span></strong></em></h3>
+            <h3 dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">2. Theo phần mềm t&igrave;m bói sim kinh dịch</span></span></strong></em></h3>
 
             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">C&oacute; thể thấy việc luận sim theo 05 yếu tổ cổ học phương đ&ocirc;ng sau đ&oacute; tổng hợp lại v&agrave; đưa ra lựa chọn d&atilde;y sim hợp tuổi tương đối phức tạp, n&oacute; đ&ograve;i hỏi người luận phải am hiểu kiến thức phong thủy. Do đ&oacute;, kh&ocirc;ng phải bất cứ ai cũng c&oacute; thể tự m&igrave;nh luận giải v&agrave; cho ra được kết quả ch&iacute;nh x&aacute;c n&ecirc;n sử dụng phần mềm chọn số điện thoại hợp tuổi online l&agrave; một giải ph&aacute;p tối ưu hơn cả. Những ưu điểm khi sử dụng phần mềm chọn sim theo tuổi như sau:</span></span>
             </p>
@@ -706,7 +707,7 @@
             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">+ <strong>Bước 3: </strong>Đọc kết quả v&agrave; đưa ra lựa chọn ph&ugrave; hợp.</span></span>
             </p>
 
-            <p dir="ltr" style="text-align:justify"><em><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt;Hoặc qu&yacute; bạn c&oacute; thể sử dụng ngay phần mềm&nbsp;<u><strong><a href="">SIM PHONG THỦY</a></strong></u>&nbsp;để chấm điểm d&atilde;y sim đang sở hữu theo 5 yếu tố dự b&aacute;o cổ tr&ecirc;n.</span></span></em></p>
+            <p dir="ltr" style="text-align:justify"><em><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt;Hoặc qu&yacute; bạn c&oacute; thể sử dụng ngay phần mềm&nbsp;<u><strong><a href="{{ route('boi-sim') }}">SIM PHONG THỦY</a></strong></u>&nbsp;để chấm điểm d&atilde;y sim đang sở hữu theo 5 yếu tố dự b&aacute;o cổ tr&ecirc;n.</span></span></em></p>
 
             <h2 dir="ltr" style="text-align:justify"><span style="color:#FF0000"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">V. Những c&aacute;ch t&igrave;m mua sim hợp tuổi kh&ocirc;ng ch&iacute;nh x&aacute;c</span></span>
                 </strong>
@@ -746,8 +747,6 @@
 
             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&rarr; <strong>Điểm bất cập:</strong> Kh&ocirc;ng thể dựa v&agrave;o ngũ h&agrave;nh của 1 hay 1 v&agrave;i con số để x&aacute;c định ngũ h&agrave;nh của d&atilde;y sim. Ngũ h&agrave;nh sim số hợp tuổi phải x&aacute;c định dựa tr&ecirc;n tổng h&ograve;a 10 con số theo phương ph&aacute;p Lục Thập Hoa Gi&aacute;p.</span></span>
             </p>
-
-            <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt;Xem chi tiết con số hợp với bản th&acirc;n tại c&ocirc;ng cụ [ <u><a href="">xem số hợp tuổi</a></u> ]&nbsp;</span></span></strong></em></p>
 
             <h3 dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">2. C&aacute;ch chọn sim hợp tuổi theo năm sinh</span></span></strong></em></h3>
 
@@ -821,12 +820,12 @@
             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Học thuyết &acirc;m dương l&agrave; một trong những học thuyết cổ, l&agrave; khởi nguồn của ngũ h&agrave;nh v&agrave; kinh dịch. Do đ&oacute;, t&igrave;m sim phong thủy hợp tuổi với mong muốn cải biến vận số m&agrave; kh&ocirc;ng x&eacute;t c&acirc;n bằng &acirc;m dương ch&iacute;nh l&agrave; sự thiếu s&oacute;t lớn. Bởi &acirc;m dương tương phối ch&iacute;nh l&agrave; yếu tố ti&ecirc;n quyết để biết d&atilde;y sim c&oacute; ph&ugrave; hợp với người d&ugrave;ng kh&ocirc;ng.</span></span>
             </p>
 
-            <h2 dir="ltr" style="text-align:justify"><span style="color:#FF0000"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">VII. Simhoptuoi.com.vn - Địa chỉ t&igrave;m mua số điện thoại hợp với tuổi uy t&iacute;n</span></span>
+            <h2 dir="ltr" style="text-align:justify"><span style="color:#FF0000"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">VII. boisimkinhdich.com - Địa chỉ t&igrave;m mua số điện thoại hợp với tuổi uy t&iacute;n</span></span>
                 </strong>
                 </span>
             </h2>
 
-            <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Nếu bạn muốn t&igrave;m chọn sim theo tuổi th&igrave; c&oacute; thể tham khảo kho sim của Simhoptuoi.com.vn. Những lợi &iacute;ch khi mua sim tại Sim Hợp Tuổi c&oacute; thể kể đến như:</span></span>
+            <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Nếu bạn muốn t&igrave;m chọn sim theo tuổi th&igrave; c&oacute; thể tham khảo kho sim của boisimkinhdich.com. Những lợi &iacute;ch khi mua sim tại Sim Hợp Tuổi c&oacute; thể kể đến như:</span></span>
             </p>
 
             <ul>
@@ -839,12 +838,12 @@
                     </p>
                 </li>
                 <li dir="ltr">
-                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">To&agrave;n bộ sim số hợp tuổi trong kho sim của simhoptuoi.com.vn đều được chuy&ecirc;n gia phong thủy trực tiếp luận giải v&agrave; lựa chọn dựa tr&ecirc;n 05 yếu tố phong thủy. V&igrave; thế, đảm bảo người d&ugrave;ng c&oacute; thể nhận được kết quả tốt nhất khi chọn mua v&agrave; sử dụng sim điện thoại tại Sim Hợp Tuổi.</span></span>
+                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">To&agrave;n bộ sim số hợp tuổi trong kho sim của boisimkinhdich.com đều được chuy&ecirc;n gia phong thủy trực tiếp luận giải v&agrave; lựa chọn dựa tr&ecirc;n 05 yếu tố phong thủy. V&igrave; thế, đảm bảo người d&ugrave;ng c&oacute; thể nhận được kết quả tốt nhất khi chọn mua v&agrave; sử dụng sim điện thoại tại Sim Hợp Tuổi.</span></span>
                     </p>
                 </li>
             </ul>
 
-            <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Với những th&ocirc;ng tin về c&aacute;ch t&igrave;m <strong>sim hợp tuổi</strong> m&agrave; chuy&ecirc;n gia phong thủy của simhoptuoi.com.vn cung cấp th&igrave; người d&ugrave;ng c&oacute; thể biết c&aacute;ch chọn sim ch&iacute;nh x&aacute;c để vận dụng v&agrave; t&igrave;m cho m&igrave;nh một số điện thoại ưng &yacute;. Sử dụng phần mềm chọn số điện thoại hợp tuổi l&agrave; c&aacute;ch gi&uacute;p người d&ugrave;ng r&uacute;t ngắn thời gian luận giải v&agrave; chọn sim ch&iacute;nh x&aacute;c v&agrave; c&oacute; thể đem lại hiệu quả cao trong qu&aacute; tr&igrave;nh sử dụng.</span></span>
+            <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Với những th&ocirc;ng tin về c&aacute;ch t&igrave;m <strong>sim hợp tuổi</strong> m&agrave; chuy&ecirc;n gia phong thủy của boisimkinhdich.com cung cấp th&igrave; người d&ugrave;ng c&oacute; thể biết c&aacute;ch chọn sim ch&iacute;nh x&aacute;c để vận dụng v&agrave; t&igrave;m cho m&igrave;nh một số điện thoại ưng &yacute;. Sử dụng phần mềm chọn số điện thoại hợp tuổi l&agrave; c&aacute;ch gi&uacute;p người d&ugrave;ng r&uacute;t ngắn thời gian luận giải v&agrave; chọn sim ch&iacute;nh x&aacute;c v&agrave; c&oacute; thể đem lại hiệu quả cao trong qu&aacute; tr&igrave;nh sử dụng.</span></span>
             </p>
         </div>
     </section>

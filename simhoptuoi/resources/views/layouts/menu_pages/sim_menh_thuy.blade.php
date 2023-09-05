@@ -87,7 +87,7 @@
         </div>
     </div>
     <div class="textTopHome slimContentText">
-        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="">Sim hợp mệnh Thủy</a> </strong></u>theo quan niệm nhiều nơi l&agrave; d&atilde;y số điện thoại xuất hiện nhiều con số h&agrave;nh Kim (6, 7) v&agrave; số h&agrave;nh Thủy (0, 1). D&atilde;y số điện thoại hợp mệnh Thủy c&oacute; tần suất xuất hiện những con số n&agrave;y c&agrave;ng nhiều th&igrave; c&agrave;ng đem lại may mắn, t&agrave;i lộc cho người mệnh Thủy. Tuy nhi&ecirc;n đối với người am hiểu phong thủy tinh tường th&igrave; quan niệm n&agrave;y ho&agrave;n to&agrave;n sai lầm. V&igrave; một v&agrave;i con số kh&ocirc;ng thể quyết định &yacute; nghĩa cả d&atilde;y sim. Vậy mệnh Thủy hợp số điện thoại n&agrave;o? C&aacute;ch chọn sim phong thủy hợp mệnh Thủy ch&iacute;nh x&aacute;c sẽ được giải đ&aacute;p tại nội dung dưới đ&acirc;y.</span></span>
+        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong>Sim hợp mệnh Thủy</strong></u>theo quan niệm nhiều nơi l&agrave; d&atilde;y số điện thoại xuất hiện nhiều con số h&agrave;nh Kim (6, 7) v&agrave; số h&agrave;nh Thủy (0, 1). D&atilde;y số điện thoại hợp mệnh Thủy c&oacute; tần suất xuất hiện những con số n&agrave;y c&agrave;ng nhiều th&igrave; c&agrave;ng đem lại may mắn, t&agrave;i lộc cho người mệnh Thủy. Tuy nhi&ecirc;n đối với người am hiểu phong thủy tinh tường th&igrave; quan niệm n&agrave;y ho&agrave;n to&agrave;n sai lầm. V&igrave; một v&agrave;i con số kh&ocirc;ng thể quyết định &yacute; nghĩa cả d&atilde;y sim. Vậy mệnh Thủy hợp số điện thoại n&agrave;o? C&aacute;ch chọn sim phong thủy hợp mệnh Thủy ch&iacute;nh x&aacute;c sẽ được giải đ&aacute;p tại nội dung dưới đ&acirc;y.</span></span>
         </p>
 
         <h2 dir="ltr" style="text-align:justify"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="1-so-dien-thoai-hop-menh-thuy-la-gi">1. Số điện thoại hợp mệnh Thủy l&agrave; g&igrave;?</span></span>
@@ -1097,7 +1097,7 @@
         </ul>
 
         <blockquote>
-            <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Kết luận:</strong> Yếu tố quẻ dịch trong phương ph&aacute;p chọn số điện thoại hợp mệnh Thủy l&agrave; một trọng yếu gi&uacute;p qu&yacute; vị chọn được d&atilde;y sim c&oacute; &yacute; nghĩa tốt cho từng phương diện cuộc sống. Tuy nhi&ecirc;n qu&aacute; tr&igrave;nh chọn sim sẽ gặp nhiều kh&oacute; khăn v&igrave; c&aacute;ch t&iacute;nh quẻ kh&aacute; phức tạp. Để hiểu r&otilde; hơn th&igrave; mời qu&yacute; vị h&atilde;y xem ngay tại b&agrave;i <strong><a href="">c&aacute;ch t&iacute;nh quẻ dịch số điện thoại</a></strong> của ch&uacute;ng t&ocirc;i.</span></span>
+            <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Kết luận:</strong> Yếu tố quẻ dịch trong phương ph&aacute;p chọn số điện thoại hợp mệnh Thủy l&agrave; một trọng yếu gi&uacute;p qu&yacute; vị chọn được d&atilde;y sim c&oacute; &yacute; nghĩa tốt cho từng phương diện cuộc sống. Tuy nhi&ecirc;n qu&aacute; tr&igrave;nh chọn sim sẽ gặp nhiều kh&oacute; khăn v&igrave; c&aacute;ch t&iacute;nh quẻ kh&aacute; phức tạp.</span></span>
             </p>
         </blockquote>
 
@@ -1177,24 +1177,6 @@
 
         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Muốn lựa chọn được những d&atilde;y sim phong thủy hợp mệnh Thủy đ&ograve;i hỏi người d&ugrave;ng phải nắm vững c&aacute;c kiến thức về &Acirc;m Dương, Ngũ H&agrave;nh, Kinh dịch, Cửu tinh, &hellip; Điều n&agrave;y khiến người mệnh Thủy cảm thấy kh&oacute; khăn trong việc luận đo&aacute;n.&nbsp;</span></span>
         </p>
-
-        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Để thuận tiện v&agrave; dễ d&agrave;ng hơn trong việc chọn sim, nam nữ mệnh Thủy c&oacute; thể tham khảo phần mềm xem phong thủy sim tại website simhoptuoi.com.vn theo c&aacute;c bước sau:</span></span>
-        </p>
-
-        <ul>
-            <li dir="ltr">
-                <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Bước 1</strong>: Truy cập v&agrave;o c&ocirc;ng cụ &ldquo;<u><strong><a href="">XEM PHONG THỦY SIM</a></strong></u>&rdquo;</span></span>
-                </p>
-            </li>
-            <li dir="ltr">
-                <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Bước 2: </strong>Nhập đầy đủ th&ocirc;ng tin v&agrave;o c&aacute;c trường như số điện thoại, ng&agrave;y th&aacute;ng năm sinh, giới t&iacute;nh.</span></span>
-                </p>
-            </li>
-            <li dir="ltr">
-                <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Bước 3: </strong>Click v&agrave;o n&uacute;t &ldquo;luận phong thủy sim&rdquo;, chờ đợi chốc l&aacute;t, phần mềm sẽ ph&acirc;n t&iacute;ch &yacute; nghĩa d&atilde;y sim đang d&ugrave;ng theo 5 yếu tố phong thủy, sẽ cho qu&yacute; bạn nắm được &yacute; nghĩa hung c&aacute;t c&oacute; ph&ugrave; hợp với bản mệnh thủy của m&igrave;nh kh&ocirc;ng.</span></span>
-                </p>
-            </li>
-        </ul>
 
         <h2 dir="ltr" style="text-align:justify"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="4-tong-hop-7-cach-chon-sim-hop-menh-thuy-sai-lech">4. Tổng hợp 7 c&aacute;ch chọn sim hợp mệnh Thủy sai lệch</span></span>
                 </strong>
@@ -1696,65 +1678,52 @@
         </div>
     </section>
 
-
-
+    @if (count($data) > 0)
     <div class="nopadding sim_collection">
-
         <section class="list_sim">
-
             <!-- khi vào link page sẽ tự động scroll xuống phần bảng sim -->
-            {{-- <h2 class="title_h1">Sim hợp mệnh Thủy</h2>
+            <h2 class="title_h1">Sim hợp mệnh Thủy</h2>
             <div class="row listSim list_sim_item">
+                @foreach ($data as $item)
+                @php
+                    $logo_nha_mang = 'common/templates/site/images/icon/1.gif';
+                    if ($item['nha_mang'] == "mobi") {
+                        $logo_nha_mang = 'common/templates/site/images/icon/3.gif';
+                    } else if ($item['nha_mang'] == "vinaphone") {
+                        $logo_nha_mang = 'common/templates/site/images/icon/2.gif';
+                    } else if ($item['nha_mang'] == "gmobile") {
+                        $logo_nha_mang = 'common/templates/site/images/icon/5.gif';
+                    } else if ($item['nha_mang'] == "vietnamobile") {
+                        $logo_nha_mang = 'common/templates/site/images/icon/4.gif';
+                    }
+                @endphp
                 <div class="col-6 col-sm-6 col-md-6">
                     <div class="main_box_sim_item">
                         <div class="row">
                             <div class="col-12 col-sm-12 col-md-6">
-                                <p class="so"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0778341268.html">0778.341.268</a></p>
+                                <p class="so"><a href="{{ route('detail-sim', ['sdt' => $item['sdt']]) }}">{{ $item['sdt'] }}</a></p>
                             </div>
-                            <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img alt="" src="https://simhoptuoi.com.vn/templates/site/images/icon/3.gif" /></div>
+                            <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img alt="" src="{{ asset($logo_nha_mang) }}" /></div>
                         </div>
-                        <p class="vuong"><strong>Điểm phong thủy sim: </strong> 8/10</p>
-                        <p class="price"><b>Giá: </b>1,399,000 VND</p>
-                        <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">Kim</span></p>
-                        <p class="yn"><strong>Quẻ Kinh dịch: </strong>Thiên Phong Cấu (姤 gòu)</p>
+                        <p class="vuong"><strong>Điểm phong thủy sim: </strong> {{ $item['diem_phong_thuy'] }}</p>
+                        <p class="price"><b>Giá: </b>{{ $item['gia_ban'] }}</p>
+                        <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">{{ $item['ngu_hanh'] }}</span></p>
+                        <p class="yn"><strong>Quẻ Kinh dịch: </strong>{{ $item['que'] }}</p>
                         <div class="row">
                             <div class="col-6 col-sm-6 col-md-6">
-                                <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0778341268.html" class="btn_mua">Chi tiết <b>>></b></a></p>
+                                <p class="btnmua"><a href="{{ route('detail-sim', ['sdt' => $item['sdt']]) }}" class="btn_mua">Chi tiết <b>>></b></a></p>
                             </div>
                             <div class="col-6 col-sm-6 col-md-6">
-                                <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0778341268.html" class="btn_mua">Mua ngay <b>>></b></a></p>
+                                <p class="btnmua"><a href="{{ route('detail-sim', ['sdt' => $item['sdt']]) }}" class="btn_mua">Mua ngay <b>>></b></a></p>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-6 col-sm-6 col-md-6">
-                    <div class="main_box_sim_item">
-                        <div class="row">
-                            <div class="col-12 col-sm-12 col-md-6">
-                                <p class="so"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0766015799.html">0766.015.799</a></p>
-                            </div>
-                            <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img alt="" src="https://simhoptuoi.com.vn/templates/site/images/icon/3.gif" /></div>
-                        </div>
-                        <p class="vuong"><strong>Điểm phong thủy sim: </strong> 7.5/10</p>
-                        <p class="price"><b>Giá: </b>3,570,000 VND</p>
-                        <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">Kim</span></p>
-                        <p class="yn"><strong>Quẻ Kinh dịch: </strong>Hỏa Sơn Lữ (旅 lǚ)</p>
-                        <div class="row">
-                            <div class="col-6 col-sm-6 col-md-6">
-                                <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0766015799.html" class="btn_mua">Chi tiết <b>>></b></a></p>
-                            </div>
-                            <div class="col-6 col-sm-6 col-md-6">
-                                <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0766015799.html" class="btn_mua">Mua ngay <b>>></b></a></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                @endforeach
             </div>
-            <div>
-                <a class="read-more" href="">Xem thêm (9385) sim </a>
-            </div> --}}
         </section>
     </div>
+    @endif
     <section class="">
         <div class="">
             <div class="row">

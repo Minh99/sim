@@ -8,39 +8,39 @@
             {{-- </h3>--}}
             {{-- </li>--}}
             <li>
-                <h3><a href="{{ route('sim-hop-menh-kim') }}">Sim hợp mệnh Kim</a>
+                <h3><a href="{{ route('menu-page', ['slug' => 'sim_menh_kim']) }}">Sim hợp mệnh Kim</a>
                 </h3>
             </li>
             <li>
-                <h3><a href="{{ route('sim-hop-menh-moc') }}">Sim hợp mệnh Mộc</a>
+                <h3><a href="{{ route('menu-page', ['slug' => 'sim_menh_moc']) }}">Sim hợp mệnh Mộc</a>
                 </h3>
             </li>
             <li>
-                <h3><a href="{{ route('sim-hop-menh-thuy') }}">Sim hợp mệnh Thủy</a>
+                <h3><a href="{{ route('menu-page', ['slug' => 'sim_menh_thuy']) }}">Sim hợp mệnh Thủy</a>
                 </h3>
             </li>
             <li>
-                <h3><a href="{{ route('sim-hop-menh-hoa') }}">Sim hợp mệnh Hỏa</a>
+                <h3><a href="{{ route('menu-page', ['slug' => 'sim_menh_hoa']) }}">Sim hợp mệnh Hỏa</a>
                 </h3>
             </li>
             <li>
-                <h3><a href="{{ route('sim-hop-menh-tho') }}">Sim hợp mệnh Thổ</a>
+                <h3><a href="{{ route('menu-page', ['slug' => 'sim_menh_tho']) }}">Sim hợp mệnh Thổ</a>
                 </h3>
             </li>
             <li>
-                <h3><a href="{{ route('sim-thang-quan-tien-chuc') }}">Sim thăng quan tiến chức</a>
+                <h3><a href="{{ route('menu-page', ['slug' => 'sim_thang_quan']) }}">Sim thăng quan tiến chức</a>
                 </h3>
             </li>
             <li>
-                <h3><a href="{{ route('sim-kich-tai-van') }}">Sim phong thủy kích tài vận</a>
+                <h3><a href="{{ route('menu-page', ['slug' => 'sim_tai_van']) }}">Sim phong thủy kích tài vận</a>
                 </h3>
             </li>
             <li>
-                <h3><a href="{{ route('sim-tinh-duyen-gia-dao') }}">Sim kích gia đạo tình duyên</a>
+                <h3><a href="{{ route('menu-page', ['slug' => 'sim_tinh_duyen_gia_dao']) }}">Sim kích gia đạo tình duyên</a>
                 </h3>
             </li>
             <li>
-                <h3><a href="{{ route('sim-xoa-giai-han') }}">Sim hóa giải vận hạn theo tuổi</a>
+                <h3><a href="{{ route('menu-page', ['slug' => 'sim_xoa_giai_han']) }}">Sim hóa giải vận hạn theo tuổi</a>
                 </h3>
             </li>
             {{-- <li><a href="https://simhoptuoi.com.vn/sim-so-dep.html">Sim số đẹp</a></li>--}}

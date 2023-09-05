@@ -87,7 +87,7 @@
         <div class="siteBodyContent">
             <div class="row">
                 <div class="col-md-12">
-                    <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Trong vận hạn đời người thì <u><a href=""><strong>hạn tam tai 1973</strong></a></u> là hạn mà gia chủ tuổi Quý Sửu sẽ gặp nhiều điều xui xẻo, liên tiếp 3 năm. Vậy từ năm 2023 đến năm 2075 sinh năm 1973 tam tai năm nào? Cách giải hạn tam tai như thế nào chính xác? Thì ngay bây giờ mời quý bạn hãy đến ngay với simhoptuoi.com.vn để cùng giải đáp. </span></span>
+                    <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Trong vận hạn đời người thì <u><a href=""><strong>hạn tam tai 1973</strong></a></u> là hạn mà gia chủ tuổi Quý Sửu sẽ gặp nhiều điều xui xẻo, liên tiếp 3 năm. Vậy từ năm 2023 đến năm 2075 sinh năm 1973 tam tai năm nào? Cách giải hạn tam tai như thế nào chính xác? Thì ngay bây giờ mời quý bạn hãy đến ngay với boisimkinhdich.com để cùng giải đáp. </span></span>
                     </p>
 
                     <p style="text-align: center;"><strong><img src="https://lh3.googleusercontent.com/12vXejmWj1ezUdsY-o6jXduddMtzIbZJn-DjhSWASP93chp-oMtbmgmEWf8n38FESNrToupuCqYBFt3dm86c3molEX14KS3bdpM59nO1HQ42qtSp6u3yCw4plgpCTCI8zXJLQocW" style="width:60%" /></strong></p>

@@ -91,7 +91,7 @@
         <div class="siteBodyContent">
             <div class="row">
                 <div class="col-md-12">
-                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="">1994 hợp số nào</a></strong></u>? Nhiều bên cho rằng con số may mắn của tuổi Giáp Tuất sẽ giống với con số hợp tuổi, là những con số có ngũ hành tương sinh, tương hỗ với bản mệnh. Việc ứng dụng những con số này sẽ mang đến may mắn tài lộc. Tuy nhiên quan niệm này hoàn toàn không đúng. Vậy tuổi giáp tuất hợp số nào thì mời quý vị hãy cùng simhoptuoi.com.vn bàn giải chi tiết dưới đây. </span></span>
+                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="">1994 hợp số nào</a></strong></u>? Nhiều bên cho rằng con số may mắn của tuổi Giáp Tuất sẽ giống với con số hợp tuổi, là những con số có ngũ hành tương sinh, tương hỗ với bản mệnh. Việc ứng dụng những con số này sẽ mang đến may mắn tài lộc. Tuy nhiên quan niệm này hoàn toàn không đúng. Vậy tuổi giáp tuất hợp số nào thì mời quý vị hãy cùng boisimkinhdich.com bàn giải chi tiết dưới đây. </span></span>
                     </p>
 
                     <h2 dir="ltr" style="text-align:justify"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="1-tong-quan-ve-menh-tuoi-1994-">1. Tổng quan về mệnh tuổi 1994 </span></span>
@@ -317,7 +317,7 @@
                         </div>
                     </p>
 
-                    <p dir="ltr" style="text-align:justify"><em><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">►►►Xem chi tiết ý nghĩa dãy sim đang dùng bằng cách sử dụng công cụ <u><strong><a href="https://simhoptuoi.com.vn/xem-phong-thuy-sim.html">SIM PHONG THỦY</a></strong></u> tại simhoptuoi.com.vn.</span></span></em></p>
+                    <p dir="ltr" style="text-align:justify"><em><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">►►►Xem chi tiết ý nghĩa dãy sim đang dùng bằng cách sử dụng công cụ <u><strong><a href="https://simhoptuoi.com.vn/xem-phong-thuy-sim.html">SIM PHONG THỦY</a></strong></u> tại boisimkinhdich.com</span></span></em></p>
 
                     <p dir="ltr" style="text-align:center"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">
 {{--                                <section class="boxFormSim">--}}

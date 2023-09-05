@@ -91,6 +91,8 @@ class GoogleSheetsController extends Controller
     {
         try {
             $spreadsheetId = env('GOOGLE_SHEETS_SPREADSHEET_ID_SIM_DATA');
+            $excelFilePath = $this->googleSheetsService->downloadFileExcelFromDriver($spreadsheetId);
+
             $rowStart = env('SIM_DATA_ROW_START');
             $rowEnd = env('SIM_DATA_ROW_END');
             $colStart = env('SIM_DATA_COL_START');
@@ -101,17 +103,17 @@ class GoogleSheetsController extends Controller
                 'E' => 'sdt',
                 'F' => 'sdt',
                 'G' => 'que',
-                'H' => 'que_chinh',
-                'I' => 'que_bien',
-                'J' => 'gia_ban',
-                'K' => 'diem_phong_thuy',
-                'L' => 'tinh_trang',
+                'H' => 'ngu_hanh',
+                'I' => 'que_chinh',
+                'J' => 'que_bien',
+                'K' => 'gia_ban',
+                'L' => 'diem_phong_thuy',
+                'M' => 'tinh_trang',
             ];
 
-            $excelFilePath = $this->googleSheetsService->downloadFileExcelFromDriver($spreadsheetId);
             list($link, $jsonData) = $this->googleSheetsService->convertExcelToJson(
                 $excelFilePath, 
-                1,
+                'sdt',
                 $header,
                 $rowStart,
                 $rowEnd,
@@ -119,7 +121,7 @@ class GoogleSheetsController extends Controller
                 $colEnd
             );
 
-            Log::info($link);
+            // Log::info($link);
         } catch (\Exception $e) {
             Log::error($e->getMessage());
 

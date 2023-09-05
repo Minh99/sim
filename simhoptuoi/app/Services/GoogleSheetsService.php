@@ -67,7 +67,11 @@ class GoogleSheetsService
         $this->client->addScope(Drive::DRIVE);
         $driveService = new Drive($this->client);
         
-        $response = $driveService->files->get($spreadsheetId, ['alt' => 'media']); #->export($spreadsheetId, 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', ['alt' => 'media']);
+        try {
+            $response = $driveService->files->get($spreadsheetId, ['alt' => 'media']); #->export($spreadsheetId, 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', ['alt' => 'media']);
+        } catch (\Exception $e) {
+            $response = $driveService->files->export($spreadsheetId, 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', ['alt' => 'media']);
+        }
         $excelData = $response->getBody()->getContents();
         $isSaved = Storage::disk('public')->put($spreadsheetId . '.xlsx', $excelData);
 

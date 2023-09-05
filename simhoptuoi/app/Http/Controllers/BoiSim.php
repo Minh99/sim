@@ -9,7 +9,6 @@ use Illuminate\Http\Request;
 
 class BoiSim extends Controller
 {
-
     protected $functionCommonService;
 
     public function __construct(FunctionCommonService $functionCommonService)

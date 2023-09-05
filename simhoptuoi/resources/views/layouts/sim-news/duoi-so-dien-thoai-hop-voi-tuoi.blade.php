@@ -147,7 +147,7 @@
                         </script>
                     </p>
 
-                    <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Chọn <strong><u><a href="">đuôi số điện thoại hợp với tuổi</a></u> </strong>đang là nhu cầu tìm kiếm, săn lùng của khá nhiều người hiện nay. Tuy nhiên có quá nhiều cách chọn khiến quá trình tìm chọn gặp nhiều khó khăn. Nhận thấy đây là vấn đề nhức nhối, được nhiều khách hàng đặt ra nên hôm nay simhoptuoi.com.vn xin chia sẻ khái niệm cũng như các cách chọn đuôi số điện thoại hợp tuổi hiện nay.</span></span>
+                    <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Chọn <strong><u><a href="">đuôi số điện thoại hợp với tuổi</a></u> </strong>đang là nhu cầu tìm kiếm, săn lùng của khá nhiều người hiện nay. Tuy nhiên có quá nhiều cách chọn khiến quá trình tìm chọn gặp nhiều khó khăn. Nhận thấy đây là vấn đề nhức nhối, được nhiều khách hàng đặt ra nên hôm nay boisimkinhdich.com xin chia sẻ khái niệm cũng như các cách chọn đuôi số điện thoại hợp tuổi hiện nay.</span></span>
                     </p>
 
                     <h2 dir="ltr" style="text-align: justify;"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="1-duoi-so-dien-thoai-hop-voi-tuoi-la-gi">1. Đuôi số điện thoại hợp với tuổi là gì?</span></span>

@@ -83,14 +83,13 @@
                         <li class="toc2"><a href="#4-cach-chon-sim-phong-thuy-hop-menh-kim-chinh-xac-nhat">4.&nbsp;C&aacute;ch chọn sim phong thủy hợp mệnh Kim ch&iacute;nh x&aacute;c nhất</a></li>
                         <li class="toc2"><a href="#5-luu-y-khi-chon-so-dien-thoai-hop-menh-kim">5. Lưu &yacute; khi chọn số điện thoại hợp mệnh Kim</a></li>
                         <li class="toc2"><a href="#6-tai-sao-nen-chon-so-dien-thoai-hop-menh-kim">6. Tại sao n&ecirc;n chọn số điện thoại hợp mệnh kim</a></li>
-                        <li class="toc2"><a href="#7-huong-dan-xem-d-atilde-y-sim-dang-d-u-ng-co-hop-voi-nguoi-menh-kim-khong">7. Hướng dẫn xem d&atilde;y sim đang d&ugrave;ng c&oacute; hợp với người mệnh Kim kh&ocirc;ng?</a></li>
-                        <li class="toc2"><a href="#8-tong-hop-2-cach-chon-sim-hop-menh-kim-sai-lech">8. Tổng hợp 2 c&aacute;ch chọn sim hợp mệnh Kim sai lệch</a></li>
+                        <li class="toc2"><a href="#8-tong-hop-2-cach-chon-sim-hop-menh-kim-sai-lech">7. Tổng hợp 2 c&aacute;ch chọn sim hợp mệnh Kim sai lệch</a></li>
                     </ul>
                 </section>
             </div>
         </div>
         <div class="textTopHome slimContentText">
-            <p style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><a href=""><strong>Sim phong thủy hợp mệnh Kim</strong></a></u> theo quan niệm nhiều nơi l&agrave; l&agrave; d&atilde;y sim xuất hiện nhiều con số hợp mệnh, tức số 6, 7, 2, 5, 8. Việc sử dụng những d&atilde;y sim n&agrave;y sẽ mang đến sự gi&agrave;u sang ph&uacute; qu&yacute;, đẩy l&ugrave;i vận hạn, rước may mắn cho người mệnh Kim. Tuy nhi&ecirc;n theo chuy&ecirc;n gia th&igrave; quan niệm n&agrave;y ho&agrave;n to&agrave;n sai lệch do một v&agrave;i con số trong sim kh&ocirc;ng thể quyết định hết &yacute; nghĩa cả d&atilde;y sim. Vậy c&aacute;ch x&aacute;c định mệnh kim hợp số điện thoại n&agrave;o ch&iacute;nh x&aacute;c th&igrave; qu&yacute; vị h&atilde;y c&ugrave;ng Simhoptuoi.com.vn ph&acirc;n t&iacute;ch tại nội dung dưới đ&acirc;y.</span></span>
+            <p style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong>Sim phong thủy hợp mệnh Kim</strong></u> theo quan niệm nhiều nơi l&agrave; l&agrave; d&atilde;y sim xuất hiện nhiều con số hợp mệnh, tức số 6, 7, 2, 5, 8. Việc sử dụng những d&atilde;y sim n&agrave;y sẽ mang đến sự gi&agrave;u sang ph&uacute; qu&yacute;, đẩy l&ugrave;i vận hạn, rước may mắn cho người mệnh Kim. Tuy nhi&ecirc;n theo chuy&ecirc;n gia th&igrave; quan niệm n&agrave;y ho&agrave;n to&agrave;n sai lệch do một v&agrave;i con số trong sim kh&ocirc;ng thể quyết định hết &yacute; nghĩa cả d&atilde;y sim. Vậy c&aacute;ch x&aacute;c định mệnh kim hợp số điện thoại n&agrave;o ch&iacute;nh x&aacute;c th&igrave; qu&yacute; vị h&atilde;y c&ugrave;ng chúng tôi ph&acirc;n t&iacute;ch tại nội dung dưới đ&acirc;y.</span></span>
             </p>
 
             <h2 dir="ltr" style="text-align:justify"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="1-tong-quan-nguoi-menh-kim">1. Tổng Quan Người Mệnh Kim</span></span>
@@ -284,7 +283,7 @@
                 </tbody>
             </table>
 
-            <h2 style="text-align:justify"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="4-cach-chon-sim-phong-thuy-hop-menh-kim-chinh-xac-nhat">4.&nbsp;C&aacute;ch chọn sim phong thủy hợp mệnh Kim ch&iacute;nh x&aacute;c nhất</span></span>
+            <h2 class="mt-4" style="text-align:justify"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="4-cach-chon-sim-phong-thuy-hop-menh-kim-chinh-xac-nhat">4.&nbsp;C&aacute;ch chọn sim phong thủy hợp mệnh Kim ch&iacute;nh x&aacute;c nhất</span></span>
                                         </strong>
                                         </span>
             </h2>
@@ -1439,7 +1438,7 @@
             </ul>
 
             <blockquote>
-                <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Kết Luận: </strong>Chọn sim số hợp mệnh kim tổng hợp được cả 5 yếu tố n&ecirc;u tr&ecirc;n l&agrave; tốt nhất, đem lại nhiều gi&aacute; trị tốt đẹp cho chủ mệnh Kim. Tuy nhi&ecirc;n, những l&yacute; thuyết n&agrave;y kh&aacute; phức tạp đ&ograve;i hỏi người d&ugrave;ng phải c&oacute; kiến thức hiểu biết s&acirc;u rộng. Để khắc phục hạn chế n&agrave;y, người d&ugrave;ng mệnh Kim c&oacute; thể tham khảo c&ocirc;ng vụ chấm điểm sim tr&ecirc;n Simhoptuoi.vn đảm bảo t&iacute;nh tiện lợi v&agrave; ch&iacute;nh x&aacute;c.&nbsp;</span></span>
+                <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Kết Luận: </strong>Chọn sim số hợp mệnh kim tổng hợp được cả 5 yếu tố n&ecirc;u tr&ecirc;n l&agrave; tốt nhất, đem lại nhiều gi&aacute; trị tốt đẹp cho chủ mệnh Kim. Tuy nhi&ecirc;n, những l&yacute; thuyết n&agrave;y kh&aacute; phức tạp đ&ograve;i hỏi người d&ugrave;ng phải c&oacute; kiến thức hiểu biết s&acirc;u rộng.</span></span>
                 </p>
             </blockquote>
 
@@ -1530,30 +1529,7 @@
                 </li>
             </ul>
 
-            <h2 dir="ltr" style="text-align:justify"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="7-huong-dan-xem-d-atilde-y-sim-dang-d-u-ng-co-hop-voi-nguoi-menh-kim-khong">7. Hướng dẫn xem d&atilde;y sim đang d&ugrave;ng c&oacute; hợp với người mệnh Kim kh&ocirc;ng?</span></span>
-                                        </strong>
-                                        </span>
-            </h2>
-
-            <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Nhằm hỗ trợ qu&yacute; vị kiểm tra d&atilde;y sim đang d&ugrave;ng c&oacute; hợp với bản mệnh Kim hay kh&ocirc;ng, đ&atilde; nghi&ecirc;n cứu một phần mềm <u><a href=""><strong>xem phong thủy sim</strong></a></u>. Với ba bước đơn giản, qu&yacute; bạn sẽ dễ d&agrave;ng luận phong thủy d&atilde;y sim đang d&ugrave;ng tốt hay xấu:</span></span>
-            </p>
-
-            <ul>
-                <li dir="ltr">
-                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Bước 1:</strong> Truy cập v&agrave;o đường dẫn xem sim phong thủy</span></span>
-                    </p>
-                </li>
-                <li dir="ltr">
-                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Bước 2: </strong>Điền đầy đủ th&ocirc;ng tin v&agrave;o những &ocirc; trống theo y&ecirc;u cầu của ứng dụng (nếu điền thiếu đi một th&ocirc;ng tin th&igrave; ứng dụng sẽ kh&ocirc;ng thể tra cứu được)</span></span>
-                    </p>
-                </li>
-                <li dir="ltr">
-                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Bước 3:</strong> Nhấp &ldquo;Xem phong thủy&rdquo;, đợi một ch&uacute;t phần mềm sẽ ứng dụng 05 yếu tố phong thủy theo c&ocirc;ng thức ch&iacute;nh x&aacute;c, qu&yacute; bạn chỉ cần đọc v&agrave; nắm bắt hung c&aacute;t của d&atilde;u sim theo những yếu tố tr&ecirc;n.</span></span>
-                    </p>
-                </li>
-            </ul>
-
-            <h2 dir="ltr" style="text-align:justify"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="8-tong-hop-2-cach-chon-sim-hop-menh-kim-sai-lech">8. Tổng hợp 2 c&aacute;ch chọn sim hợp mệnh Kim sai lệch</span></span>
+            <h2 dir="ltr" style="text-align:justify"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="8-tong-hop-2-cach-chon-sim-hop-menh-kim-sai-lech">7. Tổng hợp 2 c&aacute;ch chọn sim hợp mệnh Kim sai lệch</span></span>
                                         </strong>
                                         </span>
             </h2>
@@ -1743,64 +1719,52 @@
         </section>
 
 
-
+        @if (count($data) > 0)
         <div class="nopadding sim_collection">
-
             <section class="list_sim">
-
                 <!-- khi vào link page sẽ tự động scroll xuống phần bảng sim -->
-                {{-- <h2 class="title_h1">Sim hợp mệnh Kim</h2>
+                <h2 class="title_h1">Sim hợp mệnh Kim</h2>
                 <div class="row listSim list_sim_item">
+                    @foreach ($data as $item)
+                    @php
+                        $logo_nha_mang = 'common/templates/site/images/icon/1.gif';
+                        if ($item['nha_mang'] == "mobi") {
+                            $logo_nha_mang = 'common/templates/site/images/icon/3.gif';
+                        } else if ($item['nha_mang'] == "vinaphone") {
+                            $logo_nha_mang = 'common/templates/site/images/icon/2.gif';
+                        } else if ($item['nha_mang'] == "gmobile") {
+                            $logo_nha_mang = 'common/templates/site/images/icon/5.gif';
+                        } else if ($item['nha_mang'] == "vietnamobile") {
+                            $logo_nha_mang = 'common/templates/site/images/icon/4.gif';
+                        }
+                    @endphp
                     <div class="col-6 col-sm-6 col-md-6">
                         <div class="main_box_sim_item">
                             <div class="row">
                                 <div class="col-12 col-sm-12 col-md-6">
-                                    <p class="so"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0896703568.html">0896.703.568</a></p>
+                                    <p class="so"><a href="{{ route('detail-sim', ['sdt' => $item['sdt']]) }}">{{ $item['sdt'] }}</a></p>
                                 </div>
-                                <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img alt="" src="https://simhoptuoi.com.vn/templates/site/images/icon/3.gif" /></div>
+                                <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img alt="" src="{{ asset($logo_nha_mang) }}" /></div>
                             </div>
-                            <p class="vuong"><strong>Điểm phong thủy sim: </strong> 7.5/10</p>
-                            <p class="price"><b>Giá: </b>1,399,000 VND</p>
-                            <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">Thổ</span></p>
-                            <p class="yn"><strong>Quẻ Kinh dịch: </strong>Thuần Khảm (坎 kǎn)</p>
+                            <p class="vuong"><strong>Điểm phong thủy sim: </strong> {{ $item['diem_phong_thuy'] }}</p>
+                            <p class="price"><b>Giá: </b>{{ $item['gia_ban'] }}</p>
+                            <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">{{ $item['ngu_hanh'] }}</span></p>
+                            <p class="yn"><strong>Quẻ Kinh dịch: </strong>{{ $item['que'] }}</p>
                             <div class="row">
                                 <div class="col-6 col-sm-6 col-md-6">
-                                    <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0896703568.html" class="btn_mua">Chi tiết <b>>></b></a></p>
+                                    <p class="btnmua"><a href="{{ route('detail-sim', ['sdt' => $item['sdt']]) }}" class="btn_mua">Chi tiết <b>>></b></a></p>
                                 </div>
                                 <div class="col-6 col-sm-6 col-md-6">
-                                    <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0896703568.html" class="btn_mua">Mua ngay <b>>></b></a></p>
+                                    <p class="btnmua"><a href="{{ route('detail-sim', ['sdt' => $item['sdt']]) }}" class="btn_mua">Mua ngay <b>>></b></a></p>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-6 col-sm-6 col-md-6">
-                        <div class="main_box_sim_item">
-                            <div class="row">
-                                <div class="col-12 col-sm-12 col-md-6">
-                                    <p class="so"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0796119089.html">0796.119.089</a></p>
-                                </div>
-                                <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img alt="" src="https://simhoptuoi.com.vn/templates/site/images/icon/3.gif" /></div>
-                            </div>
-                            <p class="vuong"><strong>Điểm phong thủy sim: </strong> 8.5/10</p>
-                            <p class="price"><b>Giá: </b>3,480,000 VND</p>
-                            <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">Thổ</span></p>
-                            <p class="yn"><strong>Quẻ Kinh dịch: </strong>Sơn Hỏa Bí (賁 bì)</p>
-                            <div class="row">
-                                <div class="col-6 col-sm-6 col-md-6">
-                                    <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0796119089.html" class="btn_mua">Chi tiết <b>>></b></a></p>
-                                </div>
-                                <div class="col-6 col-sm-6 col-md-6">
-                                    <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0796119089.html" class="btn_mua">Mua ngay <b>>></b></a></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    @endforeach
                 </div>
-                <div>
-                    <a class="read-more" href="">Xem thêm (11918) sim </a>
-                </div> --}}
             </section>
         </div>
+        @endif
         <section class="">
             <div class="">
                 <div class="row">

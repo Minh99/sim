@@ -233,16 +233,16 @@
                             <table align="center" cellpadding="10">
                                 <tbody>
                                 <tr>
-                                    <td><a href="https://simhoptuoi.com.vn/Sim-hop-menh-Kim.html"><img alt="sim hợp mệnh kim" src="https://simhoptuoi.com.vn/media/images/seolink/sim-hop-menh-kim.png" /></a></td>
-                                    <td><a href="https://simhoptuoi.com.vn/Sim-hop-menh-Moc.html"><img alt="sim hợp mệnh mộc" src="https://simhoptuoi.com.vn/media/images/seolink/sim-hop-menh-moc.png" /></a></td>
+                                    <td><a href="{{ route('menu-page', ['slug' => 'sim_hop_menh_kim']) }}"><img alt="sim hợp mệnh kim" src="https://simhoptuoi.com.vn/media/images/seolink/sim-hop-menh-kim.png" /></a></td>
+                                    <td><a href="{{ route('menu-page', ['slug' => 'sim_hop_menh_moc']) }}"><img alt="sim hợp mệnh mộc" src="https://simhoptuoi.com.vn/media/images/seolink/sim-hop-menh-moc.png" /></a></td>
                                 </tr>
                                 <tr>
                                     <td colspan="2" rowspan="1" style="text-align:center"><br />
-                                        <a href="https://simhoptuoi.com.vn/Sim-hop-menh-Thuy.html"><img alt="" src="https://simhoptuoi.com.vn/media/images/seolink/sim-hop-menh-thuy.png" style="height:205px; width:205px" /></a></td>
+                                        <a href="{{ route('menu-page', ['slug' => 'sim_hop_menh_thuy']) }}"><img alt="" src="https://simhoptuoi.com.vn/media/images/seolink/sim-hop-menh-thuy.png" style="height:205px; width:205px" /></a></td>
                                 </tr>
                                 <tr>
-                                    <td><a href="https://simhoptuoi.com.vn/Sim-hop-menh-Hoa.html"><img alt="sim hợp mệnh hỏa" src="https://simhoptuoi.com.vn/media/images/seolink/sim-hop-menh-hoa.png" /></a></td>
-                                    <td><a href="https://simhoptuoi.com.vn/Sim-hop-menh-Tho.html"><img alt="sim hợp mệnh thổ" src="https://simhoptuoi.com.vn/media/images/seolink/sim-hop-menh-tho(1).png" /></a></td>
+                                    <td><a href="{{ route('menu-page', ['slug' => 'sim_hop_menh_hoa']) }}"><img alt="sim hợp mệnh hỏa" src="https://simhoptuoi.com.vn/media/images/seolink/sim-hop-menh-hoa.png" /></a></td>
+                                    <td><a href="{{ route('menu-page', ['slug' => 'sim_hop_menh_tho']) }}"><img alt="sim hợp mệnh thổ" src="https://simhoptuoi.com.vn/media/images/seolink/sim-hop-menh-tho(1).png" /></a></td>
                                 </tr>
                                 </tbody>
                             </table>

@@ -223,7 +223,7 @@
                     <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">- Người nữ tuổi Nhâm thân nên sơn nhà có màu thuộc ngũ hành Thổ làm chủ đạo như màu vàng, nâu kết hợp trang trí thêm các khoảng tường hoặc đồ nội thất có màu thuộc hành Kim như trắng, ghi, bạch kim hay xám,...</span></span>
                     </p>
 
-                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Ngoài ra, chuyên gia tại Simhoptuoi.com.vn còn đưa ra lời khuyên đó là nam nữ tuổi này nên HẠN CHẾ màu sơn không hợp mệnh để hạn chế những tác động xấu cho chính mình và gia đình như:</span></span>
+                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Ngoài ra, chuyên gia tại boisimkinhdich.com còn đưa ra lời khuyên đó là nam nữ tuổi này nên HẠN CHẾ màu sơn không hợp mệnh để hạn chế những tác động xấu cho chính mình và gia đình như:</span></span>
                     </p>
 
                     <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">- Nam giới Nhâm Thân hạn chế dùng màu tương khắc với bản mệnh thuộc hành Mộc khi sơn nhà và trang trí vật dụng trong gia đình như xanh lá cây, nõn chuối, xanh rêu, xanh lá mạ,...</span></span>
