@@ -1605,7 +1605,15 @@ h6 {
     border-radius: 10px;
     max-width: 450px;
     margin: 20px auto;
-    background: url(../images/form_timsimbg.png) right bottom no-repeat;
+    background-size: 100% 100%;
+}
+
+.boxFormSim .contentBox {
+    background: transparent !important;
+    padding: 30px;
+    border-radius: 10px;
+    max-width: 450px;
+    margin: 20px auto;
     background-size: 100% 100%;
 }
 
@@ -2152,6 +2160,7 @@ p.h4 {
     display: none;
 }
 
+
 /*--- Update new ---*/
 
 .titleHead,
@@ -2517,7 +2526,9 @@ p.h4 {
     box-shadow: 0px 0px 15px #ccc;
 }
 
+
 /*--- End ---*/
+
 
 /** Update **/
 
@@ -2675,6 +2686,7 @@ p.h4 {
     border-radius: 8px;
     padding: 3px 5px;
 }
+
 
 /** Xem ngay trong thang allpage mobile **/
 
@@ -2892,6 +2904,7 @@ p.h4 {
 
 @media only screen and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) {}
 
+
 /** Thong bao nghi tet */
 
 .nghi_te {
@@ -2955,6 +2968,7 @@ p.h4 {
         border: none;
     }
 }
+
 
 /* filter  */
 
@@ -3633,7 +3647,9 @@ h2.title_h1 {
     color: #fff;
 }
 
+
 /* end  */
+
 
 /* form biển số xe  */
 
@@ -3711,6 +3727,7 @@ h2.title_h1 {
 .form_boi_bien_so_xe .form-check-label {
     margin-left: 10px;
 }
+
 
 /* end  */
 
@@ -5119,12 +5136,14 @@ table>tbody>tr>td label {
     margin-bottom: 50px;
 }
 
+
 /* Works on Firefox */
 
 .content_home {
     scrollbar-width: thin;
     scrollbar-color: #fff #fff;
 }
+
 
 /* Works on Chrome, Edge, and Safari */
 
@@ -5354,6 +5373,7 @@ table>tbody>tr>td label {
     font-style: italic;
     text-decoration: underline;
 }
+
 
 /* bộ lọc sim số đẹp */
 

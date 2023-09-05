@@ -8,7 +8,7 @@
     <div class="bodyPage bodyLuanSim">
         <section class="boxFormSim">
             <div class="bgFormSim">
-                <form id="form_xpts" name="form_xpts" action="{{ route('boi-sim') }}" method="post">
+                <form id="form_xpts" name="form_xpts" action="{{ route('boi-sim') }}" method="post" accept-charset="UTF-8">
                     @csrf
                     <div style="display:none"></div>
                     <div class="row">
@@ -16,9 +16,12 @@
                             <p class="title_label"><label>Số điện thoại</label></p>
                         </div>
                         <div class="col-9 col-md-9 col-sm-9 col-xs-9">
-                            <input id="xpts_phone" class="myinput" name="sdt" placeholder="Mời nhập số sim" value="">
+                            <input id="xpts_phone" class="myinput" name="sdt" placeholder="Mời nhập số sim" value="{{ old('sdt') }}">
+                            @error('sdt')
+                                <p class="text-white"> <i>Định dạng số điện thoại không hợp lệ</i></p>
+                            @enderror
                         </div>
-                        {{-- <div class="col-12 col-md-12">
+                        <div class="col-12 col-md-12">
                             <div class="row">
                                 <div class="col-3 col-md-3 col-sm-3 col-xs-3">
                                     <p class="title_label"><label>Ngày sinh</label></p>
@@ -153,9 +156,9 @@
                                     </select>
                                 </div>
                             </div>
-                        </div> --}}
+                        </div>
                     </div>
-                    {{-- <div class="row">
+                    <div class="row">
                         <div class="col-2 col-md-2 col-sm-2 col-xs-2">
                             <input type="radio" name="gioitinh" value="nam" checked /> Nam
                         </div>
@@ -182,7 +185,7 @@
                                 <option value="12" >Hợi (21g - 23g)</option>
                             </select>
                         </div>
-                    </div> --}}
+                    </div>
                     <div class="row">
                         <div class="col-12 col-md-12 col-sm-12 col-xs-12 text-center">
                             <button type="submit" class="btn_xemngay"><span>Xem bói số điện thoại</span></button>
@@ -194,14 +197,15 @@
     </div>
 
     @if (isset($data) && !empty($data))
-        <p>
-            <div class="wapper_que">
+        <section class="boxFormSim">
+            <div class="wapper_que boxFormSim contentBox">
                 <p class="que_so  text-center text-bold">Số sim {{ $sdt }}</p>
-                <p class="que_so  text-center text-bold">Quẻ số {{ $data['so_que'] }}</p>
-                <p class="ten_que tot text-center">{{ $data['ten_que'] }}</p>
-                <p class="y_nghia text-center">{{ $data['tong_quat'] }}</p>
-                <p class="quai_que text-center">{{ $data['que'] }}</p>
                 <p class="anh_que text-center"><img src="{{ $data['hinh_que'] }}"></p>
+                {{-- <p class="que_so  text-center text-bold">Quẻ số {{ $data['so_que'] }}</p> --}}
+                <p class="tot text-left">Tên Quẻ: {{ $data['ten_que'] }}</p>
+                <p class="tot text-left">Cung Phi: {{ $data['ten_que'] }}</p>
+                <p class="text-left">Quái: {{ $data['que'] }}</p>
+                <p class="text-left">{{ $data['tong_quat'] }}</p>
             </div>
 
             @php
@@ -218,6 +222,26 @@
                 @endphp
             @endif
             
+            @if (!empty($data['y_nghia_que']))
+                <h2 class="title_h1 text-left" style="font-weight: bold; margin-top: 5px; text-transform: capitalize"> {{ $index }}. Ý Nghĩa</h2>
+                <p class="pl-4">
+                    {{ $data['y_nghia_que'] }}
+                </p>
+                @php
+                    $index++;
+                @endphp
+            @endif
+
+            @if (!empty($data['luan_giai_sim']))
+                <h2 class="title_h1 text-left" style="font-weight: bold; margin-top: 5px; text-transform: capitalize"> {{ $index }}. Luận giải sim</h2>
+                <p class="pl-4">
+                    {{ $data['luan_giai_sim'] }}
+                </p>
+                @php
+                    $index++;
+                @endphp
+            @endif
+
             @if (!empty($data['chiem_nghiem_ve_van_the']))
                 <h2 class="title_h1 text-left" style="font-weight: bold; margin-top: 5px; text-transform: capitalize"> {{ $index }}. Chiêm nghiệm về vận thế</h2>
                 <p class="pl-4">
@@ -238,76 +262,28 @@
                 @endphp
             @endif
 
-            @if (!empty($data['luan_giai_sim']))
-                <h2 class="title_h1 text-left" style="font-weight: bold; margin-top: 5px; text-transform: capitalize"> {{ $index }}. Luận giải sim</h2>
+            @if (!empty($data['dong_hao_chinh']))
+                <h2 class="title_h1 text-left" style="font-weight: bold; margin-top: 5px; text-transform: capitalize"> {{ $index }}. Động hào - {{ $data['dong_hao']}}</h2>
                 <p class="pl-4">
-                    {{ $data['luan_giai_sim'] }}
+                    {{ $data['dong_hao_chinh'] }}
                 </p>
                 @php
                     $index++;
                 @endphp
             @endif
 
-            @if (!empty($data['dong_hao_1']))
-                <h2 class="title_h1 text-left" style="font-weight: bold; margin-top: 5px; text-transform: capitalize"> {{ $index }}. Động hào 1</h2>
+            @if (!empty($data['kq']))
+                <h2 class="title_h1 text-left" style="font-weight: bold; margin-top: 5px; text-transform: capitalize"> {{ $index }}. Nhận Định</h2>
                 <p class="pl-4">
-                    {{ $data['dong_hao_1'] }}
+                    {{ $data['kq'] }}
+                    
                 </p>
+                <b class="pl-4">{{ $data['hop_tuoi'] }}</b>
                 @php
                     $index++;
                 @endphp
             @endif
-
-            @if (!empty($data['dong_hao_2']))
-                <h2 class="title_h1 text-left" style="font-weight: bold; margin-top: 5px; text-transform: capitalize"> {{ $index }}. Động hào 2</h2>
-                <p class="pl-4">
-                    {{ $data['dong_hao_2'] }}
-                </p>
-                @php
-                    $index++;
-                @endphp
-            @endif
-
-            @if (!empty($data['dong_hao_3']))
-                <h2 class="title_h1 text-left" style="font-weight: bold; margin-top: 5px; text-transform: capitalize"> {{ $index }}. Động hào 3</h2>
-                <p class="pl-4">
-                    {{ $data['dong_hao_3'] }}
-                </p>
-                @php
-                    $index++;
-                @endphp
-            @endif
-
-            @if (!empty($data['dong_hao_4']))
-                <h2 class="title_h1 text-left" style="font-weight: bold; margin-top: 5px; text-transform: capitalize"> {{ $index }}. Động hào 4</h2>
-                <p class="pl-4">
-                    {{ $data['dong_hao_4'] }}
-                </p>
-                @php
-                    $index++;
-                @endphp
-            @endif
-
-            @if (!empty($data['dong_hao_5']))
-                <h2 class="title_h1 text-left" style="font-weight: bold; margin-top: 5px; text-transform: capitalize"> {{ $index }}. Động hào 5</h2>
-                <p class="pl-4">
-                    {{ $data['dong_hao_5'] }}
-                </p>
-                @php
-                    $index++;
-                @endphp
-            @endif
-
-            @if (!empty($data['dong_hao_6']))
-                <h2 class="title_h1 text-left" style="font-weight: bold; margin-top: 5px; text-transform: capitalize"> {{ $index }}. Động hào 6</h2>
-                <p class="pl-4">
-                    {{ $data['dong_hao_6'] }}
-                </p>
-                @php
-                    $index++;
-                @endphp
-            @endif
-        </p>
+        </section>
     @else
         
     <section class=" boxHadview">
@@ -794,7 +770,7 @@
 
                             <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">V&iacute; dụ: xem b&oacute;i ngũ h&agrave;nh nội tại d&atilde;y sim 0766093689 thấy:</span></span></strong></em></p>
 
-                            <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                            <table border="1" cellpadding="1" cellspacing="1" style="width:100%">
                                 <tbody>
                                     <tr>
                                         <td>

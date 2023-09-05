@@ -41,36 +41,37 @@ class GoogleSheetsController extends Controller
     {
         try {
             $spreadsheetId = env('GOOGLE_SHEETS_SPREADSHEET_ID_BOI_SIM');
-            $rowStart = env('BOI_SIM_ROW_START');
-            $rowEnd = env('BOI_SIM_ROW_END');
-            $colStart = env('BOI_SIM_COL_START');
-            $colEnd = env('BOI_SIM_COL_END');
+            $excelFilePath = $this->googleSheetsService->downloadFileExcelFromDriver($spreadsheetId);
+
+            $rowStart = 3;
+            $rowEnd = 66;
+            $colStart = 'B';
+            $colEnd = 'T';
             $header = [
                 'B' => 'id',
                 'C' => 'so_que',
                 'D' => 'ten_que',
-                'E' => 'hinh_que',
-                'F' => 'tong_quat',
-                'G' => 'que',
-                'H' => 'danh_gia',
-                'I' => 'y_nghia_que',
-                'J' => 'luan_giai_sim',
-                'K' => 'chiem_nghiem_ve_van_the',
-                'L' => 'xet_ve_gia_dao_tinh_cam',
-                'M' => 'dong_hao_1',
-                'N' => 'dong_hao_2',
-                'O' => 'dong_hao_3',
-                'P' => 'dong_hao_4',
-                'Q' => 'dong_hao_5',
-                'R' => 'dong_hao_6',
-                'S' => 'nx_ve_mqh_giua_chu_va_sim',
+                'E' => 'cung_phi',
+                'F' => 'hinh_que',
+                'G' => 'tong_quat',
+                'H' => 'que',
+                'I' => 'danh_gia',
+                'J' => 'y_nghia_que',
+                'K' => 'luan_giai_sim',
+                'L' => 'chiem_nghiem_ve_van_the',
+                'M' => 'xet_ve_gia_dao_tinh_cam',
+                'N' => 'dong_hao_1',
+                'O' => 'dong_hao_2',
+                'P' => 'dong_hao_3',
+                'Q' => 'dong_hao_4',
+                'R' => 'dong_hao_5',
+                'S' => 'dong_hao_6',
+                'T' => 'nx_ve_mqh_giua_chu_va_sim',
             ];
 
-            $excelFilePath = $this->googleSheetsService->downloadFileExcelFromDriver($spreadsheetId);
             list($link, $jsonData) = $this->googleSheetsService->convertExcelToJson(
                 $excelFilePath, 
-                $spreadsheetId,
-                0,
+                'que_dich',
                 $header,
                 $rowStart,
                 $rowEnd,
@@ -78,7 +79,7 @@ class GoogleSheetsController extends Controller
                 $colEnd
             );
 
-            Log::info($link);
+            // Log::info($link);
         } catch (\Exception $e) {
             Log::error($e->getMessage());
 
@@ -110,7 +111,6 @@ class GoogleSheetsController extends Controller
             $excelFilePath = $this->googleSheetsService->downloadFileExcelFromDriver($spreadsheetId);
             list($link, $jsonData) = $this->googleSheetsService->convertExcelToJson(
                 $excelFilePath, 
-                $spreadsheetId,
                 1,
                 $header,
                 $rowStart,

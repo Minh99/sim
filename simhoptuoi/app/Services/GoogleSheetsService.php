@@ -64,9 +64,10 @@ class GoogleSheetsService
      */
     public function downloadFileExcelFromDriver($spreadsheetId)
     {
+        $this->client->addScope(Drive::DRIVE);
         $driveService = new Drive($this->client);
         
-        $response = $driveService->files->export($spreadsheetId, 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', ['alt' => 'media']);
+        $response = $driveService->files->get($spreadsheetId, ['alt' => 'media']); #->export($spreadsheetId, 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', ['alt' => 'media']);
         $excelData = $response->getBody()->getContents();
         $isSaved = Storage::disk('public')->put($spreadsheetId . '.xlsx', $excelData);
 
@@ -84,8 +85,7 @@ class GoogleSheetsService
      */
     public function convertExcelToJson(
         $excelFilePath,
-        $spreadsheetId,
-        $sheetIndex = 0,
+        $sheetName,
         $header,
         $rowStart,
         $rowEnd,
@@ -93,7 +93,6 @@ class GoogleSheetsService
         $colEnd
     ) {
         $spreadsheet = IOFactory::load($excelFilePath);
-        $sheetName = $spreadsheet->getSheetNames()[$sheetIndex];
         $worksheet = $spreadsheet->getSheetByName($sheetName);
 
         $data = [];
@@ -110,20 +109,20 @@ class GoogleSheetsService
         
         $jsonData = json_encode($data, JSON_PRETTY_PRINT);
 
-        $isSaved = Storage::disk('public')->put($spreadsheetId . '.json', $jsonData);
+        $isSaved = Storage::disk('public')->put($sheetName . '.json', $jsonData);
 
         if (!$isSaved) {
-            throw new \Exception("Cannot save json file $spreadsheetId  to storage");
+            throw new \Exception("Cannot save json file $sheetName  to storage");
         }
         
-        $jsonFilePath = Storage::disk('public')->path($spreadsheetId . '.xlsx');
+        $jsonFilePath = Storage::disk('public')->path($sheetName . '.json');
         
         return [$jsonFilePath, $jsonData];
     }
 
-    public function getJsonData($spreadsheetId)
+    public function getJsonData($fileName)
     {
-        $jsonData = Storage::disk('public')->get($spreadsheetId . '.json');
+        $jsonData = Storage::disk('public')->get($fileName . '.json');
 
         $jsonData = json_decode($jsonData, true);
 
