@@ -19,6 +19,7 @@
         <link rel="stylesheet" type="text/css" href="{{  asset('common/templates/site/css/styleMore.css')}}" />
         <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+        <link rel="stylesheet" type="text/css" href="{{  asset('css/app.css')}}" />
 
         {{-- JS --}}
         <script type="text/javascript" src="{{  asset('common/templates/site/js/jquery-3.4.1.min.js')}}"></script>
@@ -92,6 +93,8 @@
         </div>
 
         @include('layouts.footer')
+
+        @include('layouts.components.contact_fixed')
 
         <script type="text/javascript" src="{{  asset('common/templates/site/js/jquery.slimscroll.min.js')}}"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous">
@@ -204,6 +207,12 @@
 
 
             })
+        </script>
+        <script>
+            $('#contactFixedBtnClose').on('click', function (event) {
+                event.preventDefault();
+                $('#contactFixed').hide('50');
+            });
         </script>
     </body>
 </html>
