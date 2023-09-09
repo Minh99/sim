@@ -47,6 +47,10 @@ Route::match(['get', 'post'], '/boi-sim', [BoiSim::class, 'index'])->name('boi-s
 Route::get('/chi-tiet-sim/{sdt}', [Sim::class, 'detail'])->name('detail-sim');
 Route::match(['get', 'post'], '/checkout/{sdt}', [Sim::class, 'checkout'])->name('checkout');
 
+Route::get('/xem-ngay-tot-xau', function () {
+    return view('layouts.xem-ngay-tot-xau');
+})->name('xem-ngay-tot-xau');
+
 // Route::get('/test1', [App\Http\Controllers\Test::class, 'getThongTinPhongThuyBangSdt'])->name('test1');
 // Route::get('/test2', [App\Http\Controllers\Test::class, 'getListSimData'])->name('test2');
 // Route::get('/test3', [App\Http\Controllers\Test::class, 'getDetailSimData'])->name('test3');
