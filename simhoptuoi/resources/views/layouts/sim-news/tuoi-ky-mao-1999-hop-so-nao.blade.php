@@ -88,7 +88,7 @@
         <div class="siteBodyContent">
             <div class="row">
                 <div class="col-md-12">
-                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">"<strong><u><a href="">1999 hợp số nào</a></u>?</strong>" - Đây là một câu hỏi được nhiều người quan tâm và tò mò trong lĩnh vực phong thủy. Trong tư tưởng phong thủy, việc sử dụng những con số hợp với tuổi của một người có thể giúp tạo ra cát khí tốt và mang lại may mắn, tài lộc trong cuộc sống và công việc. Vậy, năm sinh 1999 hợp với những con số nào và chúng ta có thể sử dụng những con số này trong các hoạt động phong thủy như thế nào? Cùng tìm hiểu và khám phá những luận giải của các chuyên gia trong bài viết này!</span></span>
+                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">"<strong>1999 hợp số nào?</strong>" - Đây là một câu hỏi được nhiều người quan tâm và tò mò trong lĩnh vực phong thủy. Trong tư tưởng phong thủy, việc sử dụng những con số hợp với tuổi của một người có thể giúp tạo ra cát khí tốt và mang lại may mắn, tài lộc trong cuộc sống và công việc. Vậy, năm sinh 1999 hợp với những con số nào và chúng ta có thể sử dụng những con số này trong các hoạt động phong thủy như thế nào? Cùng tìm hiểu và khám phá những luận giải của các chuyên gia trong bài viết này!</span></span>
                     </p>
 
                     <h2 dir="ltr" style="text-align:justify"><span style="color:#FF0000"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span id="i-nam-nu-tuoi-mao-1999-hop-so-nao">I. Nam nữ tuổi Mão 1999 hợp số nào?</span></span>
@@ -153,7 +153,7 @@
                         </span>
                     </h2>
 
-                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Khi khảo sát và phân tích về các con số hợp với tuổi 1999, chuyên gia tại <u><strong><a href="http://simhoptuoi.com.vn">simhoptuoi.com.vn</a></strong></u> đã chỉ ra rằng những con số này có thể được áp dụng vào các công việc liên quan đến số nhà, số tầng và số ngõ, cũng như sử dụng trong các chương trình may rủi như số may mắn hoặc số báo danh. Những con số này hứa hẹn sẽ mang lại sự hỗ trợ cho mệnh chủ, giúp họ đạt được nhiều thành công, tài lộc dồi dào và thăng tiến trong sự nghiệp.</span></span>
+                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Khi khảo sát và phân tích về các con số hợp với tuổi 1999, chuyên gia tại <u><strong><a href="{{ route('home') }}">{{$nameSite}}</a></strong></u> đã chỉ ra rằng những con số này có thể được áp dụng vào các công việc liên quan đến số nhà, số tầng và số ngõ, cũng như sử dụng trong các chương trình may rủi như số may mắn hoặc số báo danh. Những con số này hứa hẹn sẽ mang lại sự hỗ trợ cho mệnh chủ, giúp họ đạt được nhiều thành công, tài lộc dồi dào và thăng tiến trong sự nghiệp.</span></span>
                     </p>
 
                     <h2 dir="ltr" style="text-align:justify"><span style="color:#FF0000"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span id="iii-quan-diem-dung-so-hop-tuoi-ky-mao-trong-sim-co-dung-khong">III. Quan điểm dùng số hợp tuổi Kỷ Mão trong sim có đúng không?</span></span>
@@ -162,7 +162,7 @@
                         </span>
                     </h2>
 
-                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Câu trả lời là không chính xác. Con số hợp với tuổi 1999 mặc dù sẽ mang lại nhiều may mắn cho tuổi Kỷ Mão nhưng khi đặt vào dãy sim thì phải xét tổng hòa 10 con số. Bởi sự xuất hiện của 1 con số không thể là đại diện cho cả dãy sim. Hơn nữa, ngũ hành sim phải được xác định theo cách tính 60 hoa giáp chứ không dựa vào ngũ hành từng con số. Ngoài ngũ hành thì <u><strong><a href="">sim hợp tuổi 1999</a></strong></u> phải thỏa mãn các yếu tố sau:</span></span>
+                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Câu trả lời là không chính xác. Con số hợp với tuổi 1999 mặc dù sẽ mang lại nhiều may mắn cho tuổi Kỷ Mão nhưng khi đặt vào dãy sim thì phải xét tổng hòa 10 con số. Bởi sự xuất hiện của 1 con số không thể là đại diện cho cả dãy sim. Hơn nữa, ngũ hành sim phải được xác định theo cách tính 60 hoa giáp chứ không dựa vào ngũ hành từng con số. Ngoài ngũ hành thì sim hợp tuổi 1999 phải thỏa mãn các yếu tố sau:</span></span>
                     </p>
 
                     <ul>
@@ -183,127 +183,6 @@
                             </p>
                         </li>
                     </ul>
-
-                    <p>
-                        <!-- khi vào link page sẽ tự động scroll xuống phần bảng sim -->
-                        <div class="row listSim list_sim_item mt-3">
-                            <style>
-                                .titlebox {
-                                    background: #163357;
-                                    padding: 10px;
-                                    width: 100%;
-                                }
-
-                                .titlebox .title_h1 {
-                                    color: #fff;
-                                    margin: 0;
-                                }
-                            </style>
-                            <!-- khi vào link page sẽ tự động scroll xuống phần bảng sim -->
-                            <div class="titlebox">
-                                <h3 class="title_h1 text-center">DANH SÁCH SIM HỢP TUỔI 1999</h3>
-                            </div>
-                            <div class="col-6 col-sm-6 col-md-6">
-                                <div class="main_box_sim_item">
-                                    <div class="row">
-                                        <div class="col-12 col-sm-12 col-md-6">
-                                            <p class="so"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0836875168.html">0836.875.168</a></p>
-                                        </div>
-                                        <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img src="https://simhoptuoi.com.vn/templates/site/images/icon/2.gif" /></div>
-                                    </div>
-                                    <p class="vuong"><strong>Điểm phong thủy sim: </strong> 8/10</p>
-                                    <p class="price"><b>Giá: </b>1,399,000 VND</p>
-                                    <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">Mộc</span></p>
-                                    <p class="yn"><strong>Quẻ Kinh dịch: </strong>Thiên Hỏa Đồng Nhân (同人 tóng rén)</p>
-                                    <div class="row">
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0836875168.html" class="btn_mua">Chi tiết <b>>></b></a>
-                                            </p>
-                                        </div>
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0836875168.html" class="btn_mua">Mua ngay <b>>></b></a>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-6 col-sm-6 col-md-6">
-                                <div class="main_box_sim_item">
-                                    <div class="row">
-                                        <div class="col-12 col-sm-12 col-md-6">
-                                            <p class="so"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0366761388.html">0366.761.388</a></p>
-                                        </div>
-                                        <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img src="https://simhoptuoi.com.vn/templates/site/images/icon/1.gif" /></div>
-                                    </div>
-                                    <p class="vuong"><strong>Điểm phong thủy sim: </strong> 10/10</p>
-                                    <p class="price"><b>Giá: </b>3,380,000 VND</p>
-                                    <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">Mộc</span></p>
-                                    <p class="yn"><strong>Quẻ Kinh dịch: </strong>Thủy Trạch Tiết (節 jié)</p>
-                                    <div class="row">
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0366761388.html" class="btn_mua">Chi tiết <b>>></b></a>
-                                            </p>
-                                        </div>
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0366761388.html" class="btn_mua">Mua ngay <b>>></b></a>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-6 col-sm-6 col-md-6">
-                                <div class="main_box_sim_item">
-                                    <div class="row">
-                                        <div class="col-12 col-sm-12 col-md-6">
-                                            <p class="so"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0367097286.html">0367.097.286</a></p>
-                                        </div>
-                                        <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img src="https://simhoptuoi.com.vn/templates/site/images/icon/1.gif" /></div>
-                                    </div>
-                                    <p class="vuong"><strong>Điểm phong thủy sim: </strong> 10/10</p>
-                                    <p class="price"><b>Giá: </b>3,680,000 VND</p>
-                                    <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">Mộc</span></p>
-                                    <p class="yn"><strong>Quẻ Kinh dịch: </strong>Thuần Khôn (坤 kūn)</p>
-                                    <div class="row">
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0367097286.html" class="btn_mua">Chi tiết <b>>></b></a>
-                                            </p>
-                                        </div>
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0367097286.html" class="btn_mua">Mua ngay <b>>></b></a>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-6 col-sm-6 col-md-6">
-                                <div class="main_box_sim_item">
-                                    <div class="row">
-                                        <div class="col-12 col-sm-12 col-md-6">
-                                            <p class="so"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0368877839.html">0368.877.839</a></p>
-                                        </div>
-                                        <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img src="https://simhoptuoi.com.vn/templates/site/images/icon/1.gif" /></div>
-                                    </div>
-                                    <p class="vuong"><strong>Điểm phong thủy sim: </strong> 10/10</p>
-                                    <p class="price"><b>Giá: </b>3,890,000 VND</p>
-                                    <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">Mộc</span></p>
-                                    <p class="yn"><strong>Quẻ Kinh dịch: </strong>Thiên Trạch Lý (履 lǚ)</p>
-                                    <div class="row">
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0368877839.html" class="btn_mua">Chi tiết <b>>></b></a>
-                                            </p>
-                                        </div>
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0368877839.html" class="btn_mua">Mua ngay <b>>></b></a>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="read-more">
-                            <a href="">Xem thêm (7213) sim </a>
-                        </div>
-                    </p>
 
                     <p dir="ltr" style="text-align:center"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">
 {{--                                <section class="boxFormSim">--}}

@@ -88,7 +88,7 @@
         <div class="siteBodyContent">
             <div class="row">
                 <div class="col-md-12">
-                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><a href=""><strong>1992 hợp số nào</strong></a></u>? Đây là câu hỏi mà nhiều người sinh năm 1992 quan tâm khi tìm hiểu về tử vi. Theo đó, các con số hợp mệnh Kim 1992 có thể ảnh hưởng đến sự thành công trong cuộc sống của mỗi người. Với người tuổi Nhâm Thân, những con số hợp tuổi có thể giúp họ khai thác tối đa tiềm năng bản thân và tạo ra những cơ hội thuận lợi trong cuộc sống. Hãy cùng tìm hiểu về những con số hợp tuổi 1992 và ý nghĩa của chúng để có được hướng ứng dụng đúng cách</span></span>
+                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>1992 hợp số nào</strong>? Đây là câu hỏi mà nhiều người sinh năm 1992 quan tâm khi tìm hiểu về tử vi. Theo đó, các con số hợp mệnh Kim 1992 có thể ảnh hưởng đến sự thành công trong cuộc sống của mỗi người. Với người tuổi Nhâm Thân, những con số hợp tuổi có thể giúp họ khai thác tối đa tiềm năng bản thân và tạo ra những cơ hội thuận lợi trong cuộc sống. Hãy cùng tìm hiểu về những con số hợp tuổi 1992 và ý nghĩa của chúng để có được hướng ứng dụng đúng cách</span></span>
                     </p>
 
                     <h2 dir="ltr" style="text-align:justify"><span style="color:#FF0000"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span id="i-phan-tich-nam-nu-tuoi-1992-hop-so-nao">I. Phân tích nam nữ tuổi 1992 hợp số nào?</span></span>
@@ -364,132 +364,6 @@
                     </p>
 
                     <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Ngoài yếu tố ngũ hành đã nói trên, một số sim phong thủy hợp tuổi 1992 cần đảm bảo 4 yếu tố bao gồm: Âm Dương, Quẻ Dịch, Ngũ Hành, Cửu Tinh, Quan Niệm Dân Gian.</span></span></strong></em></p>
-
-                    <blockquote>
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><em><strong>Khám phá ngay bí quyết chọn sim phù hợp với tuổi 1992, khiến may mắn và tài lộc hội tụ đủ đầy tại bài phân tích tìm ra số sim hoàn hảo sau: <a href=""><u>Cách chọn sim hợp tuổi 1992</u></a></strong></em></span></span>
-                        </p>
-                    </blockquote>
-
-                    <p style="text-align:center">
-                        <!-- khi vào link page sẽ tự động scroll xuống phần bảng sim -->
-                        <div class="row listSim list_sim_item mt-3">
-                            <style>
-                                .titlebox {
-                                    background: #163357;
-                                    padding: 10px;
-                                    width: 100%;
-                                }
-
-                                .titlebox .title_h1 {
-                                    color: #fff;
-                                    margin: 0;
-                                }
-                            </style>
-                            <!-- khi vào link page sẽ tự động scroll xuống phần bảng sim -->
-                            <div class="titlebox">
-                                <h3 class="title_h1 text-center">DANH SÁCH SIM HỢP TUỔI 1992</h3>
-                            </div>
-                            <div class="col-6 col-sm-6 col-md-6">
-                                <div class="main_box_sim_item">
-                                    <div class="row">
-                                        <div class="col-12 col-sm-12 col-md-6">
-                                            <p class="so"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0836875168.html">0836.875.168</a></p>
-                                        </div>
-                                        <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img src="https://simhoptuoi.com.vn/templates/site/images/icon/2.gif" /></div>
-                                    </div>
-                                    <p class="vuong"><strong>Điểm phong thủy sim: </strong> 8/10</p>
-                                    <p class="price"><b>Giá: </b>1,399,000 VND</p>
-                                    <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">Mộc</span></p>
-                                    <p class="yn"><strong>Quẻ Kinh dịch: </strong>Thiên Hỏa Đồng Nhân (同人 tóng rén)</p>
-                                    <div class="row">
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0836875168.html" class="btn_mua">Chi tiết <b>>></b></a>
-                                            </p>
-                                        </div>
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0836875168.html" class="btn_mua">Mua ngay <b>>></b></a>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-6 col-sm-6 col-md-6">
-                                <div class="main_box_sim_item">
-                                    <div class="row">
-                                        <div class="col-12 col-sm-12 col-md-6">
-                                            <p class="so"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0366761388.html">0366.761.388</a></p>
-                                        </div>
-                                        <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img src="https://simhoptuoi.com.vn/templates/site/images/icon/1.gif" /></div>
-                                    </div>
-                                    <p class="vuong"><strong>Điểm phong thủy sim: </strong> 10/10</p>
-                                    <p class="price"><b>Giá: </b>3,380,000 VND</p>
-                                    <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">Mộc</span></p>
-                                    <p class="yn"><strong>Quẻ Kinh dịch: </strong>Thủy Trạch Tiết (節 jié)</p>
-                                    <div class="row">
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0366761388.html" class="btn_mua">Chi tiết <b>>></b></a>
-                                            </p>
-                                        </div>
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0366761388.html" class="btn_mua">Mua ngay <b>>></b></a>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-6 col-sm-6 col-md-6">
-                                <div class="main_box_sim_item">
-                                    <div class="row">
-                                        <div class="col-12 col-sm-12 col-md-6">
-                                            <p class="so"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0367097286.html">0367.097.286</a></p>
-                                        </div>
-                                        <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img src="https://simhoptuoi.com.vn/templates/site/images/icon/1.gif" /></div>
-                                    </div>
-                                    <p class="vuong"><strong>Điểm phong thủy sim: </strong> 10/10</p>
-                                    <p class="price"><b>Giá: </b>3,680,000 VND</p>
-                                    <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">Mộc</span></p>
-                                    <p class="yn"><strong>Quẻ Kinh dịch: </strong>Thuần Khôn (坤 kūn)</p>
-                                    <div class="row">
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0367097286.html" class="btn_mua">Chi tiết <b>>></b></a>
-                                            </p>
-                                        </div>
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0367097286.html" class="btn_mua">Mua ngay <b>>></b></a>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-6 col-sm-6 col-md-6">
-                                <div class="main_box_sim_item">
-                                    <div class="row">
-                                        <div class="col-12 col-sm-12 col-md-6">
-                                            <p class="so"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0368877839.html">0368.877.839</a></p>
-                                        </div>
-                                        <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img src="https://simhoptuoi.com.vn/templates/site/images/icon/1.gif" /></div>
-                                    </div>
-                                    <p class="vuong"><strong>Điểm phong thủy sim: </strong> 10/10</p>
-                                    <p class="price"><b>Giá: </b>3,890,000 VND</p>
-                                    <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">Mộc</span></p>
-                                    <p class="yn"><strong>Quẻ Kinh dịch: </strong>Thiên Trạch Lý (履 lǚ)</p>
-                                    <div class="row">
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0368877839.html" class="btn_mua">Chi tiết <b>>></b></a>
-                                            </p>
-                                        </div>
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0368877839.html" class="btn_mua">Mua ngay <b>>></b></a>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="read-more">
-                            <a href="">Xem thêm (7213) sim </a>
-                        </div>
-                    </p>
 
                     <h2 dir="ltr" style="text-align:justify"><span style="color:#FF0000"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span id="iv-lam-tuong-ve-so-may-man-cua-tuoi-nham-than-va-so-hop-tuoi-1992">IV. Lầm tưởng về số may mắn của tuổi Nhâm Thân và số hợp tuổi 1992</span></span>
                                 </span>

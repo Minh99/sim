@@ -146,7 +146,7 @@
                         </script>
                     </p>
 
-                    <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><a href=""><strong>Đuôi số điện thoại hợp mệnh Hỏa</strong></a></u> theo quan niệm nhiều người là những đuôi số có ngũ hành tương sinh, tương hỗ với bản mệnh Hỏa. Đó là những đuôi sim mang đến may mắn, điều cát lành, giúp công việc, cuộc sống và gia đình gặp nhiều thuận lợi, bình an. Tuy nhiên hiện nay có nhiều cách chọn đuôi sim hợp mệnh Hỏa khác nhau, mỗi cách đều có quan điểm riêng. Vậy cùng boisimkinhdich.com tham khảo tại nội dung dưới đây. </span></span>
+                    <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Đuôi số điện thoại hợp mệnh Hỏa</strong> theo quan niệm nhiều người là những đuôi số có ngũ hành tương sinh, tương hỗ với bản mệnh Hỏa. Đó là những đuôi sim mang đến may mắn, điều cát lành, giúp công việc, cuộc sống và gia đình gặp nhiều thuận lợi, bình an. Tuy nhiên hiện nay có nhiều cách chọn đuôi sim hợp mệnh Hỏa khác nhau, mỗi cách đều có quan điểm riêng. Vậy cùng boisimkinhdich.com tham khảo tại nội dung dưới đây. </span></span>
                     </p>
 
                     <h2 dir="ltr" style="text-align: justify;"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="1-tong-quan-ve-nguoi-dung-duoi-so-dien-thoai-hop-menh-hoa">1. Tổng quan về người dùng đuôi số điện thoại hợp mệnh Hỏa</span></span>

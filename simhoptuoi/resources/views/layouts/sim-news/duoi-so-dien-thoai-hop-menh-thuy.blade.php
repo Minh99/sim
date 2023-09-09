@@ -88,65 +88,65 @@
         <div class="siteBodyContent">
             <div class="row">
                 <div class="col-md-12">
-                    <p>
-                        <section class="row text-center">
-                            <div class="col-md-10 offset-md-2 form_xem_phong_thuy_sim form-4-so-cuoi" id="chonlai">
+{{--                    <p>--}}
+{{--                        <section class="row text-center">--}}
+{{--                            <div class="col-md-10 offset-md-2 form_xem_phong_thuy_sim form-4-so-cuoi" id="chonlai">--}}
 
-                                <div class="title-form">
-                                    <h2>TRA CỨU Ý NGHĨA 4 SỐ CUỐI ĐIỆN THOẠI</h2>
-                                </div>
-                                <div class="row d-flex justify-content-center align-items-center">
-                                    <div class="col-md-6 pdl0 pdr0">
-                                        <input style="width:100%" type="text" id="4socuoi" class="4socuoi" name="4socuoi" placeholder="Nhập 4 số cuối điện thoại" type="tel" required="" value="" />
-                                        <input type="hidden" id="url_tracuu4so" value="https://simhoptuoi.com.vn/tin-sim/y-nghia-sim-duoi-" />
+{{--                                <div class="title-form">--}}
+{{--                                    <h2>TRA CỨU Ý NGHĨA 4 SỐ CUỐI ĐIỆN THOẠI</h2>--}}
+{{--                                </div>--}}
+{{--                                <div class="row d-flex justify-content-center align-items-center">--}}
+{{--                                    <div class="col-md-6 pdl0 pdr0">--}}
+{{--                                        <input style="width:100%" type="text" id="4socuoi" class="4socuoi" name="4socuoi" placeholder="Nhập 4 số cuối điện thoại" type="tel" required="" value="" />--}}
+{{--                                        <input type="hidden" id="url_tracuu4so" value="https://simhoptuoi.com.vn/tin-sim/y-nghia-sim-duoi-" />--}}
 
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-md-6 offset-md-3 text-center">
-                                        <button class="fxpts_btn tracu4socuoi-btn">Tra cứu</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
-                        <script>
-                            $(document).ready(function() {
-                                $('.tracu4socuoi-btn').click(function() {
-                                    let number = $("#4socuoi").val();
-                                    number = number.replace(/\D/g, "");
-                                    //alert(); return;
-                                    if (Number.isNaN(number) || number.length != 4) {
-                                        alert("Mời bạn nhập 4 số đuôi sim cần tìm");
-                                        return false;
-                                    }
-                                    if (true) { //!isNaN(number)
-                                        let url_sumit = $("#url_tracuu4so").val() + number + '.html';
-                                        window.location = url_sumit;
-                                    } else {
-                                        alert("Mời bạn nhập 4 số đuôi sim cần tìm");
-                                    }
-                                });
-                                $("#4socuoi").keypress(function(event) {
-                                    if (event.which == 13) {
-                                        let number = $("#4socuoi").val();
-                                        number = number.replace(/\D/g, "");
-                                        if (Number.isNaN(number) || number.length != 4) {
-                                            alert("Mời bạn nhập 4 số đuôi sim cần tìm");
-                                            return false;
-                                        }
-                                        if (true) {
-                                            let url_sumit = $("#url_tracuu4so").val() + number + '.html';
-                                            window.location = url_sumit;
-                                        } else {
-                                            alert("Mời bạn nhập 4 số đuôi sim cần tìm");
-                                        }
-                                    }
-                                });
-                            });
-                        </script>
-                    </p>
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                                <div class="row">--}}
+{{--                                    <div class="col-md-6 offset-md-3 text-center">--}}
+{{--                                        <button class="fxpts_btn tracu4socuoi-btn">Tra cứu</button>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </section>--}}
+{{--                        <script>--}}
+{{--                            $(document).ready(function() {--}}
+{{--                                $('.tracu4socuoi-btn').click(function() {--}}
+{{--                                    let number = $("#4socuoi").val();--}}
+{{--                                    number = number.replace(/\D/g, "");--}}
+{{--                                    //alert(); return;--}}
+{{--                                    if (Number.isNaN(number) || number.length != 4) {--}}
+{{--                                        alert("Mời bạn nhập 4 số đuôi sim cần tìm");--}}
+{{--                                        return false;--}}
+{{--                                    }--}}
+{{--                                    if (true) { //!isNaN(number)--}}
+{{--                                        let url_sumit = $("#url_tracuu4so").val() + number + '.html';--}}
+{{--                                        window.location = url_sumit;--}}
+{{--                                    } else {--}}
+{{--                                        alert("Mời bạn nhập 4 số đuôi sim cần tìm");--}}
+{{--                                    }--}}
+{{--                                });--}}
+{{--                                $("#4socuoi").keypress(function(event) {--}}
+{{--                                    if (event.which == 13) {--}}
+{{--                                        let number = $("#4socuoi").val();--}}
+{{--                                        number = number.replace(/\D/g, "");--}}
+{{--                                        if (Number.isNaN(number) || number.length != 4) {--}}
+{{--                                            alert("Mời bạn nhập 4 số đuôi sim cần tìm");--}}
+{{--                                            return false;--}}
+{{--                                        }--}}
+{{--                                        if (true) {--}}
+{{--                                            let url_sumit = $("#url_tracuu4so").val() + number + '.html';--}}
+{{--                                            window.location = url_sumit;--}}
+{{--                                        } else {--}}
+{{--                                            alert("Mời bạn nhập 4 số đuôi sim cần tìm");--}}
+{{--                                        }--}}
+{{--                                    }--}}
+{{--                                });--}}
+{{--                            });--}}
+{{--                        </script>--}}
+{{--                    </p>--}}
 
-                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><a href=""><strong>Đuôi số điện thoại hợp mệnh thủy</strong></a></u> chứa con số 1, 6, 7 để giúp cho bản thân mệnh này gặp nhiều điều may mắn, cơ hội mới trong công việc. Không chỉ vậy, việc sở hữu những dãy số điện thoại chứa những đuôi số này sẽ giúp họ kinh doanh thuận buồm xuôi gió do có nguồn năng lượng tốt phù trợ đồng thời kìm hãm những nguồn năng lượng xấu xua đuổi những vận xui từ đó cuộc sống của chủ mệnh Thủy trở nên thịnh vượng, đầy đủ, ấm no hơn. Vậy mệnh Thủy hợp đuôi số điện thoại nào?</span></span>
+                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Đuôi số điện thoại hợp mệnh thủy</strong> chứa con số 1, 6, 7 để giúp cho bản thân mệnh này gặp nhiều điều may mắn, cơ hội mới trong công việc. Không chỉ vậy, việc sở hữu những dãy số điện thoại chứa những đuôi số này sẽ giúp họ kinh doanh thuận buồm xuôi gió do có nguồn năng lượng tốt phù trợ đồng thời kìm hãm những nguồn năng lượng xấu xua đuổi những vận xui từ đó cuộc sống của chủ mệnh Thủy trở nên thịnh vượng, đầy đủ, ấm no hơn. Vậy mệnh Thủy hợp đuôi số điện thoại nào?</span></span>
                     </p>
 
                     <h2 dir="ltr" style="text-align:justify"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="i-vai-net-ve-nguoi-dung-sim-chua-duoi-so-dien-thoai-hop-menh-thuy">I. Vài nét về người dùng sim chứa đuôi số điện thoại hợp mệnh Thủy</span></span>
@@ -322,59 +322,59 @@
 
                     <ul>
                         <li dir="ltr">
-                            <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><u><a href="">3939</a></u></strong> : Hưởng ơn định vượng</span></span>
+                            <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>3939</strong> : Hưởng ơn định vượng</span></span>
                             </p>
                         </li>
                         <li dir="ltr">
-                            <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="">3333</a></strong></u> : Vận may trọn đời</span></span>
+                            <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>3333</strong> : Vận may trọn đời</span></span>
                             </p>
                         </li>
                         <li dir="ltr">
-                            <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="">5239</a></strong></u> : Điềm tài vô cùng</span></span>
+                            <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>5239</strong> : Điềm tài vô cùng</span></span>
                             </p>
                         </li>
                         <li dir="ltr">
-                            <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="">9279</a></strong></u> : Phú quý vô song</span></span>
+                            <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>9279</strong> : Phú quý vô song</span></span>
                             </p>
                         </li>
                         <li dir="ltr">
-                            <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="">6686</a></strong></u> : Lộc vận thăng hoa</span></span>
+                            <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>6686</strong> : Lộc vận thăng hoa</span></span>
                             </p>
                         </li>
                         <li dir="ltr">
-                            <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="">3938</a></strong></u> : Thần tài trấn địa</span></span>
+                            <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>3938</strong> : Thần tài trấn địa</span></span>
                             </p>
                         </li>
                         <li dir="ltr">
-                            <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="">5656</a></strong></u> : Thịnh vượng đong đầy</span></span>
+                            <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>5656</strong> : Thịnh vượng đong đầy</span></span>
                             </p>
                         </li>
                         <li dir="ltr">
-                            <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="">8683</a></strong></u> : Phúc lộc thịnh tài</span></span>
+                            <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>8683</strong> : Phúc lộc thịnh tài</span></span>
                             </p>
                         </li>
                         <li dir="ltr">
-                            <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="">6868</a></strong></u> : Lộc tài thịnh phát</span></span>
+                            <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>6868</strong> : Lộc tài thịnh phát</span></span>
                             </p>
                         </li>
                         <li dir="ltr">
-                            <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="">1618</a></strong></u> : Đại lộc đại phát</span></span>
+                            <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>1618</strong> : Đại lộc đại phát</span></span>
                             </p>
                         </li>
                         <li dir="ltr">
-                            <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="">5555</a></strong></u> : Thịnh danh thành công</span></span>
+                            <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>5555</strong> : Thịnh danh thành công</span></span>
                             </p>
                         </li>
                         <li dir="ltr">
-                            <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="">6666</a></strong></u> : Bốn phương sinh lộc</span></span>
+                            <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>6666</strong> : Bốn phương sinh lộc</span></span>
                             </p>
                         </li>
                         <li dir="ltr">
-                            <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="">8888</a></strong></u> : Bốn phương thịnh phát</span></span>
+                            <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>8888</strong> : Bốn phương thịnh phát</span></span>
                             </p>
                         </li>
                         <li dir="ltr">
-                            <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="">2879</a></strong></u> : Hạnh phúc vô cùng</span></span>
+                            <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>2879</strong> : Hạnh phúc vô cùng</span></span>
                             </p>
                         </li>
                     </ul>

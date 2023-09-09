@@ -161,7 +161,7 @@
                     <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Trong lựa chọn sim số, vẫn còn rất nhiều người lầm tưởng rằng dãy số sim chứa nhiều con số hợp với tuổi quý dậu là sim hợp với bản mệnh người dùng. Thế nhưng quan niệm này là không đúng bởi số hợp tuổi dựa trên ngũ hành mệnh niên để suy luận trong khi đó ngũ hành dãy sim lại được tính dựa trên ngũ hành thiên can và địa chi của 60 hoa giáp.</span></span>
                     </p>
 
-                    <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Bên cạnh đó, ngoài yếu tố ngũ hành của con số trong dãy sim thì để đảm bảo yếu tố phong thủy hợp tuổi thì một dãy <a href="">sim hợp tuổi 1993</a> còn phải thỏa mãn các điều kiện về:</span></span></strong></em></p>
+                    <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Bên cạnh đó, ngoài yếu tố ngũ hành của con số trong dãy sim thì để đảm bảo yếu tố phong thủy hợp tuổi thì một dãy sim hợp tuổi 1993 còn phải thỏa mãn các điều kiện về:</span></span></strong></em></p>
 
                     <ul>
                         <li dir="ltr">
@@ -181,127 +181,6 @@
                             </p>
                         </li>
                     </ul>
-
-                    <p>
-                        <!-- khi vào link page sẽ tự động scroll xuống phần bảng sim -->
-                        <div class="row listSim list_sim_item mt-3">
-                            <style>
-                                .titlebox {
-                                    background: #163357;
-                                    padding: 10px;
-                                    width: 100%;
-                                }
-
-                                .titlebox .title_h1 {
-                                    color: #fff;
-                                    margin: 0;
-                                }
-                            </style>
-                            <!-- khi vào link page sẽ tự động scroll xuống phần bảng sim -->
-                            <div class="titlebox">
-                                <h3 class="title_h1 text-center">DANH SÁCH SIM HỢP TUỔI 1993</h3>
-                            </div>
-                            <div class="col-6 col-sm-6 col-md-6">
-                                <div class="main_box_sim_item">
-                                    <div class="row">
-                                        <div class="col-12 col-sm-12 col-md-6">
-                                            <p class="so"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0836875168.html">0836.875.168</a></p>
-                                        </div>
-                                        <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img src="https://simhoptuoi.com.vn/templates/site/images/icon/2.gif" /></div>
-                                    </div>
-                                    <p class="vuong"><strong>Điểm phong thủy sim: </strong> 8/10</p>
-                                    <p class="price"><b>Giá: </b>1,399,000 VND</p>
-                                    <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">Mộc</span></p>
-                                    <p class="yn"><strong>Quẻ Kinh dịch: </strong>Thiên Hỏa Đồng Nhân (同人 tóng rén)</p>
-                                    <div class="row">
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0836875168.html" class="btn_mua">Chi tiết <b>>></b></a>
-                                            </p>
-                                        </div>
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0836875168.html" class="btn_mua">Mua ngay <b>>></b></a>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-6 col-sm-6 col-md-6">
-                                <div class="main_box_sim_item">
-                                    <div class="row">
-                                        <div class="col-12 col-sm-12 col-md-6">
-                                            <p class="so"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0366761388.html">0366.761.388</a></p>
-                                        </div>
-                                        <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img src="https://simhoptuoi.com.vn/templates/site/images/icon/1.gif" /></div>
-                                    </div>
-                                    <p class="vuong"><strong>Điểm phong thủy sim: </strong> 10/10</p>
-                                    <p class="price"><b>Giá: </b>3,380,000 VND</p>
-                                    <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">Mộc</span></p>
-                                    <p class="yn"><strong>Quẻ Kinh dịch: </strong>Thủy Trạch Tiết (節 jié)</p>
-                                    <div class="row">
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0366761388.html" class="btn_mua">Chi tiết <b>>></b></a>
-                                            </p>
-                                        </div>
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0366761388.html" class="btn_mua">Mua ngay <b>>></b></a>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-6 col-sm-6 col-md-6">
-                                <div class="main_box_sim_item">
-                                    <div class="row">
-                                        <div class="col-12 col-sm-12 col-md-6">
-                                            <p class="so"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0367097286.html">0367.097.286</a></p>
-                                        </div>
-                                        <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img src="https://simhoptuoi.com.vn/templates/site/images/icon/1.gif" /></div>
-                                    </div>
-                                    <p class="vuong"><strong>Điểm phong thủy sim: </strong> 10/10</p>
-                                    <p class="price"><b>Giá: </b>3,680,000 VND</p>
-                                    <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">Mộc</span></p>
-                                    <p class="yn"><strong>Quẻ Kinh dịch: </strong>Thuần Khôn (坤 kūn)</p>
-                                    <div class="row">
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0367097286.html" class="btn_mua">Chi tiết <b>>></b></a>
-                                            </p>
-                                        </div>
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0367097286.html" class="btn_mua">Mua ngay <b>>></b></a>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-6 col-sm-6 col-md-6">
-                                <div class="main_box_sim_item">
-                                    <div class="row">
-                                        <div class="col-12 col-sm-12 col-md-6">
-                                            <p class="so"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0368877839.html">0368.877.839</a></p>
-                                        </div>
-                                        <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img src="https://simhoptuoi.com.vn/templates/site/images/icon/1.gif" /></div>
-                                    </div>
-                                    <p class="vuong"><strong>Điểm phong thủy sim: </strong> 10/10</p>
-                                    <p class="price"><b>Giá: </b>3,890,000 VND</p>
-                                    <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">Mộc</span></p>
-                                    <p class="yn"><strong>Quẻ Kinh dịch: </strong>Thiên Trạch Lý (履 lǚ)</p>
-                                    <div class="row">
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0368877839.html" class="btn_mua">Chi tiết <b>>></b></a>
-                                            </p>
-                                        </div>
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0368877839.html" class="btn_mua">Mua ngay <b>>></b></a>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="read-more">
-                            <a href="">Xem thêm (7213) sim </a>
-                        </div>
-                    </p>
 
                     <p dir="ltr" style="text-align:center"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">
 {{--                                <section class="boxFormSim">--}}

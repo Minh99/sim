@@ -148,7 +148,7 @@
                     <p dir="ltr"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">- Hành Hỏa: màu đỏ, cam, tím.</span></span>
                     </p>
 
-                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Để luận nam nữ tuổi 1995 hợp màu gì cần dựa vào quy luật sinh khắc ngũ hành giữa màu và mệnh quái của tuổi (<u><strong><a href="">1995 cung gì</a></strong></u>). Màu hợp tuổi 1995 là những màu có ngũ hành tương sinh hoặc tương hỗ với mệnh quái của tuổi Ất Hợi. Ngược lại, màu khác không nên sử dụng là màu có ngũ hành xung khắc với mệnh quái. </span></span>
+                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Để luận nam nữ tuổi 1995 hợp màu gì cần dựa vào quy luật sinh khắc ngũ hành giữa màu và mệnh quái của tuổi. Màu hợp tuổi 1995 là những màu có ngũ hành tương sinh hoặc tương hỗ với mệnh quái của tuổi Ất Hợi. Ngược lại, màu khác không nên sử dụng là màu có ngũ hành xung khắc với mệnh quái. </span></span>
                     </p>
 
                     <h2 dir="ltr"><span style="color:#B22222"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span id="iii-nam-1995-hop-mau-gi-va-cach-ung-dung-mau-hop-nam-tuoi-1995-don-tai-loc">III. Nam 1995 hợp màu gì và cách ứng dụng màu hợp nam tuổi 1995 đón tài lộc</span></span>
