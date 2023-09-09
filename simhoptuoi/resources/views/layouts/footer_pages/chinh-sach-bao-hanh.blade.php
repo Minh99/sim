@@ -37,8 +37,8 @@
             </p>
 
             {{-- TODO --}}
-            <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Hoặc c&oacute; thể gửi thư g&oacute;p &yacute; v&agrave;o email: </strong>simhoptuoi.com.vn2@gmail.com</span></span>
-            </p>
+{{--            <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Hoặc c&oacute; thể gửi thư g&oacute;p &yacute; v&agrave;o email: </strong>simhoptuoi.com.vn2@gmail.com</span></span>--}}
+{{--            </p>--}}
         </div>
     </section>
 @endsection
