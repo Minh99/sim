@@ -1,6 +1,6 @@
 @extends('app')
 
-@section('title', 'Cách chọn sim hợp mệnh Hỏa đẹp nhất kích tài chiêu lộc may mắn')
+@section('title', 'Coming soon...')
 
 @section('content')
     <h1 class="text-center">

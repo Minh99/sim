@@ -60,7 +60,7 @@
 
         <ul class="ul row">
             <li class="col-4 col-sm-4 col-md-6">
-                <a class="lich-van-nien" href="{{ route('coming-soon')}}">Xem ngày tốt xấu</a>
+                <a class="lich-van-nien" href="{{ route('xem-ngay-tot-xau')}}">Xem ngày tốt xấu</a>
             </li>
             <li class="col-4 col-sm-4 col-md-6">
                 <a class="lich-van-nien" href="{{ route('coming-soon')}}">Lịch vạn niên</a>
