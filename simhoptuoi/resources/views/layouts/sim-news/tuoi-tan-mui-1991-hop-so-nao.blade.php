@@ -87,7 +87,7 @@
         <div class="siteBodyContent">
             <div class="row">
                 <div class="col-md-12">
-                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><a href=""><strong>1991 hợp số nào</strong></a></u> là câu hỏi được nhiều người quan tâm đến khi tìm kiếm các con số hợp mệnh phù hợp. Với niềm tin rằng những con số này có thể giúp tăng cường may mắn, tài lộc và sức khỏe trong cuộc sống, việc tìm kiếm các con số hợp mệnh phù hợp đã trở thành một chủ đề được quan tâm và thảo luận rộng rãi. Vậy, <strong>tuổi Tân Mùi hợp số nào</strong>? Hãy cùng boisimkinhdich.com tìm hiểu!</span></span>
+                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>1991 hợp số nào</strong> là câu hỏi được nhiều người quan tâm đến khi tìm kiếm các con số hợp mệnh phù hợp. Với niềm tin rằng những con số này có thể giúp tăng cường may mắn, tài lộc và sức khỏe trong cuộc sống, việc tìm kiếm các con số hợp mệnh phù hợp đã trở thành một chủ đề được quan tâm và thảo luận rộng rãi. Vậy, <strong>tuổi Tân Mùi hợp số nào</strong>? Hãy cùng boisimkinhdich.com tìm hiểu!</span></span>
                     </p>
 
                     <h2 dir="ltr" style="text-align:justify"><span style="color:#FF0000"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span id="i-nam-nu-tuoi-tan-mui-1991-hop-so-nao">I. Nam nữ tuổi Tân Mùi 1991 hợp số nào?</span></span>
@@ -199,7 +199,7 @@
                     <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Chọn lựa và sử dụng các con số hợp tuổi Tân Mùi mang đến nhiều ý nghĩa và tác dụng tốt đẹp cho người dùng. Tuy nhiên, có không ít người hiện nay đang lầm tưởng rằng chọn sim hợp tuổi 1991 là dãy số sim chứa nhiều con số hợp tuổi. Tuy nhiên quan niệm này hoàn toàn sai lầm vì ngũ hành dãy số sim được tính dựa theo lục thập hoa giáp, không phải dựa trên ý nghĩa tốt xấu của một vài con số trong dãy sim.</span></span>
                     </p>
 
-                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Khi lựa chọn <u><strong><a href="">sim phong thủy hợp tuổi 1991</a></strong></u>, ngoài yếu tố ngũ hành đã nói ở trên thì còn cần phải đảm bảo các yếu tố:</span></span>
+                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Khi lựa chọn <strong>sim phong thủy hợp tuổi 1991</strong>, ngoài yếu tố ngũ hành đã nói ở trên thì còn cần phải đảm bảo các yếu tố:</span></span>
                     </p>
 
                     <ul>
@@ -239,130 +239,6 @@
                     </ul>
 
                     <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sự cân bằng âm dương của một sim số được xác định bằng tỷ lệ số chẵn và số lẻ. Số chẵn mang năng lượng âm và số lẻ mang năng lượng dương. Một sim số có tỷ lệ chẵn lẻ hoàn hảo (5 chẵn : 5 lẻ) là tốt nhất với người dùng.</span></span>
-                    </p>
-
-                    <p dir="ltr" style="text-align: center;">
-                        <!-- khi vào link page sẽ tự động scroll xuống phần bảng sim -->
-                        <div class="row listSim list_sim_item mt-3">
-                            <style>
-                                .titlebox {
-                                    background: #163357;
-                                    padding: 10px;
-                                    width: 100%;
-                                }
-
-                                .titlebox .title_h1 {
-                                    color: #fff;
-                                    margin: 0;
-                                }
-                            </style>
-                            <!-- khi vào link page sẽ tự động scroll xuống phần bảng sim -->
-                            <div class="titlebox">
-                                <h3 class="title_h1 text-center">DANH SÁCH SIM HỢP TUỔI 1991</h3>
-                            </div>
-                            <div class="col-6 col-sm-6 col-md-6">
-                                <div class="main_box_sim_item">
-                                    <div class="row">
-                                        <div class="col-12 col-sm-12 col-md-6">
-                                            <p class="so"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0836875168.html">0836.875.168</a></p>
-                                        </div>
-                                        <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img src="https://simhoptuoi.com.vn/templates/site/images/icon/2.gif" /></div>
-                                    </div>
-                                    <p class="vuong"><strong>Điểm phong thủy sim: </strong> 8/10</p>
-                                    <p class="price"><b>Giá: </b>1,399,000 VND</p>
-                                    <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">Mộc</span></p>
-                                    <p class="yn"><strong>Quẻ Kinh dịch: </strong>Thiên Hỏa Đồng Nhân (同人 tóng rén)</p>
-                                    <div class="row">
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0836875168.html" class="btn_mua">Chi tiết <b>>></b></a>
-                                            </p>
-                                        </div>
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0836875168.html" class="btn_mua">Mua ngay <b>>></b></a>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-6 col-sm-6 col-md-6">
-                                <div class="main_box_sim_item">
-                                    <div class="row">
-                                        <div class="col-12 col-sm-12 col-md-6">
-                                            <p class="so"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0366761388.html">0366.761.388</a></p>
-                                        </div>
-                                        <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img src="https://simhoptuoi.com.vn/templates/site/images/icon/1.gif" /></div>
-                                    </div>
-                                    <p class="vuong"><strong>Điểm phong thủy sim: </strong> 10/10</p>
-                                    <p class="price"><b>Giá: </b>3,380,000 VND</p>
-                                    <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">Mộc</span></p>
-                                    <p class="yn"><strong>Quẻ Kinh dịch: </strong>Thủy Trạch Tiết (節 jié)</p>
-                                    <div class="row">
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0366761388.html" class="btn_mua">Chi tiết <b>>></b></a>
-                                            </p>
-                                        </div>
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0366761388.html" class="btn_mua">Mua ngay <b>>></b></a>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-6 col-sm-6 col-md-6">
-                                <div class="main_box_sim_item">
-                                    <div class="row">
-                                        <div class="col-12 col-sm-12 col-md-6">
-                                            <p class="so"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0367097286.html">0367.097.286</a></p>
-                                        </div>
-                                        <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img src="https://simhoptuoi.com.vn/templates/site/images/icon/1.gif" /></div>
-                                    </div>
-                                    <p class="vuong"><strong>Điểm phong thủy sim: </strong> 10/10</p>
-                                    <p class="price"><b>Giá: </b>3,680,000 VND</p>
-                                    <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">Mộc</span></p>
-                                    <p class="yn"><strong>Quẻ Kinh dịch: </strong>Thuần Khôn (坤 kūn)</p>
-                                    <div class="row">
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0367097286.html" class="btn_mua">Chi tiết <b>>></b></a>
-                                            </p>
-                                        </div>
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0367097286.html" class="btn_mua">Mua ngay <b>>></b></a>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-6 col-sm-6 col-md-6">
-                                <div class="main_box_sim_item">
-                                    <div class="row">
-                                        <div class="col-12 col-sm-12 col-md-6">
-                                            <p class="so"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0368877839.html">0368.877.839</a></p>
-                                        </div>
-                                        <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img src="https://simhoptuoi.com.vn/templates/site/images/icon/1.gif" /></div>
-                                    </div>
-                                    <p class="vuong"><strong>Điểm phong thủy sim: </strong> 10/10</p>
-                                    <p class="price"><b>Giá: </b>3,890,000 VND</p>
-                                    <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">Mộc</span></p>
-                                    <p class="yn"><strong>Quẻ Kinh dịch: </strong>Thiên Trạch Lý (履 lǚ)</p>
-                                    <div class="row">
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0368877839.html" class="btn_mua">Chi tiết <b>>></b></a>
-                                            </p>
-                                        </div>
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0368877839.html" class="btn_mua">Mua ngay <b>>></b></a>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="read-more">
-                            <a href="">Xem thêm (7213) sim </a>
-                        </div>
-                    </p>
-
-                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><em><strong>>>> Với những yếu tố trên thì dãy sim bạn đang dùng có thực sự tốt với bạn hay không. Sử dụng ngay phần mềm <a href=""><u>chấm điểm sim phong thủy</u></a> của đội ngũ chuyên gia phong thủy số học của chúng tôi.</strong></em></span></span>
                     </p>
 
                     <p dir="ltr" style="text-align:center"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">
@@ -640,52 +516,10 @@
 
                     <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sử dụng con số hợp tuổi mang đến nhiều tác động tích cực cho tuổi Tân Mùi 1991 trên nhiều phương diện khác nhau. Tuy nhiên, người dùng khi nắm rõ người <strong>sinh năm 1991 hợp số nào</strong> cần lưu ý rằng những con số này chỉ may mắn khi đứng riêng lẻ một mình, không phải là cơ sở để lựa chọn sim phong thủy, biển số xe… hợp với tuổi Tân Mùi 1991. Nắm rõ điều này sẽ giúp chủ nhân ứng dụng một cách linh hoạt và thích hợp vào thực tiễn.</span></span>
                     </p>
-
-                    <p dir="ltr" style="text-align:center"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>XEM THÊM CON SỐ HỢP TUỔI KHÁC</strong></span></span>
-                    </p>
-
-                    <p dir="ltr" style="text-align:center"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><em><strong>(Tuối 1990 đến tuổi 1999)</strong></em></span></span>
-                    </p>
-
-                    <table border="1" cellpadding="10" cellspacing="1" dir="ltr" style="width:100%">
-                        <tbody>
-                            <tr>
-                                <td style="text-align:center"><a href=""><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong>1990</strong></u></span></span></a></td>
-                                <td style="text-align:center"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="" target="_blank">1995</a></strong></u></span></span>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td style="text-align:center"><a href=""><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong>1991</strong></u></span></span></a></td>
-                                <td style="text-align:center"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="" target="_blank">1996</a></strong></u></span></span>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td style="text-align:center"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="" target="_blank">1992</a></strong></u></span></span>
-                                </td>
-                                <td style="text-align:center"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="" target="_blank">1997</a></strong></u></span></span>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td style="text-align:center"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="" target="_blank">1993</a></strong></u></span></span>
-                                </td>
-                                <td style="text-align:center"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="" target="_blank">1998</a></strong></u></span></span>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td style="text-align:center"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="" target="_blank">1994</a></strong></u></span></span>
-                                </td>
-                                <td style="text-align:center"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="" target="_blank">1999</a></strong></u></span></span>
-                                </td>
-                            </tr>
-                        </tbody>
-                    </table>
                 </div>
             </div>
         </div>
     </div>
-
-
-
 
 
 {{--    <section class="row ">--}}

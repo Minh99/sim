@@ -89,65 +89,65 @@
         <div class="siteBodyContent">
             <div class="row">
                 <div class="col-md-12">
-                    <p style="text-align: center;">
-                        <section class="row text-center">
-                            <div class="col-md-10 offset-md-2 form_xem_phong_thuy_sim form-4-so-cuoi" id="chonlai">
+{{--                    <p style="text-align: center;">--}}
+{{--                        <section class="row text-center">--}}
+{{--                            <div class="col-md-10 offset-md-2 form_xem_phong_thuy_sim form-4-so-cuoi" id="chonlai">--}}
 
-                                <div class="title-form">
-                                    <h2>TRA CỨU Ý NGHĨA 4 SỐ CUỐI ĐIỆN THOẠI</h2>
-                                </div>
-                                <div class="row d-flex justify-content-center align-items-center">
-                                    <div class="col-md-6 pdl0 pdr0">
-                                        <input style="width:100%" type="text" id="4socuoi" class="4socuoi" name="4socuoi" placeholder="Nhập 4 số cuối điện thoại" type="tel" required="" value="" />
-                                        <input type="hidden" id="url_tracuu4so" value="https://simhoptuoi.com.vn/tin-sim/y-nghia-sim-duoi-" />
+{{--                                <div class="title-form">--}}
+{{--                                    <h2>TRA CỨU Ý NGHĨA 4 SỐ CUỐI ĐIỆN THOẠI</h2>--}}
+{{--                                </div>--}}
+{{--                                <div class="row d-flex justify-content-center align-items-center">--}}
+{{--                                    <div class="col-md-6 pdl0 pdr0">--}}
+{{--                                        <input style="width:100%" type="text" id="4socuoi" class="4socuoi" name="4socuoi" placeholder="Nhập 4 số cuối điện thoại" type="tel" required="" value="" />--}}
+{{--                                        <input type="hidden" id="url_tracuu4so" value="https://simhoptuoi.com.vn/tin-sim/y-nghia-sim-duoi-" />--}}
 
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-md-6 offset-md-3 text-center">
-                                        <button class="fxpts_btn tracu4socuoi-btn">Tra cứu</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
-                        <script>
-                            $(document).ready(function() {
-                                $('.tracu4socuoi-btn').click(function() {
-                                    let number = $("#4socuoi").val();
-                                    number = number.replace(/\D/g, "");
-                                    //alert(); return;
-                                    if (Number.isNaN(number) || number.length != 4) {
-                                        alert("Mời bạn nhập 4 số đuôi sim cần tìm");
-                                        return false;
-                                    }
-                                    if (true) { //!isNaN(number)
-                                        let url_sumit = $("#url_tracuu4so").val() + number + '.html';
-                                        window.location = url_sumit;
-                                    } else {
-                                        alert("Mời bạn nhập 4 số đuôi sim cần tìm");
-                                    }
-                                });
-                                $("#4socuoi").keypress(function(event) {
-                                    if (event.which == 13) {
-                                        let number = $("#4socuoi").val();
-                                        number = number.replace(/\D/g, "");
-                                        if (Number.isNaN(number) || number.length != 4) {
-                                            alert("Mời bạn nhập 4 số đuôi sim cần tìm");
-                                            return false;
-                                        }
-                                        if (true) {
-                                            let url_sumit = $("#url_tracuu4so").val() + number + '.html';
-                                            window.location = url_sumit;
-                                        } else {
-                                            alert("Mời bạn nhập 4 số đuôi sim cần tìm");
-                                        }
-                                    }
-                                });
-                            });
-                        </script>
-                    </p>
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                                <div class="row">--}}
+{{--                                    <div class="col-md-6 offset-md-3 text-center">--}}
+{{--                                        <button class="fxpts_btn tracu4socuoi-btn">Tra cứu</button>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </section>--}}
+{{--                        <script>--}}
+{{--                            $(document).ready(function() {--}}
+{{--                                $('.tracu4socuoi-btn').click(function() {--}}
+{{--                                    let number = $("#4socuoi").val();--}}
+{{--                                    number = number.replace(/\D/g, "");--}}
+{{--                                    //alert(); return;--}}
+{{--                                    if (Number.isNaN(number) || number.length != 4) {--}}
+{{--                                        alert("Mời bạn nhập 4 số đuôi sim cần tìm");--}}
+{{--                                        return false;--}}
+{{--                                    }--}}
+{{--                                    if (true) { //!isNaN(number)--}}
+{{--                                        let url_sumit = $("#url_tracuu4so").val() + number + '.html';--}}
+{{--                                        window.location = url_sumit;--}}
+{{--                                    } else {--}}
+{{--                                        alert("Mời bạn nhập 4 số đuôi sim cần tìm");--}}
+{{--                                    }--}}
+{{--                                });--}}
+{{--                                $("#4socuoi").keypress(function(event) {--}}
+{{--                                    if (event.which == 13) {--}}
+{{--                                        let number = $("#4socuoi").val();--}}
+{{--                                        number = number.replace(/\D/g, "");--}}
+{{--                                        if (Number.isNaN(number) || number.length != 4) {--}}
+{{--                                            alert("Mời bạn nhập 4 số đuôi sim cần tìm");--}}
+{{--                                            return false;--}}
+{{--                                        }--}}
+{{--                                        if (true) {--}}
+{{--                                            let url_sumit = $("#url_tracuu4so").val() + number + '.html';--}}
+{{--                                            window.location = url_sumit;--}}
+{{--                                        } else {--}}
+{{--                                            alert("Mời bạn nhập 4 số đuôi sim cần tìm");--}}
+{{--                                        }--}}
+{{--                                    }--}}
+{{--                                });--}}
+{{--                            });--}}
+{{--                        </script>--}}
+{{--                    </p>--}}
 
-                    <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Chọn <strong><u><a href="">đuôi số điện thoại hợp với tuổi</a></u> </strong>đang là nhu cầu tìm kiếm, săn lùng của khá nhiều người hiện nay. Tuy nhiên có quá nhiều cách chọn khiến quá trình tìm chọn gặp nhiều khó khăn. Nhận thấy đây là vấn đề nhức nhối, được nhiều khách hàng đặt ra nên hôm nay boisimkinhdich.com xin chia sẻ khái niệm cũng như các cách chọn đuôi số điện thoại hợp tuổi hiện nay.</span></span>
+                    <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Chọn <strong>đuôi số điện thoại hợp với tuổi </strong>đang là nhu cầu tìm kiếm, săn lùng của khá nhiều người hiện nay. Tuy nhiên có quá nhiều cách chọn khiến quá trình tìm chọn gặp nhiều khó khăn. Nhận thấy đây là vấn đề nhức nhối, được nhiều khách hàng đặt ra nên hôm nay boisimkinhdich.com xin chia sẻ khái niệm cũng như các cách chọn đuôi số điện thoại hợp tuổi hiện nay.</span></span>
                     </p>
 
                     <h2 dir="ltr" style="text-align: justify;"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="1-duoi-so-dien-thoai-hop-voi-tuoi-la-gi">1. Đuôi số điện thoại hợp với tuổi là gì?</span></span>
@@ -322,29 +322,6 @@
                     <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">999: tượng trưng cho uy quyền cũng như địa vị vững chắc cho chủ nhân. Không chỉ vậy nó còn đem lại cho chủ nhân sự thịnh vượng, phúc lộc trường tồn mãi theo thời gian.</span></span>
                     </p>
 
-                    <p dir="ltr" style="text-align: center;"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Chi tiết ý nghĩa sim đuôi may mắn</span></span></strong></p>
-
-                    <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
-                        <tbody>
-                            <tr>
-                                <td>
-                                    <p dir="ltr" style="text-align: center;"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="">333 có ý nghĩa gì</a></span></span></strong></u></p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align: center;"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="">888 có ý nghĩa gì</a></span></span></strong></u></p>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <p dir="ltr" style="text-align: center;"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="">666 có ý nghĩa gì</a></span></span></strong></u></p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align: center;"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="">999 có ý nghĩa gì</a></span></span></strong></u></p>
-                                </td>
-                            </tr>
-                        </tbody>
-                    </table>
-
                     <ul dir="ltr">
                         <li style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Tứ quý</span></span>
                         </li>
@@ -362,32 +339,9 @@
                     <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">9999: đây là bộ số tượng trưng cho hình ảnh viên mãn trọn vẹn, đem lại không ít may mắn, sự trường thọ vĩnh cửu cho chủ mệnh.</span></span>
                     </p>
 
-                    <p dir="ltr" style="text-align: center;"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Chi tiết ý nghĩa sim đuôi may mắn</span></span></strong></p>
-
-                    <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
-                        <tbody>
-                            <tr>
-                                <td>
-                                    <p dir="ltr" style="text-align: center;"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="">3333 có ý nghĩa gì</a></span></span></strong></u></p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align: center;"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="">8888 có ý nghĩa gì</a></span></span></strong></u></p>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <p dir="ltr" style="text-align: center;"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="">6666 có ý nghĩa gì</a></span></span></strong></u></p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align: center;"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="">9999 có ý nghĩa gì</a></span></span></strong></u></p>
-                                </td>
-                            </tr>
-                        </tbody>
-                    </table>
-
                     <p dir="ltr" style="text-align: justify;"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">+ Sim chứa đuôi sim hợp tuổi theo cặp số đặc biệt: </span></span></strong></p>
 
-                    <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">39: được gọi là sim thần tài vì có thần hộ mệnh đem tới những điều tốt đẹp, tránh những xui xẻo, có một cuộc sống thịnh vượng, tiền bạc đầy nhà, công việc kinh doanh làm ăn phát đạt. (xem chi tiết <u><strong><a href="">số thần tài là số mấy</a></strong></u>)</span></span>
+                    <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">39: được gọi là sim thần tài vì có thần hộ mệnh đem tới những điều tốt đẹp, tránh những xui xẻo, có một cuộc sống thịnh vượng, tiền bạc đầy nhà, công việc kinh doanh làm ăn phát đạt. </span></span>
                     </p>
 
                     <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">36: đây là bộ số kích tài lộc cho người sử dụng, giúp công việc của họ gặp nhiều sự thuận lợi, buôn tới đâu thắng tới đó.</span></span>

@@ -145,7 +145,7 @@
                         </script>
                     </p>
 
-                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="">5 số cuối điện thoại</a></strong></u> về số lượng cũng đã chiếm một nửa dãy sim. Vậy nên việc chọn đuôi sim 5 số đẹp càng có ý nghĩa quan trọng, ảnh hưởng lớn đến vận mệnh chủ nhân. Không chỉ mang lại may mắn, tài lộc và thành công mà còn giống như thần hộ mệnh, giúp người dùng thêm tự tin, vững vàng. </span></span>
+                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>5 số cuối điện thoại</strong> về số lượng cũng đã chiếm một nửa dãy sim. Vậy nên việc chọn đuôi sim 5 số đẹp càng có ý nghĩa quan trọng, ảnh hưởng lớn đến vận mệnh chủ nhân. Không chỉ mang lại may mắn, tài lộc và thành công mà còn giống như thần hộ mệnh, giúp người dùng thêm tự tin, vững vàng. </span></span>
                     </p>
 
                     <h2 dir="ltr" style="text-align:justify"><span style="color:#FF0000"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span id="1-phong-thuy-5-so-cuoi-dien-thoai-dep-theo-y-nghia-dan-gian">1. Phong thủy 5 số cuối điện thoại đẹp theo ý nghĩa dân gian</span></span>

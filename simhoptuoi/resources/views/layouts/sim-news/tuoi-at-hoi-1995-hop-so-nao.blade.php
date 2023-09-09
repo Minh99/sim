@@ -91,7 +91,7 @@
         <div class="siteBodyContent">
             <div class="row">
                 <div class="col-md-12">
-                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="">1995 hợp số nào</a></strong></u>? Theo nhận định của nhiều người thì con số may mắn của tuổi Ất Hợi là những con số hợp tuổi, có ngũ hành bổ trợ cho bản mệnh Hỏa. Việc sử dụng những con số này sẽ đem đến nhiều may mắn, tài lộc, thành công trong cuộc sống. Tuy nhiên quan niệm này không chính xác, dễ khiến quý bạn ứng dụng sai, gặp nhiều điều xui xẻo trong cuộc sống. Vậy tuổi ất hợi hợp số nào thì quý vị hãy cùng Sim Hợp Tuổi phân tích, đánh giá tại nội dung dưới đây. </span></span>
+                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>1995 hợp số nào</strong>? Theo nhận định của nhiều người thì con số may mắn của tuổi Ất Hợi là những con số hợp tuổi, có ngũ hành bổ trợ cho bản mệnh Hỏa. Việc sử dụng những con số này sẽ đem đến nhiều may mắn, tài lộc, thành công trong cuộc sống. Tuy nhiên quan niệm này không chính xác, dễ khiến quý bạn ứng dụng sai, gặp nhiều điều xui xẻo trong cuộc sống. Vậy tuổi ất hợi hợp số nào thì quý vị hãy cùng Sim Hợp Tuổi phân tích, đánh giá tại nội dung dưới đây. </span></span>
                     </p>
 
                     <h2 dir="ltr" style="text-align:justify"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="1-tong-quan-ve-tuoi-at-hoi-1995">1. Tổng quan về tuổi Ất Hợi 1995</span></span>
@@ -174,7 +174,7 @@
                         </span>
                     </p>
 
-                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Theo chuyên gia của <u><strong><a href="https://simhoptuoi.com.vn/">Sim Hợp Tuổi</a></strong></u>, việc sử dụng các con số hợp tuổi 1995 chỉ mang lại may mắn và lợi ích nếu được áp dụng vào các việc như chọn số nhà, số tầng, số ngõ hay các con số bốc thăm trúng thưởng. Việc lựa chọn những con số này hứa hẹn sẽ mang lại sự thay đổi tích cực cho cuộc sống của mệnh chủ, giúp cuộc sống trở nên hưng thịnh hơn và phát tài.</span></span>
+                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Theo chuyên gia của <u><strong><a href="{{ route('home') }}">{{$nameSite}}</a></strong></u>, việc sử dụng các con số hợp tuổi 1995 chỉ mang lại may mắn và lợi ích nếu được áp dụng vào các việc như chọn số nhà, số tầng, số ngõ hay các con số bốc thăm trúng thưởng. Việc lựa chọn những con số này hứa hẹn sẽ mang lại sự thay đổi tích cực cho cuộc sống của mệnh chủ, giúp cuộc sống trở nên hưng thịnh hơn và phát tài.</span></span>
                     </p>
 
                     <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Việc chọn số nhà, số tầng, số ngõ phù hợp sẽ giúp tăng cường năng lượng và thu hút tài lộc, tạo ra một môi trường sống tốt đẹp hơn cho mệnh chủ. Các con số bốc thăm trúng thưởng cũng là cơ hội để mệnh chủ có thể đón nhận những khoản tiền lớn, giúp cuộc sống trở nên giàu có hơn.</span></span>
@@ -195,132 +195,6 @@
                     </p>
 
                     <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">- Sim phong thủy hợp tuổi 1995 ngoài ngũ hành tương sinh còn phải đảm bảo tương hợp với người dùng tuổi Ất Hợi khi xét theo các yếu tố như âm dương, quẻ dịch, cửu tinh, quan niệm dân gian.</span></span>
-                    </p>
-
-                    <blockquote>
-                        <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><em><strong>Khám phá ngay bí quyết chọn sim phù hợp với tuổi 1995, khiến may mắn và tài lộc hội tụ đủ đầy tại bài phân tích tìm ra số sim hoàn hảo sau: <a href=""><u>Cách chọn sim hợp tuổi 1995</u></a></strong></em></span></span>
-                        </p>
-                    </blockquote>
-
-                    <p style="text-align: justify;">
-                        <!-- khi vào link page sẽ tự động scroll xuống phần bảng sim -->
-                        <div class="row listSim list_sim_item mt-3">
-                            <style>
-                                .titlebox {
-                                    background: #163357;
-                                    padding: 10px;
-                                    width: 100%;
-                                }
-
-                                .titlebox .title_h1 {
-                                    color: #fff;
-                                    margin: 0;
-                                }
-                            </style>
-                            <!-- khi vào link page sẽ tự động scroll xuống phần bảng sim -->
-                            <div class="titlebox">
-                                <h3 class="title_h1 text-center">DANH SÁCH SIM HỢP TUỔI 1995</h3>
-                            </div>
-                            <div class="col-6 col-sm-6 col-md-6">
-                                <div class="main_box_sim_item">
-                                    <div class="row">
-                                        <div class="col-12 col-sm-12 col-md-6">
-                                            <p class="so"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0836875168.html">0836.875.168</a></p>
-                                        </div>
-                                        <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img src="https://simhoptuoi.com.vn/templates/site/images/icon/2.gif" /></div>
-                                    </div>
-                                    <p class="vuong"><strong>Điểm phong thủy sim: </strong> 8/10</p>
-                                    <p class="price"><b>Giá: </b>1,399,000 VND</p>
-                                    <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">Mộc</span></p>
-                                    <p class="yn"><strong>Quẻ Kinh dịch: </strong>Thiên Hỏa Đồng Nhân (同人 tóng rén)</p>
-                                    <div class="row">
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0836875168.html" class="btn_mua">Chi tiết <b>>></b></a>
-                                            </p>
-                                        </div>
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0836875168.html" class="btn_mua">Mua ngay <b>>></b></a>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-6 col-sm-6 col-md-6">
-                                <div class="main_box_sim_item">
-                                    <div class="row">
-                                        <div class="col-12 col-sm-12 col-md-6">
-                                            <p class="so"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0366761388.html">0366.761.388</a></p>
-                                        </div>
-                                        <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img src="https://simhoptuoi.com.vn/templates/site/images/icon/1.gif" /></div>
-                                    </div>
-                                    <p class="vuong"><strong>Điểm phong thủy sim: </strong> 10/10</p>
-                                    <p class="price"><b>Giá: </b>3,380,000 VND</p>
-                                    <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">Mộc</span></p>
-                                    <p class="yn"><strong>Quẻ Kinh dịch: </strong>Thủy Trạch Tiết (節 jié)</p>
-                                    <div class="row">
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0366761388.html" class="btn_mua">Chi tiết <b>>></b></a>
-                                            </p>
-                                        </div>
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0366761388.html" class="btn_mua">Mua ngay <b>>></b></a>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-6 col-sm-6 col-md-6">
-                                <div class="main_box_sim_item">
-                                    <div class="row">
-                                        <div class="col-12 col-sm-12 col-md-6">
-                                            <p class="so"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0367097286.html">0367.097.286</a></p>
-                                        </div>
-                                        <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img src="https://simhoptuoi.com.vn/templates/site/images/icon/1.gif" /></div>
-                                    </div>
-                                    <p class="vuong"><strong>Điểm phong thủy sim: </strong> 10/10</p>
-                                    <p class="price"><b>Giá: </b>3,680,000 VND</p>
-                                    <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">Mộc</span></p>
-                                    <p class="yn"><strong>Quẻ Kinh dịch: </strong>Thuần Khôn (坤 kūn)</p>
-                                    <div class="row">
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0367097286.html" class="btn_mua">Chi tiết <b>>></b></a>
-                                            </p>
-                                        </div>
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0367097286.html" class="btn_mua">Mua ngay <b>>></b></a>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-6 col-sm-6 col-md-6">
-                                <div class="main_box_sim_item">
-                                    <div class="row">
-                                        <div class="col-12 col-sm-12 col-md-6">
-                                            <p class="so"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0368877839.html">0368.877.839</a></p>
-                                        </div>
-                                        <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img src="https://simhoptuoi.com.vn/templates/site/images/icon/1.gif" /></div>
-                                    </div>
-                                    <p class="vuong"><strong>Điểm phong thủy sim: </strong> 10/10</p>
-                                    <p class="price"><b>Giá: </b>3,890,000 VND</p>
-                                    <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">Mộc</span></p>
-                                    <p class="yn"><strong>Quẻ Kinh dịch: </strong>Thiên Trạch Lý (履 lǚ)</p>
-                                    <div class="row">
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0368877839.html" class="btn_mua">Chi tiết <b>>></b></a>
-                                            </p>
-                                        </div>
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="https://simhoptuoi.com.vn/dat-sim-phong-thuy-0368877839.html" class="btn_mua">Mua ngay <b>>></b></a>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="read-more">
-                            <a href="">Xem thêm (7213) sim </a>
-                        </div>
                     </p>
 
                     <h2 dir="ltr" style="text-align:justify"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="7-dau-la-con-so-may-man-cua-tuoi-at-hoi-1995">7. Đâu là con số may mắn của tuổi Ất Hợi 1995</span></span>

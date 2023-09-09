@@ -123,7 +123,7 @@
                         </span>
                     </h2>
 
-                    <p dir="ltr"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Muốn biết tuổi Giáp Tuất hợp màu gì cần áp dụng học thuyết sinh khắc trong ngũ hành giữa màu và mệnh quái của tuổi. Màu hợp sẽ có ngũ hành tương sinh/tương hỗ với mệnh quái, ngược lại, màu khắc sẽ có ngũ hành tương khắc với mệnh quái của tuổi. Chiếu theo Cung phi bát trạch thì chàng trai và cô gái sinh năm 1994 có quái mệnh khác nhau (<u><strong><a href="">1994 cung gì</a></strong></u>), nên sẽ có màu hợp tuổi Giáp Tuất và màu kỵ tuổi này như sau:</span></span>
+                    <p dir="ltr"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Muốn biết tuổi Giáp Tuất hợp màu gì cần áp dụng học thuyết sinh khắc trong ngũ hành giữa màu và mệnh quái của tuổi. Màu hợp sẽ có ngũ hành tương sinh/tương hỗ với mệnh quái, ngược lại, màu khắc sẽ có ngũ hành tương khắc với mệnh quái của tuổi. Chiếu theo Cung phi bát trạch thì chàng trai và cô gái sinh năm 1994 có quái mệnh khác nhau, nên sẽ có màu hợp tuổi Giáp Tuất và màu kỵ tuổi này như sau:</span></span>
                     </p>
 
                     <p dir="ltr"> </p>
