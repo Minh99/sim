@@ -9,8 +9,6 @@ use PhpOffice\PhpSpreadsheet\IOFactory;
 
 class GoogleSheetsService
 {
-    
-
     protected $client;
     protected $service;
 
@@ -66,7 +64,7 @@ class GoogleSheetsService
     {
         $this->client->addScope(Drive::DRIVE);
         $driveService = new Drive($this->client);
-        
+
         try {
             $response = $driveService->files->get($spreadsheetId, ['alt' => 'media']); #->export($spreadsheetId, 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', ['alt' => 'media']);
         } catch (\Exception $e) {
@@ -78,9 +76,9 @@ class GoogleSheetsService
         if (!$isSaved) {
             throw new \Exception("Cannot save excel file $spreadsheetId to storage");
         }
-        
+
         $excelFilePath = Storage::disk('public')->path($spreadsheetId . '.xlsx');
-        
+
         return $excelFilePath;
     }
 
@@ -100,27 +98,27 @@ class GoogleSheetsService
         $worksheet = $spreadsheet->getSheetByName($sheetName);
 
         $data = [];
-        
+
 
         for ($row = $rowStart; $row <= $rowEnd; $row++) {
             $rowData = [];
             for ($col = $colStart; $col <= $colEnd; $col++) {
                 $cellValue = $worksheet->getCell($col . $row)->getFormattedValue();
-                $rowData[$header[$col]] = utf8_encode($cellValue);
+                $rowData[$header[$col]] = ($cellValue);
             }
             $data[] = $rowData;
         }
-        
-        $jsonData = json_encode($data, JSON_PRETTY_PRINT);
+
+        $jsonData = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
 
         $isSaved = Storage::disk('public')->put($sheetName . '.json', $jsonData);
 
         if (!$isSaved) {
             throw new \Exception("Cannot save json file $sheetName  to storage");
         }
-        
+
         $jsonFilePath = Storage::disk('public')->path($sheetName . '.json');
-        
+
         return [$jsonFilePath, $jsonData];
     }
 

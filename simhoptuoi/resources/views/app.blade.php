@@ -22,6 +22,14 @@
 
         {{-- JS --}}
         <script type="text/javascript" src="{{  asset('common/templates/site/js/jquery-3.4.1.min.js')}}"></script>
+
+        <script type="text/javascript" src="{{  asset('common/templates/site/js/amlich.js')}}"></script>
+        <script type="text/javascript" src="{{  asset('common/templates/site/js/canchi.js')}}"></script>
+        <script type="text/javascript" src="{{  asset('common/templates/site/js/napam.js')}}"></script>
+        <script type="text/javascript" src="{{  asset('common/templates/site/js/linhtinh.js')}}"></script>
+        <script type="text/javascript" src="{{  asset('common/templates/site/js/catnhat.js')}}"></script>
+        <script type="text/javascript" src="{{  asset('common/templates/site/js/hungnhat.js')}}"></script>
+        <script type="text/javascript" src="{{  asset('common/templates/site/js/thoithan2.js')}}"></script>
     </head>
     <body class="desktop simphongthuy  simphongthuy_simhopmenh">
         @include('layouts.header')

@@ -18,7 +18,7 @@ class Sim extends Controller
     function index(Request $request)
     {
         $data = $this->functionCommonService->getListSimData();
-        
+
         $duoi_sim = $request->get('duoi_sim');
         $gia_max = $request->get('gia_max');
         $dau_so = $request->get('dau_so');
