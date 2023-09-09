@@ -145,7 +145,7 @@
                         </script>
                     </p>
 
-                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Xu hướng chọn <u><a href=""><strong>đuôi số điện thoại hợp mệnh Kim</strong></a></u> hiện nay là chọn những số đuôi xuất hiện nhiều con số như 2, 5, 6, 7, 8. Tuy nhiên hiện nay có khác nhiều cách xác định mệnh Kim hợp đuôi số điện thoại nào khiến không ít người gặp khó khăn trong vấn đề chọn dãy sim may mắn, bổ trợ mệnh Kim. Vậy có bao nhiêu các cách chọn đuôi số điện thoại hợp mệnh Kim thì mời quý vị xem chi tiết dưới đây.</span></span>
+                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Xu hướng chọn <strong>đuôi số điện thoại hợp mệnh Kim</strong> hiện nay là chọn những số đuôi xuất hiện nhiều con số như 2, 5, 6, 7, 8. Tuy nhiên hiện nay có khác nhiều cách xác định mệnh Kim hợp đuôi số điện thoại nào khiến không ít người gặp khó khăn trong vấn đề chọn dãy sim may mắn, bổ trợ mệnh Kim. Vậy có bao nhiêu các cách chọn đuôi số điện thoại hợp mệnh Kim thì mời quý vị xem chi tiết dưới đây.</span></span>
                     </p>
 
                     <h2 dir="ltr" style="text-align:justify"><strong><span style="color:#000000"><span style="font-size:18px"><span style="font-family:arial,helvetica,sans-serif"><span id="1-mot-vai-net-ve-nguoi-dung-duoi-so-dien-thoai-hop-menh-kim">1. Một vài nét về người dùng đuôi số điện thoại hợp mệnh Kim</span></span></span></span></strong></h2>

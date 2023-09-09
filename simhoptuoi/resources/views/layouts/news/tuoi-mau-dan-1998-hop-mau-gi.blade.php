@@ -132,7 +132,7 @@
                         </span>
                     </h2>
 
-                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Nguyên lý luận giải màu sắc hợp hay xung khắc với tuổi là dựa vào mối quan hệ sinh khắc trong ngũ hành giữa màu và mệnh quái của tuổi 1998 (<strong><u><a href="">1998 cung gì</a></u></strong>). Màu hợp tuổi Mậu Dần sẽ có ngũ hành tương sinh/tương hỗ với mệnh quái. Màu khắc sẽ có ngũ hành tương khắc với mệnh quái. Đó cũng là lý do vì sao mà cùng mệnh niên (năm sinh) nhưng với nam mạng và nữ mạng 1998 lại hợp, khắc với những màu khác nhau. </span></span>
+                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Nguyên lý luận giải màu sắc hợp hay xung khắc với tuổi là dựa vào mối quan hệ sinh khắc trong ngũ hành giữa màu và mệnh quái của tuổi 1998. Màu hợp tuổi Mậu Dần sẽ có ngũ hành tương sinh/tương hỗ với mệnh quái. Màu khắc sẽ có ngũ hành tương khắc với mệnh quái. Đó cũng là lý do vì sao mà cùng mệnh niên (năm sinh) nhưng với nam mạng và nữ mạng 1998 lại hợp, khắc với những màu khác nhau. </span></span>
                     </p>
 
                     <p dir="ltr" style="text-align:justify"> </p>
@@ -159,7 +159,7 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <p dir="ltr" style="text-align:justify"><u><strong><a href=""><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Màu đỏ</span></span></a></strong></u></p>
+                                    <p dir="ltr" style="text-align:justify"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Màu đỏ</span></span></strong></p>
                                 </td>
                                 <td>
                                     <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Màu hợp tuổi Dần 1998 tượng trưng cho lòng nhiệt huyết, sức mạnh và quyền lực. Sử dụng màu này sẽ bổ trợ cho chủ nhân càng thêm quyết tâm, ham muốn và đam mê để đạt được mục tiêu đã đề ra.</span></span>
@@ -178,7 +178,7 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <p dir="ltr" style="text-align:justify"><strong><u><a href=""><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Màu tím</span></span></a></u></strong></p>
+                                    <p dir="ltr" style="text-align:justify"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Màu tím</span></span></strong></p>
                                 </td>
                                 <td>
                                     <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Màu hợp tuổi 1998 biểu tượng của lòng chung thủy, tình cảm vững bền theo năm tháng. Đây là màu tương sinh với nam Mậu Dần giúp chàng trai luôn có những cảm xúc thăng hoa trong cuộc sống. </span></span>
@@ -187,7 +187,7 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <p dir="ltr" style="text-align:justify"><strong><u><a href=""><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Màu nâu</span></span></a></u></strong></p>
+                                    <p dir="ltr" style="text-align:justify"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Màu nâu</span></span></strong></p>
                                 </td>
                                 <td>
                                     <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Màu phong thủy 1998 tượng trưng cho đất, có ý nghĩa về sự chắc chắn, ổn định. Màu nâu cũng là màu sắc của sự nam tính, mang đến sự trầm tĩnh, thoải mái cho người dùng.</span></span>
@@ -196,7 +196,7 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <p dir="ltr" style="text-align:justify"><strong><u><a href=""><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Màu vàng </span></span></a></u></strong></p>
+                                    <p dir="ltr" style="text-align:justify"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Màu vàng </span></span></strong></p>
                                 </td>
                                 <td>
                                     <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Màu hợp năm 1998 thể hiện sự an toàn và bình yên. Từ đó giúp chàng trai tuổi 1998 có được sự an nhiên, tự tại trong tâm hồn.</span></span>
@@ -223,7 +223,7 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <p dir="ltr" style="text-align:justify"><u><strong><a href=""><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Màu đen</span></span></a></strong></u></p>
+                                    <p dir="ltr" style="text-align:justify"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Màu đen</span></span></strong></p>
                                 </td>
                                 <td>
                                     <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Màu hợp tuổi Mậu Dần mang theo sự huyền bí, chinh phục và cũng mang ý nghĩa về uy quyền, sức mạnh. Nữ Mậu Dần sử dụng màu đen sẽ càng thêm mạnh mẽ, tự tin và nổi bật.</span></span>

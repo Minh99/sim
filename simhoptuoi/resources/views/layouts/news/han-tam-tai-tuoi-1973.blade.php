@@ -69,7 +69,7 @@
         <section id="toc">
             <div class="d-flex justify-content-between" style="margin-bottom: 5px;">
                 <div class="icon-table-of-contents">
-                    <img src=".png" alt="mục lục">
+                    <img src="https://simhoptuoi.com.vn/templates/site/images/icon/table-of-contents.png" alt="mục lục">
                     <p id="toc-header">Nội dung chính</p>
                 </div>
                 <div class="action-tb-content">
@@ -87,7 +87,7 @@
         <div class="siteBodyContent">
             <div class="row">
                 <div class="col-md-12">
-                    <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Trong vận hạn đời người thì <u><a href=""><strong>hạn tam tai 1973</strong></a></u> là hạn mà gia chủ tuổi Quý Sửu sẽ gặp nhiều điều xui xẻo, liên tiếp 3 năm. Vậy từ năm 2023 đến năm 2075 sinh năm 1973 tam tai năm nào? Cách giải hạn tam tai như thế nào chính xác? Thì ngay bây giờ mời quý bạn hãy đến ngay với boisimkinhdich.com để cùng giải đáp. </span></span>
+                    <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Trong vận hạn đời người thì <strong>hạn tam tai 1973</strong> là hạn mà gia chủ tuổi Quý Sửu sẽ gặp nhiều điều xui xẻo, liên tiếp 3 năm. Vậy từ năm 2023 đến năm 2075 sinh năm 1973 tam tai năm nào? Cách giải hạn tam tai như thế nào chính xác? Thì ngay bây giờ mời quý bạn hãy đến ngay với boisimkinhdich.com để cùng giải đáp. </span></span>
                     </p>
 
                     <p style="text-align: center;"><strong><img src="https://lh3.googleusercontent.com/12vXejmWj1ezUdsY-o6jXduddMtzIbZJn-DjhSWASP93chp-oMtbmgmEWf8n38FESNrToupuCqYBFt3dm86c3molEX14KS3bdpM59nO1HQ42qtSp6u3yCw4plgpCTCI8zXJLQocW" style="width:60%" /></strong></p>
@@ -316,147 +316,6 @@
                     <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Tóm lại 3 năm tam tai liên tiếp của gia chủ tuổi Quý Sửu là năm Hợi, Tý, Sửu. Đây là những năm gia chủ sẽ gặp nhiều điều xui xẻo, không may mắn. Tuy là năm hạn nhưng quý bạn đừng quá lo lắng, hãy cúng giải hạn tam tai để giải trừ và luôn làm điều thiện vì đức năng thắng đức số, chuyện hung sẽ hóa cát. </span></span>
                     </p>
 
-                    <p style="text-align: justify;"> </p>
-
-                    <p style="text-align:center"><span style="font-size:16px"><span style="font-family:times new roman,times,serif"><strong>TRA CỨU HẠN TAM TAI Ở CÁC TUỔI KHÁC</strong></span></span>
-                    </p>
-
-                    <table align="center" border="1" style="width:90%">
-                        <tbody>
-                            <tr>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><span style="font-size:16px"><span style="font-family:times new roman,times,serif"><a href="">1<strong>970</strong></a></span></span>
-                                    </p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><span style="font-size:16px"><span style="font-family:times new roman,times,serif"><a href=""><strong>1971</strong></a></span></span>
-                                    </p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><span style="font-size:16px"><span style="font-family:times new roman,times,serif"><a href=""><strong>1972</strong></a></span></span>
-                                    </p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><span style="font-size:16px"><span style="font-family:times new roman,times,serif"><a href=""><strong>1973</strong></a></span></span>
-                                    </p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><span style="font-size:16px"><span style="font-family:times new roman,times,serif"><a href=""><strong>1974</strong></a></span></span>
-                                    </p>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><span style="font-size:16px"><span style="font-family:times new roman,times,serif"><a href=""><strong>1975</strong></a></span></span>
-                                    </p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><span style="font-size:16px"><span style="font-family:times new roman,times,serif"><a href=""><strong>1976</strong></a></span></span>
-                                    </p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><span style="font-size:16px"><span style="font-family:times new roman,times,serif"><a href=""><strong>1977</strong></a></span></span>
-                                    </p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><span style="font-size:16px"><span style="font-family:times new roman,times,serif"><a href=""><strong>1978</strong></a></span></span>
-                                    </p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><span style="font-size:16px"><span style="font-family:times new roman,times,serif"><a href=""><strong>1979</strong></a></span></span>
-                                    </p>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><span style="font-size:16px"><span style="font-family:times new roman,times,serif"><a href=""><strong>1980</strong></a></span></span>
-                                    </p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><span style="font-size:16px"><span style="font-family:times new roman,times,serif"><a href=""><strong>1981</strong></a></span></span>
-                                    </p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><span style="font-size:16px"><span style="font-family:times new roman,times,serif"><a href=""><strong>1982</strong></a></span></span>
-                                    </p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><span style="font-size:16px"><span style="font-family:times new roman,times,serif"><a href=""><strong>1983</strong></a></span></span>
-                                    </p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><span style="font-size:16px"><span style="font-family:times new roman,times,serif"><a href=""><strong>1984</strong></a></span></span>
-                                    </p>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><span style="font-size:16px"><span style="font-family:times new roman,times,serif"><a href=""><strong>1985</strong></a></span></span>
-                                    </p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><span style="font-size:16px"><span style="font-family:times new roman,times,serif"><a href=""><strong>1986</strong></a></span></span>
-                                    </p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><span style="font-size:16px"><span style="font-family:times new roman,times,serif"><a href=""><strong>1987</strong></a></span></span>
-                                    </p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><span style="font-size:16px"><span style="font-family:times new roman,times,serif"><a href=""><strong>1988</strong></a></span></span>
-                                    </p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><span style="font-size:16px"><span style="font-family:times new roman,times,serif"><a href=""><strong>1989</strong></a></span></span>
-                                    </p>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><span style="font-size:16px"><span style="font-family:times new roman,times,serif"><a href=""><strong>1990</strong></a></span></span>
-                                    </p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><span style="font-size:16px"><span style="font-family:times new roman,times,serif"><a href=""><strong>1991</strong></a></span></span>
-                                    </p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><span style="font-size:16px"><span style="font-family:times new roman,times,serif"><a href=""><strong>1992</strong></a></span></span>
-                                    </p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><span style="font-size:16px"><span style="font-family:times new roman,times,serif"><a href=""><strong>1993</strong></a></span></span>
-                                    </p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><span style="font-size:16px"><span style="font-family:times new roman,times,serif"><a href=""><strong>1994</strong></a></span></span>
-                                    </p>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><span style="font-size:16px"><span style="font-family:times new roman,times,serif"><a href=""><strong>1995</strong></a></span></span>
-                                    </p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><span style="font-size:16px"><span style="font-family:times new roman,times,serif"><a href=""><strong>1996</strong></a></span></span>
-                                    </p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><span style="font-size:16px"><span style="font-family:times new roman,times,serif"><a href=""><strong>1997</strong></a></span></span>
-                                    </p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><span style="font-size:16px"><span style="font-family:times new roman,times,serif"><a href=""><strong>1998</strong></a></span></span>
-                                    </p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><span style="font-size:16px"><span style="font-family:times new roman,times,serif"><a href=""><strong>1999</strong></a></span></span>
-                                    </p>
-                                </td>
-                            </tr>
-                        </tbody>
-                    </table>
                 </div>
             </div>
         </div>

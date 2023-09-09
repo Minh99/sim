@@ -129,7 +129,7 @@
                     <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Mặc dù có chung năm sinh 1996 nhưng nam mạng và nữ mạng Bính Tý lại có mệnh quái khác nhau. Do vậy mà màu sắc hợp - khắc với những người này cũng có nhiều khác biệt. </span></span>
                     </p>
 
-                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Muốn biết tuổi 1996 hợp màu gì, khắc màu gì cần áp dụng học thuyết sinh khắc ngũ hành giữa màu và mệnh quái (<u><strong><a href="">1996 cung gì</a></strong></u>). Màu hợp tuổi 1996 sẽ có ngũ hành tương sinh/tương hỗ với mệnh quái. Màu kỵ tuổi Bính Tý sẽ có ngũ hành tương khắc với mệnh quái, là màu không nên sử dụng. </span></span>
+                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Muốn biết tuổi 1996 hợp màu gì, khắc màu gì cần áp dụng học thuyết sinh khắc ngũ hành giữa màu và mệnh quái. Màu hợp tuổi 1996 sẽ có ngũ hành tương sinh/tương hỗ với mệnh quái. Màu kỵ tuổi Bính Tý sẽ có ngũ hành tương khắc với mệnh quái, là màu không nên sử dụng. </span></span>
                     </p>
 
                     <p dir="ltr" style="text-align:justify"> </p>
@@ -143,8 +143,8 @@
                     <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Nam mạng tuổi 1996 cung Tốn, thuộc Mộc. Dựa vào học thuyết ngũ hành thì Thủy sinh Mộc, Mộc tương trợ cho Mộc. Vì vậy, nam mạng tuổi này sẽ hợp với màu đại diện cho mệnh Thủy và mệnh Mộc. Đó là màu đen, màu xanh dương, xanh nước biển (màu tương sinh) và màu xanh lục (màu tương hỗ). Ý nghĩa phong thủy của từng gam màu hợp tuổi 1996 nam mạng như sau:</span></span>
                     </p>
 
-                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>- <u><a href=""><span style="color:#000000">Màu đen</span></a>
-                                    </u>:</strong> màu của sự bí ẩn, sức mạnh và uy quyền. Đồng thời cũng thể hiện sự nhã nhặn, thanh lịch và trang trọng. Sử dụng màu đen sẽ giúp nam 1996 tăng thêm cá tính mạnh mẽ, hội tụ quyền lực và
+                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>- <span style="color:#000000">Màu đen</span>
+                                    :</strong> màu của sự bí ẩn, sức mạnh và uy quyền. Đồng thời cũng thể hiện sự nhã nhặn, thanh lịch và trang trọng. Sử dụng màu đen sẽ giúp nam 1996 tăng thêm cá tính mạnh mẽ, hội tụ quyền lực và
                                 đạt được thành công. </span>
                         </span>
                     </p>
@@ -167,7 +167,7 @@
                     <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Dựa theo mệnh quái của tuổi thì nữ 1996 cung Khôn Thổ. Theo mối quan hệ tương sinh, tương khắc trong ngũ hành thì Hỏa sinh Thổ, Thổ tương hỗ cho Thổ và Mộc khắc Thổ. Do đó, nữ mạng Bính Tý hợp với các màu đỏ, cam, hồng, tím thuộc mệnh Hỏa; màu nâu, vàng nâu thuộc mệnh Thổ. Ý nghĩa phong thủy của từng màu hợp tuổi 1996 nữ mạng như sau:</span></span>
                     </p>
 
-                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span style="color:#B22222"><strong>- </strong></span><strong><u><a href=""><span style="color:#FF0000">Màu đỏ</span></a></u></strong>
+                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span style="color:#B22222"><strong>- </strong></span><strong><span style="color:#FF0000">Màu đỏ</span></strong>
                                 <span style="color:#FF0000"><strong>: </strong></span>màu của mặt trời, mang đến nguồn năng lượng mạnh mẽ giúp người dùng có thêm sức mạnh để chinh phục thử thách. </span>
                         </span>
                     </p>
@@ -182,17 +182,17 @@
                         </span>
                     </p>
 
-                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span style="color:#800080"><strong>- </strong></span><strong><u><a href=""><span style="color:#800080">Màu tím</span></a></u></strong>
+                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span style="color:#800080"><strong>- </strong></span><strong><span style="color:#800080">Màu tím</span></strong>
                                 <span style="color:#800080"><strong>:</strong></span> gam màu sang trọng, thể hiện vẻ đẹp trí tuệ và sự sáng tạo. Đây là màu hợp với nữ mạng Bính Tý 1996 giúp họ đạt được nhiều thành công trong công việc và cuộc sống.  </span>
                         </span>
                     </p>
 
-                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span style="color:#8B4513"><strong>- </strong></span><strong><u><a href=""><span style="color:#800000">Màu nâu</span></a></u></strong>
+                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span style="color:#8B4513"><strong>- </strong></span><strong><span style="color:#800000">Màu nâu</span></strong>
                                 <span style="color:#8B4513"><strong>:</strong></span> tượng trưng cho đất, có ý nghĩa về thịnh vượng, giàu có. Gam màu này sẽ tăng thêm may mắn, giúp cô gái tuổi Tý có cuộc sống sung túc, đủ đầy. </span>
                         </span>
                     </p>
 
-                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span style="color:#ffcc00"><strong>- </strong></span><strong><u><a href=""><span style="color:#FFD700">Màu vàng</span></a></u></strong>
+                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span style="color:#ffcc00"><strong>- </strong></span><strong><span style="color:#FFD700">Màu vàng</span></strong>
                                 <span style="color:#ffcc00"><strong>:</strong> </span>màu của sự trầm tĩnh, sang trọng, giúp cho chủ nhân luôn cảm thấy thư thái, an nhiên. </span>
                         </span>
                     </p>

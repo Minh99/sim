@@ -125,117 +125,6 @@
 
                     <p style="text-align:justify"> </p>
 
-                    <h3 dir="ltr" style="text-align:justify"><strong><span style="font-size:16px"><span style="font-family:times new roman,times,serif">Vậy bạn sẽ gặp hạn Tam Tai trong những năm nào? Xem chi tiết ngay tại:</span></span></strong></h3>
-
-                    <p style="text-align:justify"> </p>
-
-                    <table align="center" border="1" style="width:90%">
-                        <tbody>
-                            <tr>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><a href=""><span style="font-size:16px"><span style="font-family:times new roman,times,serif">1<strong>970</strong></span></span></a></p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><a href=""><strong><span style="font-size:16px"><span style="font-family:times new roman,times,serif">1971</span></span></strong></a></p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><a href=""><strong><span style="font-size:16px"><span style="font-family:times new roman,times,serif">1972</span></span></strong></a></p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><a href=""><strong><span style="font-size:16px"><span style="font-family:times new roman,times,serif">1973</span></span></strong></a></p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><a href=""><strong><span style="font-size:16px"><span style="font-family:times new roman,times,serif">1974</span></span></strong></a></p>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><a href=""><strong><span style="font-size:16px"><span style="font-family:times new roman,times,serif">1975</span></span></strong></a></p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><a href=""><strong><span style="font-size:16px"><span style="font-family:times new roman,times,serif">1976</span></span></strong></a></p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><a href=""><strong><span style="font-size:16px"><span style="font-family:times new roman,times,serif">1977</span></span></strong></a></p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><a href=""><strong><span style="font-size:16px"><span style="font-family:times new roman,times,serif">1978</span></span></strong></a></p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><a href=""><strong><span style="font-size:16px"><span style="font-family:times new roman,times,serif">1979</span></span></strong></a></p>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><a href=""><strong><span style="font-size:16px"><span style="font-family:times new roman,times,serif">1980</span></span></strong></a></p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><a href=""><strong><span style="font-size:16px"><span style="font-family:times new roman,times,serif">1981</span></span></strong></a></p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><a href=""><strong><span style="font-size:16px"><span style="font-family:times new roman,times,serif">1982</span></span></strong></a></p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><a href=""><strong><span style="font-size:16px"><span style="font-family:times new roman,times,serif">1983</span></span></strong></a></p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><a href=""><strong><span style="font-size:16px"><span style="font-family:times new roman,times,serif">1984</span></span></strong></a></p>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><a href=""><strong><span style="font-size:16px"><span style="font-family:times new roman,times,serif">1985</span></span></strong></a></p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><a href=""><strong><span style="font-size:16px"><span style="font-family:times new roman,times,serif">1986</span></span></strong></a></p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><a href=""><strong><span style="font-size:16px"><span style="font-family:times new roman,times,serif">1987</span></span></strong></a></p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><a href=""><strong><span style="font-size:16px"><span style="font-family:times new roman,times,serif">1988</span></span></strong></a></p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><a href=""><strong><span style="font-size:16px"><span style="font-family:times new roman,times,serif">1989</span></span></strong></a></p>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><a href=""><strong><span style="font-size:16px"><span style="font-family:times new roman,times,serif">1990</span></span></strong></a></p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><a href=""><strong><span style="font-size:16px"><span style="font-family:times new roman,times,serif">1991</span></span></strong></a></p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><a href=""><strong><span style="font-size:16px"><span style="font-family:times new roman,times,serif">1992</span></span></strong></a></p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><a href=""><strong><span style="font-size:16px"><span style="font-family:times new roman,times,serif">1993</span></span></strong></a></p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><a href=""><strong><span style="font-size:16px"><span style="font-family:times new roman,times,serif">1994</span></span></strong></a></p>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><a href=""><strong><span style="font-size:16px"><span style="font-family:times new roman,times,serif">1995</span></span></strong></a></p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><a href=""><strong><span style="font-size:16px"><span style="font-family:times new roman,times,serif">1996</span></span></strong></a></p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><a href=""><strong><span style="font-size:16px"><span style="font-family:times new roman,times,serif">1997</span></span></strong></a></p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><a href=""><strong><span style="font-size:16px"><span style="font-family:times new roman,times,serif">1998</span></span></strong></a></p>
-                                </td>
-                                <td>
-                                    <p dir="ltr" style="text-align:center"><a href=""><strong><span style="font-size:16px"><span style="font-family:times new roman,times,serif">1999</span></span></strong></a></p>
-                                </td>
-                            </tr>
-                        </tbody>
-                    </table>
-
                     <p style="text-align:justify"> </p>
 
                     <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:16px"><span style="font-family:times new roman,times,serif">Về cơ bản:</span></span></strong></em></p>
@@ -246,11 +135,8 @@
 
                     <p dir="ltr" style="text-align:justify"><span style="font-size:16px"><span style="font-family:times new roman,times,serif">Năm Tam tai thứ ba, không nên kết thúc việc quan trọng vào đúng năm này.</span></span></p>
 
-                    <p dir="ltr" style="text-align:justify"> </p>
-
                     <h3 dir="ltr" style="text-align:justify"><strong><span style="font-size:16px"><span style="font-family:times new roman,times,serif">3. Cách hóa giải hạn tam tai 2023</span></span></strong></h3>
 
-                    <p dir="ltr"> </p>
 
                     <ul>
                         <li dir="ltr">
@@ -266,28 +152,19 @@
 
                     <p dir="ltr" style="text-align:justify"><span style="font-size:16px"><span style="font-family:times new roman,times,serif">- Trên bàn lễ cần chuẩn bị 1 bộ tam sênh bao gồm: 1 con tôm luộc, 1 quả trứng vịt lộn, 1 miếng thịt luộc. Tiếp đó là 3 nén hương, 3 miếng trầu cau, 3 điều thuốc, 3 ly rượu nhỏ, 2 xấp tiền vàng các loại và 3 cây nến, 1 đĩa hoa quả, 1 bình hoa, 1 đĩa gạo muối và 2 bộ đồ thế (nam hoặc nữ tùy theo giới tính người giải hạn)</span></span></p>
 
-                    <p dir="ltr" style="text-align:justify"><span style="font-size:16px"><span style="font-family:times new roman,times,serif"> </span></span></p>
-
                     <ul>
                         <li dir="ltr">
                             <h4 dir="ltr" style="text-align:justify"><em><strong><span style="font-size:16px"><span style="font-family:times new roman,times,serif">Vậy cúng giải hạn tam tai ở đâu?</span></span></strong></em></h4>
                         </li>
                     </ul>
 
-                    <p dir="ltr" style="text-align:justify"><span style="font-size:16px"><span style="font-family:times new roman,times,serif"> </span></span></p>
-
                     <p dir="ltr" style="text-align:justify"><span style="font-size:16px"><span style="font-family:times new roman,times,serif">Để giải hạn tam tai nên cúng trước sân hoặc tại ngã ba, ngã tư đường vào lúc chiều tối, khoảng 18 - 19 giờ là tốt nhất.</span></span></p>
-
-                    <p dir="ltr" style="text-align:justify"><span style="font-size:16px"><span style="font-family:times new roman,times,serif"> </span></span></p>
 
                     <ul>
                         <li dir="ltr">
                             <h4 dir="ltr" style="text-align:justify"><strong><span style="font-size:16px"><span style="font-family:times new roman,times,serif">Văn cúng giải hạn tam tai năm 2023</span></span></strong></h4>
                         </li>
                     </ul>
-
-                    <p dir="ltr" style="text-align:justify"><span style="font-size:16px"><span style="font-family:times new roman,times,serif"> </span></span></p>
-
                     <p dir="ltr" style="text-align:justify"><span style="font-size:16px"><span style="font-family:times new roman,times,serif">Văn khấn tam tai chính là thứ quan trọng nhất khi làm lễ. Khi đọc văn khấn cần đặc biệt thành tâm nhằm thể hiện tâm tư nguyện vọng với các vị thần thì mới linh nghiệm: </span></span></p>
 
                     <p dir="ltr" style="text-align:justify"><span style="font-size:16px"><span style="font-family:times new roman,times,serif">Nội dung bài văn khấn như sau:</span></span></p>

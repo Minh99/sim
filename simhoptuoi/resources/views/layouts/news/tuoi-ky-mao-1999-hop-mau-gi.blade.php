@@ -89,7 +89,7 @@
         <div class="siteBodyContent">
             <div class="row">
                 <div class="col-md-12">
-                    <p style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Tìm hiểu sinh năm <strong><a href="">1999 hợp màu gì</a></strong> và kỵ màu gì là điều vô cùng quan trọng với những ai tuổi Kỷ Mão. Sử dụng màu phong thủy hợp tuổi Kỷ Mão có thể giúp các chàng trai và cô gái tuổi 1999 cân bằng cuộc sống, kết hợp hài hòa giữa âm dương, ngũ hành. Từ đó mà tài vận thăng hoa, sự nghiệp phát triển ổn định, vững chắc. Đường tình duyên cũng được thuận lợi, hạnh phúc lâu bền.  </span></span>
+                    <p style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Tìm hiểu sinh năm <strong>1999 hợp màu gì</strong> và kỵ màu gì là điều vô cùng quan trọng với những ai tuổi Kỷ Mão. Sử dụng màu phong thủy hợp tuổi Kỷ Mão có thể giúp các chàng trai và cô gái tuổi 1999 cân bằng cuộc sống, kết hợp hài hòa giữa âm dương, ngũ hành. Từ đó mà tài vận thăng hoa, sự nghiệp phát triển ổn định, vững chắc. Đường tình duyên cũng được thuận lợi, hạnh phúc lâu bền.  </span></span>
                     </p>
 
                     <h2 dir="ltr" style="text-align:justify"><span style="color:#B22222"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span id="i-doi-net-ve-tuoi-ky-mao-va-ly-do-nen-xem-1999-hop-mau-gi">I. Đôi nét về tuổi Kỷ Mão và lý do nên xem 1999 hợp màu gì?</span></span>
@@ -165,7 +165,7 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <p dir="ltr" style="text-align:justify"><u><strong><a href=""><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Màu trắng</span></span></a></strong></u></p>
+                                    <p dir="ltr" style="text-align:justify"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Màu trắng</span></span></strong></p>
                                 </td>
                                 <td>
                                     <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Màu hợp mệnh 1999 tượng trưng cho sự tinh khiết và tươi sáng, đồng thời cũng mang ý nghĩa về khởi đầu mới. Sử dụng màu này giúp chủ nhân xua tan mọi muộn phiền trong quá khứ, luôn hướng về tương lai rộng mở phía trước.</span></span>
@@ -174,7 +174,7 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <p dir="ltr" style="text-align:justify"><u><strong><a href=""><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Màu xám</span></span></a></strong></u></p>
+                                    <p dir="ltr" style="text-align:justify"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Màu xám</span></span></strong></p>
                                 </td>
                                 <td>
                                     <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Thể hiện sự khách quan và trung lập. Nhiều người cho rằng màu xám là sự ảm đạm, buồn chán và thiếu sức sống. Thế nhưng theo phong thủy, gam màu hợp năm 1999 sẽ thu hút năng lượng rất tốt cho người dùng, góp phần đem đến thành công cho chàng trai Kỷ Mão.</span></span>
@@ -183,7 +183,7 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <p dir="ltr"><u><strong><a href=""><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Màu đen</span></span></a></strong></u></p>
+                                    <p dir="ltr"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Màu đen</span></span></strong></p>
                                 </td>
                                 <td>
                                     <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Màu hợp tuổi Mão 1999 tượng trưng cho quyền lực và sức mạnh nhưng cũng gắn liền với sự bí ẩn, thường đi liền với các doanh nhân hay chính trị gia. Đây là màu hợp tuổi với nam 1998 giúp chàng trai này thêm bản lĩnh, tự tin, vượt qua mọi rào cản trong cuộc sống.</span></span>
@@ -268,7 +268,7 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <p dir="ltr" style="text-align:justify"><strong><u><a href=""><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Màu đỏ</span></span></a></u></strong></p>
+                                    <p dir="ltr" style="text-align:justify"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Màu đỏ</span></span></strong></p>
                                 </td>
                                 <td>
                                     <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Màu hợp năm 1999 tượng trưng cho mặt trời, ngọn lửa bất diệt. Sử dụng màu đỏ sẽ giúp cô gái càng thêm quyết tâm, tự tin và mạnh mẽ hơn trong công việc cũng như trong cuộc sống.</span></span>
@@ -287,7 +287,7 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <p dir="ltr" style="text-align:justify"><strong><u><a href=""><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Màu tím</span></span></a></u></strong></p>
+                                    <p dir="ltr" style="text-align:justify"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Màu tím</span></span></strong></p>
                                 </td>
                                 <td>
                                     <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Màu hợp với Kỷ Mão gắn liền với sự sang trọng, sức mạnh và trí tuệ và cũng là màu của sự thủy chung. Đây là màu mà nữ Kỷ Mão nên sử dụng sẽ giúp họ có đời sống tình cảm hạnh phúc, viên mãn.</span></span>
@@ -296,7 +296,7 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <p dir="ltr" style="text-align:justify"><u><strong><a href=""><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Màu nâu</span></span></a></strong></u></p>
+                                    <p dir="ltr" style="text-align:justify"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Màu nâu</span></span></strong></p>
                                 </td>
                                 <td>
                                     <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Màu hợp với nữ 1999 mang theo biểu tượng của đất, có ý nghĩa về sự ổn định, bền vững và chắc chắn. Màu nâu mang đến cảm giác an toàn và thư thái và cho người sử dụng. </span></span>
@@ -305,7 +305,7 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <p dir="ltr" style="text-align:justify"><strong><u><a href=""><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Màu vàng</span></span></a></u></strong></p>
+                                    <p dir="ltr" style="text-align:justify"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Màu vàng</span></span></strong></p>
                                 </td>
                                 <td>
                                     <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Màu phong thuỷ tuổi Mão 1999 này tạo cảm hứng cho người dùng suy nghĩ thấu đáo và đưa ra những quyết định đúng đắn.</span></span>
