@@ -1,9 +1,9 @@
-#contactFixed {
+#contactFixed, #contactFixedOpen {
     position: fixed;
-    background-color : #cbc9c8;
     border-radius: 10px;
-    bottom: 10px;
-    right: 15px;
+    bottom: 15px;
+    right: 25px;
+    background-color : #cbc9c8;
 }
 
 .contact-fixed--social-container {
@@ -22,8 +22,19 @@
     height: 100%;
 }
 
+.contact-fixed--social-container-open {
+    display:grid;
+    grid-template-columns: 45px;
+    gap: 5px;
+}
+
 @media only screen and (max-width: 600px) {
     .contact-fixed--social-container {
         grid-template-columns: 35px 35px;
     }
+
+    .contact-fixed--social-container-open {
+        grid-template-columns: 35px;
+    }
 }
+

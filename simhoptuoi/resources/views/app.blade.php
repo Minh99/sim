@@ -210,6 +210,13 @@
             $('#contactFixedBtnClose').on('click', function (event) {
                 event.preventDefault();
                 $('#contactFixed').hide('50');
+                $('#contactFixedOpen').show('50');
+            });
+
+            $('#contactFixedBtnOpen').on('click', function (event) {
+                event.preventDefault();
+                $('#contactFixedOpen').hide('50');
+                $('#contactFixed').show('50');
             });
         </script>
     </body>
