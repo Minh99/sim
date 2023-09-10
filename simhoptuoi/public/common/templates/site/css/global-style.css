@@ -4280,7 +4280,7 @@ h3.tt_thanchu_h3 {
 }
 
 .thongtin_thanchu {
-    background: #1d3a5f;
+    background: #af0007;
     padding: 20px;
     border-radius: 10px;
     color: #fff;
@@ -5490,3 +5490,28 @@ blockquote {
 .btn_mua {
     color: #dc3545 !important;
 }
+
+.congiap_thanchu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    height: 100%;
+    text-align: center;
+}
+
+.boi_sim_inputs {
+    background: #af0007 !important;
+    box-shadow: 4px 8px 6px 0px gray;
+    border-radius: 10px;
+}
+
+.images-flex-only {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    height: 100%;
+    text-align: center;
+}
+

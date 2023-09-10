@@ -1,22 +1,232 @@
 @extends('app')
 
-@section('title', 'Cách chọn sim hợp mệnh Hỏa đẹp nhất kích tài chiêu lộc may mắn')
+@section('title', 'Xem phong thủy sim')
 
 @section('content')
+<script>
+
+    const cungPhi = {
+        1924 : ['Tốn', 'Khôn'],
+        1925 : ['Chấn', 'Chấn'],
+        1926 : ['Khôn', 'Tốn'],
+        1927 : ['Khảm', 'Cấn'],
+        1928 : ['Ly', 'Càn'],
+        1929 : ['Cấn', 'Đoài'],
+        1930 : ['Đoài', 'Cấn'],
+        1931 : ['Càn', 'Ly'],
+        1932 : ['Khôn', 'Khảm'],
+        1933 : ['Tốn', 'Khôn'],
+        1934 : ['Chấn', 'Chấn'],
+        1935 : ['Khôn', 'Tốn'],
+        1936 : ['Khảm', 'Cấn'],
+        1937 : ['Ly', 'Càn'],
+        1938 : ['Cấn', 'Đoài'],
+        1939 : ['Đoài', 'Cấn'],
+        1940 : ['Càn', 'Ly'],
+        1941 : ['Khôn', 'Khảm'],
+        1942 : ['Tốn', 'Khôn'],
+        1943 : ['Chấn', 'Chấn'],
+        1944 : ['Khôn', 'Tốn'],
+        1945 : ['Khảm', 'Cấn'],
+        1946 : ['Ly', 'Càn'],
+        1947 : ['Cấn', 'Đoài'],
+        1948 : ['Đoài', 'Cấn'],
+        1949 : ['Càn', 'Ly'],
+        1950 : ['Khôn', 'Khảm'],
+        1951 : ['Tốn', 'Khôn'],
+        1952 : ['Chấn', 'Chấn'],
+        1953 : ['Khôn', 'Tốn'],
+        1954 : ['Khảm', 'Cấn'],
+        1955 : ['Ly', 'Càn'],
+        1956 : ['Cấn', 'Đoài'],
+        1957 : ['Đoài', 'Cấn'],
+        1958 : ['Càn', 'Ly'],
+        1959 : ['Khôn', 'Khảm'],
+        1960 : ['Tốn', 'Khôn'],
+        1961 : ['Chấn', 'Chấn'],
+        1962 : ['Khôn', 'Tốn'],
+        1963 : ['Khảm', 'Cấn'],
+        1964 : ['Ly', 'Càn'],
+        1965 : ['Cấn', 'Đoài'],
+        1966 : ['Đoài', 'Cấn'],
+        1967 : ['Càn', 'Ly'],
+        1968 : ['Khôn', 'Khảm'],
+        1969 : ['Tốn', 'Khôn'],
+        1970 : ['Chấn', 'Chấn'],
+        1971 : ['Khôn', 'Tốn'],
+        1972 : ['Khảm', 'Cấn'],
+        1973 : ['Ly', 'Càn'],
+        1974 : ['Cấn', 'Đoài'],
+        1975 : ['Đoài', 'Cấn'],
+        1976 : ['Càn', 'Ly'],
+        1977 : ['Khôn', 'Khảm'],
+        1978 : ['Tốn', 'Khôn'],
+        1979 : ['Chấn', 'Chấn'],
+        1980 : ['Khôn', 'Tốn'],
+        1981 : ['Khảm', 'Cấn'],
+        1982 : ['Ly', 'Càn'],
+        1983 : ['Cấn', 'Đoài'],
+        1984 : ['Đoài', 'Cấn'],
+        1985 : ['Càn', 'Ly'],
+        1986 : ['Khôn', 'Khảm'],
+        1987 : ['Tốn', 'Khôn'],
+        1988 : ['Chấn', 'Chấn'],
+        1989 : ['Khôn', 'Tốn'],
+        1990 : ['Khảm', 'Cấn'],
+        1991 : ['Ly', 'Càn'],
+        1992 : ['Cấn', 'Đoài'],
+        1993 : ['Đoài', 'Cấn'],
+        1994 : ['Càn', 'Ly'],
+        1995 : ['Khôn', 'Khảm'],
+        1996 : ['Tốn', 'Khôn'],
+        1997 : ['Chấn', 'Chấn'],
+        1998 : ['Khôn', 'Tốn'],
+        1999 : ['Khảm', 'Cấn'],
+        2000 : ['Ly', 'Càn'],
+        2001 : ['Cấn', 'Đoài'],
+        2002 : ['Đoài', 'Cấn'],
+        2003 : ['Càn', 'Ly'],
+        2004 : ['Khôn', 'Khảm'],
+        2005 : ['Tốn', 'Khôn'],
+        2006 : ['Chấn', 'Chấn'],
+        2007 : ['Khôn', 'Tốn'],
+        2008 : ['Khảm', 'Cấn'],
+        2009 : ['Ly', 'Càn'],
+        2010 : ['Cấn', 'Đoài'],
+        2011 : ['Đoài', 'Cấn'],
+        2012 : ['Càn', 'Ly'],
+        2013 : ['Khôn', 'Khảm'],
+        2014 : ['Tốn', 'Khôn'],
+        2015 : ['Chấn', 'Chấn'],
+        2016 : ['Khôn', 'Tốn'],
+        2017 : ['Khảm', 'Cấn'],
+        2018 : ['Ly', 'Càn'],
+        2019 : ['Cấn', 'Đoài'],
+        2020 : ['Đoài', 'Cấn'],
+        2021 : ['Càn', 'Ly'],
+        2022 : ['Khôn', 'Khảm'],
+        2023 : ['Tốn', 'Khôn'],
+        2024 : ['Chấn', 'Chấn'],
+        2025 : ['Khôn', 'Tốn'],
+        2026 : ['Khảm', 'Cấn'],
+        2027 : ['Ly', 'Càn'],
+        2028 : ['Cấn', 'Đoài'],
+        2029 : ['Đoài', 'Cấn'],
+        2030 : ['Càn', 'Ly'],
+    };
+
+    $(document).ready(function () {
+        var phone = $('#xpts_phone').val();
+        var ngay = $('#xpts_ngay').val();
+        var thang = $('#xpts_thang').val();
+        var nam = $('#xpts_nam').val();
+        if (phone != '' && ngay != '' && thang != '' && nam != '') {
+            $('.thongtin_thanchu').attr('style', 'display: block !important; margin-top: 2.5rem;');
+            $('.content-post').attr('style', 'display: block !important;');
+            var gioitinh = $('input[name="gioitinh"]:checked').val();
+            var gioSinh = $('#xpts_giosinh').children("option:selected").text();
+            var gioSinh = parseInt(gioSinh.split('(')[1].slice(0, 2));
+
+            if (gioSinh >= 23) {
+                var newDate = new Date(nam, thang, ngay);
+                newDate.setDate(newDate.getDate() + 1);
+                ngay = newDate.getDate();
+                thang = newDate.getMonth();
+                nam = newDate.getFullYear();
+            }
+
+            var lunar = new AmLich(ngay, thang, nam);
+
+            console.log(lunar);
+            // $G17 = $time1[((($E23*12) + intval(($gio/2) + 0.5) - 2) % 10)]; // Can giờ sinh
+
+            // $H17 = $time2[((($E23*12) + intval(($gio/2) + 0.5)) % 12)]; // Chi giờ sinh
+
+            var cY = CanChi(lunar.year-1900+36);
+            var nY = CanChiNapAm(cY);
+            var cM = CanChi((nam-1900)*12+(thang-1)+12);
+            if (ngay >= lunar.t) cM = CanChi((nam-1900)*12+(thang-1)+13);
+            var nM = CanChiNapAm(cM);
+            var cD = CanChi(lunar.days);
+            var nD = CanChiNapAm(cD);
+            var cH = ThienCan(((nam-1900)*12) + parseInt((gioSinh/2) + 0.5) - 2);
+            var nH = DiaChi(((nam-1900)*12) + parseInt((gioSinh/2) + 0.5));
+            var can = canVi(ThienCan(lunar.days));
+            var chi = chiVi(DiaChi(lunar.days));
+            var HK = napAmHanhKhac(can, chi);
+
+            $(".date_dl").text($('#xpts_ngay').val() + '/' + $('#xpts_thang').val() + '/' + $('#xpts_nam').val());
+            $(".date_al").text(lunar.day+'/'+lunar.month+'/'+lunar.year);
+            $(".sex").text(gioitinh == 'nam' ? 'Nam' : 'Nữ');
+            $(".tu_tru").text('Giờ ' + cH + ' ' + nH + ', Ngày ' + cD + ', Tháng ' + cM + ', Năm ' + cY);
+            $(".age").text(cY);
+            $(".ban_menh").text(nY);
+            $(".sinh_menh").text(HANH[HK[1]]);
+            $(".cung_phi").text(gioitinh == 'nam' ? cungPhi[lunar.year][0] : cungPhi[lunar.year][1]);
+
+            const images = {
+                'Tý' : 'ty',
+                'Sửu': 'suu',
+                'Dần': 'dan',
+                'Mão': 'mao',
+                'Thìn': 'thin',
+                'Tỵ' : 'ty_',
+                'Ngọ': 'ngo',
+                'Mùi': 'mui',
+                'Thân': 'than',
+                'Dậu': 'dau',
+                'Tuất': 'tuat',
+                'Hợi': 'hoi',
+            };
+
+            var png = cY.split(' ')[1];
+            console.log(png);
+            $("#image_nam_sinh").attr("src", "{{ asset('common/templates/site/images/') }}/" + images[png] + ".png");
+        }
+
+        $('#btn_xem_ngay_boi_sim').on('click', function (e) {
+            e.preventDefault();
+            var phone = $('#xpts_phone').val();
+            var ngay = $('#xpts_ngay').val();
+            var thang = $('#xpts_thang').val();
+            var nam = $('#xpts_nam').val();
+
+            var gioSinh = $('#xpts_giosinh').children("option:selected").text();
+            var gioSinh = parseInt(gioSinh.split('(')[1].slice(0, 2));
+            if (gioSinh >= 23) {
+                var newDate = new Date(nam, thang, ngay);
+                newDate.setDate(newDate.getDate() + 1);
+                ngay = newDate.getDate();
+                thang = newDate.getMonth();
+                nam = newDate.getFullYear();
+            }
+            var lunar = new AmLich(ngay, thang, nam);
+
+            var can = canVi(ThienCan(lunar.days));
+            var chi = chiVi(DiaChi(lunar.days));
+            var HK = napAmHanhKhac(can, chi);
+
+            $('#sinh_menh_input').val(HANH[HK[1]]);
+            $('#form_xpts').submit();
+        });
+    });
+
+</script>
 <section class="contentPage luanSim">
     <h1 class="title_h1">Xem bói số điện thoại</h1>
-    <div class="bodyPage bodyLuanSim">
+    <div class="bodyPage bodyLuanSim boi_sim_inputs">
         <section class="boxFormSim">
             <div class="bgFormSim">
-                <form id="form_xpts" name="form_xpts" action="{{ route('boi-sim') }}" method="post" accept-charset="UTF-8">
+                <form novalidate id="form_xpts" name="form_xpts" action="{{ route('boi-sim') }}" method="post" accept-charset="UTF-8">
                     @csrf
                     <div style="display:none"></div>
                     <div class="row">
+                        <input type="text" id="sinh_menh_input" name="sinh_menh_input" hidden>
                         <div class="col-3 col-md-3 col-sm-3 col-xs-3">
                             <p class="title_label"><label>Số điện thoại</label></p>
                         </div>
                         <div class="col-9 col-md-9 col-sm-9 col-xs-9">
-                            <input id="xpts_phone" class="myinput" name="sdt" placeholder="Mời nhập số sim" value="{{ old('sdt') }}">
+                            <input id="xpts_phone" class="myinput" name="sdt" placeholder="Mời nhập số sim" value="{{ $info['sdt'] ?? '' }}">
                             @error('sdt')
                                 <p class="text-white"> <i>Định dạng số điện thoại không hợp lệ</i></p>
                             @enderror
@@ -28,131 +238,29 @@
                                 </div>
                                 <div class="col-3 col-md-3 col-sm-3 col-xs-3">
                                     <select id="xpts_ngay" name="ngay" class="myinput" required>
-                                        <option value="" selected="">Ngày</option>
-                                        <option value="1" >1</option>
-                                        <option value="2" >2</option>
-                                        <option value="3" >3</option>
-                                        <option value="4" >4</option>
-                                        <option value="5" >5</option>
-                                        <option value="6" >6</option>
-                                        <option value="7" >7</option>
-                                        <option value="8" >8</option>
-                                        <option value="9" >9</option>
-                                        <option value="10" >10</option>
-                                        <option value="11" >11</option>
-                                        <option value="12" >12</option>
-                                        <option value="13" >13</option>
-                                        <option value="14" >14</option>
-                                        <option value="15" >15</option>
-                                        <option value="16" >16</option>
-                                        <option value="17" >17</option>
-                                        <option value="18" >18</option>
-                                        <option value="19" >19</option>
-                                        <option value="20" >20</option>
-                                        <option value="21" >21</option>
-                                        <option value="22" >22</option>
-                                        <option value="23" >23</option>
-                                        <option value="24" >24</option>
-                                        <option value="25" >25</option>
-                                        <option value="26" >26</option>
-                                        <option value="27" >27</option>
-                                        <option value="28" >28</option>
-                                        <option value="29" >29</option>
-                                        <option value="30" >30</option>
-                                        <option value="31" >31</option>
+                                        <option value="" >Ngày</option>
+                                        <option value="1" selected >1</option>
+                                        @for($i = 2; $i<=31; $i++)
+                                            <option value="{{ $i }}" @if($i == $info['ngay'] ?? '') selected @endif>{{ $i }}</option>
+                                        @endfor
                                     </select>
                                 </div>
                                 <div class="col-3 col-md-3 col-sm-3 col-xs-3">
                                     <select id="xpts_thang" name="thang" class="myinput" required>
-                                        <option value="" selected="">Tháng</option>
-                                        <option value="1" >1</option>
-                                        <option value="2" >2</option>
-                                        <option value="3" >3</option>
-                                        <option value="4" >4</option>
-                                        <option value="5" >5</option>
-                                        <option value="6" >6</option>
-                                        <option value="7" >7</option>
-                                        <option value="8" >8</option>
-                                        <option value="9" >9</option>
-                                        <option value="10" >10</option>
-                                        <option value="11" >11</option>
-                                        <option value="12" >12</option>
+                                        <option value="" >Tháng</option>
+                                        <option value="1" selected >1</option>
+                                        @for($ii = 2; $ii<=12; $ii++)
+                                            <option value="{{ $ii }}" @if($ii == $info['thang'] ?? '') selected @endif >{{ $ii }}</option>
+                                        @endfor
                                     </select>
                                 </div>
                                 <div class="col-3 col-md-3 col-sm-3 col-xs-3">
                                     <select id="xpts_nam" name="nam" class="myinput" required>
-                                        <option value="" selected="">Năm</option>
-                                        <option value="1950" >1950</option>
-                                        <option value="1951" >1951</option>
-                                        <option value="1952" >1952</option>
-                                        <option value="1953" >1953</option>
-                                        <option value="1954" >1954</option>
-                                        <option value="1955" >1955</option>
-                                        <option value="1956" >1956</option>
-                                        <option value="1957" >1957</option>
-                                        <option value="1958" >1958</option>
-                                        <option value="1959" >1959</option>
-                                        <option value="1960" >1960</option>
-                                        <option value="1961" >1961</option>
-                                        <option value="1962" >1962</option>
-                                        <option value="1963" >1963</option>
-                                        <option value="1964" >1964</option>
-                                        <option value="1965" >1965</option>
-                                        <option value="1966" >1966</option>
-                                        <option value="1967" >1967</option>
-                                        <option value="1968" >1968</option>
-                                        <option value="1969" >1969</option>
-                                        <option value="1970" >1970</option>
-                                        <option value="1971" >1971</option>
-                                        <option value="1972" >1972</option>
-                                        <option value="1973" >1973</option>
-                                        <option value="1974" >1974</option>
-                                        <option value="1975" >1975</option>
-                                        <option value="1976" >1976</option>
-                                        <option value="1977" >1977</option>
-                                        <option value="1978" >1978</option>
-                                        <option value="1979" >1979</option>
-                                        <option value="1980" >1980</option>
-                                        <option value="1981" >1981</option>
-                                        <option value="1982" >1982</option>
-                                        <option value="1983" >1983</option>
-                                        <option value="1984" >1984</option>
-                                        <option value="1985" >1985</option>
-                                        <option value="1986" >1986</option>
-                                        <option value="1987" >1987</option>
-                                        <option value="1988" >1988</option>
-                                        <option value="1989" >1989</option>
-                                        <option value="1990" >1990</option>
-                                        <option value="1991" >1991</option>
-                                        <option value="1992" >1992</option>
-                                        <option value="1993" >1993</option>
-                                        <option value="1994" >1994</option>
-                                        <option value="1995" >1995</option>
-                                        <option value="1996" >1996</option>
-                                        <option value="1997" >1997</option>
-                                        <option value="1998" >1998</option>
-                                        <option value="1999" >1999</option>
-                                        <option value="2000" >2000</option>
-                                        <option value="2001" >2001</option>
-                                        <option value="2002" >2002</option>
-                                        <option value="2003" >2003</option>
-                                        <option value="2004" >2004</option>
-                                        <option value="2005" >2005</option>
-                                        <option value="2006" >2006</option>
-                                        <option value="2007" >2007</option>
-                                        <option value="2008" >2008</option>
-                                        <option value="2009" >2009</option>
-                                        <option value="2010" >2010</option>
-                                        <option value="2011" >2011</option>
-                                        <option value="2012" >2012</option>
-                                        <option value="2013" >2013</option>
-                                        <option value="2014" >2014</option>
-                                        <option value="2015" >2015</option>
-                                        <option value="2016" >2016</option>
-                                        <option value="2017" >2017</option>
-                                        <option value="2018" >2018</option>
-                                        <option value="2019" >2019</option>
-                                        <option value="2020" >2020</option>
+                                        <option value="" >Năm</option>
+                                        <option value="1950" selected >1950</option>
+                                        @for($iii = 1951; $iii<=2020; $iii++)
+                                            <option value="{{ $iii }}" @if($iii == $info['nam'] ?? '') selected @endif >{{ $iii }}</option>
+                                        @endfor
                                     </select>
                                 </div>
                             </div>
@@ -163,7 +271,7 @@
                             <input type="radio" name="gioitinh" value="nam" checked /> Nam
                         </div>
                         <div class="col-2 col-md-2 col-sm-2 col-xs-2">
-                            <input type="radio" name="gioitinh" value="nu" /> Nữ
+                            <input type="radio" name="gioitinh" value="nu" @if(!empty($info['gioitinh']) && $info['gioitinh'] === 'nu') checked @endif /> Nữ
                         </div>
                         <div class="col-3 col-md-2 col-sm-2 col-xs-2">
                             <p class="title_label"><label>Giờ sinh</label></p>
@@ -171,24 +279,16 @@
                         <div class="col-5 col-md-6 col-sm-6 col-xs-6">
                             <select id="xpts_giosinh" class="myinput" name="giosinh" required>
                                 <option value="">Chọn giờ sinh</option>
-                                <option value="1" selected="">Tý (23g - 1g)</option>
-                                <option value="2" >Sửu (1g - 3g)</option>
-                                <option value="3" >Dần (3g - 5g)</option>
-                                <option value="4" >Mão (5g - 7g)</option>
-                                <option value="5" >Thìn (7g - 9g)</option>
-                                <option value="6" >Tỵ (9g - 11g)</option>
-                                <option value="7" >Ngọ (11g - 13g)</option>
-                                <option value="8" >Mùi (13g - 15g)</option>
-                                <option value="9" >Thân (15g - 17g)</option>
-                                <option value="10" >Dậu (17g - 19g)</option>
-                                <option value="11" >Tuất (19g - 21g)</option>
-                                <option value="12" >Hợi (21g - 23g)</option>
+                                <option value="1" selected >Tý (23g - 1g)</option>
+                                @foreach($timeBorn as $key => $value )
+                                    <option value="{{ $key }}" @if($key == $info['giosinh'] ?? '') selected @endif >{{ $value }}</option>
+                                @endforeach
                             </select>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-12 col-md-12 col-sm-12 col-xs-12 text-center">
-                            <button type="submit" class="btn_xemngay"><span>Xem bói số điện thoại</span></button>
+                            <button id="btn_xem_ngay_boi_sim" type="button" class="btn_xemngay"><span>Xem bói số điện thoại</span></button>
                         </div>
                     </div>
                 </form>
@@ -196,16 +296,73 @@
         </section>
     </div>
 
+    <div class="thongtin_thanchu" style="display: none">
+        <div class="row">
+            <div class="col-12 col-md-4 luansim_new_sim d-block d-sm-block">
+                <div class="congiap_thanchu">
+                    <img class="image_nam_sinh" src="{{ asset('common/templates/site/images/ty.png') }}">
+                </div>
+            </div>
+            <div class="col-12 col-md-8 luansim_new_than_chu">
+                <div>
+                    <p>
+                        <b><span>Ngày sinh (DL):</span></b>
+                        <span class="date_dl"></span>
+                    </p>
+                    <p>
+                        <b><span>Ngày sinh (AL):</span></b>
+                        <span class="date_al"></span>
+                    </p>
+                    <p>
+                        <b><span>Giới tính:</span></b>
+                        <span class="sex"></span>
+                    </p>
+                    <p>
+                        <b><span>Tứ Trụ Ngày Sinh:</span></b>
+                        <span class="tu_tru"></span>
+                    </p>
+                    <p>
+                        <b><span>Tuổi:</span></b>
+                        <span class="age"></span>
+                    </p>
+                    <p>
+                        <b><span>Ngũ hành bản mệnh:</span></b>
+                        <span class="ban_menh"></span>
+                    </p>
+                    <p>
+                        <b><span>Ngũ hành sinh mệnh:</span></b>
+                        <span class="sinh_menh"></span>
+                    </p>
+                    <p>
+                        <b><span>Cung phi:</span></b>
+                        <span class="cung_phi"></span>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
     @if (isset($data) && !empty($data))
-        <section class="boxFormSim">
-            <div class="wapper_que boxFormSim contentBox">
-                <p class="que_so  text-center text-bold">Số sim {{ $sdt }}</p>
-                <p class="anh_que text-center"><img src="{{ $data['hinh_que'] }}"></p>
-                {{-- <p class="que_so  text-center text-bold">Quẻ số {{ $data['so_que'] }}</p> --}}
-                <p class="tot text-left">Tên Quẻ: {{ $data['ten_que'] }}</p>
-                <p class="tot text-left">Cung Phi: {{ $data['ten_que'] }}</p>
-                <p class="text-left">Quái: {{ $data['que'] }}</p>
-                <p class="text-left">{{ $data['tong_quat'] }}</p>
+        <section class="boxFormSim content-post" style="display: none">
+            <div class="wapper_que boxFormSim contentBox" style="width: 100%; max-width: 100%">
+                @php
+                    $indexImage = $data['so_que'] . '.jpg';
+                @endphp
+
+                <div class="row">
+                    <div class="col-3 col-md-3 col-sm-3 col-xs-3 images-flex-only">
+                        <p class="anh_que text-center"><img style="width: 50px" src="{{ asset("common/templates/site/images/ques/$indexImage") }}"></p>
+                    </div>
+                    <div class="col-9 col-md-9 col-sm-9 col-xs-9">
+                        <p class="que_so"><strong> Số sim: </strong> {{ $info['sdt'] }}</p>
+                        {{-- <p class="que_so  text-center text-bold">Quẻ số {{ $data['so_que'] }}</p> --}}
+                        <p class="tot text-left"><strong> Tên Quẻ: </strong> {{ $data['ten_que'] }}</p>
+                        <p class="tot text-left"><strong>Cung Phi: </strong> {{ $data['cung_phi'] }}</p>
+                        <p class="text-left"><strong>Quái: </strong> {{ $data['que'] }}</p>
+                        <p class="text-left">{{ $data['tong_quat'] }}</p>
+                    </div>
+                </div>
+
             </div>
 
             @php
@@ -221,7 +378,7 @@
                     $index++;
                 @endphp
             @endif
-            
+
             @if (!empty($data['y_nghia_que']))
                 <h2 class="title_h1 text-left" style="font-weight: bold; margin-top: 5px; text-transform: capitalize"> {{ $index }}. Ý Nghĩa</h2>
                 <p class="pl-4">
@@ -276,17 +433,63 @@
                 <h2 class="title_h1 text-left" style="font-weight: bold; margin-top: 5px; text-transform: capitalize"> {{ $index }}. Nhận Định</h2>
                 <p class="pl-4">
                     {{ $data['kq'] }}
-                    
+
                 </p>
                 <b class="pl-4">{{ $data['hop_tuoi'] }}</b>
                 @php
                     $index++;
                 @endphp
             @endif
+
+            @if (count($results) > 0)
+                <div class="nopadding sim_collection mt-4">
+                    <section class="list_sim">
+                        <h2 class="title_h1">Kho Sim hợp mệnh {{ $info['sinh_menh_input'] ?? ''  }}</h2>
+                        <div class="row listSim list_sim_item">
+                            @foreach ($results as $item)
+                                @php
+                                    $logo_nha_mang = 'common/templates/site/images/icon/1.gif';
+                                    if ($item['nha_mang'] == "mobi") {
+                                        $logo_nha_mang = 'common/templates/site/images/icon/3.gif';
+                                    } else if ($item['nha_mang'] == "vinaphone") {
+                                        $logo_nha_mang = 'common/templates/site/images/icon/2.gif';
+                                    } else if ($item['nha_mang'] == "gmobile") {
+                                        $logo_nha_mang = 'common/templates/site/images/icon/5.gif';
+                                    } else if ($item['nha_mang'] == "vietnamobile") {
+                                        $logo_nha_mang = 'common/templates/site/images/icon/4.gif';
+                                    }
+                                @endphp
+                                <div class="col-6 col-sm-6 col-md-6">
+                                    <div class="main_box_sim_item">
+                                        <div class="row">
+                                            <div class="col-12 col-sm-12 col-md-6">
+                                                <p class="so"><a href="{{ route('detail-sim', ['sdt' => $item['sdt']]) }}">{{ $item['sdt'] }}</a></p>
+                                            </div>
+                                            <div class="col-12 col-sm-12 col-md-6 logoNhaMang"><img alt="" src="{{ asset($logo_nha_mang) }}" /></div>
+                                        </div>
+                                        <p class="vuong"><strong>Điểm phong thủy sim: </strong> {{ $item['diem_phong_thuy'] }}</p>
+                                        <p class="price"><b>Giá: </b>{{ $item['gia_ban'] }}</p>
+                                        <p class="que"><strong>Sim ngũ hành: </strong> <span class="nguhanh">{{ $item['ngu_hanh'] }}</span></p>
+                                        <p class="yn"><strong>Quẻ Kinh dịch: </strong>{{ $item['que'] }}</p>
+                                        <div class="row">
+                                            <div class="col-6 col-sm-6 col-md-6">
+                                                <p class="btnmua"><a href="{{ route('detail-sim', ['sdt' => $item['sdt']]) }}" class="btn_mua">Chi tiết <b>>></b></a></p>
+                                            </div>
+                                            <div class="col-6 col-sm-6 col-md-6">
+                                                <p class="btnmua"><a href="{{ route('detail-sim', ['sdt' => $item['sdt']]) }}" class="btn_mua">Mua ngay <b>>></b></a></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            @endforeach
+                        </div>
+                    </section>
+                </div>
+            @endif
         </section>
+
     @else
-        
-    <section class=" boxHadview">
+        <section class=" boxHadview">
         <!-- text trên -->
         <section class="box_shadow">
             <div class="tableContent">
@@ -312,7 +515,7 @@
                                 margin: 0px auto;
                                 line-height: 25px;
                             }
-                            
+
                             #toc-header {
                                 display: inline;
                                 padding: 0;
@@ -322,35 +525,35 @@
                                 font-size: 18px;
                                 margin-left: 5px;
                             }
-                            
+
                             #toc ul {
                                 list-style-type: none;
                                 margin-left: 0;
                                 padding-left: 0;
                                 text-align: left;
                             }
-                            
+
                             .toc3 {
                                 margin-left: 2em;
                             }
-                            
+
                             .toc4 {
                                 margin-left: 3em;
                             }
-                            
+
                             .toc5 {
                                 margin-left: 4em;
                             }
-                            
+
                             .toc6 {
                                 margin-left: 5em;
                             }
-                            
+
                             #toc img {
                                 width: 20px;
                                 margin-bottom: 10px;
                             }
-                            
+
                             @media only screen and (max-width: 568px) {
                                 #toc {
                                     width: 100%;
@@ -379,7 +582,7 @@
             <div class="box_limit">
                 <div class="row">
                     <div class="col-md-12">
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="https://simhoptuoi.com.vn/xem-boi-so-dien-thoai.html">Xem b&oacute;i số điện thoại</a></strong></u> l&agrave; việc đ&aacute;nh gi&aacute;, ph&acirc;n t&iacute;ch d&atilde;y sim đang sở hữu c&oacute; hợp với bản mệnh hay kh&ocirc;ng dựa tr&ecirc;n quy luật &Acirc;m Dương, Ngũ h&agrave;nh, Tứ trụ luận đo&aacute;n, Kinh dịch. Từ đ&oacute; luận đo&aacute;n được năng lượng số sim c&oacute; bổ trợ cho chủ sự, gi&uacute;p đem lại vận kh&iacute; tốt hay kh&ocirc;ng. Việc coi b&oacute;i số điện thoại bạn sẽ biết được c&aacute;c yếu tố phong thủy c&oacute; trong sim như:&nbsp;</span></span>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Xem b&oacute;i số điện thoại</strong> l&agrave; việc đ&aacute;nh gi&aacute;, ph&acirc;n t&iacute;ch d&atilde;y sim đang sở hữu c&oacute; hợp với bản mệnh hay kh&ocirc;ng dựa tr&ecirc;n quy luật &Acirc;m Dương, Ngũ h&agrave;nh, Tứ trụ luận đo&aacute;n, Kinh dịch. Từ đ&oacute; luận đo&aacute;n được năng lượng số sim c&oacute; bổ trợ cho chủ sự, gi&uacute;p đem lại vận kh&iacute; tốt hay kh&ocirc;ng. Việc coi b&oacute;i số điện thoại bạn sẽ biết được c&aacute;c yếu tố phong thủy c&oacute; trong sim như:&nbsp;</span></span>
                         </p>
 
                         <ul>
@@ -433,10 +636,6 @@
                                 </strong>
                                 </span>
                             </h2>
-
-                            <p dir="ltr" style="text-align:center"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><img alt="bói số điện thoại" src="https://simhoptuoi.com.vn/media/images/seolink/boi-so-dien-thoai.png" /></span></span><br
-                                /> &nbsp;
-                            </p>
 
                             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Coi b&oacute;i số điện thoại (đ&aacute;nh gi&aacute; mức độ C&aacute;t - Hung) dựa theo b&aacute;t tự năm/th&aacute;ng/ng&agrave;y/giờ l&agrave; một c&ocirc;ng việc kh&aacute; phức tạp, đ&ograve;i hỏi người d&ugrave;ng cần c&oacute; mức độ hiểu biết về nguy&ecirc;n l&yacute; chấm điểm sim.Theo đ&oacute; để b&oacute;i số điện thoại ch&iacute;nh x&aacute;c cần dựa theo 5 bộ m&ocirc;n dịch cổ sau:</span></span>
                             </p>
@@ -502,8 +701,6 @@
 
                             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">V&iacute; dụ: Người tuổi Canh Ngọ sinh năm 1990 mệnh Lộ B&agrave;ng Thổ n&ecirc;n nếu sử dụng d&atilde;y sim c&oacute; ngũ h&agrave;nh Hỏa l&agrave; tốt nhất (v&igrave; ngũ h&agrave;nh Hỏa tương sinh cho bản mệnh chủ sim). Nhưng nếu người n&agrave;y sử dụng sim c&oacute; ngũ h&agrave;nh Mộc th&igrave; lại rất xấu do Mộc tương khắc với Thổ, gia chủ sẽ gặp nhiều điều kh&ocirc;ng may mắn.&nbsp;</span></span>
                             </p>
-
-                            <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Xem chi tiết: <u><a href="https://simhoptuoi.com.vn/tin-sim/cach-tinh-ngu-hanh-cua-day-so-dien-thoai.html">C&aacute;ch t&iacute;nh ngũ h&agrave;nh d&atilde;y số điện thoại</a></u></span></span></strong></em></p>
 
                             <h4 dir="ltr" style="text-align:justify"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">2.2. Xem b&oacute;i số điện thoại theo mức độ Bổ Trợ trong Tứ Trụ Mệnh</span></span></strong></h4>
 
@@ -842,8 +1039,6 @@
                             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">=&gt; Trong d&atilde;y sim n&agrave;y c&oacute; cặp 3 cặp tương sinh Hỏa sinh Thổ, Thổ sinh Kim, Kim sinh Thủy v&agrave; 1 cặp tương khắc Thủy khắc Hỏa. Do đ&oacute; ngũ h&agrave;nh nội tại của d&atilde;y số 0766093689 v&ocirc; c&ugrave;ng h&agrave;i h&ograve;a, sinh kh&iacute;.&nbsp;</span></span>
                             </p>
 
-                            <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Xem chi tiết: <u><a href="https://simhoptuoi.com.vn/tin-sim/menh-ngu-hanh-cac-con-so.html">Ngũ h&agrave;nh c&aacute;c con số</a></u></span></span></strong></em></p>
-
                             <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">3. Xem b&oacute;i số điện thoại theo bộ m&ocirc;n Kinh Dịch</span></strong>
                                 </span>
                             </h3>
@@ -856,8 +1051,6 @@
 
                             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">- Khi xem b&oacute;i số sim điện thoại nếu d&atilde;y sim chứa quẻ dịch Hung, Đại Hung th&igrave; kh&ocirc;ng tốt, cuộc sống gặp nhiều điều kh&ocirc;ng may mắn. V&iacute; dụ như c&aacute;c quẻ: Thủy L&ocirc;i Tru&acirc;n; Sơn Thủy M&ocirc;ng, Sơn Phong Cổ, Sơn Địa B&aacute;c,...</span></span>
                             </p>
-
-                            <p dir="ltr" style="text-align:justify"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Xem chi tiết: <u><a href="https://simhoptuoi.com.vn/tin-sim/cach-tinh-que-dich-so-dien-thoai.html">C&aacute;ch t&iacute;nh quẻ số điện thoại</a></u></span></span></strong></p>
 
                             <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">4. Coi b&oacute;i số điện thoại theo bộ m&ocirc;n Cửu Tinh Đồ Ph&aacute;p</span></strong>
                                 </span>
@@ -881,7 +1074,7 @@
                             </ul>
 
                             <blockquote>
-                                <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Tr&ecirc;n đ&acirc;y l&agrave; hướng dẫn c&aacute;ch xem b&oacute;i số điện thoại ch&iacute;nh x&aacute;c, chi tiết được đội ngũ chuy&ecirc;n gia phong thủy c&oacute; h&agrave;ng chục năm kinh nghiệm nghi&ecirc;n cứu. Tuy nhi&ecirc;n qu&yacute; bạn cần nắm vững nguy&ecirc;n l&yacute;, c&aacute;ch ứng dụng từng ti&ecirc;u ch&iacute;. Nếu bạn kh&ocirc;ng d&agrave;nh được nhiều thời gian nghi&ecirc;n cứu, ph&acirc;n t&iacute;ch th&igrave; c&oacute; thể sử dụng phần mềm B&oacute;i số điện thoại của <u><a href="https://simhoptuoi.com.vn/">simhoptuoi.com.vn</a></u>. C&ocirc;ng cụ xem sim tốt xấu n&agrave;y l&agrave; phần mềm hiện đại, tiện &iacute;ch, hỗ trợ đắc lực cho người d&ugrave;ng với mong muốn dịch &yacute; nghĩa số sim. Được t&iacute;ch hợp đầy đủ, chi tiết nguy&ecirc;n l&yacute; về c&aacute;c bộ m&ocirc;n phong thủy bao gồm Kinh dịch, &Acirc;m Dương, Ngũ H&agrave;nh, Cửu Tinh Đồ Ph&aacute;p,&hellip; dịch học cổ phương đ&ocirc;ng v&agrave; b&aacute;t tự người d&ugrave;ng, đảm bảo kết quả trả ra ch&iacute;nh x&aacute;c, nhanh ch&oacute;ng, tiện lợi.</span></span></strong></em></p>
+                                <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Tr&ecirc;n đ&acirc;y l&agrave; hướng dẫn c&aacute;ch xem b&oacute;i số điện thoại ch&iacute;nh x&aacute;c, chi tiết được đội ngũ chuy&ecirc;n gia phong thủy c&oacute; h&agrave;ng chục năm kinh nghiệm nghi&ecirc;n cứu. Tuy nhi&ecirc;n qu&yacute; bạn cần nắm vững nguy&ecirc;n l&yacute;, c&aacute;ch ứng dụng từng ti&ecirc;u ch&iacute;.</span></span></strong></em></p>
                             </blockquote>
 
                             <h2 dir="ltr" style="text-align:justify"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="iii-mot-so-phuong-phap-coi-b-oiso-dien-thoai-khong-chinh-xac">III. Một số phương ph&aacute;p coi b&oacute;i số điện thoại kh&ocirc;ng ch&iacute;nh x&aacute;c</span></span>
@@ -1118,7 +1311,6 @@
         </section>
         <!-- text trên -->
     </section>
-
     @endif
 
 </section>

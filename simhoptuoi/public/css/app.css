@@ -1,13 +1,14 @@
-#contactFixed, #contactFixedOpen {
+#contactFixed,
+#contactFixedOpen {
     position: fixed;
     border-radius: 10px;
     bottom: 15px;
     right: 25px;
-    background-color : #cbc9c8;
+    background-color: #cbc9c8;
 }
 
 .contact-fixed--social-container {
-    display:grid;
+    display: grid;
     grid-template-columns: 45px 45px;
     gap: 5px;
 }
@@ -23,7 +24,7 @@
 }
 
 .contact-fixed--social-container-open {
-    display:grid;
+    display: grid;
     grid-template-columns: 45px;
     gap: 5px;
 }
@@ -32,9 +33,7 @@
     .contact-fixed--social-container {
         grid-template-columns: 35px 35px;
     }
-
     .contact-fixed--social-container-open {
         grid-template-columns: 35px;
     }
 }
-

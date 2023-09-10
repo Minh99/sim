@@ -4,10 +4,25 @@ namespace App\Http\Controllers;
 
 use App\Services\FunctionCommonService;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Log;
 use Illuminate\Support\Facades\Session;
 
 class Sim extends Controller
 {
+    public $nguHanh = [
+        'sim_thang_tien' => ['Sim Thăng Tiến'],
+        'sim_tai_loc' => ['Sim Tài Lộc'],
+        'sim_tinh_duyen' => ['Sim Tình Duyên'],
+        'sim_cai_van' => ['Sim Cải Vận'],
+    ];
+
+    public $nguHanhHopMenh = [
+        'Kim' => ['Thổ', 'Kim'],
+        'Thủy' => ['Kim', 'Thủy'],
+        'Mộc' => ['Thủy', 'Mộc'],
+        'Hỏa' => ['Mộc', 'Hỏa'],
+        'Thổ' => ['Hỏa', 'Thổ'],
+    ];
     protected $functionCommonService;
 
     public function __construct(FunctionCommonService $functionCommonService)
@@ -18,7 +33,7 @@ class Sim extends Controller
     function index(Request $request)
     {
         $data = $this->functionCommonService->getListSimData();
-        
+
         $duoi_sim = $request->get('duoi_sim');
         $gia_max = $request->get('gia_max');
         $dau_so = $request->get('dau_so');
@@ -26,16 +41,26 @@ class Sim extends Controller
         $diem_den = $request->get('diem_den');
         $loai_sim = $request->get('loai_sim');
         $nha_mang = $request->get('nha_mang');
+        $ngu_hanh = $request->get('ngu_hanh');
 
         $isFilter = false;
-        if (!empty($duoi_sim) || !empty($gia_max) || !empty($dau_so) || !empty($diem_tu) || !empty($diem_den) || !empty($loai_sim) || !empty($nha_mang)) {
+        if (!empty($ngu_hanh) || !empty($duoi_sim) || !empty($gia_max) || !empty($dau_so) || !empty($diem_tu) || !empty($diem_den) || !empty($loai_sim) || !empty($nha_mang)) {
             $isFilter = true;
         }
         $results = [];
         foreach ($data as $key => $value) {
+            if (!empty($ngu_hanh) && !empty($value['ngu_hanh'])) {
+                $ar = $this->nguHanhHopMenh[$ngu_hanh];
+                if (in_array(trim($value['ngu_hanh']), $ar)) {
+                    $results[] = $value;
+                    continue;
+                }
+            }
+
             if (!empty($duoi_sim) && !empty($value['sdt'])) {
                 if (strpos($value['sdt'], $duoi_sim) !== false) {
                     $results[] = $value;
+                    Log::info('duoi_sim: ' . $duoi_sim . ' - ' . $value['sdt']);
                     continue;
                 }
             }
@@ -45,6 +70,7 @@ class Sim extends Controller
                 $gia_max = $this->functionCommonService->formatGiaBan($gia_max);
                 if (floatval($value['gia_ban']) <= floatval($gia_max)) {
                     $results[] = $value;
+                    Log::info('gia_max: ' . $gia_max . ' - ' . $value['gia_ban']);
                     continue;
                 }
             }
@@ -53,6 +79,7 @@ class Sim extends Controller
                 $twoFirstChar = substr($value['sdt'], 0, 2);
                 if (in_array($twoFirstChar, $dau_so)) {
                     $results[] = $value;
+                    Log::info('dau_so: ' . $dau_so . ' - ' . $value['sdt']);
                     continue;
                 }
             }
@@ -66,14 +93,29 @@ class Sim extends Controller
 
                     if ($diem >= $diem_tu && $diem <= $diem_den) {
                         $results[] = $value;
+                        Log::info('diem_tu: ' . $diem_tu . ' - ' . $diem_den . ' - ' . $value['diem_phong_thuy']);
                         continue;
                     }
 
                 }
             }
 
-            if (!empty($loai_sim) && !empty($value['loai_sim'])) {
-            //    TODO
+            if (!empty($loai_sim)) {
+                $arrayMap = [];
+                foreach ($loai_sim as $key => $item) {
+                    $mappingNguHanhWithSlug = $this->nguHanh[$item];
+                    $arrayMap = array_merge($arrayMap, $mappingNguHanhWithSlug);
+                }
+
+                if ((!empty($value['loai_1']) && in_array($value['loai_1'], $arrayMap)) ||
+                    (!empty($value['loai_2']) && in_array($value['loai_2'], $arrayMap)) ||
+                    (!empty($value['loai_3']) && in_array($value['loai_3'], $arrayMap))
+                ) {
+                    $results[] = $value;
+                    Log::info('loai_sim: ' . $loai_sim . ' - ' . $value['loai_1'] . ' - ' . $value['loai_2'] . ' - ' . $value['loai_3']);
+                    continue;
+                }
+
             }
 
             if (!empty($nha_mang) && !empty($value['nha_mang'])) {
@@ -88,6 +130,7 @@ class Sim extends Controller
 
                 if (in_array($network, $nha_mang)) {
                     $results[] = $value;
+                    Log::info('nha_mang: ' . $nha_mang . ' - ' . $value['nha_mang']);
                     continue;
                 }
             }

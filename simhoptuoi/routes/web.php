@@ -29,6 +29,7 @@ Route::get('/tin-tuc/{slug}', [NewsController::class, 'news'])->name('news-page'
 
 Route::get('/tin-sim/{slug}', [NewsController::class, 'simNews'])->name('sim-news-page');
 
+
 Route::get('/admin/home', function () {
     return view('layouts.admin.home');
 })->name('admin.home');
@@ -41,6 +42,8 @@ Route::get('/coming-soon', function () {
 
 
 Route::match(['get', 'post'], '/boi-sim', [BoiSim::class, 'index'])->name('boi-sim');
+Route::match(['get', 'post'], '/boi-sim-4-so', [BoiSim::class, 'boi4so'])->name('boi-sim-4-so');
+Route::match(['get', 'post'], '/boi-sim-6-so', [BoiSim::class, 'boi6so'])->name('boi-sim-6-so');
 Route::get('/chi-tiet-sim/{sdt}', [Sim::class, 'detail'])->name('detail-sim');
 Route::match(['get', 'post'], '/checkout/{sdt}', [Sim::class, 'checkout'])->name('checkout');
 

@@ -13,7 +13,7 @@
             <p class="headding-box">Nhập thông tin có ngay Sim hợp tuổi</p>
             <section class="boxFormSim">
                 <div class="bgFormSim">
-                    <form method="post" name="form_tim_sin" onsubmit="tim_sim(); return false;">
+                    <form method="post" name="form_tim_sin">
                         <div class="row">
                             <div class="col-12 col-md-12">
                                 <div class="row">
@@ -21,132 +21,30 @@
                                         <p class="title_label"><label>Ngày sinh</label></p>
                                     </div>
                                     <div class="col-2 col-md-3 col-sm-3 col-xs-3">
-                                        <select name="ngay_sinh" class="myinput">
-                                            <option value="">Ngày</option>
-                                            <option value="1" >1</option>
-                                            <option value="2" >2</option>
-                                            <option value="3" >3</option>
-                                            <option value="4" >4</option>
-                                            <option value="5" >5</option>
-                                            <option value="6" >6</option>
-                                            <option value="7" >7</option>
-                                            <option value="8" selected="">8</option>
-                                            <option value="9" >9</option>
-                                            <option value="10" >10</option>
-                                            <option value="11" >11</option>
-                                            <option value="12" >12</option>
-                                            <option value="13" >13</option>
-                                            <option value="14" >14</option>
-                                            <option value="15" >15</option>
-                                            <option value="16" >16</option>
-                                            <option value="17" >17</option>
-                                            <option value="18" >18</option>
-                                            <option value="19" >19</option>
-                                            <option value="20" >20</option>
-                                            <option value="21" >21</option>
-                                            <option value="22" >22</option>
-                                            <option value="23" >23</option>
-                                            <option value="24" >24</option>
-                                            <option value="25" >25</option>
-                                            <option value="26" >26</option>
-                                            <option value="27" >27</option>
-                                            <option value="28" >28</option>
-                                            <option value="29" >29</option>
-                                            <option value="30" >30</option>
-                                            <option value="31" >31</option>
+                                        <select id="ngay_sinh_home" name="ngay_sinh" class="myinput">
+                                            <option value="" >Ngày</option>
+                                            <option value="1" selected >1</option>
+                                            @for($i = 2; $i<=31; $i++)
+                                                <option value="{{ $i }}">{{ $i }}</option>
+                                            @endfor
                                         </select>
                                     </div>
                                     <div class="col-2 col-md-3 col-sm-3 col-xs-3">
-                                        <select name="thang_sinh" class="myinput">
-                                            <option value="">Tháng</option>
-                                            <option value="1" >1</option>
-                                            <option value="2" >2</option>
-                                            <option value="3" >3</option>
-                                            <option value="4" >4</option>
-                                            <option value="5" >5</option>
-                                            <option value="6" >6</option>
-                                            <option value="7" >7</option>
-                                            <option value="8" selected="">8</option>
-                                            <option value="9" >9</option>
-                                            <option value="10" >10</option>
-                                            <option value="11" >11</option>
-                                            <option value="12" >12</option>
+                                        <select id="thang_sinh_home" name="thang_sinh" class="myinput">
+                                            <option value="" >Tháng</option>
+                                            <option value="1" selected >1</option>
+                                            @for($ii = 2; $ii<=12; $ii++)
+                                                <option value="{{ $ii }}" >{{ $ii }}</option>
+                                            @endfor
                                         </select>
                                     </div>
                                     <div class="col-4 col-md-3 col-sm-3 col-xs-3">
-                                        <select name="nam_sinh" class="myinput">
-                                            <option value="">Năm</option>
-                                            <option value="1950" >1950</option>
-                                            <option value="1951" >1951</option>
-                                            <option value="1952" >1952</option>
-                                            <option value="1953" >1953</option>
-                                            <option value="1954" >1954</option>
-                                            <option value="1955" >1955</option>
-                                            <option value="1956" >1956</option>
-                                            <option value="1957" >1957</option>
-                                            <option value="1958" >1958</option>
-                                            <option value="1959" >1959</option>
-                                            <option value="1960" >1960</option>
-                                            <option value="1961" >1961</option>
-                                            <option value="1962" >1962</option>
-                                            <option value="1963" >1963</option>
-                                            <option value="1964" >1964</option>
-                                            <option value="1965" >1965</option>
-                                            <option value="1966" >1966</option>
-                                            <option value="1967" >1967</option>
-                                            <option value="1968" >1968</option>
-                                            <option value="1969" >1969</option>
-                                            <option value="1970" >1970</option>
-                                            <option value="1971" >1971</option>
-                                            <option value="1972" >1972</option>
-                                            <option value="1973" >1973</option>
-                                            <option value="1974" >1974</option>
-                                            <option value="1975" >1975</option>
-                                            <option value="1976" >1976</option>
-                                            <option value="1977" >1977</option>
-                                            <option value="1978" >1978</option>
-                                            <option value="1979" >1979</option>
-                                            <option value="1980" >1980</option>
-                                            <option value="1981" >1981</option>
-                                            <option value="1982" >1982</option>
-                                            <option value="1983" >1983</option>
-                                            <option value="1984" >1984</option>
-                                            <option value="1985" >1985</option>
-                                            <option value="1986" >1986</option>
-                                            <option value="1987" >1987</option>
-                                            <option value="1988" >1988</option>
-                                            <option value="1989" >1989</option>
-                                            <option value="1990" >1990</option>
-                                            <option value="1991" >1991</option>
-                                            <option value="1992" >1992</option>
-                                            <option value="1993" >1993</option>
-                                            <option value="1994" >1994</option>
-                                            <option value="1995" >1995</option>
-                                            <option value="1996" >1996</option>
-                                            <option value="1997" >1997</option>
-                                            <option value="1998" >1998</option>
-                                            <option value="1999" >1999</option>
-                                            <option value="2000" >2000</option>
-                                            <option value="2001" >2001</option>
-                                            <option value="2002" >2002</option>
-                                            <option value="2003" >2003</option>
-                                            <option value="2004" >2004</option>
-                                            <option value="2005" >2005</option>
-                                            <option value="2006" >2006</option>
-                                            <option value="2007" >2007</option>
-                                            <option value="2008" >2008</option>
-                                            <option value="2009" >2009</option>
-                                            <option value="2010" >2010</option>
-                                            <option value="2011" >2011</option>
-                                            <option value="2012" >2012</option>
-                                            <option value="2013" >2013</option>
-                                            <option value="2014" >2014</option>
-                                            <option value="2015" >2015</option>
-                                            <option value="2016" >2016</option>
-                                            <option value="2017" >2017</option>
-                                            <option value="2018" >2018</option>
-                                            <option value="2019" >2019</option>
-                                            <option value="2020" >2020</option>
+                                        <select id="nam_sinh_home" name="nam_sinh"  class="myinput">
+                                            <option value="" >Năm</option>
+                                            <option value="1950" selected >1950</option>
+                                            @for($iii = 1951; $iii<=2020; $iii++)
+                                                <option value="{{ $iii }}" >{{ $iii }}</option>
+                                            @endfor
                                         </select>
                                     </div>
                                 </div>
@@ -163,10 +61,10 @@
                                 <p class="title_label"><label class="m-0">Giờ sinh</label></p>
                             </div>
                             <div class="col-5 col-md-6 col-sm-6 col-xs-6 select_time">
-                                <select class="myinput" name="gio_sinh">
+                                <select class="myinput" name="gio_sinh_home">
                                     <option value="">Chọn giờ sinh</option>
-                                    <option value="1" selected="" >Tý (23g - 1g)</option>
-                                    <option value="2"  >Sửu (1g - 3g)</option>
+                                    <option value="1"  >Tý (23g - 1g)</option>
+                                    <option value="2" selected="" >Sửu (1g - 3g)</option>
                                     <option value="3"  >Dần (3g - 5g)</option>
                                     <option value="4"  >Mão (5g - 7g)</option>
                                     <option value="5"  >Thìn (7g - 9g)</option>
@@ -182,7 +80,7 @@
                         </div>
                         <div class="row">
                             <div class="col-12 col-md-12 col-sm-12 col-xs-12 text-center">
-                                <button class="btn_xemngay" type="submit"><span>Sim phong thủy hợp tuổi</span></button>
+                                <button id="btn_xem_nam_sinh" class="btn_xemngay" type="button"><span>Sim phong thủy hợp tuổi</span></button>
                             </div>
                         </div>
                     </form>
@@ -316,16 +214,16 @@
                     </div>
                 </div>
                 <div class="d-flex select-item sim-types">
-                    <div class="sim-type hide-desktop" data-type="10">
-                        <div class="item_sim_type no-coppy" id="ngu_hanh_tuong_sinh" data-id="ngu_hanh_tuong_sinh" name="Ngũ hành tương sinh">
-                            Ngũ hành tương sinh
-                        </div>
-                    </div>
-                    <div class="sim-type hide-desktop" data-type="10">
-                        <div class="item_sim_type no-coppy" id="ngu_hanh_binh_hoa" data-id="ngu_hanh_binh_hoa" name="Ngũ hành bình hòa">
-                            Ngũ hành bình hòa
-                        </div>
-                    </div>
+{{--                    <div class="sim-type hide-desktop" data-type="10">--}}
+{{--                        <div class="item_sim_type no-coppy" id="ngu_hanh_tuong_sinh" data-id="ngu_hanh_tuong_sinh" name="Ngũ hành tương sinh">--}}
+{{--                            Ngũ hành tương sinh--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                    <div class="sim-type hide-desktop" data-type="10">--}}
+{{--                        <div class="item_sim_type no-coppy" id="ngu_hanh_binh_hoa" data-id="ngu_hanh_binh_hoa" name="Ngũ hành bình hòa">--}}
+{{--                            Ngũ hành bình hòa--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
                     <div class="sim-type hide-desktop" data-type="1">
                         <div class="item_sim_type no-coppy" id="sim_tai_loc" data-id="sim_tai_loc" name="Sim Tài lộc">
                             Sim Tài lộc
@@ -346,16 +244,16 @@
                             Sim Tình duyên
                         </div>
                     </div>
-                    <div class="sim-type hide-mobile" data-type="10">
-                        <div class="item_sim_type no-coppy" id="ngu_hanh_tuong_sinh" data-id="ngu_hanh_tuong_sinh" name="Ngũ hành tương sinh">
-                            Ngũ hành tương sinh
-                        </div>
-                    </div>
-                    <div class="sim-type hide-mobile" data-type="10">
-                        <div class="item_sim_type no-coppy" id="ngu_hanh_binh_hoa" data-id="ngu_hanh_binh_hoa" name="Ngũ hành bình hòa">
-                            Ngũ hành bình hòa
-                        </div>
-                    </div>
+{{--                    <div class="sim-type hide-mobile" data-type="10">--}}
+{{--                        <div class="item_sim_type no-coppy" id="ngu_hanh_tuong_sinh" data-id="ngu_hanh_tuong_sinh" name="Ngũ hành tương sinh">--}}
+{{--                            Ngũ hành tương sinh--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                    <div class="sim-type hide-mobile" data-type="10">--}}
+{{--                        <div class="item_sim_type no-coppy" id="ngu_hanh_binh_hoa" data-id="ngu_hanh_binh_hoa" name="Ngũ hành bình hòa">--}}
+{{--                            Ngũ hành bình hòa--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
                 </div>
                 <div class="wapper_scroll">
                     <div class="d-flex select-item-network">
@@ -418,7 +316,7 @@
                     cursor: pointer;
                 }
             </style>
-            
+
             <section class="list_sim mb-4">
                 <div style="margin: 1rem auto; text-align: center; width: 30px; height: 30px;" class="bg-danger spinner-border text-light loading" role="status">
                     <span class="sr-only">Loading...</span>
@@ -430,7 +328,7 @@
         </div>
 
         <script>
-            function getList() {
+            function getList(submit = false) {
                 var dauso_item = $('.dauso-item');
                 var dau_so = [];
                 dauso_item.each(function() {
@@ -438,7 +336,7 @@
                         dau_so.push($(this).attr('data-id'));
                     }
                 });
-                
+
                 var duoi_sim = $('.search_phone_last').val();
                 var gia_max = $('.priceEndPc').val();
                 var diem_tu = $('.diemStart').val();
@@ -459,6 +357,31 @@
                         nha_mang.push($(this).attr('data-id'));
                     }
                 });
+                var ngu_hanh = '';
+                if (submit) {
+                    var ngay = $('#ngay_sinh_home').val();
+                    var thang = $('#thang_sinh_home').val();
+                    var nam = $('#nam_sinh_home').val();
+
+                    var gioSinh = $('input[name=gio_sinh_home]').children("option:selected").text();
+                    if (gioSinh) var gioSinh = parseInt(gioSinh.split('(')[1].slice(0, 2));
+                    if (gioSinh >= 23) {
+                        var newDate = new Date(nam, thang, ngay);
+                        newDate.setDate(newDate.getDate() + 1);
+                        ngay = newDate.getDate();
+                        thang = newDate.getMonth();
+                        nam = newDate.getFullYear();
+                    }
+                    var lunar = new AmLich(ngay, thang, nam);
+                    // console.log(ngay, thang, nam);
+                    // console.log(lunar.day+'/'+lunar.month+'/'+lunar.year);
+
+                    var can = canVi(ThienCan(lunar.days));
+                    var chi = chiVi(DiaChi(lunar.days));
+                    var HK = napAmHanhKhac(can, chi);
+                    console.log(HANH[HK[1]]);
+                    ngu_hanh = HANH[HK[1]];
+                }
 
                 $.ajax({
                     url:  "{{ route('danh-sach-sim') }}",
@@ -471,6 +394,7 @@
                         'diem_den': diem_den,
                         'loai_sim' : loai_sim,
                         'nha_mang': nha_mang,
+                        'ngu_hanh': ngu_hanh,
                     },
                     dataType: 'json',
                     beforeSend: function() {
@@ -486,7 +410,6 @@
                         }
                         $('.result-filter').attr('style', 'display: flex !important');
                         data.forEach(function(item) {
-                            console.log(item);
                             let logo_nha_mang = '1.gif';
                             if (item['nha_mang'] == "mobi") {
                                 logo_nha_mang = '3.gif';
@@ -551,9 +474,13 @@
                 $('.search_phone_last').on('keyup', function() {
                     getList();
                 });
+
+                $('#btn_xem_nam_sinh').on('click', function() {
+                    getList(true);
+                });
             });
 
-        </script>  
+        </script>
 
         <div class="content_home">
             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><u>Sim hợp tuổi</u></strong> đ&atilde; kh&ocirc;ng c&ograve;n qu&aacute; xa lạ với phần lớn người sử dụng điện thoại. Bởi đ&acirc;y l&agrave; loại sim sở hữu đầy đủ c&aacute;c yếu tố phong thủy ph&ugrave; hợp với người d&ugrave;ng n&ecirc;n sẽ c&oacute; khả năng thu h&uacute;t c&aacute;t kh&iacute;, tăng may giải xui. Tuy nhi&ecirc;n, d&atilde;y sim phong thủy hợp tuổi chỉ thực sự ph&aacute;t huy khả năng của m&igrave;nh khi được lựa chọn v&agrave; sử dụng đ&uacute;ng c&aacute;ch.</span></span>

@@ -86,35 +86,41 @@
                                 <p class="ten_que tot text-center">{{ $boi['ten_que'] }}</p>
                                 <p class="y_nghia text-center">{{ $boi['tong_quat'] }}</p>
                                 <p class="quai_que text-center">{{ $boi['que'] }}</p>
-                                <p class="anh_que text-center"><img src="{{ $boi['hinh_que'] }}"></p>
+                                @php
+                                    $indexImage = $boi['so_que'] . '.jpg';
+                                @endphp
+
+                                <p class="anh_que text-center">
+                                    <img style="width: 50px" src="{{ asset("common/templates/site/images/ques/$indexImage") }}">
+                                </p>
                             </div>
-                
+
                             @php
                                 $index = 1;
                             @endphp
-                
-                            @if (!empty($boi['chiem_nghiem_ve_van_the']))
-                                <h2 style="font-weight: bold; font-size: 18px; margin-top: 5px"> {{ $index }}. CHIÊM NGHIỆM VỀ VẬN THẾ</h2>
+
+                            @if (!empty($boi['danh_gia']))
+                                <h2 class="title_h1 text-left" style="font-weight: bold; margin-top: 5px; text-transform: capitalize"> {{ $index }}. Đánh giá</h2>
                                 <p class="pl-4">
-                                    {{ $boi['chiem_nghiem_ve_van_the'] }}
+                                    {{ $boi['danh_gia'] }}
                                 </p>
                                 @php
                                     $index++;
                                 @endphp
                             @endif
-                
-                            @if (!empty($boi['xet_ve_gia_dao_tinh_cam']))
-                                <h2 style="font-weight: bold; font-size: 18px; margin-top: 5px"> {{ $index }}. VỀ GIA ĐẠO TÌNH CẢM</h2>
+
+                            @if (!empty($boi['y_nghia_que']))
+                                <h2 class="title_h1 text-left" style="font-weight: bold; margin-top: 5px; text-transform: capitalize"> {{ $index }}. Ý Nghĩa</h2>
                                 <p class="pl-4">
-                                    {{ $boi['xet_ve_gia_dao_tinh_cam'] }}
+                                    {{ $boi['y_nghia_que'] }}
                                 </p>
                                 @php
                                     $index++;
                                 @endphp
                             @endif
-                
+
                             @if (!empty($boi['luan_giai_sim']))
-                                <h2 style="font-weight: bold; font-size: 18px; margin-top: 5px"> {{ $index }}. LUẬN GIẢI SIM</h2>
+                                <h2 class="title_h1 text-left" style="font-weight: bold; margin-top: 5px; text-transform: capitalize"> {{ $index }}. Luận giải sim</h2>
                                 <p class="pl-4">
                                     {{ $boi['luan_giai_sim'] }}
                                 </p>
@@ -122,61 +128,31 @@
                                     $index++;
                                 @endphp
                             @endif
-                
-                            @if (!empty($boi['dong_hao_1']))
-                                <h2 style="font-weight: bold; font-size: 18px; margin-top: 5px"> {{ $index }}. ĐỘNG HÀO 1</h2>
+
+                            @if (!empty($boi['chiem_nghiem_ve_van_the']))
+                                <h2 class="title_h1 text-left" style="font-weight: bold; margin-top: 5px; text-transform: capitalize"> {{ $index }}. Chiêm nghiệm về vận thế</h2>
                                 <p class="pl-4">
-                                    {{ $boi['dong_hao_1'] }}
+                                    {{ $boi['chiem_nghiem_ve_van_the'] }}
                                 </p>
                                 @php
                                     $index++;
                                 @endphp
                             @endif
-                
-                            @if (!empty($boi['dong_hao_2']))
-                                <h2 style="font-weight: bold; font-size: 18px; margin-top: 5px"> {{ $index }}. ĐỘNG HÀO 2</h2>
+
+                            @if (!empty($boi['xet_ve_gia_dao_tinh_cam']))
+                                <h2 class="title_h1 text-left" style="font-weight: bold; margin-top: 5px; text-transform: capitalize"> {{ $index }}. Về giao đạo tình cảm</h2>
                                 <p class="pl-4">
-                                    {{ $boi['dong_hao_2'] }}
+                                    {{ $boi['xet_ve_gia_dao_tinh_cam'] }}
                                 </p>
                                 @php
                                     $index++;
                                 @endphp
                             @endif
-                
-                            @if (!empty($boi['dong_hao_3']))
-                                <h2 style="font-weight: bold; font-size: 18px; margin-top: 5px"> {{ $index }}. ĐỘNG HÀO 3</h2>
+
+                            @if (!empty($boi['dong_hao_chinh']))
+                                <h2 class="title_h1 text-left" style="font-weight: bold; margin-top: 5px; text-transform: capitalize"> {{ $index }}. Động hào - {{ $boi['dong_hao']}}</h2>
                                 <p class="pl-4">
-                                    {{ $boi['dong_hao_3'] }}
-                                </p>
-                                @php
-                                    $index++;
-                                @endphp
-                            @endif
-                
-                            @if (!empty($boi['dong_hao_4']))
-                                <h2 style="font-weight: bold; font-size: 18px; margin-top: 5px"> {{ $index }}. ĐỘNG HÀO 4</h2>
-                                <p class="pl-4">
-                                    {{ $boi['dong_hao_4'] }}
-                                </p>
-                                @php
-                                    $index++;
-                                @endphp
-                            @endif
-                
-                            @if (!empty($boi['dong_hao_5']))
-                                <h2 style="font-weight: bold; font-size: 18px; margin-top: 5px"> {{ $index }}. ĐỘNG HÀO 5</h2>
-                                <p class="pl-4">
-                                    {{ $boi['dong_hao_5'] }}
-                                </p>
-                                @php
-                                    $index++;
-                                @endphp
-                            @endif
-                
-                            @if (!empty($boi['dong_hao_6']))
-                                <h2 style="font-weight: bold; font-size: 18px; margin-top: 5px"> {{ $index }}. ĐỘNG HÀO 6</h2>
-                                <p class="pl-4">
-                                    {{ $boi['dong_hao_6'] }}
+                                    {{ $boi['dong_hao_chinh'] }}
                                 </p>
                                 @php
                                     $index++;

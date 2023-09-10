@@ -54,15 +54,20 @@
         @csrf
         <h1>Sync Data</h1>
         <div>
-            <label for="sync_1">Thông tin Bói Sim</label>
+            <label for="sync_1">Thông tin Bói Sim (que_dich)</label>
             <input id="sync_1" type="radio" name="sync_type" value="1" checked>
         </div>
 
         <div>
-            <label for="sync_2">Sim Data</label>
+            <label for="sync_3">Năng lương số (Trang Tính5)</label>
+            <input id="sync_3" type="radio" name="sync_type" value="3">
+        </div>
+
+        <div>
+            <label for="sync_2">Sim Data (sdt)</label>
             <input id="sync_2" type="radio" name="sync_type" value="2">
         </div>
-        
+
         <button type="submit">Sync ... </button>
     </form>
 

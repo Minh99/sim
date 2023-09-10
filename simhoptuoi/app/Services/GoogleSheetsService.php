@@ -9,8 +9,6 @@ use PhpOffice\PhpSpreadsheet\IOFactory;
 
 class GoogleSheetsService
 {
-    
-
     protected $client;
     protected $service;
 
@@ -66,7 +64,7 @@ class GoogleSheetsService
     {
         $this->client->addScope(Drive::DRIVE);
         $driveService = new Drive($this->client);
-        
+
         try {
             $response = $driveService->files->get($spreadsheetId, ['alt' => 'media']); #->export($spreadsheetId, 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', ['alt' => 'media']);
         } catch (\Exception $e) {
@@ -78,9 +76,9 @@ class GoogleSheetsService
         if (!$isSaved) {
             throw new \Exception("Cannot save excel file $spreadsheetId to storage");
         }
-        
+
         $excelFilePath = Storage::disk('public')->path($spreadsheetId . '.xlsx');
-        
+
         return $excelFilePath;
     }
 
@@ -94,33 +92,34 @@ class GoogleSheetsService
         $rowStart,
         $rowEnd,
         $colStart,
-        $colEnd
+        $colEnd,
+        $jsonFileName = null
     ) {
         $spreadsheet = IOFactory::load($excelFilePath);
         $worksheet = $spreadsheet->getSheetByName($sheetName);
 
         $data = [];
-        
+
 
         for ($row = $rowStart; $row <= $rowEnd; $row++) {
             $rowData = [];
             for ($col = $colStart; $col <= $colEnd; $col++) {
                 $cellValue = $worksheet->getCell($col . $row)->getFormattedValue();
-                $rowData[$header[$col]] = utf8_encode($cellValue);
+                $rowData[$header[$col]] = ($cellValue);
             }
             $data[] = $rowData;
         }
-        
-        $jsonData = json_encode($data, JSON_PRETTY_PRINT);
 
-        $isSaved = Storage::disk('public')->put($sheetName . '.json', $jsonData);
+        $jsonData = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
+
+        $isSaved = Storage::disk('public')->put((empty($jsonFileName) ? $sheetName : $jsonFileName) . '.json', $jsonData);
 
         if (!$isSaved) {
-            throw new \Exception("Cannot save json file $sheetName  to storage");
+            throw new \Exception("Cannot save json file nang luong so to storage");
         }
-        
-        $jsonFilePath = Storage::disk('public')->path($sheetName . '.json');
-        
+
+        $jsonFilePath = Storage::disk('public')->path((empty($jsonFileName) ? $sheetName : $jsonFileName) . '.json');
+
         return [$jsonFilePath, $jsonData];
     }
 

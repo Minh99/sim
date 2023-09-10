@@ -257,16 +257,6 @@
 </STYLE>
 @endsection
 
-@section('script')
-<script type="text/javascript" src="{{ asset('js/amlich.js') }}"></script>
-<script type="text/javascript" src="{{ asset('js/canchi.js') }}"></script>
-<script type="text/javascript" src="{{ asset('js/napam.js') }}"></script>
-<script type="text/javascript" src="{{ asset('js/linhtinh.js') }}"></script>
-<script type="text/javascript" src="{{ asset('js/catnhat.js') }}"></script>
-<script type="text/javascript" src="{{ asset('js/hungnhat.js') }}"></script>
-<script type="text/javascript" src="{{ asset('js/thoithan2.js') }}"></script>
-@endsection
-
 @section('root-content')
     <DIV id=tooltip style="Z-INDEX: 3; FILTER: shadow(color=#333333,direction=135); WIDTH: 280px; POSITION: absolute; HEIGHT: 120px; visibility: hidden;">
     </DIV>
@@ -277,7 +267,7 @@
     <SCRIPT LANGUAGE="JavaScript">
         $('body').css({"z-index": "0", "position": "relative"});
 
-        ////////////////////////////////////////////////////////////////////////////// 
+        //////////////////////////////////////////////////////////////////////////////
         // ToolTip section //
         var tt_OffsetX = 2;
         var tt_OffsetY = 18;
@@ -908,11 +898,11 @@
                 if (k) ki.push("Địa Hỏa");
 
                 k = bangTieuNgoaHam(Tiet, thisday.days)
-                if (k) ki.push("Băng Tiêu Ngõa Hãm"); // Băng đá tan ra phá hoại 
+                if (k) ki.push("Băng Tiêu Ngõa Hãm"); // Băng đá tan ra phá hoại
 
                 k = bangTieuNgoaGiai(thisday.year, thisday.month, thisday.day)
                 if (k == 1) ki.push("Băng Tiêu"); // Nước băng đá tan ra
-                if (k == 2) ki.push("Ngõa Giải"); // Vỡ hoặc lở ra 
+                if (k == 2) ki.push("Ngõa Giải"); // Vỡ hoặc lở ra
 
                 k = thienHinh(Tiet, thisday.days) //Đi chung với Thanh Long (12 tinh)
                 if (k) ki.push("Thiên Hình");

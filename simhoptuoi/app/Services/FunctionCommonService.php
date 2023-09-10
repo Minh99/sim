@@ -20,6 +20,8 @@ class FunctionCommonService {
         ['Bĩ', 'Tụy', 'Tấn', 'Dự', 'Quan', 'Tỷ', 'Bác', 'Khôn'],
     ];
 
+    public $cung = ['Càn', 'Càn', 'Đoài', 'Ly', 'Chấn', 'Tốn', 'Khảm', 'Khôn', 'Khôn'];
+
     protected $GoogleSheetsService;
 
     public function __construct(GoogleSheetsService $GoogleSheetsService)
@@ -51,11 +53,19 @@ class FunctionCommonService {
         return $jsonData;
     }
 
+    public function getBoiSimDataNangLuong()
+    {
+        $spreadsheetId = 'nang_luong_so';
+        $jsonData = $this->getDataBySpreadsheetId($spreadsheetId);
+        return $jsonData;
+    }
+
     public function getThongTinPhongThuyBangSdt($sdt)
     {
         if (substr($sdt, 0, 1) == '0') {
             $sdt = substr($sdt, 1);
         }
+        $sdt = str_replace('.', '', $sdt);
 
         $fourFirstNumber = substr($sdt, 0, 4);
         $fiveLastNumber = substr($sdt, -5);
@@ -68,22 +78,18 @@ class FunctionCommonService {
 
         $boiSimData = json_decode($this->getBoiSimData(), true);
 
-        
         $convertedArray = array_map(function ($row) {
-            return array_map(function ($item) {
-                return utf8_encode($item);
-            }, $row);
+            return mb_convert_encoding($row, 'UTF-8', 'auto');
         }, $this->que64);
 
         foreach ($boiSimData as $item) {
             if (intval($item['id']) == $id) {
-                $item = array_map("utf8_decode", $item);
-                $item['ten_que'] = $convertedArray[$totalFourFirstNumber - 1][$totalFourFirstNumber - 1];
+                $item['ten_que'] = $convertedArray[$totalFiveLastNumber - 1][$totalFourFirstNumber-1];
                 $item['dong_hao_chinh'] = $item['dong_hao_' . $totalFullNumber];
                 $item['dong_hao'] = $totalFullNumber;
-                $item['kq'] =  utf8_decode(utf8_encode('Số điện thoại 0'. $sdt . ' có Quẻ Chính ')) . $item['danh_gia'];
-                $item['hop_tuoi'] = str_contains($item['danh_gia'], utf8_decode(utf8_encode('quẻ tốt'))) && $totalFiveLastNumber %2 == 0 ? utf8_decode(utf8_encode('và phù hợp với bạn')) : utf8_decode(utf8_encode('không phù hợp với bạn'));
-                
+                $item['kq'] =  'Số điện thoại 0'. $sdt . ' có Quẻ Chính ' . $item['danh_gia'];
+                $item['hop_tuoi'] = str_contains($item['danh_gia'], 'quẻ tốt') ? 'và phù hợp với bạn' : 'không phù hợp với bạn';
+
                 return $item;
             }
         }
@@ -91,14 +97,55 @@ class FunctionCommonService {
         return [];
     }
 
-    function getListSimData() 
+    public function getThongTinPhongThuyBang4Or6Sdt($sdt, $options = [], $type = 4)
+    {
+        $boiSimData = json_decode($this->getBoiSimData(), true);
+        foreach ($boiSimData as $item) {
+            if (intval($item['id']) === $options['id']) {
+                return $item;
+            }
+        }
+
+        return [];
+    }
+
+    public function getThongTinNangLuong4Or6Sdt($sdt, $options = [], $type = 4)
+    {
+        $boiSimDataNangLuong = json_decode($this->getBoiSimDataNangLuong(), true);
+        if ($type === 4) {
+            $mid1 = substr($sdt, 0, 3);
+            $mid2 = substr($sdt, 1, 3);
+        } else {
+            $mid1 = substr($sdt, 0, 3);
+            $mid2 = substr($sdt, 1, 3);
+            $mid3 = substr($sdt, 2, 3);
+            $mid4 = substr($sdt, 3, 3);
+        }
+
+        $res = [];
+        foreach ($boiSimDataNangLuong as $item) {
+            if ($type === 4) {
+                if (intval($item['id']) === intval($mid1) || intval($item['id']) === intval($mid2)) {
+                    $res[$item['id']] = $item;
+                }
+            } else {
+                if (intval($item['id']) === intval($mid1) || intval($item['id']) === intval($mid2) || intval($item['id']) === intval($mid3) || intval($item['id']) === intval($mid4)) {
+                    $res[$item['id']] = $item;
+                }
+            }
+        }
+
+        return $res;
+    }
+
+    function getListSimData()
     {
         $simData = json_decode($this->getSimData(), true);
 
         $result = [];
 
         foreach ($simData as $item) {
-            $result[] = array_map("utf8_decode", $item);
+            $result[] = mb_convert_encoding($item, 'UTF-8', 'auto');
         }
 
 
@@ -113,14 +160,14 @@ class FunctionCommonService {
         return $result;
     }
 
-    function getDetailSimData($sdt) 
+    function getDetailSimData($sdt)
     {
         $simData = json_decode($this->getSimData(), true);
 
         $result = [];
 
         foreach ($simData as $item) {
-            $result[] = array_map("utf8_decode", $item);
+            $result[] = mb_convert_encoding($item, 'UTF-8', 'auto');
         }
 
         foreach ($result as $key => $item) {
@@ -135,7 +182,7 @@ class FunctionCommonService {
         return [];
     }
 
-    
+
     private function totalDigit($string, $mod = 8)
     {
         $total = 0;
@@ -182,5 +229,36 @@ class FunctionCommonService {
         return number_format(floatval($gia), 0, ',', '.');
     }
 
-    
+    public function calBoi4($sdt) {
+        $twoNumber = substr($sdt, 0, 2);
+        $twoLastNumber = substr($sdt, -2);
+
+        $totalTwoFirstNumber = $this->totalDigit($twoNumber);
+        $totalTwoLastNumber = $this->totalDigit($twoLastNumber);
+
+        $id = ($totalTwoFirstNumber * 10) + $totalTwoLastNumber;
+        return [
+            'id' => $id,
+            'totalTwoFirstNumber' => $totalTwoFirstNumber,
+            'totalTwoLastNumber' => $totalTwoLastNumber,
+            'soLy' => intval($sdt) % 80,
+        ];
+    }
+
+    public function calBoi6($sdt) {
+        $threeNumber = substr($sdt, 0, 3);
+        $threeLastNumber = substr($sdt, -3);
+
+        $totalThreeFirstNumber = $this->totalDigit($threeNumber);
+        $totalThreeLastNumber = $this->totalDigit($threeLastNumber);
+
+        $id = ($totalThreeFirstNumber * 10) + $totalThreeLastNumber;
+        return [
+            'id' => $id,
+            'totalThreeFirstNumber' => $totalThreeFirstNumber,
+            'totalThreeLastNumber' => $totalThreeLastNumber,
+            'soLy' => intval($sdt) % 80,
+        ];
+    }
+
 }
