@@ -14,21 +14,21 @@
                         <div class="row">
                             <div class="col col-sm-6 col-6 col-md-6">
                                 <ul class="link-footer">
-                                    <li><a href="">Mua
+                                    <li><a href="{{ route('mua-hang-va-thanh-toan') }}">Mua
                                             hàng & Thanh toán</a></li>
-                                    <li><a href="">Chính
+                                    <li><a href="{{ route('chinh-sach-van-chuyen') }}">Chính
                                             sách vận chuyển</a></li>
-                                    <li><a href="">Chính
+                                    <li><a href="{{ route('chinh-sach-doi-tra') }}">Chính
                                             sách đổi trả sim</a></li>
                                 </ul>
                             </div>
                             <div class="col col-sm-6 col-6 col-md-6">
                                 <ul class="link-footer">
-                                    <li><a href="">Chính
+                                    <li><a href="{{ route('chinh-sach-bao-hanh') }}">Chính
                                             sách bảo hành</a></li>
-                                    <li><a href="">Chính
+                                    <li><a href="{{ route('chinh-sach-bao-mat') }}">Chính
                                             sách bảo mật</a></li>
-                                    <li><a href="">Điều
+                                    <li><a href="{{ route('dieu-khoan-va-dieu-kien') }}">Điều
                                             khoản & Điều kiện </a></li>
                                 </ul>
                             </div>
