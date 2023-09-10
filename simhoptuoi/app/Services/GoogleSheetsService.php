@@ -92,7 +92,8 @@ class GoogleSheetsService
         $rowStart,
         $rowEnd,
         $colStart,
-        $colEnd
+        $colEnd,
+        $jsonFileName = null
     ) {
         $spreadsheet = IOFactory::load($excelFilePath);
         $worksheet = $spreadsheet->getSheetByName($sheetName);
@@ -111,13 +112,13 @@ class GoogleSheetsService
 
         $jsonData = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
 
-        $isSaved = Storage::disk('public')->put($sheetName . '.json', $jsonData);
+        $isSaved = Storage::disk('public')->put((empty($jsonFileName) ? $sheetName : $jsonFileName) . '.json', $jsonData);
 
         if (!$isSaved) {
-            throw new \Exception("Cannot save json file $sheetName  to storage");
+            throw new \Exception("Cannot save json file nang luong so to storage");
         }
 
-        $jsonFilePath = Storage::disk('public')->path($sheetName . '.json');
+        $jsonFilePath = Storage::disk('public')->path((empty($jsonFileName) ? $sheetName : $jsonFileName) . '.json');
 
         return [$jsonFilePath, $jsonData];
     }

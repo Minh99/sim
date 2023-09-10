@@ -112,6 +112,9 @@
                                 <span>Trả tiền khi nhận hàng</span>
                             </div>
                         </div>
+                        <div class="bank_info" style="display: none">
+                            @include('layouts.components.bank_account_info')
+                        </div>
                     </div>
                     <div class="cart_total">
                         <div class="row ">
@@ -149,6 +152,15 @@
 
     <script>
         $(document).ready(function () {
+
+            $('input[name=httt]').on('change', function () {
+                if ($(this).val() == 1) {
+                    $('.bank_info').show();
+                } else {
+                    $('.bank_info').hide();
+                }
+            });
+
             $.ajax({
                 url: "https://vn-public-apis.fpo.vn/provinces/getAll?limit=-1",
                 type: "GET",
@@ -204,7 +216,7 @@
                         code = $(item).attr('data-id');
                     }
                 });
-                
+
                 if (code == '') {
                     return;
                 }

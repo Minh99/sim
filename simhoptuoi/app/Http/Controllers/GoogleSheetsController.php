@@ -13,6 +13,9 @@ class GoogleSheetsController extends Controller
     const TYPE_BOI_SIM = 1;
     const TYPE_SIM_DATA = 2;
 
+    const TYPE_SIM_NANG_LUONG = 3;
+
+
     public function __construct(GoogleSheetsService $googleSheetsService)
     {
         $this->googleSheetsService = $googleSheetsService;
@@ -25,6 +28,9 @@ class GoogleSheetsController extends Controller
         switch ($syncType) {
             case self::TYPE_BOI_SIM:
                 $this->syncBoiSim();
+                break;
+            case self::TYPE_SIM_NANG_LUONG:
+                $this->syncBoiSimNangLuong();
                 break;
             case self::TYPE_SIM_DATA:
                 $this->syncSimData();
@@ -70,7 +76,7 @@ class GoogleSheetsController extends Controller
             ];
 
             list($link, $jsonData) = $this->googleSheetsService->convertExcelToJson(
-                $excelFilePath, 
+                $excelFilePath,
                 'que_dich',
                 $header,
                 $rowStart,
@@ -86,7 +92,7 @@ class GoogleSheetsController extends Controller
             throw new \Exception("Sync Boi Sim failed:". $e->getMessage(), 400);
         }
     }
-    
+
     function syncSimData()
     {
         try {
@@ -109,10 +115,13 @@ class GoogleSheetsController extends Controller
                 'K' => 'gia_ban',
                 'L' => 'diem_phong_thuy',
                 'M' => 'tinh_trang',
+                'N' => 'loai_1',
+                'O' => 'loai_2',
+                'P' => 'loai_3',
             ];
 
             list($link, $jsonData) = $this->googleSheetsService->convertExcelToJson(
-                $excelFilePath, 
+                $excelFilePath,
                 'sdt',
                 $header,
                 $rowStart,
@@ -126,6 +135,40 @@ class GoogleSheetsController extends Controller
             Log::error($e->getMessage());
 
             throw new \Exception("Sync Boi Sim failed:". $e->getMessage(), 400);
+        }
+    }
+
+    function syncBoiSimNangLuong()
+    {
+        try {
+            $spreadsheetId = env('GOOGLE_SHEETS_SPREADSHEET_ID_BOI_SIM_NANG_LUONG');
+            $excelFilePath = $this->googleSheetsService->downloadFileExcelFromDriver($spreadsheetId);
+
+            $rowStart = 20;
+            $rowEnd = 787;
+            $colStart = 'D';
+            $colEnd = 'E';
+            $header = [
+                'D' => 'id',
+                'E' => 'content',
+            ];
+
+            list($link, $jsonData) = $this->googleSheetsService->convertExcelToJson(
+                $excelFilePath,
+                'Trang tính5',
+                $header,
+                $rowStart,
+                $rowEnd,
+                $colStart,
+                $colEnd,
+                'nang_luong_so'
+            );
+
+            // Log::info($link);
+        } catch (\Exception $e) {
+            Log::error($e->getMessage());
+
+            throw new \Exception("Sync Boi Sim Nang Luong failed:". $e->getMessage(), 400);
         }
     }
 }

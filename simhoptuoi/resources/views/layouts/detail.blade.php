@@ -158,18 +158,6 @@
                                     $index++;
                                 @endphp
                             @endif
-
-                            @if (!empty($boi['kq']))
-                                <h2 class="title_h1 text-left" style="font-weight: bold; margin-top: 5px; text-transform: capitalize"> {{ $index }}. Nhận Định</h2>
-                                <p class="pl-4">
-                                    {{ $boi['kq'] }}
-
-                                </p>
-                                <b class="pl-4">{{ $boi['hop_tuoi'] }}</b>
-                                @php
-                                    $index++;
-                                @endphp
-                            @endif
                         </div>
                     </div>
                 </div>

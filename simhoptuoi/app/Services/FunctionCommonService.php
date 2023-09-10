@@ -53,6 +53,13 @@ class FunctionCommonService {
         return $jsonData;
     }
 
+    public function getBoiSimDataNangLuong()
+    {
+        $spreadsheetId = 'nang_luong_so';
+        $jsonData = $this->getDataBySpreadsheetId($spreadsheetId);
+        return $jsonData;
+    }
+
     public function getThongTinPhongThuyBangSdt($sdt)
     {
         if (substr($sdt, 0, 1) == '0') {
@@ -88,6 +95,47 @@ class FunctionCommonService {
         }
 
         return [];
+    }
+
+    public function getThongTinPhongThuyBang4Or6Sdt($sdt, $options = [], $type = 4)
+    {
+        $boiSimData = json_decode($this->getBoiSimData(), true);
+        foreach ($boiSimData as $item) {
+            if (intval($item['id']) === $options['id']) {
+                return $item;
+            }
+        }
+
+        return [];
+    }
+
+    public function getThongTinNangLuong4Or6Sdt($sdt, $options = [], $type = 4)
+    {
+        $boiSimDataNangLuong = json_decode($this->getBoiSimDataNangLuong(), true);
+        if ($type === 4) {
+            $mid1 = substr($sdt, 0, 3);
+            $mid2 = substr($sdt, 1, 3);
+        } else {
+            $mid1 = substr($sdt, 0, 3);
+            $mid2 = substr($sdt, 1, 3);
+            $mid3 = substr($sdt, 2, 3);
+            $mid4 = substr($sdt, 3, 3);
+        }
+
+        $res = [];
+        foreach ($boiSimDataNangLuong as $item) {
+            if ($type === 4) {
+                if (intval($item['id']) === intval($mid1) || intval($item['id']) === intval($mid2)) {
+                    $res[$item['id']] = $item;
+                }
+            } else {
+                if (intval($item['id']) === intval($mid1) || intval($item['id']) === intval($mid2) || intval($item['id']) === intval($mid3) || intval($item['id']) === intval($mid4)) {
+                    $res[$item['id']] = $item;
+                }
+            }
+        }
+
+        return $res;
     }
 
     function getListSimData()

@@ -518,7 +518,7 @@ $(function() {
         //             $('.anchor-heading').addClass('anchor-heading-fix');
         //         } else {
         //             $('.anchor-heading').removeClass('anchor-heading-fix')
-        //         }                    
+        //         }
 
         //     }
         //     if($('.result_fillter').length >0){
@@ -808,7 +808,7 @@ function addNumberPhoneToList(value) {
         $('.list_filter_item').prepend(html)
     }
 }
-// input price 
+// input price
 // desktop
 // $('.priceStartPc').keyup(function() {
 //     $(".read-more").data('page', 1);
@@ -950,7 +950,7 @@ $('.diemEnd').keyup(function() {
 })
 
 function addCustomDiemToList(label, value) {
-    var html = `<div class="item-checked customDiem" id="${value}" type="5">${label}<i class="fa-solid fa-xmark remove-item-filter"></i></div>`;
+    var html = `<div class="item-checked customDiem" style="margin: 5px" id="${value}" type="5">${label}<i class="fa-solid fa-xmark remove-item-filter"></i></div>`;
     if ($('.list_filter_item').children().hasClass('customDiem') == true) {
         $('.customDiem').attr('id', value)
         $('.customDiem').html(label + `<i class="fa-solid fa-xmark remove-item-filter"></i>`)
@@ -966,7 +966,7 @@ function addCustomDiemToList(label, value) {
     let arr = get_arr_filter();
     // doCall(arr)
 }
-//end 
+//end
 function active_drop_down(elm) {
     if ($(elm).parents('.dropdown').find('.active').length > 0) {
         $(elm).parents('.dropdown').children('.dropdown-toggle').addClass('active')
@@ -1090,7 +1090,7 @@ function post_filter(array) {
                             </div>
                             <div class="col-6 col-sm-6 col-md-6 logoNhaMang datMuaSim">
                                 <p class="btnmua"><a href="${window.location.origin}/dat-sim-phong-thuy-${elm.sim}.html" class="btn_mua btn_mua2">Đặt mua <b>>></b></a></p>
-                            </div>                        
+                            </div>
                         </div>
 
                     </div>
@@ -1168,7 +1168,7 @@ function read_more(array) {
                             </div>
                             <div class="col-6 col-sm-6 col-md-6 logoNhaMang datMuaSim">
                                 <p class="btnmua"><a href="${window.location.origin}/dat-sim-phong-thuy-${elm.sim}.html" class="btn_mua btn_mua2">Mua ngay <b>>></b></a></p>
-                            </div>                        
+                            </div>
                         </div>
                     </div>
                 </div>

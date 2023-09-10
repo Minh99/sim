@@ -5,6 +5,116 @@
 @section('content')
 <script>
 
+    const cungPhi = {
+        1924 : ['Tốn', 'Khôn'],
+        1925 : ['Chấn', 'Chấn'],
+        1926 : ['Khôn', 'Tốn'],
+        1927 : ['Khảm', 'Cấn'],
+        1928 : ['Ly', 'Càn'],
+        1929 : ['Cấn', 'Đoài'],
+        1930 : ['Đoài', 'Cấn'],
+        1931 : ['Càn', 'Ly'],
+        1932 : ['Khôn', 'Khảm'],
+        1933 : ['Tốn', 'Khôn'],
+        1934 : ['Chấn', 'Chấn'],
+        1935 : ['Khôn', 'Tốn'],
+        1936 : ['Khảm', 'Cấn'],
+        1937 : ['Ly', 'Càn'],
+        1938 : ['Cấn', 'Đoài'],
+        1939 : ['Đoài', 'Cấn'],
+        1940 : ['Càn', 'Ly'],
+        1941 : ['Khôn', 'Khảm'],
+        1942 : ['Tốn', 'Khôn'],
+        1943 : ['Chấn', 'Chấn'],
+        1944 : ['Khôn', 'Tốn'],
+        1945 : ['Khảm', 'Cấn'],
+        1946 : ['Ly', 'Càn'],
+        1947 : ['Cấn', 'Đoài'],
+        1948 : ['Đoài', 'Cấn'],
+        1949 : ['Càn', 'Ly'],
+        1950 : ['Khôn', 'Khảm'],
+        1951 : ['Tốn', 'Khôn'],
+        1952 : ['Chấn', 'Chấn'],
+        1953 : ['Khôn', 'Tốn'],
+        1954 : ['Khảm', 'Cấn'],
+        1955 : ['Ly', 'Càn'],
+        1956 : ['Cấn', 'Đoài'],
+        1957 : ['Đoài', 'Cấn'],
+        1958 : ['Càn', 'Ly'],
+        1959 : ['Khôn', 'Khảm'],
+        1960 : ['Tốn', 'Khôn'],
+        1961 : ['Chấn', 'Chấn'],
+        1962 : ['Khôn', 'Tốn'],
+        1963 : ['Khảm', 'Cấn'],
+        1964 : ['Ly', 'Càn'],
+        1965 : ['Cấn', 'Đoài'],
+        1966 : ['Đoài', 'Cấn'],
+        1967 : ['Càn', 'Ly'],
+        1968 : ['Khôn', 'Khảm'],
+        1969 : ['Tốn', 'Khôn'],
+        1970 : ['Chấn', 'Chấn'],
+        1971 : ['Khôn', 'Tốn'],
+        1972 : ['Khảm', 'Cấn'],
+        1973 : ['Ly', 'Càn'],
+        1974 : ['Cấn', 'Đoài'],
+        1975 : ['Đoài', 'Cấn'],
+        1976 : ['Càn', 'Ly'],
+        1977 : ['Khôn', 'Khảm'],
+        1978 : ['Tốn', 'Khôn'],
+        1979 : ['Chấn', 'Chấn'],
+        1980 : ['Khôn', 'Tốn'],
+        1981 : ['Khảm', 'Cấn'],
+        1982 : ['Ly', 'Càn'],
+        1983 : ['Cấn', 'Đoài'],
+        1984 : ['Đoài', 'Cấn'],
+        1985 : ['Càn', 'Ly'],
+        1986 : ['Khôn', 'Khảm'],
+        1987 : ['Tốn', 'Khôn'],
+        1988 : ['Chấn', 'Chấn'],
+        1989 : ['Khôn', 'Tốn'],
+        1990 : ['Khảm', 'Cấn'],
+        1991 : ['Ly', 'Càn'],
+        1992 : ['Cấn', 'Đoài'],
+        1993 : ['Đoài', 'Cấn'],
+        1994 : ['Càn', 'Ly'],
+        1995 : ['Khôn', 'Khảm'],
+        1996 : ['Tốn', 'Khôn'],
+        1997 : ['Chấn', 'Chấn'],
+        1998 : ['Khôn', 'Tốn'],
+        1999 : ['Khảm', 'Cấn'],
+        2000 : ['Ly', 'Càn'],
+        2001 : ['Cấn', 'Đoài'],
+        2002 : ['Đoài', 'Cấn'],
+        2003 : ['Càn', 'Ly'],
+        2004 : ['Khôn', 'Khảm'],
+        2005 : ['Tốn', 'Khôn'],
+        2006 : ['Chấn', 'Chấn'],
+        2007 : ['Khôn', 'Tốn'],
+        2008 : ['Khảm', 'Cấn'],
+        2009 : ['Ly', 'Càn'],
+        2010 : ['Cấn', 'Đoài'],
+        2011 : ['Đoài', 'Cấn'],
+        2012 : ['Càn', 'Ly'],
+        2013 : ['Khôn', 'Khảm'],
+        2014 : ['Tốn', 'Khôn'],
+        2015 : ['Chấn', 'Chấn'],
+        2016 : ['Khôn', 'Tốn'],
+        2017 : ['Khảm', 'Cấn'],
+        2018 : ['Ly', 'Càn'],
+        2019 : ['Cấn', 'Đoài'],
+        2020 : ['Đoài', 'Cấn'],
+        2021 : ['Càn', 'Ly'],
+        2022 : ['Khôn', 'Khảm'],
+        2023 : ['Tốn', 'Khôn'],
+        2024 : ['Chấn', 'Chấn'],
+        2025 : ['Khôn', 'Tốn'],
+        2026 : ['Khảm', 'Cấn'],
+        2027 : ['Ly', 'Càn'],
+        2028 : ['Cấn', 'Đoài'],
+        2029 : ['Đoài', 'Cấn'],
+        2030 : ['Càn', 'Ly'],
+    };
+
     $(document).ready(function () {
         var phone = $('#xpts_phone').val();
         var ngay = $('#xpts_ngay').val();
@@ -52,7 +162,7 @@
             $(".age").text(cY);
             $(".ban_menh").text(nY);
             $(".sinh_menh").text(HANH[HK[1]]);
-            $(".cung_phi").text("{{ $data['cung_phi'] ?? '' }}");
+            $(".cung_phi").text(gioitinh == 'nam' ? cungPhi[lunar.year][0] : cungPhi[lunar.year][1]);
 
             const images = {
                 'Tý' : 'ty',
@@ -161,7 +271,7 @@
                             <input type="radio" name="gioitinh" value="nam" checked /> Nam
                         </div>
                         <div class="col-2 col-md-2 col-sm-2 col-xs-2">
-                            <input type="radio" name="gioitinh" value="nu" @if($info['gioitinh'] ?? '' == 'nu') checked @endif /> Nữ
+                            <input type="radio" name="gioitinh" value="nu" @if(!empty($info['gioitinh']) && $info['gioitinh'] === 'nu') checked @endif /> Nữ
                         </div>
                         <div class="col-3 col-md-2 col-sm-2 col-xs-2">
                             <p class="title_label"><label>Giờ sinh</label></p>
