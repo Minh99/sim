@@ -6,3 +6,9 @@
         <a id="contactFixedBtnClose" href="" class="contact-fixed--social-item"><img src="{{ asset('common/templates/site/images/icon/icon-close.png')}}" /></a>
     </div>
 </div>
+
+<div id="contactFixedOpen" style="display: none">
+    <div class="contact-fixed--social-container-open" >
+        <a id="contactFixedBtnOpen" href="" class="contact-fixed--social-item"><img src="{{ asset('common/templates/site/images/icon/back.png')}}" /></a>
+    </div>
+</div>
