@@ -181,5 +181,36 @@ class FunctionCommonService {
         return number_format(floatval($gia), 0, ',', '.');
     }
 
+    public function calBoi4($sdt) {
+        $twoNumber = substr($sdt, 0, 2);
+        $twoLastNumber = substr($sdt, -2);
+
+        $totalTwoFirstNumber = $this->totalDigit($twoNumber);
+        $totalTwoLastNumber = $this->totalDigit($twoLastNumber);
+
+        $id = ($totalTwoFirstNumber * 10) + $totalTwoLastNumber;
+        return [
+            'id' => $id,
+            'totalTwoFirstNumber' => $totalTwoFirstNumber,
+            'totalTwoLastNumber' => $totalTwoLastNumber,
+            'soLy' => intval($sdt) % 80,
+        ];
+    }
+
+    public function calBoi6($sdt) {
+        $threeNumber = substr($sdt, 0, 3);
+        $threeLastNumber = substr($sdt, -3);
+
+        $totalThreeFirstNumber = $this->totalDigit($threeNumber);
+        $totalThreeLastNumber = $this->totalDigit($threeLastNumber);
+
+        $id = ($totalThreeFirstNumber * 10) + $totalThreeLastNumber;
+        return [
+            'id' => $id,
+            'totalThreeFirstNumber' => $totalThreeFirstNumber,
+            'totalThreeLastNumber' => $totalThreeLastNumber,
+            'soLy' => intval($sdt) % 80,
+        ];
+    }
 
 }

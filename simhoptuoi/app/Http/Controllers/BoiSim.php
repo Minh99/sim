@@ -83,4 +83,45 @@ class BoiSim extends Controller
             ]);
         }
     }
+
+    public function boi4so(Request $request) {
+        if ($request->isMethod('GET')) {
+            return view('layouts.application_sim.boi_4');
+        } else {
+            $calBoi4 = $this->functionCommonService->calBoi4($request->get('sdt'));
+
+            dd($calBoi4);
+
+            $sdt = $request->get('sdt');
+            $validated = $request->validate([
+                'sdt' => [
+                    'required',
+                    'regex:/^(0)[0-9]{9,10}$/',
+                    'min:4',
+                    'max:4'
+                ]
+            ]);
+            return view('layouts.application_sim.boi_4');
+        }
+    }
+
+    public function boi6so(Request $request) {
+        if ($request->isMethod('GET')) {
+            return view('layouts.application_sim.boi_6');
+        } else {
+            $calBoi6 = $this->functionCommonService->calBoi6($request->get('sdt'));
+
+            dd($calBoi6, 'hehe');
+            $sdt = $request->get('sdt');
+            $validated = $request->validate([
+                'sdt' => [
+                    'required',
+                    'regex:/^(0)[0-9]{9,10}$/',
+                    'min:6',
+                    'max:6'
+                ]
+            ]);
+            return view('layouts.application_sim.boi_6');
+        }
+    }
 }

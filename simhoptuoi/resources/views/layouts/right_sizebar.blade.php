@@ -6,6 +6,12 @@
                 <a class="xem-phong-thuy-sim" href="{{ route('boi-sim')}}">Xem phong thủy sim</a>
             </li>
             <li class="col-4 col-sm-4 col-md-6">
+                <a class="xem-phong-thuy-sim" href="{{ route('boi-sim-4-so')}}">Xem bói sim 4 số cuối</a>
+            </li>
+            <li class="col-4 col-sm-4 col-md-6">
+                <a class="xem-phong-thuy-sim" href="{{ route('boi-sim-6-so')}}">Xem bói sim 6 số cuối</a>
+            </li>
+            <li class="col-4 col-sm-4 col-md-6">
                 <a class="boi-sim-theo-kinh-dich" href="{{ route('coming-soon')}}">Xem bói sim kinh dịch</a>
             </li>
         </ul>

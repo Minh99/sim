@@ -4,6 +4,9 @@
             <a href="/">Trang chủ</a>
         </li>
         <li><a href="{{ route('boi-sim')}}">Xem phong thủy sim</a></li>
+        <li><a href="{{ route('coming-soon') }}">Bói sim kinh dịch</a></li>
+        <li><a href="{{ route('boi-sim-4-so') }}">Xem bói sim 4 số cuối</a></li>
+        <li><a href="{{ route('boi-sim-6-so') }}">Xem bói sim 6 số cuối</a></li>
         <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="simHopMenh" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Sim hợp mệnh
@@ -31,148 +34,147 @@
                     vận hạn theo tuổi</a>
             </div>
         </li>
-        <li>
-            <b class="sht_item">Sim hợp tuổi 200x</b>
-            <ul class="sht_item_ul" style="display: none;">
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        2000</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        2001</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        2002</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        2003</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        2004</a></li>
-            </ul>
-        </li>
-        <li>
-            <b class="sht_item">Sim hợp tuổi 199x</b>
-            <ul class="sht_item_ul" style="display: none;">
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1990</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1991</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1992</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1993</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1994</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1995</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1996</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1997</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1998</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1999</a></li>
-            </ul>
-        </li>
-        <li>
-            <b class="sht_item">Sim hợp tuổi 198x</b>
-            <ul class="sht_item_ul" style="display: none;">
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1980</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1981</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1982</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1983</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1984</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1985</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1986</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1987</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1988</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1989</a></li>
-            </ul>
-        </li>
-        <li>
-            <b class="sht_item">Sim hợp tuổi 197x</b>
-            <ul class="sht_item_ul" style="display: none;">
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1970</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1971</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1972</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1973</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1974</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1975</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1976</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1977</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1978</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1979</a></li>
-            </ul>
-        </li>
-        <li>
-            <b class="sht_item">Sim hợp tuổi 196x</b>
-            <ul class="sht_item_ul" style="display: none;">
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1960</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1961</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1962</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1963</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1964</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1965</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1966</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1967</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1968</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1969</a></li>
-            </ul>
-        </li>
-        <li>
-            <b class="sht_item">Sim hợp tuổi 195x</b>
-            <ul class="sht_item_ul" style="display: none;">
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1950</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1951</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1952</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1953</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1954</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1955</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1956</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1957</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1958</a></li>
-                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi
-                        1959</a></li>
-            </ul>
-        </li>
-        <li><a href="/danh-sach-sim">Sim số đẹp</a></li>
-        <li><a href="{{ route('coming-soon') }}">Bói sim kinh dịch</a></li>
+{{--        <li>--}}
+{{--            <b class="sht_item">Sim hợp tuổi 200x</b>--}}
+{{--            <ul class="sht_item_ul" style="display: none;">--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        2000</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        2001</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        2002</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        2003</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        2004</a></li>--}}
+{{--            </ul>--}}
+{{--        </li>--}}
+{{--        <li>--}}
+{{--            <b class="sht_item">Sim hợp tuổi 199x</b>--}}
+{{--            <ul class="sht_item_ul" style="display: none;">--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1990</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1991</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1992</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1993</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1994</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1995</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1996</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1997</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1998</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1999</a></li>--}}
+{{--            </ul>--}}
+{{--        </li>--}}
+{{--        <li>--}}
+{{--            <b class="sht_item">Sim hợp tuổi 198x</b>--}}
+{{--            <ul class="sht_item_ul" style="display: none;">--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1980</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1981</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1982</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1983</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1984</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1985</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1986</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1987</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1988</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1989</a></li>--}}
+{{--            </ul>--}}
+{{--        </li>--}}
+{{--        <li>--}}
+{{--            <b class="sht_item">Sim hợp tuổi 197x</b>--}}
+{{--            <ul class="sht_item_ul" style="display: none;">--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1970</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1971</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1972</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1973</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1974</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1975</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1976</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1977</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1978</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1979</a></li>--}}
+{{--            </ul>--}}
+{{--        </li>--}}
+{{--        <li>--}}
+{{--            <b class="sht_item">Sim hợp tuổi 196x</b>--}}
+{{--            <ul class="sht_item_ul" style="display: none;">--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1960</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1961</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1962</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1963</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1964</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1965</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1966</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1967</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1968</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1969</a></li>--}}
+{{--            </ul>--}}
+{{--        </li>--}}
+{{--        <li>--}}
+{{--            <b class="sht_item">Sim hợp tuổi 195x</b>--}}
+{{--            <ul class="sht_item_ul" style="display: none;">--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1950</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1951</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1952</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1953</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1954</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1955</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1956</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1957</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1958</a></li>--}}
+{{--                <li><a href="{{ route('coming-soon') }}">Sim hợp tuổi--}}
+{{--                        1959</a></li>--}}
+{{--            </ul>--}}
+{{--        </li>--}}
+{{--        <li><a href="/danh-sach-sim">Sim số đẹp</a></li>--}}
         <li><a href="{{ route('coming-soon') }}">Tin tức sim số</a></li>
         <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="linkXemTuoi" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
