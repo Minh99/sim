@@ -60,7 +60,6 @@ class Sim extends Controller
             if (!empty($duoi_sim) && !empty($value['sdt'])) {
                 if (strpos($value['sdt'], $duoi_sim) !== false) {
                     $results[] = $value;
-                    Log::info('duoi_sim: ' . $duoi_sim . ' - ' . $value['sdt']);
                     continue;
                 }
             }
@@ -70,7 +69,6 @@ class Sim extends Controller
                 $gia_max = $this->functionCommonService->formatGiaBan($gia_max);
                 if (floatval($value['gia_ban']) <= floatval($gia_max)) {
                     $results[] = $value;
-                    Log::info('gia_max: ' . $gia_max . ' - ' . $value['gia_ban']);
                     continue;
                 }
             }
@@ -93,7 +91,6 @@ class Sim extends Controller
 
                     if ($diem >= $diem_tu && $diem <= $diem_den) {
                         $results[] = $value;
-                        Log::info('diem_tu: ' . $diem_tu . ' - ' . $diem_den . ' - ' . $value['diem_phong_thuy']);
                         continue;
                     }
 
@@ -112,7 +109,6 @@ class Sim extends Controller
                     (!empty($value['loai_3']) && in_array($value['loai_3'], $arrayMap))
                 ) {
                     $results[] = $value;
-                    Log::info('loai_sim: ' . $loai_sim . ' - ' . $value['loai_1'] . ' - ' . $value['loai_2'] . ' - ' . $value['loai_3']);
                     continue;
                 }
 
@@ -130,7 +126,6 @@ class Sim extends Controller
 
                 if (in_array($network, $nha_mang)) {
                     $results[] = $value;
-                    Log::info('nha_mang: ' . $nha_mang . ' - ' . $value['nha_mang']);
                     continue;
                 }
             }

@@ -245,7 +245,7 @@ body {
 
 @media (min-width: 1200px) {
     .dropdown-menu.show {
-        min-width: 500px;
+        min-width: fit-content;
     }
     .container {
         width: 1280px;
@@ -492,7 +492,7 @@ iframe {
 }
 
 .top-logo img {
-    max-width: 186px;
+    max-width: 146px;
 }
 
 .d-flex {
@@ -1599,7 +1599,7 @@ h6 {
 }
 
 .boxFormSim .bgFormSim {
-    background: #af0007 !important;
+    background: #df5151 !important;
     color: #fff;
     padding: 30px;
     border-radius: 10px;
@@ -4625,7 +4625,7 @@ h3.tt_thanchu_h3 {
 }
 
 .main-footer img {
-    max-width: 256px;
+    max-width: 70px;
 }
 
 .coccoc-alo-phone.coccoc-alo-green .coccoc-alo-ph-img-circle {
@@ -5501,7 +5501,7 @@ blockquote {
 }
 
 .boi_sim_inputs {
-    background: #af0007 !important;
+    background: #df5151 !important;
     box-shadow: 4px 8px 6px 0px gray;
     border-radius: 10px;
 }

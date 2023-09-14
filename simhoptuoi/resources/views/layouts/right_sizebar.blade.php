@@ -1,7 +1,7 @@
 <section class="boxAside notRadius">
     <div class="asideBody asideBodyTool">
         <p class="title_h2">Ứng dụng luận sim</p>
-        <ul class="ul row">
+        <ul class="ul row mt-2">
             <li class="col-4 col-sm-4 col-md-6">
                 <a class="xem-phong-thuy-sim" href="{{ route('boi-sim')}}">Xem phong thủy sim</a>
             </li>
@@ -15,7 +15,7 @@
                 <a class="boi-sim-theo-kinh-dich" href="{{ route('coming-soon')}}">Xem bói sim kinh dịch</a>
             </li>
         </ul>
-        <p class="title_h2">Ứng dụng xem tuổi</p>
+        <p class="title_h2 mt-4 mb-2">Ứng dụng xem tuổi</p>
         <ul class="ul row">
             <li class="col-4 col-sm-4 col-md-6">
                 <a class="xem-con-so-hop-tuoi" href="{{ route('coming-soon')}}">Xem con số hợp tuổi</a>
@@ -43,7 +43,7 @@
             </li>
 
         </ul>
-        <p class="title_h2">Ứng dụng bói toán</p>
+        <p class="title_h2 mt-4 mb-2">Ứng dụng bói toán</p>
         <ul class="ul row">
             <li class="col-4 col-sm-4 col-md-6">
                 <a class="xem-bien-so-xe-hop-tuoi" href="{{ route('coming-soon')}}">Xem bói biển số xe</a>
@@ -62,8 +62,7 @@
                 <a class="boi-sim-theo-kinh-dich" href="{{ route('coming-soon')}}">Xem quẻ kinh dịch</a>
             </li>
         </ul>
-        <p class="title_h2">Ứng dụng phong thủy</p>
-
+        <p class="title_h2 mt-4 mb-2">Ứng dụng phong thủy</p>
         <ul class="ul row">
             <li class="col-4 col-sm-4 col-md-6">
                 <a class="lich-van-nien" href="{{ route('xem-ngay-tot-xau')}}">Xem ngày tốt xấu</a>
@@ -83,7 +82,6 @@
             <li class="col-4 col-sm-4 col-md-6">
                 <a class="xem-huong-nha" href="{{ route('coming-soon')}}">Xem hướng nhà</a>
             </li>
-
         </ul>
     </div>
 </section>
