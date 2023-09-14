@@ -15,7 +15,7 @@
         <link rel="stylesheet" type="text/css" href="{{  asset('common/templates/site/plugins/font-awesome-4.6.3/css/font-awesome.css')}}" />
         <link rel="stylesheet" type="text/css" href="{{  asset('common/templates/site/plugins/slick/slick.css')}}" />
         <link rel="stylesheet" type="text/css" href="{{  asset('common/templates/site/css/hover.css')}}" />
-    
+
         <link rel="stylesheet" type="text/css" href="{{  asset('common/templates/site/css/styleMore.css')}}" />
         <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
@@ -25,7 +25,6 @@
 
         {{-- JS --}}
         <script type="text/javascript" src="{{  asset('common/templates/site/js/jquery-3.4.1.min.js')}}"></script>
-
         <script type="text/javascript" src="{{  asset('common/templates/site/js/amlich.js')}}"></script>
         <script type="text/javascript" src="{{  asset('common/templates/site/js/canchi.js')}}"></script>
         <script type="text/javascript" src="{{  asset('common/templates/site/js/napam.js')}}"></script>
@@ -34,14 +33,22 @@
         <script type="text/javascript" src="{{  asset('common/templates/site/js/hungnhat.js')}}"></script>
         <script type="text/javascript" src="{{  asset('common/templates/site/js/thoithan2.js')}}"></script>
         @yield('script')
+
+        <link rel="stylesheet" href="{{ asset('fonts/icomoon/style.css') }}">
+        <link rel="stylesheet" href="{{ asset('css/owl.carousel.min.css') }}">
+        <link rel="stylesheet" href="{{ asset('css/style.css') }}">
+
+        <script src="{{ asset('js/jquery-3.3.1.min.js') }}"></script>
+        <script src="{{ asset('js/popper.min.js') }}"></script>
+        <script src="{{ asset('js/bootstrap.min.js') }}"></script>
+        <script src="{{ asset('js/jquery.sticky.js') }}"></script>
+        <script src="{{ asset('js/main.js') }}"></script>
     </head>
 
-    <body class="desktop simphongthuy  simphongthuy_simhopmenh">
+    <body class="bg-secondary_2">
         @yield('root-content')
         @include('layouts.header')
-
             <div class="container">
-
                 <section class="main-content">
                     <div class="wapper_breadcumb"></div>
                     <div class="row">

@@ -443,9 +443,6 @@
                             html += '<div class="col-6 col-sm-6 col-md-6">';
                             html += `<p class="btnmua pt-2"><a href="${linkDetail}" class="btn_mua">Chi tiết <b>>></b></a></p>`;
                             html += '</div>';
-                            html += '<div class="col-6 col-sm-6 col-md-6">';
-                            html += `<p class="btnmua btn_mua2 text-right pt-2"><a href="${linkDetail}" class="btn_mua">Mua ngay <strong>>></strong></a></p>`;
-                            html += '</div>';
                             html += '</div>';
                             html += '</div>';
                             html += '</div>';

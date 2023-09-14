@@ -145,7 +145,7 @@ class GoogleSheetsController extends Controller
             $excelFilePath = $this->googleSheetsService->downloadFileExcelFromDriver($spreadsheetId);
 
             $rowStart = 20;
-            $rowEnd = 787;
+            $rowEnd = 1000;
             $colStart = 'D';
             $colEnd = 'E';
             $header = [

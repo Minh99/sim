@@ -129,9 +129,6 @@
                                         <div class="col-6 col-sm-6 col-md-6">
                                             <p class="btnmua"><a href="{{ route('detail-sim', ['sdt' => $item['sdt']]) }}" class="btn_mua">Chi tiết <b>>></b></a></p>
                                         </div>
-                                        <div class="col-6 col-sm-6 col-md-6">
-                                            <p class="btnmua"><a href="{{ route('detail-sim', ['sdt' => $item['sdt']]) }}" class="btn_mua">Mua ngay <b>>></b></a></p>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
