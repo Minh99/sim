@@ -7,7 +7,7 @@
         <!-- Fonts -->
 
         <!-- Styles -->
-        <link rel="icon" type="image/png" href="{{  asset('common/templates/site/images/Favicon.png')}}" />
+        <link rel="icon" type="image/png" href="{{  asset('common/templates/site/images/logo_ngang.png')}}" />
         <link rel="stylesheet" href="{{  asset('common/templates/site/plugins/bootstrap/css/bootstrap.min.css')}}" />
         <link rel="stylesheet" type="text/css" href="{{  asset('common/templates/site/css/global-style.css')}}" />
         <link rel="stylesheet" type="text/css" href="{{  asset('common/templates/site/css/response.css')}}" />
