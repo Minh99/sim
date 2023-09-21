@@ -267,7 +267,7 @@ class FunctionCommonService {
                     $item['van_6'] = "Số tam cát 6 xuất hiện $tansosuathien[6] lần: tốt.";
                 }
                 if (isset($tansosuathien[1]) && $tansosuathien[1] !== 0) {
-                    $item['van_1'] = "Số tam cát 1 xuất hiện $tansosuathien[8] lần: tốt.";
+                    $item['van_1'] = "Số tam cát 1 xuất hiện $tansosuathien[1] lần: tốt.";
                 }
 
                 $item['sum_tan_suat'] = ($tansosuathien[1] ?? 0) + ($tansosuathien[6] ?? 0) + ($tansosuathien[8] ?? 0) + ($tansosuathien[9] ?? 0);
