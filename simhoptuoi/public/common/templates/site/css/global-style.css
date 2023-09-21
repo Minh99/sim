@@ -830,7 +830,7 @@ h6 {
 
 .boxForm {
     padding: 15px;
-    background: url(../images/form_timsimbg.png) right bottom no-repeat;
+    background: #af0007;
     background-size: 100% 100%;
     border-radius: 15px;
     width: 460px;
@@ -1097,6 +1097,18 @@ h6 {
     text-transform: none;
     line-height: normal;
     font-weight: bold;
+}
+
+.title_h1_sim {
+    position: relative;
+    /* font-family: 'uvn_hai_ba_trungregular'; */
+    color: #163357;
+    font-size: 20px;
+    text-transform: none;
+    line-height: normal;
+    font-weight: bold;
+    text-align: center;
+    margin: 10px 0px;
 }
 
 .title_h1 {
@@ -1499,7 +1511,6 @@ h6 {
 }
 
 .main-footer .f-inner .link-footer a {
-    color: #fff;
     background: url(../images/dot_bg.png) no-repeat left center;
     padding: 5px 0px 5px 15px;
 }
@@ -1511,7 +1522,7 @@ h6 {
 .main-footer .f-inner .f-address,
 .main-footer .f-inner .f-dangky,
 .main-footer .f-inner .f-shipping {
-    color: #fff;
+    color: #0788eb;
 }
 
 .main-footer .f-inner .copyright {
@@ -1597,9 +1608,14 @@ h6 {
 .boxFormSim img {
     width: 100%
 }
-
+.bg-danger {
+    background-color: #143271 !important;
+    border: 1px solid #fafafa !important;
+    margin-top: 5px;
+    border-radius: 10px;
+}
 .boxFormSim .bgFormSim {
-    background: #df5151 !important;
+    background-color: #af0007;
     color: #fff;
     padding: 30px;
     border-radius: 10px;
@@ -4954,7 +4970,6 @@ h3.tt_thanchu_h3 {
 }
 
 table>tbody>tr>td {
-    background: #d7d7d5;
 }
 
 table>tbody>tr>td label {
@@ -4967,7 +4982,7 @@ table>tbody>tr>td label {
 
 .contentPage .alert-warning {
     color: #fff;
-    background-color: #163357;
+    background-color: #af0007;
     border-color: #ffeeba;
 }
 
@@ -5501,7 +5516,7 @@ blockquote {
 }
 
 .boi_sim_inputs {
-    background: #df5151 !important;
+    background: #af0007 !important;
     box-shadow: 4px 8px 6px 0px gray;
     border-radius: 10px;
 }

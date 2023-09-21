@@ -12,25 +12,31 @@
                 <a class="xem-phong-thuy-sim" href="{{ route('boi-sim-6-so')}}">Xem bói sim 6 số cuối</a>
             </li>
             <li class="col-4 col-sm-4 col-md-6">
+                <a class="boi-sim-theo-kinh-dich" href="{{ route('boi-sim-nang-luong-so')}}">Xem bói sim năng lượng số</a>
+            </li>
+            <li class="col-4 col-sm-4 col-md-6">
                 <a class="boi-sim-theo-kinh-dich" href="{{ route('coming-soon')}}">Xem bói sim kinh dịch</a>
             </li>
         </ul>
         <p class="title_h2 mt-4 mb-2">Ứng dụng xem tuổi</p>
         <ul class="ul row">
             <li class="col-4 col-sm-4 col-md-6">
+                <a class="lich-van-nien" href="{{ route('xem-tuoi-am-lich')}}">Xem tuổi âm lịch</a>
+            </li>
+            <li class="col-4 col-sm-4 col-md-6">
+                <a class="xem-sao-han-theo-tuoi" href="{{ route('sao-han-theo-tuoi')}}">Xem sao hạn theo tuổi</a>
+            </li>
+            <li class="col-4 col-sm-4 col-md-6">
+                <a class="xem-tuoi-hop-ket-hon" href="{{ route('xem-tuoi-ket-hon')}}">Xem tuổi kết hôn</a>
+            </li>
+            <li class="col-4 col-sm-4 col-md-6">
                 <a class="xem-con-so-hop-tuoi" href="{{ route('coming-soon')}}">Xem con số hợp tuổi</a>
             </li>
             <li class="col-4 col-sm-4 col-md-6">
-                <a class="xem-mau-hop-tuoi" href="{{ route('coming-soon')}}">Xem màu hợp tuổi</a>
-            </li>
-            <li class="col-4 col-sm-4 col-md-6">
-                <a class="xem-sao-han-theo-tuoi" href="{{ route('coming-soon')}}">Xem sao hạn theo tuổi</a>
-            </li>
-            <li class="col-4 col-sm-4 col-md-6">
-                <a class="xem-tuoi-hop-ket-hon" href="{{ route('coming-soon')}}">Xem tuổi kết hôn</a>
-            </li>
-            <li class="col-4 col-sm-4 col-md-6">
                 <a class="xem-tuoi-hop-vo-chong" href="{{ route('coming-soon')}}">Xem tuổi vợ chồng</a>
+            </li>
+            <li class="col-4 col-sm-4 col-md-6">
+                <a class="xem-mau-hop-tuoi" href="{{ route('coming-soon')}}">Xem màu hợp tuổi</a>
             </li>
             <li class="col-4 col-sm-4 col-md-6">
                 <a class="xem-tuoi-lam-an" href="{{ route('coming-soon')}}">Xem tuổi làm ăn</a>

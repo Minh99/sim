@@ -476,7 +476,7 @@
                         </li>
                     </ul>
 
-                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Hy vọng những chia sẻ chi tiết của <strong>simhoptuoi.com.vn</strong> về câu hỏi <strong>1997 hợp số nào</strong> đã giúp quý bạn hiểu hơn về ý nghĩa và cách ứng dụng của con số này. Đồng thời cũng nhận biết rõ sự khác biệt giữa con số may mắn của tuổi Đinh Sửu  và số hợp tuổi, cũng như ứng dụng vào chọn sim phong thủy hợp tuổi Đinh Sửu chính xác.</span></span>
+                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Hy vọng những chia sẻ chi tiết của <strong>{{ $nameSite }} </strong> về câu hỏi <strong>1997 hợp số nào</strong> đã giúp quý bạn hiểu hơn về ý nghĩa và cách ứng dụng của con số này. Đồng thời cũng nhận biết rõ sự khác biệt giữa con số may mắn của tuổi Đinh Sửu  và số hợp tuổi, cũng như ứng dụng vào chọn sim phong thủy hợp tuổi Đinh Sửu chính xác.</span></span>
                     </p>
 
 {{--                    <p dir="ltr" style="text-align:center"><span style="color:#FF0000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>XEM THÊM CON SỐ HỢP TUỔI KHÁC</strong></span></span>--}}

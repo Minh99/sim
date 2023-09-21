@@ -379,8 +379,8 @@
                     var can = canVi(ThienCan(lunar.days));
                     var chi = chiVi(DiaChi(lunar.days));
                     var HK = napAmHanhKhac(can, chi);
-                    console.log(HANH[HK[1]]);
-                    ngu_hanh = HANH[HK[1]];
+                    console.log(HANH[HK[0]]);
+                    ngu_hanh = HANH[HK[0]];
                 }
 
                 $.ajax({

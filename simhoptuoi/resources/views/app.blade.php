@@ -101,6 +101,67 @@
                             @include('layouts.right_sizebar')
                         </div>
                     </div>
+                    <script>
+                        $(document).on('click', '.support-user', function() {
+                            $('.support').css({
+                                'width': '134px',
+                                'height': '134px',
+                                'background': '#9893935e'
+
+                            })
+                            $('.support-user img').css({
+                                'transform': 'scale(0)'
+                            })
+                            $('.support-user').css({
+                                'z-index': '-1',
+                                'visibility': 'hidden'
+                            })
+                            $('.support-sdt').css({
+                                'opacity': '1',
+                                'visibility': 'visible'
+                            })
+                            $('.support-zalo').css({
+                                'opacity': '1',
+                                'visibility': 'visible'
+                            })
+                            $('.support-mess').css({
+                                'opacity': '1',
+                                'visibility': 'visible'
+                            })
+                            $('.support-delete').css({
+                                'opacity': '1',
+                                'visibility': 'visible'
+                            })
+                        })
+                        $(document).on('click', '.support-delete', function() {
+                            $('.support').css({
+                                'width': '67px',
+                                'height': '67px',
+                                'background': 'transparent'
+                            })
+                            $('.support-sdt').css({
+                                'opacity': '0',
+                                'visibility': 'hidden'
+                            })
+                            $('.support-zalo').css({
+                                'opacity': '0',
+                                'visibility': 'hidden'
+                            })
+                            $('.support-mess').css({
+                                'opacity': '0',
+                                'visibility': 'hidden'
+                            })
+                            $('.support-delete').css({
+                                'opacity': '0',
+                                'visibility': 'hidden'
+                            })
+                            $('.support-user').css({
+                                'z-index': '1',
+                                'visibility': 'visible'
+                            })
+
+                        })
+                    </script>
                 </section>
             </div>
 

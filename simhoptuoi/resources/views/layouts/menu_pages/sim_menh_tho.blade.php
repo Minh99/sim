@@ -846,7 +846,7 @@
     <div class="nopadding sim_collection">
         <section class="list_sim">
             <!-- khi vào link page sẽ tự động scroll xuống phần bảng sim -->
-            <h2 class="title_h1">Sim hợp mệnh Thổ</h2>
+            <h2 class="title_h1">Xem thêm sim hợp mệnh Thổ</h2>
             <div class="row listSim list_sim_item">
                 @foreach ($data as $item)
                 @php

@@ -6,113 +6,113 @@
 <script>
 
     const cungPhi = {
-        1924 : ['Tốn', 'Khôn'],
-        1925 : ['Chấn', 'Chấn'],
-        1926 : ['Khôn', 'Tốn'],
-        1927 : ['Khảm', 'Cấn'],
-        1928 : ['Ly', 'Càn'],
-        1929 : ['Cấn', 'Đoài'],
-        1930 : ['Đoài', 'Cấn'],
-        1931 : ['Càn', 'Ly'],
-        1932 : ['Khôn', 'Khảm'],
-        1933 : ['Tốn', 'Khôn'],
-        1934 : ['Chấn', 'Chấn'],
-        1935 : ['Khôn', 'Tốn'],
-        1936 : ['Khảm', 'Cấn'],
-        1937 : ['Ly', 'Càn'],
-        1938 : ['Cấn', 'Đoài'],
-        1939 : ['Đoài', 'Cấn'],
-        1940 : ['Càn', 'Ly'],
-        1941 : ['Khôn', 'Khảm'],
-        1942 : ['Tốn', 'Khôn'],
-        1943 : ['Chấn', 'Chấn'],
-        1944 : ['Khôn', 'Tốn'],
-        1945 : ['Khảm', 'Cấn'],
-        1946 : ['Ly', 'Càn'],
-        1947 : ['Cấn', 'Đoài'],
-        1948 : ['Đoài', 'Cấn'],
-        1949 : ['Càn', 'Ly'],
-        1950 : ['Khôn', 'Khảm'],
-        1951 : ['Tốn', 'Khôn'],
-        1952 : ['Chấn', 'Chấn'],
-        1953 : ['Khôn', 'Tốn'],
-        1954 : ['Khảm', 'Cấn'],
-        1955 : ['Ly', 'Càn'],
-        1956 : ['Cấn', 'Đoài'],
-        1957 : ['Đoài', 'Cấn'],
-        1958 : ['Càn', 'Ly'],
-        1959 : ['Khôn', 'Khảm'],
-        1960 : ['Tốn', 'Khôn'],
-        1961 : ['Chấn', 'Chấn'],
-        1962 : ['Khôn', 'Tốn'],
-        1963 : ['Khảm', 'Cấn'],
-        1964 : ['Ly', 'Càn'],
-        1965 : ['Cấn', 'Đoài'],
-        1966 : ['Đoài', 'Cấn'],
-        1967 : ['Càn', 'Ly'],
-        1968 : ['Khôn', 'Khảm'],
-        1969 : ['Tốn', 'Khôn'],
-        1970 : ['Chấn', 'Chấn'],
-        1971 : ['Khôn', 'Tốn'],
-        1972 : ['Khảm', 'Cấn'],
-        1973 : ['Ly', 'Càn'],
-        1974 : ['Cấn', 'Đoài'],
-        1975 : ['Đoài', 'Cấn'],
-        1976 : ['Càn', 'Ly'],
-        1977 : ['Khôn', 'Khảm'],
-        1978 : ['Tốn', 'Khôn'],
-        1979 : ['Chấn', 'Chấn'],
-        1980 : ['Khôn', 'Tốn'],
-        1981 : ['Khảm', 'Cấn'],
-        1982 : ['Ly', 'Càn'],
-        1983 : ['Cấn', 'Đoài'],
-        1984 : ['Đoài', 'Cấn'],
-        1985 : ['Càn', 'Ly'],
-        1986 : ['Khôn', 'Khảm'],
-        1987 : ['Tốn', 'Khôn'],
-        1988 : ['Chấn', 'Chấn'],
-        1989 : ['Khôn', 'Tốn'],
-        1990 : ['Khảm', 'Cấn'],
-        1991 : ['Ly', 'Càn'],
-        1992 : ['Cấn', 'Đoài'],
-        1993 : ['Đoài', 'Cấn'],
-        1994 : ['Càn', 'Ly'],
-        1995 : ['Khôn', 'Khảm'],
-        1996 : ['Tốn', 'Khôn'],
-        1997 : ['Chấn', 'Chấn'],
-        1998 : ['Khôn', 'Tốn'],
-        1999 : ['Khảm', 'Cấn'],
-        2000 : ['Ly', 'Càn'],
-        2001 : ['Cấn', 'Đoài'],
-        2002 : ['Đoài', 'Cấn'],
-        2003 : ['Càn', 'Ly'],
-        2004 : ['Khôn', 'Khảm'],
-        2005 : ['Tốn', 'Khôn'],
-        2006 : ['Chấn', 'Chấn'],
-        2007 : ['Khôn', 'Tốn'],
-        2008 : ['Khảm', 'Cấn'],
-        2009 : ['Ly', 'Càn'],
-        2010 : ['Cấn', 'Đoài'],
-        2011 : ['Đoài', 'Cấn'],
-        2012 : ['Càn', 'Ly'],
-        2013 : ['Khôn', 'Khảm'],
-        2014 : ['Tốn', 'Khôn'],
-        2015 : ['Chấn', 'Chấn'],
-        2016 : ['Khôn', 'Tốn'],
-        2017 : ['Khảm', 'Cấn'],
-        2018 : ['Ly', 'Càn'],
-        2019 : ['Cấn', 'Đoài'],
-        2020 : ['Đoài', 'Cấn'],
-        2021 : ['Càn', 'Ly'],
-        2022 : ['Khôn', 'Khảm'],
-        2023 : ['Tốn', 'Khôn'],
-        2024 : ['Chấn', 'Chấn'],
-        2025 : ['Khôn', 'Tốn'],
-        2026 : ['Khảm', 'Cấn'],
-        2027 : ['Ly', 'Càn'],
-        2028 : ['Cấn', 'Đoài'],
-        2029 : ['Đoài', 'Cấn'],
-        2030 : ['Càn', 'Ly'],
+        1924 : ['Giáp Tý', 'Kim', 'Tốn', 'Khôn'],
+        1925 : ['Ất Sửu', 'Kim', 'Chấn', 'Chấn'],
+        1926 : ['Bính Dần', 'Hỏa', 'Khôn', 'Tốn'],
+        1927 : ['Đinh Mão', 'Hỏa', 'Khảm', 'Cấn'],
+        1928 : ['Mậu Thìn', 'Mộc', 'Ly', 'Càn'],
+        1929 : ['Kỷ Tỵ', 'Mộc', 'Cấn', 'Đoài'],
+        1930 : ['Canh Ngọ', 'Thổ', 'Đoài', 'Cấn'],
+        1931 : ['Tân Mùi', 'Thổ', 'Càn', 'Ly'],
+        1932 : ['Nhâm Thân', 'Kim', 'Khôn', 'Khảm'],
+        1933 : ['Quý Dậu', 'Kim', 'Tốn', 'Khôn'],
+        1934 : ['Giáp Tuất', 'Hỏa', 'Chấn', 'Chấn'],
+        1935 : ['Ất Hợi', 'Hỏa', 'Khôn', 'Tốn'],
+        1936 : ['Bính Tý', 'Thủy', 'Khảm', 'Cấn'],
+        1937 : ['Đinh Sửu', 'Thủy', 'Ly', 'Càn'],
+        1938 : ['Mậu Dần', 'Thổ', 'Cấn', 'Đoài'],
+        1939 : ['Kỷ Mão', 'Thổ', 'Đoài', 'Cấn'],
+        1940 : ['Canh Thìn', 'Kim', 'Càn', 'Ly'],
+        1941 : ['Tân Tỵ', 'Kim', 'Khôn', 'Khảm'],
+        1942 : ['Nhâm Ngọ', 'Mộc', 'Tốn', 'Khôn'],
+        1943 : ['Quý Mùi', 'Mộc', 'Chấn', 'Chấn'],
+        1944 : ['Giáp Thân', 'Thủy', 'Khôn', 'Tốn'],
+        1945 : ['Ất Dậu', 'Thủy', 'Khảm', 'Cấn'],
+        1946 : ['Bính Tuất', 'Thổ', 'Ly', 'Càn'],
+        1947 : ['Đinh Hợi', 'Thổ', 'Cấn', 'Đoài'],
+        1948 : ['Mậu Tý', 'Hỏa', 'Đoài', 'Cấn'],
+        1949 : ['Kỷ Sửu', 'Hỏa', 'Càn', 'Ly'],
+        1950 : ['Canh Dần', 'Mộc', 'Khôn', 'Khảm'],
+        1951 : ['Tân Mão', 'Mộc', 'Tốn', 'Khôn'],
+        1952 : ['Nhâm Thìn', 'Thủy', 'Chấn', 'Chấn'],
+        1953 : ['Quý Tỵ', 'Thủy', 'Khôn', 'Tốn'],
+        1954 : ['Giáp Ngọ', 'Kim', 'Khảm', 'Cấn'],
+        1955 : ['Ất Mùi', 'Kim', 'Ly', 'Càn'],
+        1956 : ['Bính Thân', 'Hỏa', 'Cấn', 'Đoài'],
+        1957 : ['Đinh Dậu', 'Hỏa', 'Đoài', 'Cấn'],
+        1958 : ['Mậu Tuất', 'Mộc', 'Càn', 'Ly'],
+        1959 : ['Kỷ Hợi', 'Mộc', 'Khôn', 'Khảm'],
+        1960 : ['Canh Tý', 'Thổ', 'Tốn', 'Khôn'],
+        1961 : ['Tân Sửu', 'Thổ', 'Chấn', 'Chấn'],
+        1962 : ['Nhâm Dần', 'Kim', 'Khôn', 'Tốn'],
+        1963 : ['Quý Mão', 'Kim', 'Khảm', 'Cấn'],
+        1964 : ['Giáp Thìn', 'Hỏa', 'Ly', 'Càn'],
+        1965 : ['Ất Tỵ', 'Hỏa', 'Cấn', 'Đoài'],
+        1966 : ['Bính Ngọ', 'Thủy', 'Đoài', 'Cấn'],
+        1967 : ['Đinh Mùi', 'Thủy', 'Càn', 'Ly'],
+        1968 : ['Mậu Thân', 'Thổ', 'Khôn', 'Khảm'],
+        1969 : ['Kỷ Dậu', 'Thổ', 'Tốn', 'Khôn'],
+        1970 : ['Canh Tuất', 'Kim', 'Chấn', 'Chấn'],
+        1971 : ['Tân Hợi', 'Kim', 'Khôn', 'Tốn'],
+        1972 : ['Nhâm Tý', 'Mộc', 'Khảm', 'Cấn'],
+        1973 : ['Quý Sửu', 'Mộc', 'Ly', 'Càn'],
+        1974 : ['Giáp Dần', 'Thủy', 'Cấn', 'Đoài'],
+        1975 : ['Ất Mão', 'Thủy', 'Đoài', 'Cấn'],
+        1976 : ['Bính Thìn', 'Thổ', 'Càn', 'Ly'],
+        1977 : ['Đinh Tỵ', 'Thổ', 'Khôn', 'Khảm'],
+        1978 : ['Mậu Ngọ', 'Hỏa', 'Tốn', 'Khôn'],
+        1979 : ['Kỷ Mùi', 'Hỏa', 'Chấn', 'Chấn'],
+        1980 : ['Canh Thân', 'Mộc', 'Khôn', 'Tốn'],
+        1981 : ['Tân Dậu', 'Mộc', 'Khảm', 'Cấn'],
+        1982 : ['Nhâm Tuất', 'Thủy', 'Ly', 'Càn'],
+        1983 : ['Quý Hợi', 'Thủy', 'Cấn', 'Đoài'],
+        1984 : ['Giáp Tý', 'Kim', 'Đoài', 'Cấn'],
+        1985 : ['Ất Sửu', 'Kim', 'Càn', 'Ly'],
+        1986 : ['Bính Dần', 'Hỏa', 'Khôn', 'Khảm'],
+        1987 : ['Đinh Mão', 'Hỏa', 'Tốn', 'Khôn'],
+        1988 : ['Mậu Thìn', 'Mộc', 'Chấn', 'Chấn'],
+        1989 : ['Kỷ Tỵ', 'Mộc', 'Khôn', 'Tốn'],
+        1990 : ['Canh Ngọ', 'Thổ', 'Khảm', 'Cấn'],
+        1991 : ['Tân Mùi', 'Thổ', 'Ly', 'Càn'],
+        1992 : ['Nhâm Thân', 'Kim', 'Cấn', 'Đoài'],
+        1993 : ['Quý Dậu', 'Kim', 'Đoài', 'Cấn'],
+        1994 : ['Giáp Tuất', 'Hỏa', 'Càn', 'Ly'],
+        1995 : ['Ất Hợi', 'Hỏa', 'Khôn', 'Khảm'],
+        1996 : ['Bính Tý', 'Thủy', 'Tốn', 'Khôn'],
+        1997 : ['Đinh Sửu', 'Thủy', 'Chấn', 'Chấn'],
+        1998 : ['Mậu Dần', 'Thổ', 'Khôn', 'Tốn'],
+        1999 : ['Kỷ Mão', 'Thổ', 'Khảm', 'Cấn'],
+        2000 : ['Canh Thìn', 'Kim', 'Ly', 'Càn'],
+        2001 : ['Tân Tỵ', 'Kim', 'Cấn', 'Đoài'],
+        2002 : ['Nhâm Ngọ', 'Mộc', 'Đoài', 'Cấn'],
+        2003 : ['Quý Mùi', 'Mộc', 'Càn', 'Ly'],
+        2004 : ['Giáp Thân', 'Thủy', 'Khôn', 'Khảm'],
+        2005 : ['Ất Dậu', 'Thủy', 'Tốn', 'Khôn'],
+        2006 : ['Bính Tuất', 'Thổ', 'Chấn', 'Chấn'],
+        2007 : ['Đinh Hợi', 'Thổ', 'Khôn', 'Tốn'],
+        2008 : ['Mậu Tý', 'Hỏa', 'Khảm', 'Cấn'],
+        2009 : ['Kỷ Sửu', 'Hỏa', 'Ly', 'Càn'],
+        2010 : ['Canh Dần', 'Mộc', 'Cấn', 'Đoài'],
+        2011 : ['Tân Mão', 'Mộc', 'Đoài', 'Cấn'],
+        2012 : ['Nhâm Thìn', 'Thủy', 'Càn', 'Ly'],
+        2013 : ['Quý Tỵ', 'Thủy', 'Khôn', 'Khảm'],
+        2014 : ['Giáp Ngọ', 'Kim', 'Tốn', 'Khôn'],
+        2015 : ['Ất Mùi', 'Kim', 'Chấn', 'Chấn'],
+        2016 : ['Bính Thân', 'Hỏa', 'Khôn', 'Tốn'],
+        2017 : ['Đinh Dậu', 'Hỏa', 'Khảm', 'Cấn'],
+        2018 : ['Mậu Tuất', 'Mộc', 'Ly', 'Càn'],
+        2019 : ['Kỷ Hợi', 'Mộc', 'Cấn', 'Đoài'],
+        2020 : ['Canh Tý', 'Thổ', 'Đoài', 'Cấn'],
+        2021 : ['Tân Sửu', 'Thổ', 'Càn', 'Ly'],
+        2022 : ['Nhâm Dần', 'Kim', 'Khôn', 'Khảm'],
+        2023 : ['Qúy Mão', 'Kim', 'Tốn', 'Khôn'],
+        2024 : ['Giáp Thìn', 'Hỏa', 'Chấn', 'Chấn'],
+        2025 : ['Ất Tỵ', 'Hỏa', 'Khôn', 'Tốn'],
+        2026 : ['Bính Ngọ', 'Thủy', 'Khảm', 'Cấn'],
+        2027 : ['Đinh Mùi', 'Thủy', 'Ly', 'Càn'],
+        2028 : ['Mậu Thân', 'Thổ', 'Cấn', 'Đoài'],
+        2029 : ['Kỷ Dậu', 'Thổ', 'Đoài', 'Cấn'],
+        2030 : ['Canh Tuất', 'Kim', 'Càn', 'Ly'],
     };
 
     $(document).ready(function () {
@@ -161,8 +161,8 @@
             $(".tu_tru").text('Giờ ' + cH + ' ' + nH + ', Ngày ' + cD + ', Tháng ' + cM + ', Năm ' + cY);
             $(".age").text(cY);
             $(".ban_menh").text(nY);
-            $(".sinh_menh").text(HANH[HK[1]]);
-            $(".cung_phi").text(gioitinh == 'nam' ? cungPhi[lunar.year][0] : cungPhi[lunar.year][1]);
+            $(".sinh_menh").text(cungPhi[nam][1]);
+            $(".cung_phi").text(gioitinh == 'nam' ? cungPhi[lunar.year][2] : cungPhi[lunar.year][3]);
 
             const images = {
                 'Tý' : 'ty',
@@ -180,8 +180,10 @@
             };
 
             var png = cY.split(' ')[1];
-            console.log(png);
-            $("#image_nam_sinh").attr("src", "{{ asset('common/templates/site/images/') }}/" + images[png] + ".png");
+            console.log("{{ asset('common/templates/site/images/') }}/" + images[png] + ".png");
+            $(".image_nam_sinh").attr("src", "{{ asset('common/templates/site/images/') }}/" + images[png] + ".png");
+
+            $('.title_h1_sim').text('Xem thêm sim hợp tuổi ' + cY);
         }
 
         $('#btn_xem_ngay_boi_sim').on('click', function (e) {
@@ -206,7 +208,7 @@
             var chi = chiVi(DiaChi(lunar.days));
             var HK = napAmHanhKhac(can, chi);
 
-            $('#sinh_menh_input').val(HANH[HK[1]]);
+            $('#sinh_menh_input').val(cungPhi[nam][1]);
             $('#form_xpts').submit();
         });
     });
@@ -288,8 +290,15 @@
                     </div>
                     <div class="row">
                         <div class="col-12 col-md-12 col-sm-12 col-xs-12 text-center">
-                            <button id="btn_xem_ngay_boi_sim" type="button" class="btn_xemngay"><span>Xem bói số điện thoại</span></button>
+                            <button id="btn_xem_ngay_boi_sim" type="button" class="btn_xemngay bg-danger"><span>Luận phòng thuỷ sim</span></button>
                         </div>
+                    </div>
+                    <div class="text-left">
+                        <p style="margin: 0">Hướng dẫn cách xem phong thủy sim:</p>
+                        <p style="margin: 0">- B.1: Nhập số điện thoại cần xem</p>
+                        <p style="margin: 0">- B.2: Chọn ngày - tháng - năm sinh Dương Lịch của gia chủ</p>
+                        <p style="margin: 0">- B.3: Chọn giới tính, giờ sinh</p>
+                        <p style="margin: 0">- B.4: Nhấp "Luận phong thủy sim"</p>
                     </div>
                 </form>
             </div>
@@ -429,22 +438,160 @@
                 @endphp
             @endif
 
-            @if (!empty($data['kq']))
-                <h2 class="title_h1 text-left" style="font-weight: bold; margin-top: 5px; text-transform: capitalize"> {{ $index }}. Nhận Định</h2>
+            @if (!empty($data['hop_tuoi']))
+                <h2 class="title_h1 text-left" style="font-weight: bold; margin-top: 5px; text-transform: capitalize"> {{ $index }}. Nhận xét về mối quan hệ giữa thân chủ và sim</h2>
                 <p class="pl-4">
-                    {{ $data['kq'] }}
-
+                    {{ $data['hop_tuoi'] }}
                 </p>
-                <b class="pl-4">{{ $data['hop_tuoi'] }}</b>
                 @php
                     $index++;
                 @endphp
             @endif
 
+            <p class="text-danger mx-4">Đánh giá: +{{ $data['diem_danh_gia'] }} điểm</p>
+
+            <p class="text-primary text-center">
+                Trong quẻ dịch còn chứa nhiều ẩn ý, quý khách không am hiểu Kinh Dịch sẽ không thể luận được. Mọi thắc mắc xin hãy đặt câu hỏi qua ZALO: <a href="https://zalo.me/0934553038">0934553038</a> để được giải đáp.
+            </p>
+
+
+            @if(!empty($data['sum_tan_suat']))
+                <div class="text-left mt-4">
+                    <h3 class="title_h1">* LUẬN THEO HUYỀN KHÔNG</h3>
+                    <div class="pl-4">
+                        <p>(Yếu tố phụ)</p>
+                        <p>
+                            Theo Huyền Không, trái đất chịu sự chi phối của 9 ngôi sao (sao còn gọi là tinh): Nhất Bạch, Nhị Hắc, Tam Bích, Tứ Lục, Ngũ Hoàng, Lục Bạch, Thất Xích, Bát Bạch, Cửu Tử. Với mỗi sao sẽ có được quy luật di chuyển và cùng nắm giữ những đại vận khác nhau. Mỗi sao đó tương ứng với các con số từ 1 đến 9. Các chuyên gia phong thủy cho rằng, các con số trong dãy số điện thoại khi truyền qua dạng sóng trong không gian cũng ảnh hưởng bởi các sao này.
+                        </p>
+
+                        <p>
+                            Số điện thoại: {{ $info['sdt'] }}
+                            @if(!empty($data['van_8']))
+                                <br>
+                                - {{ $data['van_8'] }}
+                            @endif
+                            @if(!empty($data['van_9']))
+                                <br>
+                                - {{ $data['van_9'] }}
+                            @endif
+                            @if(!empty($data['van_6']))
+                                <br>
+                                - {{ $data['van_6'] }}
+                            @endif
+                            @if(!empty($data['van_1']))
+                                <br>
+                                - {{ $data['van_1'] }}
+                            @endif
+                            <br>
+                            Tổng số lần xuất hiện số tam cát, vượng khí và sinh khí là: {{ $data['sum_tan_suat'] ?? 0 }} lần.
+                            <br>
+                            Kết luận: {{ $data['ket_luan_tan_suat'] ?? ' - ' }}
+                            <br>
+                            <font class="text-danger"> Đánh giá: +{{ $data['diem_tan_suat'] ?? 0 }} điểm </font>
+                        </p>
+                    </div>
+                </div>
+            @endif
+
+            @if(!empty($data['van_content']))
+                <div class="text-left mt-4">
+                    <h3 class="title_h1">* ÂM DƯƠNG TƯƠNG PHỐI</h3>
+                    <div class="pl-4">
+                        <p>(Yếu tố tham khảo)</p>
+                        <p>
+                            Nguồn gốc của vạn vật trong trời đất là Thái Cực, nguyên nhân căn bản thúc đẩy sinh sôi và biến hóa của tất cả sự vật chính là âm dương. Sự hình thành, phát triển và thay đổi biến hóa của mọi sự vật đều bắt nguồn từ sự chuyển động của hai khí âm-dương. Ở đây, âm được biểu thị bằng dấu "-" và dương biểu thị bằng dấu "+".
+                        </p>
+
+                        <p>
+                            Số điện thoại: {{ $info['sdt'] }} có âm dương tương phối như sau:
+                        </p>
+                        <table class="mt-4 table table-striped table-bordered" style="width: 90% !important;">
+                            <thead>
+                            <tr>
+                                @for($j = 0 ; $j < strlen($info['sdt']) ; $j++)
+                                    <th class="text-center" style="vertical-align: middle">{{ $info['sdt'][$j] }}</th>
+                                @endfor
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr>
+                                @for($j = 0 ; $j < strlen($info['sdt']) ; $j++)
+                                    @if($info['sdt'][$j] == 1 || $info['sdt'][$j] == 3 || $info['sdt'][$j] == 5 || $info['sdt'][$j] == 7 || $info['sdt'][$j] == 9)
+                                        <td class="text-center" style="vertical-align: middle">+</td>
+                                    @else
+                                        <td class="text-center" style="vertical-align: middle">-</td>
+                                    @endif
+                                @endfor
+                            </tr>
+                        </table>
+                        <p>
+                            @if(!empty($data['van_am']))
+                                - Có {{ $data['van_am'] }} số mang vận Âm, chiếm {{ $data['van_am'] * 10 }}
+                            @endif
+                            @if(!empty($data['van_duong']))
+                                <br>
+                                - Có {{ $data['van_duong'] }} số mang vận Dương, chiếm {{ $data['van_duong'] * 10 }}
+                            @endif
+                            <br>
+                             {{ $data['van_content'] }}
+                            <br>
+                            <font class="text-danger"> Đánh giá: +{{ $data['diem_van'] ?? 0 }} điểm </font>
+                        </p>
+                    </div>
+                </div>
+            @endif
+
+            @if(!empty($data['content_4']))
+                <div class="text-left mt-4">
+                    <h3 class="title_h1">* XÉT PHONG THỦY 4 SỐ CUỐI</h3>
+                    <div class="pl-4">
+                        <p>(Yếu tố phụ)</p>
+                        <p>
+                            Phong thủy 4 số cuối chỉ là một yếu tố rất nhỏ, nên chúng tôi xem nó như là 1 yếu tố phụ cộng thêm.
+                        </p>
+
+                        <p>
+                            Số điện thoại: {{ $info['sdt'] }}
+                        </p>
+
+                        <p>
+                            - Số lý: {{ $data['soly_4'] }}
+                            <br>
+                            - Kết luận: {{ $data['ketLuan_4'] }}
+                            <br>
+                            {{ $data['content_4'] }}
+                            <br>
+                            <font class="text-danger"> Đánh giá: +{{ $data['diem_4'] ?? 0 }} điểm </font>
+                        </p>
+                    </div>
+                </div>
+            @endif
+
+            <div class="text-center mt-4" style="border: 1px solid #6a1700">
+                <h3 class="title_h1 text-center">KẾT LUẬN</h3>
+                <div class="pl-4">
+                    <p style="font-size: 20px; font-weight: bold">
+                        {{ $info['sdt'] }}
+                    </p>
+
+                    <p style="font-weight: bold">
+                        @if($data['diem_final'] > 7)
+                            Bạn có được số Sim tốt, chúc mừng bạn.
+                        @elseif($data['diem_final'] > 4)
+                            Sim chỉ ở mức trung bình. Có thể tạm dùng được.
+                        @else
+                            Sim có năng lượng xấu. Bạn nên cân nhắc đổi Sim
+                        @endif
+                        <br>
+                        <font style="font-size: 20px; font-weight: bold" class="text-danger"> Điểm đánh giá: {{ $data['diem_final'] }}/10 </font>
+                    </p>
+                </div>
+            </div>
+
             @if (count($results) > 0)
                 <div class="nopadding sim_collection mt-4">
                     <section class="list_sim">
-                        <h2 class="title_h1">Kho Sim hợp mệnh {{ $info['sinh_menh_input'] ?? ''  }}</h2>
+                        <h2 class="title_h1_sim">Xem thêm sim hợp tuổi </h2>
                         <div class="row listSim list_sim_item">
                             @foreach ($results as $item)
                                 @php
@@ -1160,9 +1307,6 @@
                             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">- Lấy 0,4875*80 được 39. Linh số 39 trong 80 con số phong thủy c&oacute; &yacute; nghĩa B&igrave;nh H&ograve;a n&ecirc;n d&atilde;y sim 0778291079 kh&ocirc;ng tốt kh&ocirc;ng xấu, chi&ecirc;m đo&aacute;n người sử dụng thời vận thịnh suy bất thường.&nbsp;</span></span>
                             </p>
 
-                            <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Xem chi tiết: <u><a href="https://simhoptuoi.com.vn/tin-sim/cach-tinh-4-so-cuoi-dien-thoai-chuan-xac.html">C&aacute;ch t&iacute;nh 4 số cuối điện thoại</a></u></span></span></strong></em></p>
-
-                            <p dir="ltr" style="text-align:center"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><a href="https://simhoptuoi.com.vn/tin-sim/xem-phong-thuy-4-so-cuoi-dien-thoai.html"><img alt="phong thủy 4 số cuối điện thoại" src="https://simhoptuoi.com.vn/media/images/seolink/11.png" /></a></u></span></span></strong></em></p>
 
                             <h4 dir="ltr" style="text-align:justify"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">2.2. B&oacute;i số điện thoại&nbsp;tốt xấu 4 số cuối theo quan niệm d&acirc;n gian&nbsp;</span></span></strong></h4>
 
@@ -1241,9 +1385,6 @@
                             </p>
 
                             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">T&oacute;m lại, b&oacute;i số điện thoại theo 64 quẻ Kinh Dịch tuy đ&aacute;nh gi&aacute; được &yacute; nghĩa hung c&aacute;t trong nhiều phương diện cuộc sống nhưng chưa đủ. Cần kết hợp b&aacute;t tự ng&agrave;y th&aacute;ng năm sinh theo c&aacute;c yếu tố phong thủy kh&aacute;c mới thực sự chấm điểm d&atilde;y số ch&iacute;nh x&aacute;c.</span></span>
-                            </p>
-
-                            <p dir="ltr" style="text-align:center"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-sim/xem-boi-sim-kinh-dich.html"><img alt="sim kinh dịch" src="https://simhoptuoi.com.vn/media/images/seolink/10.png" /></a></span></span>
                             </p>
 
                             <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">4. B&oacute;i số điện thoại theo Du Ni&ecirc;n</span></strong>

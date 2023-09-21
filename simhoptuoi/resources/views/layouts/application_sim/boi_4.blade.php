@@ -218,5 +218,9 @@
                 </section>
             </div>
         @endif
+    @else
+        <p class="p-4 text-danger">
+            Lưu ý: Số đuôi ko nên là 0 hoặc 05, cho dù hiện tại có giàu có cỡ nào, thành công cỡ nào, cuối cùng cũng là 0, tứ đại giai không.
+        </p>
     @endif
 @endsection

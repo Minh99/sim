@@ -359,7 +359,9 @@ a {
         padding-bottom: 30px !important; } }
 
 .bg-main {
-    background-color: #df5151 !important;
+    background-color: #ffffff !important;
+    border-bottom: 1px solid black;
+    color: black !important;
 }
 
 .dropdown .dropdown-menu {

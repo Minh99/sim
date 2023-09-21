@@ -7,7 +7,7 @@
     <div class="site-mobile-menu-body"></div>
 </div>
 <div class="sticky-top bg-main">
-    <header class="site-navbar site-navbar-target" role="banner" style="font-size: 16px; font-weight: 600">
+    <header class="site-navbar site-navbar-target" role="banner" style="font-size: 14px; font-weight: 600">
         <div class="container">
             <div class="row align-items-center position-relative">
                 <div class="col-lg-5">
@@ -38,48 +38,48 @@
                                         <li class="dropdown-submenu">
                                             <a class="nav-link" tabindex="-1" href="#">195X</a>
                                             <ul class="dropdown-menu text-center">
-                                                @for($i = 1; $i < 10; $i++)
-                                                    <li><a class="nav-item" href="#">195{{ $i  }}</a></li>
+                                                @for($i = 0; $i < 10; $i++)
+                                                    <li><a class="nav-item" href="{{ route('sim-hop-nam-sinh', ['slug' => "195$i"])  }}">195{{ $i  }}</a></li>
                                                 @endfor
                                             </ul>
                                         </li>
                                         <li class="dropdown-submenu">
                                             <a class="nav-link" tabindex="-1" href="#">196X</a>
                                             <ul class="dropdown-menu text-center">
-                                                @for($i = 1; $i < 10; $i++)
-                                                    <li><a class="nav-item" href="#">196{{ $i  }}</a></li>
+                                                @for($i = 0; $i < 10; $i++)
+                                                    <li><a class="nav-item" href="{{ route('sim-hop-nam-sinh', ['slug' => "196$i"])  }}">196{{ $i  }}</a></li>
                                                 @endfor
                                             </ul>
                                         </li>
                                         <li class="dropdown-submenu">
                                             <a class="nav-link" tabindex="-1" href="#">197X</a>
                                             <ul class="dropdown-menu text-center">
-                                                @for($i = 1; $i < 10; $i++)
-                                                    <li><a class="nav-item" href="#">197{{ $i  }}</a></li>
+                                                @for($i = 0; $i < 10; $i++)
+                                                    <li><a class="nav-item" href="{{ route('sim-hop-nam-sinh', ['slug' => "197$i"])  }}">197{{ $i  }}</a></li>
                                                 @endfor
                                             </ul>
                                         </li>
                                         <li class="dropdown-submenu">
                                             <a class="nav-link" tabindex="-1" href="#">198X</a>
                                             <ul class="dropdown-menu text-center">
-                                                @for($i = 1; $i < 10; $i++)
-                                                    <li><a class="nav-item" href="#">198{{ $i  }}</a></li>
+                                                @for($i = 0; $i < 10; $i++)
+                                                    <li><a class="nav-item" href="{{ route('sim-hop-nam-sinh', ['slug' => "198$i"])  }}">198{{ $i  }}</a></li>
                                                 @endfor
                                             </ul>
                                         </li>
                                         <li class="dropdown-submenu">
                                             <a class="nav-link" tabindex="-1" href="#">199X</a>
                                             <ul class="dropdown-menu text-center">
-                                                @for($i = 1; $i < 10; $i++)
-                                                    <li><a class="nav-item" href="#">199{{ $i  }}</a></li>
+                                                @for($i = 0; $i < 10; $i++)
+                                                    <li><a class="nav-item" href="{{ route('sim-hop-nam-sinh', ['slug' => "199$i"])  }}">199{{ $i  }}</a></li>
                                                 @endfor
                                             </ul>
                                         </li>
                                         <li class="dropdown-submenu">
                                             <a class="nav-link" tabindex="-1" href="#">200X</a>
                                             <ul class="dropdown-menu text-center">
-                                                @for($i = 1; $i < 10; $i++)
-                                                    <li><a class="nav-item" href="#">200{{ $i  }}</a></li>
+                                                @for($i = 0; $i < 5; $i++)
+                                                    <li><a class="nav-item" href="{{ route('sim-hop-nam-sinh', ['slug' => "200$i"])  }}">200{{ $i  }}</a></li>
                                                 @endfor
                                             </ul>
                                         </li>
@@ -89,9 +89,9 @@
                         </ul>
                     </nav>
                 </div>
-                <div class="col-lg-2 text-center">
+                <div class="col-lg-2 text-center d-flex justify-items-center justify-content-around">
                     <div class="site-logo top-logo">
-                        <a href="{{ route('home')  }}"><img src="{{  asset('common/templates/site/images/logo_ngang.png')}}" alt="Bói sim kinh dịch"></a>
+                        <a href="{{ route('home')  }}"><img src="{{  asset('common/templates/site/images/logo_ngang1.png')}}" alt="Bói sim kinh dịch"></a>
                     </div>
                     <div class="ml-auto toggle-button d-inline-block d-lg-none">
                         <a href="#" class="site-menu-toggle py-5 js-menu-toggle text-black">

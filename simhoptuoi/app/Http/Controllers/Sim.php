@@ -58,7 +58,9 @@ class Sim extends Controller
             }
 
             if (!empty($duoi_sim) && !empty($value['sdt'])) {
-                if (strpos($value['sdt'], $duoi_sim) !== false) {
+                $aaa = str_replace('.', '', $value['sdt']);
+                $bbb = str_replace('.', '', $duoi_sim);
+                if (strpos($aaa, $bbb) !== false) {
                     $results[] = $value;
                     continue;
                 }
