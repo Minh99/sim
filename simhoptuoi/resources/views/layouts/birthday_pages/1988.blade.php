@@ -12,7 +12,7 @@
             <div class="siteBodyContent">
                 <div class="row">
                     <div class="col-md-12">
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Mau-Thin-sinh-nam-1988/37.html">Sim hợp tuổi 1988</a></strong></u> hiện nay theo quan niệm của nhiều người là dãy số điện thoại có 4 số cuối đại cát, tương ứng với linh số phong thủy. Sử dụng cuộc sống sẽ thăng quan tiến chức, thăng tiến như rồng gặp mây, cá gặp nước. Tuy nhiên theo chuyên gia, quan niệm này hoàn toàn sai lầm do 4 con số cuối không thể giúp quý bạn chọn được dãy số điện thoại hợp tuổi Mậu Thìn chính xác. Vậy tuổi mậu thìn hợp số điện thoại nào thì mời quý vị cùng <u><strong><a href="{{ route('home') }}">{{ $nameSite }} </a></strong></u> bàn giải chi tiết tại nội dung dưới đây.&nbsp;</span></span></p>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim hợp tuổi 1988 hiện nay theo quan niệm của nhiều người là dãy số điện thoại có 4 số cuối đại cát, tương ứng với linh số phong thủy. Sử dụng cuộc sống sẽ thăng quan tiến chức, thăng tiến như rồng gặp mây, cá gặp nước. Tuy nhiên theo chuyên gia, quan niệm này hoàn toàn sai lầm do 4 con số cuối không thể giúp quý bạn chọn được dãy số điện thoại hợp tuổi Mậu Thìn chính xác. Vậy tuổi mậu thìn hợp số điện thoại nào thì mời quý vị cùng <u><strong><a href="{{ route('home') }}">{{ $nameSite }} </a></strong></u> bàn giải chi tiết tại nội dung dưới đây.&nbsp;</span></span></p>
 
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="1-so-dien-thoai-hop-tuoi-1988-la-gi">1. Số điện thoại hợp tuổi 1988 là gì?</span></span></strong></span></h2>
 
@@ -125,8 +125,6 @@
                             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Kết luận: </strong>Phương pháp chọn sim phong thủy hợp tuổi 1988 theo ngũ hành là yếu tố trọng yếu góp phần giúp quý vị chọn được dãy sim tương hợp với bản mệnh. Tuy nhiên điều này cần áp dụng nguyên lý ngũ hành khá phức tạp, đòi hỏi quý bị phải là người có chuyên môn, kinh nghiệm trong lĩnh vực phong thủy.</span></span></p>
                         </blockquote>
 
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt;Xem chi tiết: <u><a href="https://simhoptuoi.com.vn/cach-tinh-ngu-hanh-cua-day-so-dien-thoai/314.html">Cách tính ngũ hành của dãy số điện thoại</a></u></span></span></strong></em></p>
-
                         <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">c. Chọn sim hợp tuổi 1988 Mậu Thìn theo Kinh dịch chính tông</span></strong></span></h3>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Số điện thoại hợp tuổi Mậu Thìn theo Kinh Dịch chính tông là dãy sim chứa quẻ dịch cát trong 64 quẻ Kinh Dịch. Hệ thống 64 quẻ kinh dịch được xác lập bởi sự ghép cặp của 8 quái biểu tượng cho tính cương nhu của 8 loại sự vật: Càn (Trời) tính mạnh; Khôn (mẹ) tính nhu thuận; Chấn (sấm sét) tính động; Tốn (gió) tính nhún; Cấn (núi) tính đậu; Đoài (đầm) tính đẹp; Ly (hỏa) khi thì sáng tỏ, khi thì trống rỗng còn Khảm (thủy) tính hiểm hung có khi lại đặc dày. .</span></span></p>
@@ -146,7 +144,7 @@
                         </ul>
 
                         <blockquote>
-                            <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Kết luận:</strong> Yếu tố quẻ dịch trong số điện thoại hợp tuổi 1988 được đánh giá là yếu tố trọng yếu có ý nghĩa giúp quý vị chọn được dãy sim tốt cho từng mục đích sử dụng như công danh, tài lộc, tình duyên, hóa giải vận hạn. Nhưng để thực hiện những điều này thì quý vị phải nắm được cách xác định quẻ dịch nội tại trong sim. Để giải quyết được thì quý vị có thể tham khảo bài <u><strong><a href="https://simhoptuoi.com.vn/tin-sim/cach-tinh-que-dich-so-dien-thoai.html">cách tính quẻ số điện thoại</a></strong></u> hoặc phần mềm <u><strong><a href="https://simhoptuoi.com.vn/tin-sim/xem-boi-sim-kinh-dich.html">sim kinh dịch</a></strong></u> của chúng tôi.&nbsp;</span></span></p>
+                            <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Kết luận:</strong> Yếu tố quẻ dịch trong số điện thoại hợp tuổi 1988 được đánh giá là yếu tố trọng yếu có ý nghĩa giúp quý vị chọn được dãy sim tốt cho từng mục đích sử dụng như công danh, tài lộc, tình duyên, hóa giải vận hạn. Nhưng để thực hiện những điều này thì quý vị phải nắm được cách xác định quẻ dịch nội tại trong sim.</span></span></p>
                         </blockquote>
 
                       
@@ -173,23 +171,11 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim hợp tuổi Mậu Thìn theo quan niệm dân gian là dãy sim có tổng nút cao, thế số đẹp. Cụ thể như sau:&nbsp;</span></span></p>
 
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">- <strong>Theo tổng nút:</strong> Đây là cách xác định sự đẹp xấu của các dãy số vốn đã tồn tại rất lâu trong dân gian. Theo đó bạn chỉ cần tính tổng các chữ số lại, chia cho 10 để xem phần dư là bao nhiêu. Kết quả đó càng cao càng tốt, đẹp nhất là từ 7 đến 10. Do đó dãy sim hợp tuổi mậu thìn 1988 có số nút từ 7 trở lên thì sẽ là một điểm cộng lớn. Xem chi tiết [<strong><u><a href="https://simhoptuoi.com.vn/cach-tinh-nut-sim-so-dien-thoai/308.html">cách tính nút số điện thoại</a></u>]</strong></span></span></p>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">- <strong>Theo tổng nút:</strong> Đây là cách xác định sự đẹp xấu của các dãy số vốn đã tồn tại rất lâu trong dân gian. Theo đó bạn chỉ cần tính tổng các chữ số lại, chia cho 10 để xem phần dư là bao nhiêu. Kết quả đó càng cao càng tốt, đẹp nhất là từ 7 đến 10. Do đó dãy sim hợp tuổi mậu thìn 1988 có số nút từ 7 trở lên thì sẽ là một điểm cộng lớn.</span></span></p>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>- Thế số đẹp</strong>: &nbsp;ngoài các yếu tố phong thủy còn cần phải tạo ấn tượng tốt, giúp chủ nhân thêm phần tự tin khi sử dụng với các thế đuôi số điện thoại hợp tuổi 1988 đẹp như: số tiến, tam hoa, tứ quý, các cặp số tài lộc (68, 86, 38, 78, 39, 79).</span></span></p>
 
                         <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Xem chi tiết ý nghĩa các cặp số đẹp nên xuất hiện trong sim số hợp tuổi Mậu Thìn:</span></span></strong></em></p>
-
-                        <ul>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-sim/so-than-tai-la-so-may.html">Số thần tài là số mấy</a></span></span></strong></u></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-sim/so-ong-dia-la-so-may.html">Số ông địa là số mấy</a></span></span></strong></u></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-sim/y-nghia-so-loc-phat-la-so-may.html">Số lộc phát là số mấy</a></span></span></strong></u></p>
-                            </li>
-                        </ul>
 
                         <p dir="ltr" style="text-align:justify"><em><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Ví dụ minh họa về dãy sim tốt cho quan niệm dân gian: 0936894894 (10 nút, xuất hiện bộ số 894894 Taxi; cặp số 68 Lộc Phát)</span></span></em></p>
 
@@ -424,8 +410,6 @@
                             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Đánh giá:</strong> cách chọn số điện thoại hợp tuổi 1988 không được chuyên gia đánh giá cao vì con số hợp tuổi chỉ phát huy khi đứng một mình, còn việc sử dụng trong sim không chính xác, quý bạn cần phải áp dụng tổng hòa 10 con số trong sim.</span></span></p>
                         </blockquote>
 
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Xem chi tiết: <u><a href="https://simhoptuoi.com.vn/tin-sim/tuoi-mau-thin-1988-hop-so-nao.html">1988 hợp số nào</a></u></span></span></strong></em></p>
-
                         <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">b. Chọn số điện thoại hợp tuổi 1988 theo Du Niên</span></strong></span></h3>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Du niên được hiểu nôm na là sự thay đổi các trường khí tốt - xấu tác động đến cuộc sống con người trong qua những sự vật hiện tượng. Trong đó số điện thoại cũng là một phần trong số đó. Theo Du Niên số điện thoại hợp với tuổi mậu thìn xuất hiện nhiều cặp số đẹp đại diện cho 4 cát tinh (Sinh Khí, Diên Niên, Thiên Y, Phục Vị) hơn các cặp số xấu đại diện cho 4 hung tinh (Ngũ Quỷ, Họa Hại, Tuyệt Mệnh, Lục Sát). Trong đó:</span></span></p>
@@ -551,8 +535,6 @@
                             </li>
                         </ul>
 
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Tham khảo ngay: <u><a href="https://simhoptuoi.com.vn/tin-sim/cach-xem-boi-phong-thuy-sim-chia-80.html">Sim chia 80</a></u></span></span></strong></em></p>
-
                         <p dir="ltr" style="text-align:justify"><em><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Ví dụ: Số điện thoại của bạn là 0971549794 có 4 số cuối là 9794</span></span></em></p>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">- Lấy 4 số cuối chia cho 80 được 122,425</span></span></p>
@@ -631,66 +613,6 @@
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Người tuổi Mậu Thìn tức tuổi con rồng, thường được gọi là Thanh Ôn Chi Long tức Rồng Trong Sạch, Ôn Hòa. Thuộc bản mệnh Mộc nạp âm <strong>Đại Lâm Mộc</strong> (cây gỗ lớn). Xét theo tử vi trọn đời thì cuộc đời của những người này không mấy phẳng phiu, nhiều lúc sẽ gặt hái thành công xuất sắc nhưng cũng không ít lần phải gặp khó khăn, thất bại. Nhìn chung xét về bình diện công danh thì sự nghiệp không được thuận lợi, đời sống chỉ dừng ở mức vừa đủ, không giàu sang phú quý cũng không nghèo khó túng thiếu. Ngoài ra chuyện tình cảm không lắm chuyện phải suy nghĩ, lo toan. Về hậu vận thì sẽ nhận được nhiều tín hiệu tốt, cuộc sống sẽ hanh thông thuận lợi hơn.</span></span></p>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Qua đó về nhiều người sinh năm 1988 hiện nay có xu hướng săn lùng những vật phẩm phong thủy với mục đích cải vận, xua đi xui rủi, đón cát khí may mắn. Trong đó sim hợp tuổi mậu thìn là một trong những vật phẩm được nhiều người lựa chọn. Nguyên nhân dãy sim luôn mang đến nguồn năng lượng phong thủy ổn định, không phải khai quang, trì trú hay phải tẩy uế thường xuyên như các vật phẩm tỳ hưu, thiềm thừ, đá phong thủy khác.&nbsp;</span></span></p>
-
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Nội dung hữu ích khác:&nbsp;</span></span></strong></em></p>
-
-                        <ul>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-tuc/han-tam-tai-tuoi-1988.html">1988 tam tai năm nào</a></span></span></strong></u></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-tuc/sinh-nam-1988-menh-gi.html">1988 cung mệnh gì</a></span></span></strong></u></p>
-                            </li>
-                        </ul>
-
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Simhoptuoi.com.vn tự hào là thương hiệu số 1 hiện nay về sim phong thủy hợp tuổi. Bạn có thể chọn <a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Mau-Thin-sinh-nam-1988/37.html">sim hợp tuổi 1988</a> Mậu Thìn theo phong thủy online qua website, tư vấn chọn số qua Hotline: 0766.139.189 hoặc tới cửa hàng tại 25 Tô Vĩnh Diện, Khương Trung, Thanh Xuân, Hà Nội. Kính chúng quý bạn vạn sự hanh thông, thành công đưa lối.</span></span></p>
-
-                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">THAM KHẢO SỐ ĐIỆN THOẠI HỢP TUỔI KHÁC</span></span></strong></p>
-
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
-                                <tbody>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Canh-Than-sinh-nam-1980/29.html">Sim hợp tuổi 1980</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-At-Suu-sinh-nam-1985/34.html">Sim hợp tuổi 1985</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Tan-Dau-sinh-nam-1981/30.html">Sim hợp tuổi 1981</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Binh-Dan-sinh-nam-1986/35.html">Sim hợp tuổi 1986</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Nham-Tuat-sinh-nam-1982/31.html">Sim hợp tuổi 1982</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Dinh-Mao-sinh-nam-1987/36.html">Sim hợp tuổi 1987</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Quy-Hoi-sinh-nam-1983/32.html">Sim hợp tuổi 1983</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Mau-Thin-sinh-nam-1988/37.html">Sim hợp tuổi 1988</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Giap-Ty-sinh-nam-1984/33.html">Sim hợp tuổi 1984</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Ky-Ty-sinh-nam-1989/38.html">Sim hợp tuổi 1989</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                </tbody>
-                            </table></div>
 
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span id="ngoai-ra-noi-dung-nay-giai-dap-nhung-van-de-sau">Ngoài ra nội dung này giải đáp những vấn đề sau:</span></span></span></strong></em></h2>
 

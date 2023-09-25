@@ -15,7 +15,7 @@
             <div class="siteBodyContent">
                 <div class="row">
                     <div class="col-md-12">
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Quy-Dau-sinh-nam-1993/42.html"><strong>Sim hợp tuổi 1993</strong></a></u> theo quan niệm nhiều nơi là dãy số điện thoại xuất hiện các con số 2, 5, 6, 7, 8. Tuy nhiên với chuyên gia phong thủy thì cách chọn số điện thoại hợp tuổi 1993 này là sai lầm vì một vài con số không thể quyết định hết ý nghĩa cả dãy sim. Trong khi sim phong thủy hợp tuổi 1993 mang đến nhiều may mắn, tài lộc, giúp giảm thiểu vận xấu từ sao chiếu mệnh, tăng điềm lành phù trợ cho chủ nhân. Điều này đòi hỏi quý vị phải nắm được cách chọn chính xác. Vậy sinh năm 1993 hợp số điện thoại nào, simhoptuoi.com.vn sẽ bàn giải chi tiết tại nội dung dưới đây.</span></span></p>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim hợp tuổi 1993 theo quan niệm nhiều nơi là dãy số điện thoại xuất hiện các con số 2, 5, 6, 7, 8. Tuy nhiên với chuyên gia phong thủy thì cách chọn số điện thoại hợp tuổi 1993 này là sai lầm vì một vài con số không thể quyết định hết ý nghĩa cả dãy sim. Trong khi sim phong thủy hợp tuổi 1993 mang đến nhiều may mắn, tài lộc, giúp giảm thiểu vận xấu từ sao chiếu mệnh, tăng điềm lành phù trợ cho chủ nhân. Điều này đòi hỏi quý vị phải nắm được cách chọn chính xác. Vậy sinh năm 1993 hợp số điện thoại nào, simhoptuoi.com.vn sẽ bàn giải chi tiết tại nội dung dưới đây.</span></span></p>
 
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="1-tong-quan-ve-nguoi-tuoi-quy-dau-1993">1. Tổng quan về người tuổi Quý Dậu 1993</span></span></strong></span></h2>
 
@@ -25,15 +25,6 @@
                             <span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim hợp tuổi 1993 là dòng sim hội tụ các yếu tố phong thủy cát lợi, phù hợp riêng với bát tự ngày tháng năm sinh của người tuổi Quý Dậu. Với nguồn năng lượng tốt lành sẵn có bên trong sẽ giúp chủ nhân gặp nhiều may mắn, cải thiện các mối quan hệ hòa thuận hơn. Hơn nữa, chiếc sim bé nhỏ này lại vô cùng dễ sử dụng, năng lượng ổn định, gắn kết với mọi công việc, càng sử dụng thường xuyên thì càng giải phóng cát khí của số điện thoại hợp tuổi 1993.&nbsp;</span></span></p>
 
                         <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Ngoài sim hợp tuổi 1993 thì màu sắc, ngành nghề cũng là một yếu tố giúp gia chủ gặp nhiều may mắn nếu ứng dụng đúng cách.</span></span></strong></em></p>
-
-                        <ul>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-tuc/tuoi-quy-dau-1993-hop-mau-gi.html">Sinh năm 1993 hợp màu gì</a></span></span></strong></u></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tuoi-quy-dau-hop-voi-nghe-gi.html">Tuổi Quý Dậu hợp nghề gì</a></span></span></strong></u></p>
-                            </li>
-                        </ul>
 
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="2-so-dien-thoai-hop-tuoi-1993-la-gi">2. Số điện thoại hợp tuổi 1993 là gì?</span></span></strong></span></h2>
 
@@ -141,8 +132,6 @@
                                 <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Hỏa khắc Kim. </strong>Tránh sử dụng sim thuộc hành Hỏa vì nếu sử dụng sim mệnh Hỏa thời gian dài có thể khiến chủ mệnh Quý Dậu gặp nhiều khó khăn, công việc đi vào ngõ cụt.&nbsp;</span></span></p>
                             </li>
                         </ul>
-
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">►►► Xem chi tiết: <u><a href="https://simhoptuoi.com.vn/tin-sim/cach-tinh-ngu-hanh-cua-day-so-dien-thoai.html">Cách tính ngũ hành dãy số điện thoại</a></u></span></span></strong></em></p>
 
                         <h4 dir="ltr" style="text-align:justify"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">b.2. Nội tại sim phong thủy hợp tuổi 1993 mang cát khí</span></span></strong></h4>
 
@@ -529,7 +518,7 @@
                         </ul>
 
                         <blockquote>
-                            <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Kết luận:</strong> Yếu tố quẻ dịch trong dãy sim hợp tuổi 1993 là yếu tố quan trọng giúp quý vị chọn được dãy số điện thoại có nội tại cát lợi theo từng mục đích sử dụng khác nhau. Tuy nhiên cách tính quẻ dịch khá phức tạp, quý vị phải mất khá nhiều thời gian nghiên cứu. Để giảm trừ điểm hạn chế này thì mời sử dụng ngay phần mềm <u><strong><a href="https://simhoptuoi.com.vn/tin-sim/xem-boi-sim-kinh-dich.html">SIM KINH DỊCH</a></strong></u> của {{ $nameSite }} </span></span></p>
+                            <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Kết luận:</strong> Yếu tố quẻ dịch trong dãy sim hợp tuổi 1993 là yếu tố quan trọng giúp quý vị chọn được dãy số điện thoại có nội tại cát lợi theo từng mục đích sử dụng khác nhau.</span></span></p>
                         </blockquote>
 
 
@@ -558,23 +547,7 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">-<strong> Tổng số nút sim điện thoại: </strong>con số hàng đơn vị của phép tổng 10 con số trong dãy sim. Theo quan niệm dân gian, ý nghĩa may mắn của sim tỷ lệ thuận với tổng số nút. Vì thế, khi tìm 1993 hợp số điện thoại nào thì người tuổi Quý Dậu nên chọn dãy sim có tổng số nút từ 7 trở lên, điểm nút 10 là hoàn hảo nhất.&nbsp;</span></span></p>
 
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">►►► Xem chi tiết: <u><a href="https://simhoptuoi.com.vn/tin-sim/cach-tinh-nut-sim-so-dien-thoai.html">Cách tính nút số điện thoại</a></u></span></span></strong></em></p>
-
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">- <strong>Bộ số đặc biệt trong dân gian </strong>mang ý nghĩa may mắn, tài lộc được dân gian quan niệm như số 39 - thần tài nhỏ, 79 - thần tài lớn, 38 - ông địa nhỏ, 78 - ông địa lớn, 68 - lộc phát, 86 - phát lộc, 83 - phát tài… Hoặc các bộ số tam hoa, tứ quý, ngũ quý, lục quý, tiến lên 6789 - san bằng tất cả, 01234 - tay trắng tiến đến thành công… xuất hiện trong sim càng tạo nên sự ấn tượng cho sim phong thuỷ hợp tuổi 1993.&nbsp;</span></span></p>
-
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">►►►Xem chi tiết ý nghĩa các cặp số đẹp trên:</span></span></strong></em></p>
-
-                        <ul>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/so-than-tai-la-so-may/335.html">Số thần tài</a></span></span></strong></u></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/so-ong-dia-la-so-may/346.html">Số ông địa</a></span></span></strong></u></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/y-nghia-so-loc-phat-la-so-may/344.html">Số lộc phát</a></span></span></strong></u></p>
-                            </li>
-                        </ul>
 
                         <p dir="ltr" style="text-align:justify"><em><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Ví dụ một số dãy sim hợp tuổi Quý Hợi theo quan niệm dân gian:</span></span></em></p>
 
@@ -645,8 +618,6 @@
                         <blockquote>
                             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Đánh giá:</strong> Với cách xem chỉ cần nhìn bằng mắt, không cần tính toán, nên được không ít người áp dụng. Tuy nhiên con số hợp tuổi chỉ đúng ý nghĩa khi đứng độc lập. Còn trong dãy sim thì sẽ có sự tác động qua lại của các con số, ta không thể xác định được năng lượng bên trong sim phong thuỷ hợp tuổi 1993 đang kìm hãm hay thúc đẩy nhau cùng cát lợi.&nbsp;</span></span></p>
                         </blockquote>
-
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Xem chi tiết: <u><a href="https://simhoptuoi.com.vn/tin-sim/tuoi-quy-dau-1993-hop-so-nao.html">1993 hợp số nào</a></u></span></span></strong></em></p>
 
                         <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">b. Sinh năm 1993 hợp số điện thoại nào theo du niên</span></strong></span></h3>
 
@@ -772,33 +743,6 @@
             <div class="siteBodyContent">
                 <div class="row">
                     <div class="col-md-12">
-                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">THAM KHẢO SỐ ĐIỆN THOẠI HỢP TUỔI KHÁC</span></span></strong></p>
-
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" dir="ltr" style="width:100%">
-                                <tbody>
-                                <tr>
-                                    <td style="text-align:center"><u><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Canh-Ngo-sinh-nam-1990/39.html" target="_blank">Số điện thoại hợp tuổi 1990</a></strong></span></span></u></td>
-                                    <td style="text-align:center"><u><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-At-Hoi-sinh-nam-1995/44.html" target="_blank">Số điện thoại hợp tuổi 1995</a></strong></span></span></u></td>
-                                </tr>
-                                <tr>
-                                    <td style="text-align:center"><u><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Tan-Mui-sinh-nam-1991/40.html" target="_blank">Số điện thoại hợp tuổi 1991</a></strong></span></span></u></td>
-                                    <td style="text-align:center"><u><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Binh-Ty-sinh-nam-1996/45.html" target="_blank">Số điện thoại hợp tuổi 1996</a></strong></span></span></u></td>
-                                </tr>
-                                <tr>
-                                    <td style="text-align:center"><u><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Nham-Than-sinh-nam-1992/41.html" target="_blank">Số điện thoại hợp tuổi 1992</a></strong></span></span></u></td>
-                                    <td style="text-align:center"><u><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Dinh-Suu-sinh-nam-1997/46.html" target="_blank">Số điện thoại hợp tuổi 1997</a></strong></span></span></u></td>
-                                </tr>
-                                <tr>
-                                    <td style="text-align:center"><u><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Quy-Dau-sinh-nam-1993/42.html" target="_blank">Số điện thoại hợp tuổi 1993</a></strong></span></span></u></td>
-                                    <td style="text-align:center"><u><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><a href="https://simhoptuoi.com.vn/sim-hop-tuoi-mau-dan-1998/166.html" target="_blank">Số điện thoại hợp tuổi 1998</a></strong></span></span></u></td>
-                                </tr>
-                                <tr>
-                                    <td style="text-align:center"><u><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Giap-Tuat-sinh-nam-1994/43.html" target="_blank">Số điện thoại hợp tuổi 1994</a></strong></span></span></u></td>
-                                    <td style="text-align:center"><u><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><a href="https://simhoptuoi.com.vn/sim-hop-tuoi-ky-mao-1999/168.html" target="_blank">Số điện thoại hợp tuổi 1999</a></strong></span></span></u></td>
-                                </tr>
-                                </tbody>
-                            </table></div>
-
                         <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Ngoài ra, bài luận của chúng tôi còn giải đáp những câu hỏi sau:</span></span></strong></em></p>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">- tuổi quý dậu hợp số điện thoại</span></span></p>

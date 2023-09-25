@@ -9,6 +9,14 @@ use Illuminate\Routing\Controller as BaseController;
 
 class Controller extends BaseController
 {
+    public $nguHanhHopMenh = [
+        'Kim' => ['Thổ', 'Kim'],
+        'Thủy' => ['Kim', 'Thủy'],
+        'Mộc' => ['Thủy', 'Mộc'],
+        'Hỏa' => ['Mộc', 'Hỏa'],
+        'Thổ' => ['Hỏa', 'Thổ'],
+    ];
+    
     public $cungPhi = [
         1924 => ['Giáp Tý', 'Kim', 'Tốn', 'Khôn'],
         1925 => ['Ất Sửu', 'Kim', 'Chấn', 'Chấn'],

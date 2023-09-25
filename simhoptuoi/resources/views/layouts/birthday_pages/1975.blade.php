@@ -12,7 +12,7 @@
             <div class="siteBodyContent">
                 <div class="row">
                     <div class="col-md-12">
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Các <u><a href="https://simhoptuoi.com.vn/Huong-dan-mua-sim-hop-tuoi-1975-mang-nhieu-may-man/103.html"><strong>số điện thoại hợp tuổi Ất Mão 1975</strong></a></u> có thể giúp cho những người tuổi Ất Mão thoát khỏi tà khí và cải thiện vận hạn. Do đó, những số sim phong thủy hợp tuổi 1975 đang được tìm kiếm và sử dụng rộng rãi. Tuy nhiên, để chọn được sim hợp tuổi ất mão phù hợp, tuổi Ất Mão cần hiểu rõ về các phương pháp bói sim để đảm bảo tính hiệu quả và chính xác.&nbsp;</span></span></p>                    </div>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Các <u><strong>số điện thoại hợp tuổi Ất Mão 1975</strong></u> có thể giúp cho những người tuổi Ất Mão thoát khỏi tà khí và cải thiện vận hạn. Do đó, những số sim phong thủy hợp tuổi 1975 đang được tìm kiếm và sử dụng rộng rãi. Tuy nhiên, để chọn được sim hợp tuổi ất mão phù hợp, tuổi Ất Mão cần hiểu rõ về các phương pháp bói sim để đảm bảo tính hiệu quả và chính xác.&nbsp;</span></span></p>                    </div>
                 </div>
             </div>
         </div>
@@ -130,8 +130,6 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Trong trường không chọn được 2 quẻ đều cát thì phải có ít nhất một tốt theo mục đích sử dụng như tốt cho công việc, tài lộc hay tốt cho tình cảm, con cái, gia đạo,... Còn nếu cả hai quẻ đều hung thì tuổi 1975 nên thay số điện thoại khác nhằm giảm bớt vận hạn xấu.&nbsp;</span></span></p>
 
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Sử dụng ngay phần mềm [<u><a href="https://simhoptuoi.com.vn/tin-sim/xem-boi-sim-kinh-dich.html">BÓI SIM KINH DỊCH</a></u>] để luận đoán hung cát số điện thoại đang dùng theo #64 quẻ kinh dịch</span></span></strong></em></p>
-
                         <h3 dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">3.3 Chọn số điện thoại hợp tuổi ất mão 1975 theo du niên</span></span></strong></em></h3>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Chọn sim hợp tuổi Ất Mão theo Du Niên tức là người dùng chia 10 số trong sim thành 5 cặp số liên tiếp và đối chiếu với tám cung trong du niên. Trong đó:</span></span></p>
@@ -204,7 +202,7 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">+ <u><strong><a href="{{ route('menu-page', ['slug' => 'sim_tinh_duyen_gia_dao']) }}">Sim kích tình duyên gia đạo</a></strong></u>: 0918.001.266, 0362.662.999, 0522.000.999, 0818.001.020, 0988.86.0660, 0792732222,...</span></span></p>
 
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Gia chủ Ất Mão nên kết hợp đầy đủ 5 yếu tố về âm dương - ngũ hành - cửu tinh - kinh dịch - quan niệm dân gian trong chọn <strong>số điện thoại hợp tuổi ất mão 1975</strong>. Số sim phù hợp sẽ hỗ trợ bản mệnh hóa giải vận đen, kích cầu may mắn, tài lộc. Ngoài ra, để tiết kiệm thời gian và tiện lợi, tuổi 1975 có thể lựa chọn phần mềm tìm sim tại{{ $namSite }}.</span></span></p>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Gia chủ Ất Mão nên kết hợp đầy đủ 5 yếu tố về âm dương - ngũ hành - cửu tinh - kinh dịch - quan niệm dân gian trong chọn <strong>số điện thoại hợp tuổi ất mão 1975</strong>. Số sim phù hợp sẽ hỗ trợ bản mệnh hóa giải vận đen, kích cầu may mắn, tài lộc. Ngoài ra, để tiết kiệm thời gian và tiện lợi, tuổi 1975 có thể lựa chọn phần mềm tìm sim tại {{ $nameSite }}.</span></span></p>
                     </div>
                 </div>
             </div>

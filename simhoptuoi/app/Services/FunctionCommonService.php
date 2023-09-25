@@ -315,7 +315,7 @@ class FunctionCommonService {
                 }
 
                 $item['diem_van'] = 0;
-                if (str_contains($item['van_content'], 'TỐT')) {
+                if (str_contains($item['van_content'], 'TỐT')) {
                     $item['diem_van'] = 1;
                 }
 

@@ -12,18 +12,13 @@
             <div class="siteBodyContent">
                 <div class="row">
                     <div class="col-md-12">
-                        <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Người tuổi Kỷ Mão đang tìm kiếm <u><strong><a href="https://simhoptuoi.com.vn/sim-hop-tuoi-ky-mao-1999/168.html">sinh năm 1999 hợp với số điện thoại nào</a></strong></u>? Đáp án chính là một số sim hội tụ nguồn năng lượng phong thủy cát lợi và phù hợp riêng với bát tự ngày sinh của tuổi 1999. Nói cách khác thì chính là sim phong thủy hợp tuổi 1999, một vật phẩm phong thủy hiện đại có tính cá nhân hóa cao, bổ trợ may mắn, cơ hội phát triển bản thân cho tuổi Kỷ Mão. Để tìm hiểu chuyên sâu hơn về dòng sim này thì mời quý bạn theo dõi bài viết, đồng thời có thể chọn cho bản thân một <strong>số điện thoại hợp tuổi Kỷ Mão </strong>qua bảng sim dưới đây.&nbsp;</span></span></p>
-
+                        <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Người tuổi Kỷ Mão đang tìm kiếm sinh năm 1999 hợp với số điện thoại nào? Đáp án chính là một số sim hội tụ nguồn năng lượng phong thủy cát lợi và phù hợp riêng với bát tự ngày sinh của tuổi 1999. Nói cách khác thì chính là sim phong thủy hợp tuổi 1999, một vật phẩm phong thủy hiện đại có tính cá nhân hóa cao, bổ trợ may mắn, cơ hội phát triển bản thân cho tuổi Kỷ Mão. Để tìm hiểu chuyên sâu hơn về dòng sim này thì mời quý bạn theo dõi bài viết, đồng thời có thể chọn cho bản thân một <strong>số điện thoại hợp tuổi Kỷ Mão </strong>qua bảng sim dưới đây.&nbsp;</span></span></p>
                     </div>
                 </div>
             </div>
         </div>
 
-
-
-
         <p class="h3 text-center">Bảng sim hợp tuổi 1999</p>
-
 
         <!-- khi vào link page sẽ tự động scroll xuống phần bảng sim -->
         @if (count($data) > 0)
@@ -79,17 +74,6 @@
 
                         <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim phong thủy hợp tuổi 1999 là dòng sim hội tụ vận khí phong thủy cát lợi với riêng bát tự ngày sinh của người sinh năm 1999. Lấy bản mệnh tuổi Kỷ Mão làm trung tâm, nguồn năng lượng của vũ trụ tụ lại trong các con số sim sẽ giúp chủ nhân kích hoạt vận khí tốt lành, tăng may mắn, tài lộc. Điểm vượt trội của chiếc số điện thoại hợp tuổi 1999 nhỏ bé là vô cùng dễ dàng sử dụng, có thể đem theo trong bất kỳ công việc nào. Hơn nữa càng sử dụng sim thường xuyên thì càng giải phóng được vượng khí bên trong của các con số.&nbsp;</span></span></p>
 
-                        <p dir="ltr" style="text-align: justify;"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Nội dung hữu ích khác:&nbsp;</span></span></strong></em></p>
-
-                        <ul>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align: justify;"><u><strong><a href="https://simhoptuoi.com.vn/tin-tuc/han-tam-tai-tuoi-1999.html"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">1999 tam tai năm nào</span></span></a></strong></u></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align: justify;"><u><strong><a href="https://simhoptuoi.com.vn/tin-tuc/nam-nu-tuoi-ky-mao-sinh-nam-1999-cung-gi.html"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">1999 cung mệnh gì</span></span></a></strong></u></p>
-                            </li>
-                        </ul>
-
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="color:#FF0000"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span id="ii-bi-quyet-xem-sinh-nam-1999-hop-voi-so-dien-thoai-nao-chuan-phong-thuy">II. Bí quyết xem sinh năm 1999 hợp với số điện thoại nào chuẩn phong thủy</span></span></span></strong></span></h2>
 
                         <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Số điện thoại hợp tuổi Kỷ Mão 1999 là dãy sim hội tụ nguồn năng lượng ngũ hành tương hợp bản mệnh, âm dương cân bằng, quẻ dịch tốt, có yếu tố thiên thời và may mắn trong quan niệm dân gian. Để tìm được số sim như vậy thì mời quý bạn theo dõi nội dung phân tích chi tiết sau đây.&nbsp;</span></span></p>
@@ -110,12 +94,8 @@
 
                         <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Người sinh năm 1999 bản mệnh Thành Đầu Thổ cần Hỏa tương sinh, Thổ tương trợ và bị khắc bởi Mộc. Do đó, số điện thoại hợp tuổi Kỷ Mão có ngũ hành Hỏa là dãy sim lý tưởng nhất, giúp chủ nhân nhận được sinh khí, tăng may mắn, cải thiện vận số. Tiếp theo là dãy sim có ngũ hành Thổ sẽ giúp chủ mệnh 1999 ổn định cuộc sống, mọi việc hanh thông. Ngược lại, tuổi Kỷ Mão sử dụng số sim ngũ hành Mộc lâu dài có thể kéo về nhiều tác động xấu, ảnh hưởng đến cuộc sống thường nhật.&nbsp;</span></span></p>
 
-                        <p dir="ltr" style="text-align: justify;"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Xem chi tiết: <u><a href="https://simhoptuoi.com.vn/tin-sim/cach-tinh-ngu-hanh-cua-day-so-dien-thoai.html">Cách tính ngũ hành của số điện thoại</a></u></span></span></strong></em></p>
 
-
-
-                        <p dir="ltr" style="text-align: center;"><a href="https://simhoptuoi.com.vn/Sim-hop-menh-Tho.html"><img alt="sim hợp mệnh thổ" src="https://simhoptuoi.com.vn/media/images/news/168/sim-hop-menh-tho.png"></a></p>
-
+                        <p dir="ltr" style="text-align: center;"><a href="{{ route('menu-page', ['slug' => 'sim_menh_tho']) }}"><img alt="sim hợp mệnh thổ" src="https://simhoptuoi.com.vn/media/images/news/168/sim-hop-menh-tho.png"></a></p>
 
 
                         <h3 dir="ltr" style="text-align: justify;"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">2. Theo Âm Dương sinh năm 1999 hợp với số điện thoại nào?</span></span></strong></em></h3>
@@ -132,10 +112,6 @@
 
                         <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim hợp tuổi 1999 tốt nhất là có quẻ chủ và quẻ hỗ có ý nghĩa cát hoặc đại cát. Trường hợp tốt tiếp theo là dãy sim có quẻ dịch bình hòa. Còn những dãy sim có quẻ dịch hung/ đại hung thì tuổi Kỷ Mão nên tránh, nhằm giảm hung khí xấu, gây rắc rối phiền não tới cuộc sống.&nbsp;</span></span></p>
 
-                        <p dir="ltr" style="text-align: justify;"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Xem chi tiết: <u><a href="https://simhoptuoi.com.vn/tin-sim/cach-tinh-que-dich-so-dien-thoai.html">Cách lập quẻ số điện thoại</a></u></span></span></strong></em></p>
-
-                        <p dir="ltr" style="text-align: center;"><a href="https://simhoptuoi.com.vn/tin-sim/xem-boi-sim-kinh-dich.html"><img alt="sim kinh dịch" src="https://simhoptuoi.com.vn/media/images/news/168/sim-kinh-dich.png"></a></p>
-
                         <h3 dir="ltr" style="text-align: justify;"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">4. Chọn sim phong thủy hợp tuổi 1999 theo Cửu Tinh Đồ Pháp</span></span></strong></em></h3>
 
                         <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Yếu tố thiên thời trong đáp án 1999 hợp số điện thoại nào sẽ được nhận biết thông qua con số hiện thân của chính tinh cai quản thời vận đang sống. Chiếu theo bộ môn Tam nguyên Cửu vận, giai đoạn từ năm 2004 đến năm 2023 là thời kỳ Hạ nguyên Bát vận, sao Tả Phù cai quản với số hiện thân là số 8. Do đó, sim hợp tuổi 1999 có vận khí thiên thời là dãy sim có chứa&nbsp; số 8.&nbsp;</span></span></p>
@@ -150,19 +126,6 @@
 
                         <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Để kiểm tra số điện thoại bạn đang quan tâm có phải sim phong thủy hợp tuổi 1999 hay không, hoặc chấm điểm mức độ hợp khắc của một dãy sim bất kỳ với bản mệnh 1999 thì quý bạn có thể truy cập phần mềm <u><strong><a href="{{ route('boi-sim') }}">XEM PHONG THỦY SIM</a></strong></u>. Đây là công cụ được các chuyên gia tích hợp yếu tố phong thủy sim với công nghệ tiên tiến giúp phân tích giá trị phong thủy của sim chính xác, chi tiết và nhanh chóng.&nbsp;&nbsp;</span></span></p>
 
-                        <p dir="ltr" style="text-align: justify;"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Xem chi tiết:</span></span></strong></em></p>
-
-                        <ul>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align: justify;"><a href="https://simhoptuoi.com.vn/tin-sim/y-nghia-so-loc-phat-la-so-may.html"><u><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Số lộc phát</span></span></strong></em></u></a></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align: justify;"><a href="https://simhoptuoi.com.vn/tin-sim/so-than-tai-la-so-may.html"><u><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Số thần tài</span></span></strong></em></u></a></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align: justify;"><a href="https://simhoptuoi.com.vn/tin-sim/so-ong-dia-la-so-may.html"><u><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Số ông địa</span></span></strong></em></u></a></p>
-                            </li>
-                        </ul>
 
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="color:#FF0000"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span id="iii-nhung-sai-lam-khi-xem-sinh-nam-1999-hop-voi-so-dien-thoai-nao">III. Những sai lầm khi xem sinh năm 1999 hợp với số điện thoại nào</span></span></span></strong></span></h2>
 
@@ -178,8 +141,6 @@
 
                         <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Cách xem 1999 hợp số điện thoại nào theo số hợp tuổi khá đơn giản, không cần tính toán nên được nhiều người áp dụng. Tuy nhiên dùng số hợp tuổi 1999 để chọn sim phong thủy hợp tuổi không được chuyên gia đánh giá cao. Vì giá trị của mỗi con số hợp tuổi chỉ đúng khi đứng độc lập, trong dãy số thì các con số sẽ có sự tương tác lẫn nhau. Theo đó, tần số xuất hiện nhiều của con số hợp tuổi không thể xác định được tổng hòa 10 con số trong sim hợp tuổi 1999.</span></span></p>
 
-                        <p dir="ltr" style="text-align: justify;"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Chi tiết: <u><a href="https://simhoptuoi.com.vn/tin-sim/tuoi-ky-mao-1999-hop-so-nao.html">1999 hợp số nào</a></u></span></span></strong></em></p>
-
                         <h3 dir="ltr" style="text-align: justify;"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">2. Chọn sim hợp tuổi 1999 Kỷ Mùi theo du niên</span></span></strong></em></h3>
 
                         <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Vận dụng du niên vào tìm đáp án sinh năm 1999 hợp số điện thoại nào theo ý nghĩa của từng cặp số liên tiếp trong dãy sim thuộc chòm sao nào. Trong đó có 4 chòm sao tốt là sinh khí, diên niên, thiên y, phục vị, và 4 chòm sao xấu là tuyệt mệnh, lục sát, ngũ quỷ, họa hại.&nbsp;</span></span></p>
@@ -192,15 +153,11 @@
 
                         <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Thực chất ý nghĩa 3 số cuối điện thoại đẹp chỉ là một yếu tố may mắn trong quan niệm dân gian khi xem sim hợp tuổi 1999 đã phân tích ở mục II.5. Ba số cuối điện thoại chỉ xét được 30% giá trị của sim cũng như hình thức bên ngoài của dãy sim.</span></span></p>
 
-                        <p dir="ltr" style="text-align: justify;"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Xem chi tiết: <u><a href="https://simhoptuoi.com.vn/tin-sim/tra-cuu-y-nghia-3-so-duoi-dien-thoai.html">Ý nghĩa 3 số cuối điện thoại</a></u></span></span></strong></em></p>
-
                         <h3 dir="ltr" style="text-align: justify;"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">4. Chọn sim phong thủy hợp tuổi 1999 theo cách chia 80</span></span></strong></em></h3>
 
                         <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Cách chia 80 được nhiều người áp dụng vào phân tích số điện thoại để tìm ý nghĩa hung cát sim hợp tuổi 1999. Người dùng chỉ cần lấy 4 số cuối điện thoại chia cho 80, rồi trừ đi phần nguyên, nhân ngược lại với 80. Kết quả cuối cùng đem đối chiếu vào bảng ý nghĩa 81 linh số phong thủy để tìm được 1999 hợp số điện thoại nào.&nbsp;</span></span></p>
 
                         <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Tuy nhiên cách chia 80 thực chất là dựa vào 4 số cuối điện thoại để xem phong thủy sim. Do đó, phương pháp này cũng không được chuyên gia đánh giá cao về tính chính xác tương tự như cách dựa vào 3 số cuối ở trên. Hơn nữa, cách chia 80 chỉ được dân gian truyền tụng, biến tấu theo ý nghĩa 81 linh số phong thủy, chưa có cơ sở nghiên cứu chứng thực tính đúng sai.&nbsp;</span></span></p>
-
-                        <p dir="ltr" style="text-align: justify;"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Xem chi tiết: <u><a href="https://simhoptuoi.com.vn/tin-sim/cach-xem-boi-phong-thuy-sim-chia-80.html">Sim chia 80</a></u></span></span></strong></em></p>
 
                         <p dir="ltr" style="text-align: center;"><a href="{{ route('boi-sim-4-so') }}"><img alt="phong thủy sim 4 số cuối" src="https://simhoptuoi.com.vn/media/images/news/168/phong-thuy-4-so-cuoi-dien-thoai.png"></a></p>
 
@@ -213,59 +170,6 @@
                         <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Tìm sim phong thủy hợp tuổi 1999 tới ngay <strong><a href="{{ route('home') }}">{{ $nameSite }} </a></strong> - Thương hiệu số 1 trên thị trường hiện nay và sim phong thủy. Tại đây chúng tôi đã ứng dụng 5 yếu tố phong thủy ngũ hành, âm dương, quẻ dịch, thiên thời, quan niệm dân gian để giúp quý bạn chọn được 1999 hợp số điện thoại nào chính xác nhất.</span></span></p>
 
                         <p dir="ltr" style="text-align: right;"><em><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Biên tập từ đội ngũ chuyên gia của Sim Hợp Tuổi!</span></span></em></p>
-
-
-
-                        <p dir="ltr" style="text-align: center;"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">THAM KHẢO SIM HỢP TUỔI KHÁC</span></span></strong></p>
-
-
-
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
-                                <tbody>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align: center;"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Canh-Ngo-sinh-nam-1990/39.html">Sim hợp tuổi 1990</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align: center;"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-At-Hoi-sinh-nam-1995/44.html">Sim hợp tuổi 1995</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align: center;"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Tan-Mui-sinh-nam-1991/40.html">Sim hợp tuổi 1991</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align: center;"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Binh-Ty-sinh-nam-1996/45.html">Sim hợp tuổi 1996</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align: center;"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Nham-Than-sinh-nam-1992/41.html">Sim hợp tuổi 1992</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align: center;"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Dinh-Suu-sinh-nam-1997/46.html">Sim hợp tuổi 1997</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align: center;"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Quy-Dau-sinh-nam-1993/42.html">Sim hợp tuổi 1993</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align: center;"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/sim-hop-tuoi-mau-dan-1998/166.html">Sim hợp tuổi 1998</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align: center;"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Giap-Tuat-sinh-nam-1994/43.html">Sim hợp tuổi 1994</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align: center;"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/sim-hop-tuoi-ky-mao-1999/168.html">Sim hợp tuổi 1999</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                </tbody>
-                            </table></div>
-
-
                     </div>
                 </div>
             </div>

@@ -80,7 +80,7 @@
                         </div>
                         <div class="row">
                             <div class="col-12 col-md-12 col-sm-12 col-xs-12 text-center">
-                                <button id="btn_xem_nam_sinh" class="btn_xemngay" type="button"><span>Sim phong thủy hợp tuổi</span></button>
+                                <button id="btn_xem_nam_sinh" class="btn_xemngay bg-danger" type="button"><span>Sim phong thủy hợp tuổi</span></button>
                             </div>
                         </div>
                     </form>
@@ -328,6 +328,115 @@
         </div>
 
         <script>
+             const cungPhi = {
+                1924 : ['Giáp Tý', 'Kim', 'Tốn', 'Khôn'],
+                1925 : ['Ất Sửu', 'Kim', 'Chấn', 'Chấn'],
+                1926 : ['Bính Dần', 'Hỏa', 'Khôn', 'Tốn'],
+                1927 : ['Đinh Mão', 'Hỏa', 'Khảm', 'Cấn'],
+                1928 : ['Mậu Thìn', 'Mộc', 'Ly', 'Càn'],
+                1929 : ['Kỷ Tỵ', 'Mộc', 'Cấn', 'Đoài'],
+                1930 : ['Canh Ngọ', 'Thổ', 'Đoài', 'Cấn'],
+                1931 : ['Tân Mùi', 'Thổ', 'Càn', 'Ly'],
+                1932 : ['Nhâm Thân', 'Kim', 'Khôn', 'Khảm'],
+                1933 : ['Quý Dậu', 'Kim', 'Tốn', 'Khôn'],
+                1934 : ['Giáp Tuất', 'Hỏa', 'Chấn', 'Chấn'],
+                1935 : ['Ất Hợi', 'Hỏa', 'Khôn', 'Tốn'],
+                1936 : ['Bính Tý', 'Thủy', 'Khảm', 'Cấn'],
+                1937 : ['Đinh Sửu', 'Thủy', 'Ly', 'Càn'],
+                1938 : ['Mậu Dần', 'Thổ', 'Cấn', 'Đoài'],
+                1939 : ['Kỷ Mão', 'Thổ', 'Đoài', 'Cấn'],
+                1940 : ['Canh Thìn', 'Kim', 'Càn', 'Ly'],
+                1941 : ['Tân Tỵ', 'Kim', 'Khôn', 'Khảm'],
+                1942 : ['Nhâm Ngọ', 'Mộc', 'Tốn', 'Khôn'],
+                1943 : ['Quý Mùi', 'Mộc', 'Chấn', 'Chấn'],
+                1944 : ['Giáp Thân', 'Thủy', 'Khôn', 'Tốn'],
+                1945 : ['Ất Dậu', 'Thủy', 'Khảm', 'Cấn'],
+                1946 : ['Bính Tuất', 'Thổ', 'Ly', 'Càn'],
+                1947 : ['Đinh Hợi', 'Thổ', 'Cấn', 'Đoài'],
+                1948 : ['Mậu Tý', 'Hỏa', 'Đoài', 'Cấn'],
+                1949 : ['Kỷ Sửu', 'Hỏa', 'Càn', 'Ly'],
+                1950 : ['Canh Dần', 'Mộc', 'Khôn', 'Khảm'],
+                1951 : ['Tân Mão', 'Mộc', 'Tốn', 'Khôn'],
+                1952 : ['Nhâm Thìn', 'Thủy', 'Chấn', 'Chấn'],
+                1953 : ['Quý Tỵ', 'Thủy', 'Khôn', 'Tốn'],
+                1954 : ['Giáp Ngọ', 'Kim', 'Khảm', 'Cấn'],
+                1955 : ['Ất Mùi', 'Kim', 'Ly', 'Càn'],
+                1956 : ['Bính Thân', 'Hỏa', 'Cấn', 'Đoài'],
+                1957 : ['Đinh Dậu', 'Hỏa', 'Đoài', 'Cấn'],
+                1958 : ['Mậu Tuất', 'Mộc', 'Càn', 'Ly'],
+                1959 : ['Kỷ Hợi', 'Mộc', 'Khôn', 'Khảm'],
+                1960 : ['Canh Tý', 'Thổ', 'Tốn', 'Khôn'],
+                1961 : ['Tân Sửu', 'Thổ', 'Chấn', 'Chấn'],
+                1962 : ['Nhâm Dần', 'Kim', 'Khôn', 'Tốn'],
+                1963 : ['Quý Mão', 'Kim', 'Khảm', 'Cấn'],
+                1964 : ['Giáp Thìn', 'Hỏa', 'Ly', 'Càn'],
+                1965 : ['Ất Tỵ', 'Hỏa', 'Cấn', 'Đoài'],
+                1966 : ['Bính Ngọ', 'Thủy', 'Đoài', 'Cấn'],
+                1967 : ['Đinh Mùi', 'Thủy', 'Càn', 'Ly'],
+                1968 : ['Mậu Thân', 'Thổ', 'Khôn', 'Khảm'],
+                1969 : ['Kỷ Dậu', 'Thổ', 'Tốn', 'Khôn'],
+                1970 : ['Canh Tuất', 'Kim', 'Chấn', 'Chấn'],
+                1971 : ['Tân Hợi', 'Kim', 'Khôn', 'Tốn'],
+                1972 : ['Nhâm Tý', 'Mộc', 'Khảm', 'Cấn'],
+                1973 : ['Quý Sửu', 'Mộc', 'Ly', 'Càn'],
+                1974 : ['Giáp Dần', 'Thủy', 'Cấn', 'Đoài'],
+                1975 : ['Ất Mão', 'Thủy', 'Đoài', 'Cấn'],
+                1976 : ['Bính Thìn', 'Thổ', 'Càn', 'Ly'],
+                1977 : ['Đinh Tỵ', 'Thổ', 'Khôn', 'Khảm'],
+                1978 : ['Mậu Ngọ', 'Hỏa', 'Tốn', 'Khôn'],
+                1979 : ['Kỷ Mùi', 'Hỏa', 'Chấn', 'Chấn'],
+                1980 : ['Canh Thân', 'Mộc', 'Khôn', 'Tốn'],
+                1981 : ['Tân Dậu', 'Mộc', 'Khảm', 'Cấn'],
+                1982 : ['Nhâm Tuất', 'Thủy', 'Ly', 'Càn'],
+                1983 : ['Quý Hợi', 'Thủy', 'Cấn', 'Đoài'],
+                1984 : ['Giáp Tý', 'Kim', 'Đoài', 'Cấn'],
+                1985 : ['Ất Sửu', 'Kim', 'Càn', 'Ly'],
+                1986 : ['Bính Dần', 'Hỏa', 'Khôn', 'Khảm'],
+                1987 : ['Đinh Mão', 'Hỏa', 'Tốn', 'Khôn'],
+                1988 : ['Mậu Thìn', 'Mộc', 'Chấn', 'Chấn'],
+                1989 : ['Kỷ Tỵ', 'Mộc', 'Khôn', 'Tốn'],
+                1990 : ['Canh Ngọ', 'Thổ', 'Khảm', 'Cấn'],
+                1991 : ['Tân Mùi', 'Thổ', 'Ly', 'Càn'],
+                1992 : ['Nhâm Thân', 'Kim', 'Cấn', 'Đoài'],
+                1993 : ['Quý Dậu', 'Kim', 'Đoài', 'Cấn'],
+                1994 : ['Giáp Tuất', 'Hỏa', 'Càn', 'Ly'],
+                1995 : ['Ất Hợi', 'Hỏa', 'Khôn', 'Khảm'],
+                1996 : ['Bính Tý', 'Thủy', 'Tốn', 'Khôn'],
+                1997 : ['Đinh Sửu', 'Thủy', 'Chấn', 'Chấn'],
+                1998 : ['Mậu Dần', 'Thổ', 'Khôn', 'Tốn'],
+                1999 : ['Kỷ Mão', 'Thổ', 'Khảm', 'Cấn'],
+                2000 : ['Canh Thìn', 'Kim', 'Ly', 'Càn'],
+                2001 : ['Tân Tỵ', 'Kim', 'Cấn', 'Đoài'],
+                2002 : ['Nhâm Ngọ', 'Mộc', 'Đoài', 'Cấn'],
+                2003 : ['Quý Mùi', 'Mộc', 'Càn', 'Ly'],
+                2004 : ['Giáp Thân', 'Thủy', 'Khôn', 'Khảm'],
+                2005 : ['Ất Dậu', 'Thủy', 'Tốn', 'Khôn'],
+                2006 : ['Bính Tuất', 'Thổ', 'Chấn', 'Chấn'],
+                2007 : ['Đinh Hợi', 'Thổ', 'Khôn', 'Tốn'],
+                2008 : ['Mậu Tý', 'Hỏa', 'Khảm', 'Cấn'],
+                2009 : ['Kỷ Sửu', 'Hỏa', 'Ly', 'Càn'],
+                2010 : ['Canh Dần', 'Mộc', 'Cấn', 'Đoài'],
+                2011 : ['Tân Mão', 'Mộc', 'Đoài', 'Cấn'],
+                2012 : ['Nhâm Thìn', 'Thủy', 'Càn', 'Ly'],
+                2013 : ['Quý Tỵ', 'Thủy', 'Khôn', 'Khảm'],
+                2014 : ['Giáp Ngọ', 'Kim', 'Tốn', 'Khôn'],
+                2015 : ['Ất Mùi', 'Kim', 'Chấn', 'Chấn'],
+                2016 : ['Bính Thân', 'Hỏa', 'Khôn', 'Tốn'],
+                2017 : ['Đinh Dậu', 'Hỏa', 'Khảm', 'Cấn'],
+                2018 : ['Mậu Tuất', 'Mộc', 'Ly', 'Càn'],
+                2019 : ['Kỷ Hợi', 'Mộc', 'Cấn', 'Đoài'],
+                2020 : ['Canh Tý', 'Thổ', 'Đoài', 'Cấn'],
+                2021 : ['Tân Sửu', 'Thổ', 'Càn', 'Ly'],
+                2022 : ['Nhâm Dần', 'Kim', 'Khôn', 'Khảm'],
+                2023 : ['Qúy Mão', 'Kim', 'Tốn', 'Khôn'],
+                2024 : ['Giáp Thìn', 'Hỏa', 'Chấn', 'Chấn'],
+                2025 : ['Ất Tỵ', 'Hỏa', 'Khôn', 'Tốn'],
+                2026 : ['Bính Ngọ', 'Thủy', 'Khảm', 'Cấn'],
+                2027 : ['Đinh Mùi', 'Thủy', 'Ly', 'Càn'],
+                2028 : ['Mậu Thân', 'Thổ', 'Cấn', 'Đoài'],
+                2029 : ['Kỷ Dậu', 'Thổ', 'Đoài', 'Cấn'],
+                2030 : ['Canh Tuất', 'Kim', 'Càn', 'Ly'],
+            };
             function getList(submit = false) {
                 var dauso_item = $('.dauso-item');
                 var dau_so = [];
@@ -364,7 +473,7 @@
                     var nam = $('#nam_sinh_home').val();
 
                     var gioSinh = $('input[name=gio_sinh_home]').children("option:selected").text();
-                    if (gioSinh) var gioSinh = parseInt(gioSinh.split('(')[1].slice(0, 2));
+                    if (gioSinh) gioSinh = parseInt(gioSinh.split('(')[1].slice(0, 2));
                     if (gioSinh >= 23) {
                         var newDate = new Date(nam, thang, ngay);
                         newDate.setDate(newDate.getDate() + 1);
@@ -379,8 +488,7 @@
                     var can = canVi(ThienCan(lunar.days));
                     var chi = chiVi(DiaChi(lunar.days));
                     var HK = napAmHanhKhac(can, chi);
-                    console.log(HANH[HK[0]]);
-                    ngu_hanh = HANH[HK[0]];
+                    ngu_hanh = cungPhi[nam][1];
                 }
 
                 $.ajax({
@@ -464,7 +572,7 @@
                     getList();
                 })
 
-                $('.item_sim_type').click(function() {
+                $('.item_sim_type, .remove-all').click(function() {
                     getList();
                 });
 

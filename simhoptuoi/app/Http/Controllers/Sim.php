@@ -15,14 +15,7 @@ class Sim extends Controller
         'sim_tinh_duyen' => ['Sim Tình Duyên'],
         'sim_cai_van' => ['Sim Cải Vận'],
     ];
-
-    public $nguHanhHopMenh = [
-        'Kim' => ['Thổ', 'Kim'],
-        'Thủy' => ['Kim', 'Thủy'],
-        'Mộc' => ['Thủy', 'Mộc'],
-        'Hỏa' => ['Mộc', 'Hỏa'],
-        'Thổ' => ['Hỏa', 'Thổ'],
-    ];
+   
     protected $functionCommonService;
 
     public function __construct(FunctionCommonService $functionCommonService)
@@ -49,18 +42,21 @@ class Sim extends Controller
         }
         $results = [];
         foreach ($data as $key => $value) {
-            if (!empty($ngu_hanh) && !empty($value['ngu_hanh'])) {
-                $ar = $this->nguHanhHopMenh[$ngu_hanh];
-                if (in_array(trim($value['ngu_hanh']), $ar)) {
+            if (!empty($duoi_sim) && !empty($value['sdt'])) {
+                $aaa = str_replace('.', '', $value['sdt']);
+                $bbb = str_replace('.', '', $duoi_sim);
+
+                $lentb = strlen($bbb);
+
+                if (substr($aaa, -$lentb) == $bbb) {
                     $results[] = $value;
                     continue;
                 }
             }
 
-            if (!empty($duoi_sim) && !empty($value['sdt'])) {
-                $aaa = str_replace('.', '', $value['sdt']);
-                $bbb = str_replace('.', '', $duoi_sim);
-                if (strpos($aaa, $bbb) !== false) {
+            if (!empty($ngu_hanh) && !empty($value['ngu_hanh'])) {
+                $ar = $this->nguHanhHopMenh[$ngu_hanh];
+                if (in_array(trim($value['ngu_hanh']), $ar)) {
                     $results[] = $value;
                     continue;
                 }
@@ -79,7 +75,6 @@ class Sim extends Controller
                 $twoFirstChar = substr($value['sdt'], 0, 2);
                 if (in_array($twoFirstChar, $dau_so)) {
                     $results[] = $value;
-                    Log::info('dau_so: ' . $dau_so . ' - ' . $value['sdt']);
                     continue;
                 }
             }

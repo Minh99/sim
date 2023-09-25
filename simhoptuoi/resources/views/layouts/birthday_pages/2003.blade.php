@@ -12,7 +12,7 @@
             <div class="siteBodyContent">
                 <div class="row">
                     <div class="col-md-12">
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><a href="https://simhoptuoi.com.vn/sim-hop-tuoi-quy-mui-2003/197.html"><strong>Sim hợp tuổi 2003</strong></a></u> có khả năng thu hút cát khí, bổ trợ cho mong muốn công việc của chủ mệnh tuổi Quý Mùi. Nếu mong muốn đồng hành với vật phẩm phong thủy giúp cho công việc học tập tiến bộ, mối quan hệ tình cảm được cải thiện, may mắn hơn về tiền bạc thì chủ mệnh sinh năm 2003 không thể bỏ qua vật phẩm này.&nbsp; Vậy làm thế nào để xem tuổi quý mùi hợp với số điện thoại nào thì mời quý bạn cùng <u><a href="{{ route('home') }}"><strong>Sim Hợp Tuổi</strong></a></u> nghiệm lý tại nội dung dưới đây.</span></span></p>                    </div>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim hợp tuổi 2003 có khả năng thu hút cát khí, bổ trợ cho mong muốn công việc của chủ mệnh tuổi Quý Mùi. Nếu mong muốn đồng hành với vật phẩm phong thủy giúp cho công việc học tập tiến bộ, mối quan hệ tình cảm được cải thiện, may mắn hơn về tiền bạc thì chủ mệnh sinh năm 2003 không thể bỏ qua vật phẩm này.&nbsp; Vậy làm thế nào để xem tuổi quý mùi hợp với số điện thoại nào thì mời quý bạn cùng <u><a href="{{ route('home') }}"><strong> {{ $nameSite }} </strong></a></u> nghiệm lý tại nội dung dưới đây.</span></span></p>                    </div>
                 </div>
             </div>
         </div>
@@ -75,7 +75,7 @@
 
                         <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Khi chọn sim hợp tuổi 2003 điều quan trọng nhất là người tuổi này biết được các nguyên tắc chọn sim. Bởi nắm được những nguyên tắc để chọn được số sim hợp tuổi mới có thể nhận diện, đánh giá và lựa chọn được dãy số phù trợ về phong thủy cho tuổi.&nbsp;</span></span></p>
 
-                        <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Theo chuyên gia tại{{ $namSite }}  số sim phong thủy hợp tuổi 2003 cần đảm bảo các nguyên tắc chọn theo 5 bộ môn khoa học dự báo của Phương Đông cổ. Đó là học thuyết <strong>Âm Dương</strong>, <strong>Tứ trụ học</strong>, <strong>Quy luật sinh khắc ngũ hành</strong>, <strong>Tam nguyên cửu vận</strong> và Kinh dịch luận. Xem xét số sim đảm bảo theo đúng 5 bộ môn này sẽ không khó để tìm được số sim hợp tuổi 2003 hàm chứa cát lành và trường khí tốt đẹp cho chủ mệnh.&nbsp;</span></span></p>
+                        <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Theo chuyên gia tại{{ $nameSite }}  số sim phong thủy hợp tuổi 2003 cần đảm bảo các nguyên tắc chọn theo 5 bộ môn khoa học dự báo của Phương Đông cổ. Đó là học thuyết <strong>Âm Dương</strong>, <strong>Tứ trụ học</strong>, <strong>Quy luật sinh khắc ngũ hành</strong>, <strong>Tam nguyên cửu vận</strong> và Kinh dịch luận. Xem xét số sim đảm bảo theo đúng 5 bộ môn này sẽ không khó để tìm được số sim hợp tuổi 2003 hàm chứa cát lành và trường khí tốt đẹp cho chủ mệnh.&nbsp;</span></span></p>
 
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span id="2-cac-buoc-xem-sinh-nam-2003-hop-so-dien-thoai-nao">2. Các bước xem sinh năm 2003 hợp số điện thoại nào?</span></span></span></strong></h2>
 
@@ -87,7 +87,7 @@
 
                         <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Cùng với đó, người tuổi 2003 khi sinh ra sẽ tương ứng với ngày giờ sinh (gọi là bát tự ngày sinh) vượng hành này, nhưng lại suy hành kia. Chọn sim hợp tuổi 2003, người này nên chọn dãy số có ngũ hành bổ sung hành khuyết thiếu trong bát tự ngày sinh của người dùng.</span></span></p>
 
-                        <p dir="ltr" style="text-align: center;"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; <u><a href="https://simhoptuoi.com.vn/Sim-hop-menh-Moc.html">Sim phong thủy hợp mệnh Mộc</a></u> &lt;&lt;&lt;</span></span></strong></p>
+                        <p dir="ltr" style="text-align: center;"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; <u><a href="{{ route('menu-page', ['slug' => 'sim_menh_moc']) }}">Sim phong thủy hợp mệnh Mộc</a></u> &lt;&lt;&lt;</span></span></strong></p>
 
                         <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">-<strong> Âm dương:</strong> Sự cân bằng âm dương trong vạn vật tạo nên trạng thái lý tưởng, tạo nên sự phát triển, sinh sôi, nảy nở. Chọn sim hợp tuổi cùng vậy, người tuổi Quý Mùi cần chọn số điện thoại có tỷ lệ con số chẵn và số lẻ cân bằng nhau (tức là năng lượng âm dương hài hòa). Âm Dương của số sim cân bằng hoàn hảo nhất khi có sự ngang bằng của con số chẵn - lẻ (5 số chẵn - 5 số lẻ).&nbsp;</span></span></p>
 
@@ -115,7 +115,7 @@
 
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="color:#FF0000"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span id="3-can-trong-cac-cach-xem-sinh-nam-2003-hop-so-dien-nao-sai-lech">3. Cẩn trọng các cách xem sinh năm 2003 hợp số điện nào sai lệch?</span></span></span></strong></span></h2>
 
-                        <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Chọn sim hợp tuổi Quý Mùi, người dùng tuổi này lưu ý về một số cách chọn sim hợp tuổi sai cách, nhưng lại được sử dụng phổ biến hàng đầu. Dưới đây là những tổng hợp cách chọn sim sai thường gặp được chuyên gia{{ $namSite }}  tổng hợp lại:</span></span></p>
+                        <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Chọn sim hợp tuổi Quý Mùi, người dùng tuổi này lưu ý về một số cách chọn sim hợp tuổi sai cách, nhưng lại được sử dụng phổ biến hàng đầu. Dưới đây là những tổng hợp cách chọn sim sai thường gặp được chuyên gia{{ $nameSite }}  tổng hợp lại:</span></span></p>
 
                         <h3 dir="ltr" style="text-align: justify;"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">3.1 Chọn sim hợp tuổi 2003 theo số hợp tuổi</span></span></strong></em></h3>
 
@@ -131,8 +131,6 @@
 
                         <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Theo đó sim hợp tuổi của người sinh năm 2003 có sự khác nhau giữa nam và nữ dựa vào ngũ hành của quái mệnh. Tuy nhiên đây cũng là cách chọn sim thiếu chính xác, bởi vì bản chất cũng chỉ xét về một hoặc một vài con số hợp ngũ hành theo mệnh quái, thiếu tính toàn diện.&nbsp;</span></span></p>
 
-                        <p dir="ltr" style="text-align: center;"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; <u><a href="https://simhoptuoi.com.vn/tin-sim/nguoi-menh-moc-hop-so-nao.html">Mệnh Mộc hợp số nào</a></u> &lt;&lt;&lt;</span></span></strong></p>
-
                         <h3 dir="ltr" style="text-align: justify;"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">3.2 Xem tuổi quý mùi hợp với số điện thoại nào theo cặp số đẹp</span></span></strong></em></h3>
 
                         <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Đây là cách chọn sim hợp tuổi 2003 được sử dụng tương đối nhiều hiện nay. Đó là việc người dùng lựa chọn số sim có cặp số mang ý nghĩa tốt đẹp như lộc phát (cặp 68), phát lộc (cặp 86), Thần Tài (cặp 39, 79), Ông Địa (cặp 38, 78),... Và xem đó là sim hợp tuổi. Tuy nhiên, cách chọn sim này chỉ xét yếu tố nội tại của số sim chứa con số mang ý nghĩa tốt đẹp, nhưng không xét tới dãy số hợp với người dùng. Bản chất đây chỉ là 1 yếu tố đánh giá để chọn sim hợp tuổi mà thôi.&nbsp;</span></span></p>
@@ -141,7 +139,7 @@
 
                         <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Trong du niên, mỗi cặp số đều có ý nghĩa tương ứng với cung tốt hoặc cung xấu. Số sim hợp với tuổi 2003 khi chứa các cặp số ở cung tốt, tránh cặp số thuộc cung xấu. Trong đó, cung tốt của du niên bao gồm: <strong>Diên Niên, Sinh Khí, Thiên Y, Phục Vị</strong>; cung xấu có: <strong>Ngũ Quỷ, Họa Hại, Lục Sát, Tuyệt Mạng</strong>.&nbsp;</span></span></p>
 
-                        <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Tuy nhiên, theo chuyên gia phong thủy số học tại{{ $namSite }}  chọn sim hợp tuổi 2003 theo du niên có nhiều điểm bất cập. Nổi bật là du niên không xét số 0, số 5 cũng không xác định được quái nào (vì số 5 chỉ xác định được quái khi dựa vào giới tính, nhưng số sim không có giới tính). Trong khi đó số sim nào cũng bắt đầu từ số 0, theo đó cặp số đầu tiên của bất kỳ số sim nào cũng không thể xét được. Vì thế dùng du niên để chọn sim thiếu tính toàn diện.&nbsp;</span></span></p>
+                        <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Tuy nhiên, theo chuyên gia phong thủy số học tại{{ $nameSite }}  chọn sim hợp tuổi 2003 theo du niên có nhiều điểm bất cập. Nổi bật là du niên không xét số 0, số 5 cũng không xác định được quái nào (vì số 5 chỉ xác định được quái khi dựa vào giới tính, nhưng số sim không có giới tính). Trong khi đó số sim nào cũng bắt đầu từ số 0, theo đó cặp số đầu tiên của bất kỳ số sim nào cũng không thể xét được. Vì thế dùng du niên để chọn sim thiếu tính toàn diện.&nbsp;</span></span></p>
 
                         <h3 dir="ltr" style="text-align: justify;"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">3.4 Chọn sim phong thủy hợp tuổi 2003 theo đuôi năm sinh</span></span></strong></em></h3>
 

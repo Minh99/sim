@@ -12,9 +12,8 @@
                 <div class="row">
                     <div class="col-md-12">
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span
-                                    style="font-family:arial,helvetica,sans-serif"><u><strong><a
-                                                href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Tan-Dau-sinh-nam-1981/30.html">Tuổi
-                                                tân dậu hợp với số điện thoại nào</a></strong></u>? Sim hợp tuổi 1981 theo
+                                    style="font-family:arial,helvetica,sans-serif">Tuổi
+                                                tân dậu hợp với số điện thoại nào? Sim hợp tuổi 1981 theo
                                     quan niệm của nhiều nơi là dãy số điện thoại xuất hiện nhiều con số may mắn. Tuy nhiên
                                     theo chuyên gia quan niệm này hoàn toàn sai lầm vì con số chỉ phát huy may mắn nếu đứng
                                     một mình. Theo đó muốn nhận nhiều cát khí, giúp cuộc sống gặp nhiều may mắn, xua đi điều
@@ -97,11 +96,7 @@
                                     người này có tính cách mạnh mẽ, rất bản lĩnh và lúc nào cũng tràn ngập năng lượng. Tuy
                                     nhiên người tuổi Tân Dậu có điểm yếu là tính cách quá thẳng thắn, lạnh lùng nên trong
                                     cuộc sống gây mất lòng khá nhiều người. Do vậy trên đường đời của họ sẽ xảy ra nhiều
-                                    sóng gió, khó khăn, cụ thể quý bạn có thể xem ngay <u><strong><a
-                                                href="https://simhoptuoi.com.vn/tin-tuc/han-tam-tai-tuoi-1981.html">1981 tam
-                                                tai năm nào</a></strong></u> để xem các hạn xấu mà gia chủ tuổi Tân Dậu sẽ
-                                    gặp phải. Để giảm trừ hung xấu, gia tăng cát khí thì số điện thoại hợp tuổi dậu 1981 sẽ
-                                    là một vật phẩm phong thủy giúp bạn đạt được những ước muốn đó.&nbsp;</span></span></p>
+                                    sóng gió, khó khăn.</span></span></p>
 
                         <h2 dir="ltr"
                             style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);">
@@ -128,9 +123,7 @@
                                             0812110011;....</span></span></strong></em></p>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span
-                                    style="font-family:arial,helvetica,sans-serif">Tuy nhiên theo đánh giá của chuyên gia
-                                    <u><a href="https://simhoptuoi.com.vn/tin-tuc/author-ly-hong-luong.html"><strong>Lý Hồng
-                                                Lượng</strong></a></u>:&nbsp;Phương pháp chọn số điện thoại hợp tuổi 1981
+                                    style="font-family:arial,helvetica,sans-serif">Tuy nhiên theo đánh giá của chuyên gia Lý Hồng Lượng Phương pháp chọn số điện thoại hợp tuổi 1981
                                     theo con số hợp tuổi sai lệch, con số hành Thủy, hành Mộc chỉ phát huy giá trị may mắn
                                     nếu đứng độc lập. Còn khi đứng cạnh các con số khác trong dãy số thì ý nghĩa may mắn có
                                     thể không đảm bảo. Do vậy muốn chọn sim hợp tuổi Tân Dậu thì quý bạn phải luận giải tổng
@@ -139,21 +132,6 @@
                         <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span
                                             style="font-family:arial,helvetica,sans-serif">► Tham
                                             khảo:&nbsp;</span></span></strong></em></p>
-
-                        <ul>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span
-                                                    style="font-family:arial,helvetica,sans-serif"><a
-                                                        href="https://simhoptuoi.com.vn/tin-sim/tuoi-tan-dau-1981-hop-so-nao.html">1981
-                                                        hợp số nào</a></span></span></strong></u></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span
-                                                    style="font-family:arial,helvetica,sans-serif"><a
-                                                        href="https://simhoptuoi.com.vn/tin-sim/so-0-la-so-gi-so-0-co-y-nghia-gi.html">Ý
-                                                        nghĩa số 0</a></span></span></strong></u></p>
-                            </li>
-                        </ul>
 
                         <h2 dir="ltr"
                             style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);">
@@ -281,7 +259,7 @@
                                     bởi đây chính là căn cứ để xác định sim số ấy có hợp với tuổi 1981 hay không. Mỗi tuổi
                                     sẽ có ngũ hành khác nhau và từ đó có mối quan hệ tương sinh, tương khắc với các yếu tố
                                     khác trong cuộc sống. Một dãy <u><strong><a
-                                                href="https://simhoptuoi.com.vn/Sim-hop-menh-Moc.html">sim hợp mệnh
+                                                href="{{ route('menu-page', ['slug' => 'sim_menh_moc']) }}">sim hợp mệnh
                                                 Mộc</a></strong></u> 1981 khi có ngũ hành tương sinh, tương hỗ với bản mệnh
                                     người dùng.&nbsp;</span></span></p>
 
@@ -305,11 +283,6 @@
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span
                                     style="font-family:arial,helvetica,sans-serif">- <strong>Bước 4: </strong>Ngũ hành chủ
                                     đạo của dãy sim chính là ngũ hành của số điện thoại.</span></span></p>
-
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span
-                                            style="font-family:arial,helvetica,sans-serif">►►► Tham khảo: <u><a
-                                                    href="https://simhoptuoi.com.vn/cach-tinh-ngu-hanh-cua-day-so-dien-thoai/314.html">Cách
-                                                    tính ngũ hành dãy số điện thoại</a></u></span></span></strong></em></p>
 
                         <p dir="ltr" style="text-align:justify"><em><span style="font-size:14px"><span
                                         style="font-family:arial,helvetica,sans-serif">Ví dụ minh họa về một số dãy sim hợp
@@ -453,11 +426,6 @@
                                     làm thượng quái và lấy hào số 2, 3,4 của quẻ chủ để làm hạ quái. Sau đó, để hạ quái
                                     chồng lên thượng quái tạo thành hình ảnh hỗ thể.&nbsp;</span></span></p>
 
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span
-                                            style="font-family:arial,helvetica,sans-serif">► Tham khảo: <u><a
-                                                    href="https://simhoptuoi.com.vn/cach-tinh-que-dich-so-dien-thoai/345.html">Cách
-                                                    tính quẻ số điện thoại</a></u></span></span></strong></em></p>
-
                         <p dir="ltr" style="text-align:justify"><em><span style="font-size:14px"><span
                                         style="font-family:arial,helvetica,sans-serif">Ví dụ về một số dãy sim hợp tuổi Tân
                                         Dậu theo quẻ dịch:</span></span></em></p>
@@ -486,9 +454,7 @@
                                         1981 hợp số điện thoại nào theo quẻ dịch là một tiêu chí giúp quý vị chọn được dãy
                                         sim có ý nghĩa tốt cho từng phương diện cuộc sống. Nhưng điều này đòi hỏi phải có
                                         kiến thức chuyên sâu vì cách tính quẻ không hề đơn giản. Để hạn chế điều này thì mời
-                                        quý vị sử dụng ứng dụng <u><strong><a
-                                                    href="https://simhoptuoi.com.vn/tin-sim/xem-boi-sim-kinh-dich.html">sim
-                                                    kinh dịch</a></strong></u> của{{ $namSite }}.&nbsp;</span></span>
+                                        quý vị sử dụng ứng dụng của{{ $nameSite }}.&nbsp;</span></span>
                             </p>
                         </blockquote>
 
@@ -551,7 +517,7 @@
                                         style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt;Vậy dãy sim bạn đang sở
                                         hữu có thực sự phù hợp với tuổi hay không thì&nbsp; mời quý bạn sử dụng phần mềm
                                         [<u><strong><a href="{{ route('boi-sim') }}">xem sim phong thủy</a></strong></u>]
-                                        của trung tâm{{ $namSite }}. Tại đây quý bạn sẽ được xem luận giải một cách
+                                        của trung tâm{{ $nameSite }}. Tại đây quý bạn sẽ được xem luận giải một cách
                                         khách quan, tường minh nhất. Hứa hẹn giúp quý bạn nắm được điểm mạnh, điểm yếu của
                                         dãy sim đang dùng.</span></span></em></p>
 
@@ -728,12 +694,6 @@
                                         chọn mang tính tham khảo do đuôi số chưa thể quyết định ý nghĩa cả dãy số, cũng như
                                         chưa xét được mức độ tương hợp của sim với người dùng.</span></span></em></p>
 
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span
-                                            style="font-family:arial,helvetica,sans-serif">► Danh sách sim đuôi năm sinh
-                                            1981: <u><a
-                                                    href="https://simhoptuoi.com.vn/tin-sim/y-nghia-sim-duoi-1981.html">Sim
-                                                    đuôi 1981</a></u></span></span></strong></em></p>
-
                         <h2 dir="ltr"
                             style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);">
                             <span style="font-size:18px"><strong><span
@@ -775,24 +735,6 @@
                         <p dir="ltr" style="text-align:justify"><strong><em><span style="font-size:14px"><span
                                             style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Ngoài số điện thoại
                                             hợp tuổi 1981 thì màu sắc, ngành nghề cũng là một yếu tố giúp gia chủ gặp nhiều
-                                            may mắn nếu ứng dụng đúng cách.</span></span></em></strong></p>
-
-                        <ul>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span
-                                                style="font-size:14px"><span
-                                                    style="font-family:arial,helvetica,sans-serif"><a
-                                                        href="https://simhoptuoi.com.vn/tin-tuc/tuoi-tan-dau-1981-hop-mau-gi.html">Sinh
-                                                        năm 1981 hợp màu gì?</a></span></span></strong></u></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span
-                                                style="font-size:14px"><span
-                                                    style="font-family:arial,helvetica,sans-serif"><a
-                                                        href="https://simhoptuoi.com.vn/tuoi-tan-dau-hop-voi-nghe-gi.html">Tuổi
-                                                        Tân Dậu hợp nghề gì?</a></span></span></strong></u></p>
-                            </li>
-                        </ul>
 
                         <h2 dir="ltr"
                             style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);">
@@ -938,96 +880,6 @@
                                     xác. Việc ứng dụng cách chọn sim chính xác sẽ hỗ trợ quý bạn sớm tìm cho bản thân một
                                     dãy sim phong thủy phù hợp.</span></span></p>
 
-                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span
-                                        style="font-family:arial,helvetica,sans-serif">THAM KHẢO SIM HỢP TUỔI
-                                        KHÁC</span></span></strong></p>
-
-                        <div style="overflow-x:auto;">
-                            <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
-                                <tbody>
-                                    <tr>
-                                        <td>
-                                            <p dir="ltr" style="text-align:center"><u><strong><span
-                                                            style="font-size:14px"><span
-                                                                style="font-family:arial,helvetica,sans-serif"><a
-                                                                    href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Canh-Than-sinh-nam-1980/29.html">Sim
-                                                                    hợp tuổi 1980</a></span></span></strong></u></p>
-                                        </td>
-                                        <td>
-                                            <p dir="ltr" style="text-align:center"><u><strong><span
-                                                            style="font-size:14px"><span
-                                                                style="font-family:arial,helvetica,sans-serif"><a
-                                                                    href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-At-Suu-sinh-nam-1985/34.html">Sim
-                                                                    hợp tuổi 1985</a></span></span></strong></u></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <p dir="ltr" style="text-align:center"><u><strong><span
-                                                            style="font-size:14px"><span
-                                                                style="font-family:arial,helvetica,sans-serif"><a
-                                                                    href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Tan-Dau-sinh-nam-1981/30.html">Sim
-                                                                    hợp tuổi 1981</a></span></span></strong></u></p>
-                                        </td>
-                                        <td>
-                                            <p dir="ltr" style="text-align:center"><u><strong><span
-                                                            style="font-size:14px"><span
-                                                                style="font-family:arial,helvetica,sans-serif"><a
-                                                                    href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Binh-Dan-sinh-nam-1986/35.html">Sim
-                                                                    hợp tuổi 1986</a></span></span></strong></u></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <p dir="ltr" style="text-align:center"><u><strong><span
-                                                            style="font-size:14px"><span
-                                                                style="font-family:arial,helvetica,sans-serif"><a
-                                                                    href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Nham-Tuat-sinh-nam-1982/31.html">Sim
-                                                                    hợp tuổi 1982</a></span></span></strong></u></p>
-                                        </td>
-                                        <td>
-                                            <p dir="ltr" style="text-align:center"><u><strong><span
-                                                            style="font-size:14px"><span
-                                                                style="font-family:arial,helvetica,sans-serif"><a
-                                                                    href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Dinh-Mao-sinh-nam-1987/36.html">Sim
-                                                                    hợp tuổi 1987</a></span></span></strong></u></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <p dir="ltr" style="text-align:center"><u><strong><span
-                                                            style="font-size:14px"><span
-                                                                style="font-family:arial,helvetica,sans-serif"><a
-                                                                    href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Quy-Hoi-sinh-nam-1983/32.html">Sim
-                                                                    hợp tuổi 1983</a></span></span></strong></u></p>
-                                        </td>
-                                        <td>
-                                            <p dir="ltr" style="text-align:center"><u><strong><span
-                                                            style="font-size:14px"><span
-                                                                style="font-family:arial,helvetica,sans-serif"><a
-                                                                    href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Mau-Thin-sinh-nam-1988/37.html">Sim
-                                                                    hợp tuổi 1988</a></span></span></strong></u></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <p dir="ltr" style="text-align:center"><u><strong><span
-                                                            style="font-size:14px"><span
-                                                                style="font-family:arial,helvetica,sans-serif"><a
-                                                                    href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Giap-Ty-sinh-nam-1984/33.html">Sim
-                                                                    hợp tuổi 1984</a></span></span></strong></u></p>
-                                        </td>
-                                        <td>
-                                            <p dir="ltr" style="text-align:center"><u><strong><span
-                                                            style="font-size:14px"><span
-                                                                style="font-family:arial,helvetica,sans-serif"><a
-                                                                    href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Ky-Ty-sinh-nam-1989/38.html">Sim
-                                                                    hợp tuổi 1989</a></span></span></strong></u></p>
-                                        </td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
 
                         <p dir="ltr" style="text-align:justify"><em><span style="font-size:14px"><span
                                         style="font-family:arial,helvetica,sans-serif">Bên cạnh đó, nội dung này còn giải

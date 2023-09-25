@@ -153,7 +153,7 @@
             var nH = DiaChi(((nam-1900)*12) + parseInt((gioSinh/2) + 0.5));
             var can = canVi(ThienCan(lunar.days));
             var chi = chiVi(DiaChi(lunar.days));
-            var HK = napAmHanhKhac(can, chi);
+            // var HK = napAmHanhKhac(can, chi);
 
             $(".date_dl").text($('#xpts_ngay').val() + '/' + $('#xpts_thang').val() + '/' + $('#xpts_nam').val());
             $(".date_al").text(lunar.day+'/'+lunar.month+'/'+lunar.year);
@@ -206,7 +206,7 @@
 
             var can = canVi(ThienCan(lunar.days));
             var chi = chiVi(DiaChi(lunar.days));
-            var HK = napAmHanhKhac(can, chi);
+            // var HK = napAmHanhKhac(can, chi);
 
             $('#sinh_menh_input').val(cungPhi[nam][1]);
             $('#form_xpts').submit();
@@ -290,7 +290,7 @@
                     </div>
                     <div class="row">
                         <div class="col-12 col-md-12 col-sm-12 col-xs-12 text-center">
-                            <button id="btn_xem_ngay_boi_sim" type="button" class="btn_xemngay bg-danger"><span>Luận phòng thuỷ sim</span></button>
+                            <button id="btn_xem_ngay_boi_sim" type="button" class="btn_xemngay bg-danger"><span>Luận phong thuỷ sim</span></button>
                         </div>
                     </div>
                     <div class="text-left">
@@ -526,11 +526,11 @@
                         </table>
                         <p>
                             @if(!empty($data['van_am']))
-                                - Có {{ $data['van_am'] }} số mang vận Âm, chiếm {{ $data['van_am'] * 10 }}
+                                - Có {{ $data['van_am'] }} số mang vận Âm, chiếm {{ $data['van_am'] * 10 }}%
                             @endif
                             @if(!empty($data['van_duong']))
                                 <br>
-                                - Có {{ $data['van_duong'] }} số mang vận Dương, chiếm {{ $data['van_duong'] * 10 }}
+                                - Có {{ $data['van_duong'] }} số mang vận Dương, chiếm {{ $data['van_duong'] * 10 }}%
                             @endif
                             <br>
                              {{ $data['van_content'] }}

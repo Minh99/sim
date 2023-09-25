@@ -1592,30 +1592,7 @@ $(document).ready(function() {
     });
 
     $('.search_icon_mobile').click(function() {
-        var ngay_thang_nam = $('#date-group1-2').val().split('-')
-        gioSinh = {
-            '23-gio-den-1-gio': 1,
-            '1-gio-den-3-gio': 2,
-            '3-gio-den-5-gio': 3,
-            '5-gio-den-7-gio': 4,
-            '7-gio-den-9-gio': 5,
-            '9-gio-den-11-gio': 6,
-            '11-gio-den-13-gio': 7,
-            '13-gio-den-15-gio': 8,
-            '15-gio-den-17-gio': 9,
-            '17-gio-den-19-gio': 10,
-            '19-gio-den-21-gio': 11,
-            '21-gio-den-23-gio': 12,
-        }
-        data = {
-            'gioi_tinh': $('#gioi_tinh_mobile').val(),
-            'gio_sinh': gioSinh[$('#gio_sinh_mobile').val()],
-            'ngay_sinh': Number(ngay_thang_nam[0]),
-            'thang_sinh': Number(ngay_thang_nam[1]),
-            'nam_sinh': Number(ngay_thang_nam[2]),
-            'number': $('.search-key').val()
-        }
-        setSessionSubmitForm(data);
+   
     });
 
     $('.search_icon_mobile2').click(function() {

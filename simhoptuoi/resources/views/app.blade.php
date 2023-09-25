@@ -48,7 +48,7 @@
     <body class="bg-secondary_2">
         @yield('root-content')
         @include('layouts.header')
-            <div class="container">
+            <div class="container content_main">
                 <section class="main-content">
                     <div class="wapper_breadcumb"></div>
                     <div class="row">
@@ -292,6 +292,16 @@
                 event.preventDefault();
                 $('#contactFixedOpen').hide('50');
                 $('#contactFixed').show('50');
+            });
+
+            var menuArr = ['195x','196x','197x','198x','199x','200x']
+
+            menuArr.forEach(element => {
+                var title = '#'+element+'_title';
+                var items = '#'+element+'_items';
+                $(title).on('click', function (event) {
+                    $(items).toggle('50');
+                });
             });
         </script>
     </body>

@@ -12,7 +12,7 @@
             <div class="siteBodyContent">
                 <div class="row">
                     <div class="col-md-12">
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><a href="https://simhoptuoi.com.vn/Chon-sim-hop-tuoi-1973-mang-lai-nhieu-may-man/144.html"><strong>Xem tuổi quý sửu 1973 hợp số điện thoại nào</strong></a></u> là câu hỏi được khá nhiều người tuổi Quý Sửu tìm hiểu trong thời gian gần đây. Vì sim phong thủy hợp tuổi 1973 được coi là vật phẩm phong thủy đắc lực có tác dụng đẩy lùi vận đen, rước may mắn và tài lộc cho chủ sở hữu. Để chọn được chiếc sim phong thủy tốt cho tuổi Quý Sửu thì cần đánh giá trên 5 yếu tố bao gồm: Ngũ hành, âm dương, kinh dịch, cửu tinh và quan niệm dân gian. Bên cạnh đó, phải lưu ý một số cách sai phải hết sức thận trọng khi áp dụng.&nbsp;</span></span></p>                    </div>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong>Xem tuổi quý sửu 1973 hợp số điện thoại nào</strong></u> là câu hỏi được khá nhiều người tuổi Quý Sửu tìm hiểu trong thời gian gần đây. Vì sim phong thủy hợp tuổi 1973 được coi là vật phẩm phong thủy đắc lực có tác dụng đẩy lùi vận đen, rước may mắn và tài lộc cho chủ sở hữu. Để chọn được chiếc sim phong thủy tốt cho tuổi Quý Sửu thì cần đánh giá trên 5 yếu tố bao gồm: Ngũ hành, âm dương, kinh dịch, cửu tinh và quan niệm dân gian. Bên cạnh đó, phải lưu ý một số cách sai phải hết sức thận trọng khi áp dụng.&nbsp;</span></span></p>                    </div>
                 </div>
             </div>
         </div>
@@ -94,8 +94,6 @@
                             </li>
                         </ul>
 
-                        <p dir="ltr" style="text-align:justify"><strong><em><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Tra cứu những con số phù hợp với tuổi cho người thân và bạn bè tại phần mềm [<u><a href="https://simhoptuoi.com.vn/con-so-hop-tuoi.html">xem số hợp tuổi</a></u>]</span></span></em></strong></p>
-
                         <h3 dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">2.2. Xem tuổi quý sửu 1973 hợp số điện thoại nào theo con số hợp tuổi có đúng?</span></span></strong></em></h3>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Ngày nay, một bộ phận tuổi Sửu 1973 khi chọn sim hợp tuổi thường có quan niệm rằng dãy sim chứa càng nhiều con số hợp tuổi thì càng mang lại hên may, thuận lợi. Tuy nhiên, các chuyên gia phong thủy cho biết đây là quan niệm sai lầm bởi các nguyên do như sau:</span></span></p>
@@ -119,7 +117,7 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>- Cách chọn sim phong thủy cho tuổi quý sửu theo yếu tố ngũ hành:</strong> Yếu tố này đánh giá được sự hợp - khắc của nội tại sim cũng như mối quan hệ với bản mệnh người tuổi Quý Sửu. Trong đó, ngũ hành sim được xác định bằng cách xác định ngũ hành can chi lục thập hoa giáp. Tuổi 1973 nên chọn dãy sim hợp với tuổi 1973 có ngũ hành Thủy (tương sinh) hoặc sim ngũ hành Mộc (tương trợ) vì bản mệnh tuổi 1973 thuộc Mộc.</span></span></p>
 
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Tham khảo: <u><a href="https://simhoptuoi.com.vn/Sim-hop-menh-Moc.html">Sim phong thủy hợp mệnh Mộc</a></u></span></span></strong></em></p>
+                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Tham khảo: <u><a href="{{ route('menu-page', ['slug' => 'sim_menh_moc']) }}">Sim phong thủy hợp mệnh Mộc</a></u></span></span></strong></em></p>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>- Cách chọn sim hợp tuổi 1973 theo yếu tố Cửu Tinh đồ pháp: </strong>Yếu tố cửu tinh giúp người dùng chọn được những dãy sim chứa con số thời đại để nhận về cát khí, thuận lợi. Hiện nay đang là thời đại Bát vận - Hạ nguyên (từ 2004 đến 2023) có con số thời đại là 8. Đồng thời giai đoạn Cửu tử - Hữu Bật (từ 2024 - 2043) sắp tới (số thời đại là 9) cho nên người dùng 1973 nên ưu tiên những dãy sim chứa nhiều số 8 và 9.&nbsp;</span></span></p>
 
@@ -137,11 +135,11 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">- Sim Taxi: là một loại SIM số đẹp cấu thành từ 3 hoặc 2 cụm số giống nhau lặp lại 2 hoặc 3 lần. Các hãng Taxi rất ưa chuộng dòng SIM taxi để làm Hotline giúp tăng khả năng ghi nhớ cho khách hàng.</span></span></p>
 
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">- SIM Thần tài: là một loại SIM số đẹp chứa các cặp số 39 (thần tài nhỏ) hoặc 79 (thần tài lớn) hoặc cả hai. Sim phong thủy chứa các cặp số này sẽ đem tới tiền tài, lộc lá cho chủ sở hữu tuổi 1973 (<strong><u><a href="https://simhoptuoi.com.vn/tin-sim/so-than-tai-la-so-may.html">ý nghĩa số thần tài</a></u></strong>)</span></span></p>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">- SIM Thần tài: là một loại SIM số đẹp chứa các cặp số 39 (thần tài nhỏ) hoặc 79 (thần tài lớn) hoặc cả hai. Sim phong thủy chứa các cặp số này sẽ đem tới tiền tài, lộc lá cho chủ sở hữu tuổi 1973.</span></span></p>
 
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">- SIM Ông địa: là một loại SIM có chứa bộ số 38 (ông địa nhỏ) hoặc 78 (ông địa lớn). Sự lặp lại hoặc kết hợp của 2 cặp số này có khả năng nâng tầm may mắn và giá trị cho sim. (<u><strong><a href="https://simhoptuoi.com.vn/tin-sim/so-ong-dia-la-so-may.html">ý nghĩa số ông địa</a></strong></u>)</span></span></p>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">- SIM Ông địa: là một loại SIM có chứa bộ số 38 (ông địa nhỏ) hoặc 78 (ông địa lớn). Sự lặp lại hoặc kết hợp của 2 cặp số này có khả năng nâng tầm may mắn và giá trị cho sim.</span></span></p>
 
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">- Sim Lộc phát: là SIM số đẹp có bộ số 68 (lộc phát), 86 (phát lộc) xuất phát từ cách gọi theo phát âm Hán Việt của số 6 và 8 giống với Lộc và Phát (<strong><u><a href="https://simhoptuoi.com.vn/tin-sim/y-nghia-so-loc-phat-la-so-may.html">ý nghĩa số lộc phát</a></u></strong>)</span></span></p>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">- Sim Lộc phát: là SIM số đẹp có bộ số 68 (lộc phát), 86 (phát lộc) xuất phát từ cách gọi theo phát âm Hán Việt của số 6 và 8 giống với Lộc và Phát</span></span></p>
 
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="color:#FF0000"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span id="4-tong-hop-06-cach-xem-tuoi-quy-suu-1973-hop-so-dien-thoai-nao-sai-lech">4. Tổng hợp +06 cách xem tuổi quý sửu 1973 hợp số điện thoại nào sai lệch</span></span></span></strong></span></h2>
 
@@ -165,8 +163,6 @@
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">- Nguyên lý chọn: Quẻ dịch bao gồm quẻ hung và quẻ cát tương ứng với khả năng hỗ trợ hoặc kìm hãm bản mệnh phát triển trên các phương diện như tài lộc, công danh, sự nghiệp, học hành, gia đạo, tình cảm, cải vận,... Theo đó, thông qua tính quẻ dịch của dãy sim, người dùng có thể chọn những số điện thoại có cả quẻ chủ lẫn quẻ hỗ đều là quẻ dịch Cát hoặc ít nhất một trong hai quẻ phải Tốt về một phương diện nào đó.&nbsp;</span></span></p>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">- Đánh giá: Phương pháp chọn số điện thoại hợp tuổi quý sửu theo quẻ dịch có khả năng đánh giá được nội tại sim tốt hay xấu. Tuy nhiên nếu chỉ chọn theo cách này thì chưa đủ bởi chưa có sự đánh giá tương quan hợp khắc của sim với người dùng tuổi Sửu 1973.</span></span></p>
-
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; [Thông báo] Hiện nay chúng tôi đã có phần mềm chấm điểm quẻ dịch nội tại sim tốt hay xấu. Quý bạn hãy sử dụng ngay phần mềm [<u><a href="https://simhoptuoi.com.vn/tin-sim/xem-boi-sim-kinh-dich.html">xem sim kinh dịch</a></u>] để tra cứu dãy sim đang dùng có quẻ dịch nào đại diện</span></span></strong></em></p>
 
                         <h3 dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">4.3 Xem tuổi quý sửu 1973 hợp số điện thoại nào theo du niên</span></span></strong></em></h3>
 

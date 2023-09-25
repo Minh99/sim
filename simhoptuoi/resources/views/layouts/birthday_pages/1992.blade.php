@@ -15,7 +15,7 @@
             <div class="siteBodyContent">
                 <div class="row">
                     <div class="col-md-12">
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Nham-Than-sinh-nam-1992/41.html"><strong>Số điện thoại hợp tuổi 1992</strong></a></u> theo quan niệm của nhiều nơi là dãy sim xuất hiện cặp số đẹp theo Du Niên hay số hợp tuổi. Việc sử dụng sim hợp tuổi Nhâm Thân sẽ đem đến nhiều may mắn, tài lộc trong công việc với nhiều phương diện khác nhau. Tuy nhiên theo chuyên gia thì cách chọn sim hợp tuổi 1992 theo các phương pháp này có nhiều điểm bất cập. Vậy lý do và cách xem sinh năm 1992 hợp số điện thoại nào chính xác thì mời quý vị nghiên cứu chi tiết tại nội dung dưới đây.</span></span></p>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Số điện thoại hợp tuổi 1992 theo quan niệm của nhiều nơi là dãy sim xuất hiện cặp số đẹp theo Du Niên hay số hợp tuổi. Việc sử dụng sim hợp tuổi Nhâm Thân sẽ đem đến nhiều may mắn, tài lộc trong công việc với nhiều phương diện khác nhau. Tuy nhiên theo chuyên gia thì cách chọn sim hợp tuổi 1992 theo các phương pháp này có nhiều điểm bất cập. Vậy lý do và cách xem sinh năm 1992 hợp số điện thoại nào chính xác thì mời quý vị nghiên cứu chi tiết tại nội dung dưới đây.</span></span></p>
 
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="1-sim-hop-tuoi-1992-la-gi">1. Sim hợp tuổi 1992 là gì?</span></span></strong></span></h2>
 
@@ -103,7 +103,7 @@
                                 <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Bước 2: </strong>Cộng tổng các con số lại với nhau, chia cho 8. Lấy phần dư đối chiếu với danh sách các quái: Càn dư 1; Đoài dư 2; Ly dư 3; Chấn dư 4; Tốn dư 5; Khảm dư 6; Cấn dư 7; Khôn dư 8 hoặc 0.</span></span></p>
                             </li>
                             <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Bước 3:</strong> Đối chiếu, ghép Thượng Quái và Hạ Quái tại bảng <u><strong><a href="https://simhoptuoi.com.vn/tin-sim/cach-tinh-que-dich-so-dien-thoai.html">tính quẻ số điện thoại</a> </strong></u>quý vị sẽ nắm được quẻ dịch đại diện cho dãy sim.</span></span></p>
+                                <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Bước 3:</strong> Đối chiếu, ghép Thượng Quái và Hạ Quái tại bảng tính quẻ số điện thoại</a> </strong></u>quý vị sẽ nắm được quẻ dịch đại diện cho dãy sim.</span></span></p>
                             </li>
                         </ul>
 
@@ -133,7 +133,7 @@
                         </ul>
 
                         <blockquote>
-                            <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Kết luận: </strong>Phương pháp chọn sim hợp tuổi Nhâm Thân theo quẻ dịch là tiêu chí trọng yếu, góp phần xác định ý nghĩa nội tại của dãy sim. Tuy nhiên đòi hỏi quý vị phải là người có chuyên môn vì cách tính quẻ số điện thoại không đơn giản như vậy. Để giảm thiểu thời gian, hỗ trợ tra cứu ngay quẻ dịch của dãy sim bạn đang dùng. Mời quý vị hãy sử dụng phần mềm <u><strong><a href="https://simhoptuoi.com.vn/tin-sim/xem-boi-sim-kinh-dich.html">sim kinh dịch</a></strong></u> của {{ $nameSite }} </span></span></p>
+                            <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Kết luận: </strong>Phương pháp chọn sim hợp tuổi Nhâm Thân theo quẻ dịch là tiêu chí trọng yếu, góp phần xác định ý nghĩa nội tại của dãy sim.</span></span></p>
                         </blockquote>
 
                      
@@ -165,7 +165,7 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim phong thủy hợp tuổi Nhâm Thân theo Ngũ Hành sinh khắc là dãy số điện thoại đáp ứng 3 tiêu chí sau:</span></span></p>
 
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">-<strong> Thứ nhất:</strong> Dãy sim có ngũ hành đáp ứng quy luật tương sinh, tương hỗ với bản mệnh. Đó là sim có khả năng bổ trợ cát khí cho bản mệnh, đồng thời tránh được số sim khắc mệnh. Như vậy <u><strong><a href="https://simhoptuoi.com.vn/Sim-hop-menh-Kim.html">sim hợp mệnh Kim</a></strong></u> tốt nhất là dãy sim có ngũ hành Thổ, sẽ nhận được nguồn sinh khí, tăng may mắn, phúc lộc. Hoặc dãy sim mệnh Kim cũng phù hợp với tuổi Nhâm Thân, bổ trợ cho mệnh chủ cát lợi, cho cuộc sống bình ổn, hanh thông. Đồng thời tránh số sim thuộc ngũ hành Hỏa xung khắc bản mệnh, làm hao tổn, suy yếu vận khí người dùng.&nbsp;</span></span></p>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">-<strong> Thứ nhất:</strong> Dãy sim có ngũ hành đáp ứng quy luật tương sinh, tương hỗ với bản mệnh. Đó là sim có khả năng bổ trợ cát khí cho bản mệnh, đồng thời tránh được số sim khắc mệnh. Như vậy <u><strong><a href="{{ route('menu-page', ['slug' => 'sim_menh_kim']) }}">sim hợp mệnh Kim</a></strong></u> tốt nhất là dãy sim có ngũ hành Thổ, sẽ nhận được nguồn sinh khí, tăng may mắn, phúc lộc. Hoặc dãy sim mệnh Kim cũng phù hợp với tuổi Nhâm Thân, bổ trợ cho mệnh chủ cát lợi, cho cuộc sống bình ổn, hanh thông. Đồng thời tránh số sim thuộc ngũ hành Hỏa xung khắc bản mệnh, làm hao tổn, suy yếu vận khí người dùng.&nbsp;</span></span></p>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">- <strong>Thứ hai: </strong>Chọn sim hợp tuổi Nhâm Thân nên ưu tiên chọn dãy số điện thoại có ngũ hành trùng với hành suy. Vì trong tứ trụ mệnh theo can chi tàng ẩn tồn tại hành suy và hành vượng. Muốn cuộc sống nhận được may mắn thì tứ trụ cần được bổ khuyết và việc chọn số điện thoại hợp tuổi 1992 bổ khuyết tứ trụ chính là một việc hiện đang được nhiều người sử dụng.</span></span></p>
 
@@ -188,8 +188,6 @@
                         <blockquote>
                             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Kết luận: </strong>Phương pháp chọn số điện thoại hợp tuổi Nhâm Thân theo ngũ hành là một trong những yếu tố trọng yếu góp phần chọn được dãy sim tương hợp với người dùng. Tuy nhiên đòi hỏi quý vị phải có kiến thức chuyên môn về Lục Thập Hoa Giáp, Can chi Tàng Ẩn, Mối quan hệ sinh khắc ngũ hành.&nbsp;</span></span></p>
                         </blockquote>
-
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Xem chi tiết: <u><a href="https://simhoptuoi.com.vn/cach-tinh-ngu-hanh-cua-day-so-dien-thoai/314.html">cách tính ngũ hành số điện thoại</a></u></span></span></strong></em></p>
 
                         <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">d. Chọn số điện thoại hợp tuổi 1992 theo thuyết cửu tinh đồ pháp</span></strong></span></h3>
 
@@ -215,8 +213,6 @@
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim hợp tuổi 1992 theo quan niệm dân gian là dãy số điện thoại có tổng nút cao và thế số đẹp. Yếu tố này chỉ là yếu tố nhỏ, góp phần gia tăng may mắn, tạo vẻ đẹp hình thức bên ngoài, gây ấn tượng với người khác Trong đó:</span></span></p>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>- Tính tổng số nút: </strong>số nút sẽ tỷ lệ thuận với ý nghĩa may mắn của sim mang lại cho người dùng. Theo đó, số điện thoại hợp với tuổi nhâm thân càng tốt lành khi có tổng số nút từ 8 đến 10. Tổng số nút từ 4 trở xuống thể hiện số sim không thể đem lại điềm lành cho chủ nhân.</span></span></p>
-
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Xem chi tiết: <a href="https://simhoptuoi.com.vn/cach-tinh-nut-sim-so-dien-thoai/308.html">cách tính nút số điện thoại</a></span></span></strong></em></p>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">- <strong>Xét cặp bộ số đặc biệt: </strong>Trong dân gian, mỗi bộ số lại có ý nghĩa riêng biệt, tạo nên điểm ấn tượng riêng cho mỗi số sim. Đây cũng là yếu tố tạo nên sự hoàn mỹ hơn cho sim hợp với tuổi nhâm thân bên cạnh các yếu tố phong thủy nêu trên. Có thể kể đến một vài bộ số đặc biệt như:</span></span></p>
 
@@ -248,18 +244,6 @@
                         </ul>
 
                         <p dir="ltr" style="text-align:justify"><em><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Xem chi tiết ý nghĩa các cặp số đẹp nên xuất hiện trong sim số hợp tuổi Nhâm Thân:</span></span></em></p>
-
-                        <ul>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-sim/so-than-tai-la-so-may.html">Số thần tài là số mấy</a></span></span></strong></u></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-sim/so-ong-dia-la-so-may.html">Số ông địa là số mấy</a></span></span></strong></u></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-sim/y-nghia-so-loc-phat-la-so-may.html">Số lộc phát là số mấy</a></span></span></strong></u></p>
-                            </li>
-                        </ul>
 
                         <blockquote>
                             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Kết luận:</strong> Cách chọn số điện thoại hợp tuổi Nhâm Thân chính xác cần dựa vào tứ trụ và 5 yếu tố phong thủy. Tuy nhiên đòi hỏi quý vị phải có kiến thức, chuyên môn về 5 quy luật cổ học phương đông.&nbsp;</span></span></p>
@@ -351,18 +335,6 @@
 
                         <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">- Xem sinh năm 1992 hợp số điện thoại nào theo tứ trụ ngày sinh</span></span></strong></em></p>
 
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Bốn thông tin gắn liền với hành trình đời người là tứ trụ ngày sinh, bao gồm giờ sinh, ngày sinh, tháng sinh, năm sinh. Từ những thông tin này sẽ xác định được điểm mạnh và điểm yếu của mỗi người sinh năm 1992. Từ đó chọn được vật phẩm phong thủy sim hợp tuổi Nhâm Thân có khả năng bổ trợ điểm khuyết, giảm hạn vận, tăng may mắn phát triển cuộc sống.&nbsp;</span></span><br>
-                            <strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Nội dung hữu ích khác:</span></span></strong></p>
-
-                        <ul>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-tuc/han-tam-tai-tuoi-1992.html">1992 tam tai năm nào</a></span></span></strong></u></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-tuc/sinh-nam-1992-menh-gi.html">1992 cung mệnh gì</a></span></span></strong></u></p>
-                            </li>
-                        </ul>
-
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="4-ly-do-khien-cac-ban-tre-nen-chon-so-dien-thoai-hop-tuoi-1992">4. Lý do khiến các bạn trẻ nên chọn số điện thoại hợp tuổi 1992</span></span></strong></span></h2>
 
                         <p dir="ltr" style="text-align:center"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><img alt="lý do nên chọn số điện thoại hợp tuổi 1992" src="https://simhoptuoi.com.vn/media/images/news/41/sim-hop-tuoi-1992%20(1).png"></span></strong></span><br>
@@ -374,18 +346,9 @@
 
                         <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Ngoài sim hợp tuổi 1992 thì màu sắc, ngành nghề cũng là một yếu tố giúp gia chủ gặp nhiều may mắn nếu ứng dụng đúng cách.</span></span></strong></em></p>
 
-                        <ul>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-tuc/tuoi-nham-than-1992-hop-mau-gi.html">Sinh năm 1992 hợp màu gì</a></span></span></strong></u></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tuoi-nham-than-hop-voi-nghe-gi.html">Tuổi Nhâm Thân hợp nghề gì</a></span></span></strong></u></p>
-                            </li>
-                        </ul>
-
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="5-huong-dan-kiem-tra-day-sim-dang-dung-co-phu-hop-voi-tuoi-1992-khong">5. Hướng dẫn kiểm tra dãy sim đang dùng có phù hợp với tuổi 1992 không?</span></span></strong></span></h2>
 
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Số điện thoại mình đang dùng có phải sim phong thủy hợp tuổi 1992 không là băn khoăn của không ít mệnh chủ Nhâm Thân. Quý bạn có thể tự luận giải điều này thông qua 5 yếu tố phong thủy đã nêu ở mục II. Tuy nhiên cách xem sim hợp tuổi Nhâm Thân này yêu cầu kiến thức chuyên sâu, cũng như phải bỏ khá nhiều thời gian và công sức nghiên cứu. Hiểu được điều này, các chuyên gia phong thủy hàng đầu đã kết hợp công nghệ thuật toán cho ra mắt công cụ&nbsp;<u><strong><a href="{{ route('boi-sim') }}">XEM SIM PHONG THỦY CHÍNH XÁC</a></strong></u> tại{{ $namSite }}. Từ đó, người tuổi Nhâm Thân có thể kiểm tra nhanh chóng ý nghĩa tổng thể số sim đang dùng chuẩn xác nhất.</span></span></p>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Số điện thoại mình đang dùng có phải sim phong thủy hợp tuổi 1992 không là băn khoăn của không ít mệnh chủ Nhâm Thân. Quý bạn có thể tự luận giải điều này thông qua 5 yếu tố phong thủy đã nêu ở mục II. Tuy nhiên cách xem sim hợp tuổi Nhâm Thân này yêu cầu kiến thức chuyên sâu, cũng như phải bỏ khá nhiều thời gian và công sức nghiên cứu. Hiểu được điều này, các chuyên gia phong thủy hàng đầu đã kết hợp công nghệ thuật toán cho ra mắt công cụ&nbsp;<u><strong><a href="{{ route('boi-sim') }}">XEM SIM PHONG THỦY CHÍNH XÁC</a></strong></u> tại{{ $nameSite }}. Từ đó, người tuổi Nhâm Thân có thể kiểm tra nhanh chóng ý nghĩa tổng thể số sim đang dùng chuẩn xác nhất.</span></span></p>
 
                         <p dir="ltr" style="text-align:center"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"></span></span></p><section class="boxFormSim">
                             <div class="bgFormSim">
@@ -596,8 +559,6 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Đánh giá: chuyên gia khuyên người dùng không nên sử dụng số hợp tuổi 1992 vào chọn sim hợp tuổi Nhâm Thân. Vì nhiều tần suất xuất hiện nhiều số ngũ hành tương hợp bản mệnh không nói lên ngũ hành của số điện thoại. Nói cách khác, một vài con số hợp không thể quyết định được mức độ hợp khắc của sim với bản mệnh người dùng.&nbsp;</span></span></p>
 
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Xem chi tiết: <u><a href="https://simhoptuoi.com.vn/tin-sim/tuoi-nham-than-1992-hop-so-nao.html">1992 hợp số nào</a></u></span></span></strong></em></p>
-
                         <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">b. Chọn sim hợp tuổi 1992 theo Du Niên</span></strong></span></h3>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim phong thủy hợp tuổi 1992 theo Du Niên là dãy số điện thoại xuất hiện nhiều cặp số tốt đại diện cho các cát tinh như Sinh Khí, Diên Niên, Thiên Y, Phục Vị. Phương pháp này sẽ chia dãy số điện thoại thành từng cặp số liền kề, sau đó luận ý nghĩa hung cát theo cặp quái của bát biến du niên. Dưới đây là danh sách các cặp số tốt - xấu trong du niên:</span></span></p>
@@ -632,8 +593,6 @@
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">- <strong>Bước 3: </strong>Lấy kết quả bước 2 đối chiếu với bảng ý nghĩa hung cát số điện thoại để kết xác định đó có phải sim phong thủy hợp tuổi 1992 hay không. Với kết quả 18 tương ứng với ý nghĩa đại cát nên sim 09****6578 hợp với tuổi Nhâm Thân, giúp chủ nhân mọi chuyện đều thuận lợi, như ý.</span></span></p>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Đánh giá: Cách chia 80 không thể luận chính xác tuổi Nhâm Thân hợp số điện thoại nào. Bởi lẽ với cách chia như vậy không tạo được tính cá nhân hóa của sim. Hơn nữa, công thức chia 80 chỉ được dân gian truyền tụng, chắp ghép từ nhiều nguồn khác nhau, mà không có bất kỳ cơ sở khoa học nào chứng thực được.</span></span></p>
-
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Xem chi tiết: <u><a href="https://simhoptuoi.com.vn/cach-xem-boi-phong-thuy-sim-chia-80/310.html">Cách tính sim chia cho 80</a></u></span></span></strong></em></p>
 
                         <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">d. Chọn sim phong thủy hợp tuổi 1992 theo đuôi số năm sinh</span></strong></span></h3>
 
@@ -714,53 +673,6 @@
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sau khi xem sim phong thủy hợp tuổi 1992 và chọn được sim như mong muốn bạn có thể để lại thông tin liên hệ để đặt hàng online hoặc liên hệ trực tiếp với chúng tôi qua số 0766.139.189. Hy vọng nội dung trên đây là thông tin hữu ích giúp tuổi Mậu Ngọ có thể tự mình chọn được số sim phù hợp và ưng ý nhất.&nbsp;</span></span></p>
 
                         <p dir="ltr" style="text-align:right"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Biên soạn: <u><a href="{{ route('home') }}">{{ $nameSite }} </a></u></span></span></strong></em></p>
-
-                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">THAM KHẢO SỐ ĐIỆN THOẠI HỢP TUỔI KHÁC</span></span></strong></p>
-
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
-                                <tbody>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Canh-Ngo-sinh-nam-1990/39.html">Số điện thoại hợp tuổi 1990</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-At-Hoi-sinh-nam-1995/44.html">Số điện thoại hợp tuổi 1995</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Tan-Mui-sinh-nam-1991/40.html">Số điện thoại hợp tuổi 1991</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Binh-Ty-sinh-nam-1996/45.html">Số điện thoại hợp tuổi 1996</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Nham-Than-sinh-nam-1992/41.html">Số điện thoại hợp tuổi 1992</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Dinh-Suu-sinh-nam-1997/46.html">Số điện thoại hợp tuổi 1997</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Quy-Dau-sinh-nam-1993/42.html">Số điện thoại hợp tuổi 1993</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/sim-hop-tuoi-mau-dan-1998/166.html">Số điện thoại hợp tuổi 1998</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Giap-Tuat-sinh-nam-1994/43.html">Số điện thoại hợp tuổi 1994</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/sim-hop-tuoi-ky-mao-1999/168.html">Số điện thoại hợp tuổi 1999</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                </tbody>
-                            </table></div>
 
                         <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Ngoài ra nội dung này còn giải đáp những vấn đề sau:</span></span></strong></em></p>
 

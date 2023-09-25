@@ -12,7 +12,7 @@
             <div class="siteBodyContent">
                 <div class="row">
                     <div class="col-md-12">
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Xem <u><a href="https://simhoptuoi.com.vn/sim-hop-tuoi-tan-ty-2001/195.html"><strong>sinh năm 2001 hợp số điện thoại nào</strong></a></u> là một trong những phương pháp giúp xua đuổi vận đen, đem lại may mắn và tài lộc. Tuy nhiên, để đạt được hiệu quả tốt nhất về mặt phong thủy, người sinh năm Tân Tỵ khi chọn sim hợp tuổi 2001 cần tuân thủ nguyên lý của 5 yếu tố: Âm dương - ngũ hành - kinh dịch - cửu tinh - quan niệm dân gian.&nbsp;</span></span></p>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Xem sinh năm 2001 hợp số điện thoại nào là một trong những phương pháp giúp xua đuổi vận đen, đem lại may mắn và tài lộc. Tuy nhiên, để đạt được hiệu quả tốt nhất về mặt phong thủy, người sinh năm Tân Tỵ khi chọn sim hợp tuổi 2001 cần tuân thủ nguyên lý của 5 yếu tố: Âm dương - ngũ hành - kinh dịch - cửu tinh - quan niệm dân gian.&nbsp;</span></span></p>
 
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="color:#FF0000"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span id="1-xem-sinh-nam-2001-hop-so-dien-thoai-nao-can-dam-bao-nguyen-tac-gi">1. Xem sinh năm 2001 hợp số điện thoại nào cần đảm bảo nguyên tắc gì?</span></span></span></strong></span></h2>
 
@@ -158,8 +158,6 @@
                             </li>
                         </ul>
 
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><em><strong><img alt="Mũi tên" src="https://simhoptuoi.com.vn/media/images/news/195/mui-ten.gif" style="height:26px; width:50px">Tham khảo danh sách: <u><a href="https://simhoptuoi.com.vn/Sim-hop-menh-Kim.html">SIM HỢP MỆNH KIM</a></u></strong></em></span></span></p>
-
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>- Xem sinh năm 2001 hợp số điện thoại nào theo Âm dương hòa hợp:</strong> Mối quan hệ giữa số điện thoại và người dùng phải đạt trạng thái cân bằng thì dãy sim mới hỗ trợ người dùng Tâm Tỵ sinh sôi phát triển và gặt hái được những thành quả tốt đẹp. Trong chọn sim, chủ sở hữu cần nắm được 2 yêu cầu như sau:</span></span></p>
 
                         <ul>
@@ -199,8 +197,6 @@
                         </ul>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">- Đánh giá: Số hợp tuổi Tân Tỵ được đánh giá riêng lẻ trong khi dãy sim hợp tuổi 2001 cần được đánh giá tổng hòa. Do đó, chọn số điện thoại theo số hợp tuổi là phương pháp sai lầm.</span></span></p>
-
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Tham khảo chi tiết: <u><a href="https://simhoptuoi.com.vn/tin-sim/nguoi-menh-kim-hop-so-nao-may-man.html">Mệnh Kim hợp số nào?</a></u></span></span></strong></em></p>
 
                         <h3 dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">3.2 Chọn sim phong thủy hợp tuổi 2001 theo du niên</span></span></strong></em></h3>
 
@@ -346,9 +342,5 @@
                 </section>
             </div>
         @endif
-
-
-        
-
     </section>
 @endsection

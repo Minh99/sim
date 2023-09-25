@@ -12,7 +12,7 @@
             <div class="siteBodyContent">
                 <div class="row">
                     <div class="col-md-12">
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Giap-Tuat-sinh-nam-1994/43.html"><strong>Sim hợp tuổi 1994</strong></a></u> là dãy sim mang đến may mắn, giúp cuộc sống thuận lợi hanh thông. Bên cạnh đó, tùy vào mỗi loại số điện thoại hợp tuổi 1994 quý vị sẽ nhận được nhiều cơ hội trong nhiều phương diện như công việc, tiền bạc, tình duyên. Tuy nhiên để chọn được dãy sim phong thủy hợp tuổi 1994 thì hiện nay xuất hiện nhiều phương thức khác nhau, điển hình là cách chọn dựa theo con số hợp tuổi (nam dùng sim xuất hiện số 2, 5, 8 nữ dùng sim xuất hiện 3, 4). Vậy tuổi 1994 hợp số điện thoại nào thì mời quý vị hãy cùng chuyên gia sim phong thủy của <u><strong><a href="{{ route('home') }}">{{ $nameSite }} </a></strong></u> phân tích tại nội dung dưới đây.</span></span></p>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim hợp tuổi 1994 là dãy sim mang đến may mắn, giúp cuộc sống thuận lợi hanh thông. Bên cạnh đó, tùy vào mỗi loại số điện thoại hợp tuổi 1994 quý vị sẽ nhận được nhiều cơ hội trong nhiều phương diện như công việc, tiền bạc, tình duyên. Tuy nhiên để chọn được dãy sim phong thủy hợp tuổi 1994 thì hiện nay xuất hiện nhiều phương thức khác nhau, điển hình là cách chọn dựa theo con số hợp tuổi (nam dùng sim xuất hiện số 2, 5, 8 nữ dùng sim xuất hiện 3, 4). Vậy tuổi 1994 hợp số điện thoại nào thì mời quý vị hãy cùng chuyên gia sim phong thủy của <u><strong><a href="{{ route('home') }}">{{ $nameSite }} </a></strong></u> phân tích tại nội dung dưới đây.</span></span></p>
 
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="1-phong-thuy-tuoi-giap-tuat-1994">1. Phong thủy tuổi Giáp Tuất 1994</span></span></strong></span></h2>
 
@@ -140,7 +140,7 @@
                             </li>
                         </ul>
 
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Bên cạnh đó, ngũ hành <u><strong><a href="https://simhoptuoi.com.vn/Sim-hop-menh-Hoa.html">sim phong thủy hợp mệnh Hỏa</a></strong></u> nên bổ khuyết tứ trụ, đó là dãy sim có ngũ hành giống với hành suy yếu trong tứ trụ mệnh. Để xác định ngũ hành khuyết thiếu của tứ trụ mệnh thì quý vị cần áp dụng theo các bước sau:</span></span></p>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Bên cạnh đó, ngũ hành <u><strong><a href="{{ route('menu-page', ['slug' => 'sim_menh_hoa']) }}">sim phong thủy hợp mệnh Hỏa</a></strong></u> nên bổ khuyết tứ trụ, đó là dãy sim có ngũ hành giống với hành suy yếu trong tứ trụ mệnh. Để xác định ngũ hành khuyết thiếu của tứ trụ mệnh thì quý vị cần áp dụng theo các bước sau:</span></span></p>
 
                         <ul>
                             <li dir="ltr">
@@ -272,7 +272,7 @@
 
                         <ul>
                             <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Bước 3: </strong>Ghép Thượng Quái và Hạ Quái tại bảng 64 quẻ kinh dịch <a href="https://simhoptuoi.com.vn/tin-sim/cach-tinh-que-dich-so-dien-thoai.html">tại đây</a> quý bạn sẽ biết quẻ dịch đại diện cho dãy sim hợp tuổi 1983. Từ đó nắm được ý nghĩa cát hung của dãy sim.&nbsp;</span></span></p>
+                                <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Bước 3: </strong>Ghép Thượng Quái và Hạ Quái tại bảng 64 quẻ kinh dịch quý bạn sẽ biết quẻ dịch đại diện cho dãy sim hợp tuổi 1983. Từ đó nắm được ý nghĩa cát hung của dãy sim.&nbsp;</span></span></p>
                             </li>
                         </ul>
 
@@ -351,17 +351,6 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Xem tuổi giáp tuất hợp với số điện thoại nào tuyệt đối không không đơn giải như một con số hợp tuổi thông thường. Sim hợp mệnh Hỏa 1994 là vật phẩm không dễ lựa chọn thông qua hình thức mà phải được hỗ trợ luận giải từ chuyên gia với nhiều phương diện bổ trợ phức tạp. Bởi muốn xem số điện thoại có hợp tuổi hay không bạn cần xét tổng hòa cả dãy sim với bản mệnh của của người sinh năm 1994 mới xác định được kết quả chính xác.</span></span></p>
 
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Nội dung hữu ích khác:&nbsp;</span></span></strong></em></p>
-
-                        <ul>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-tuc/han-tam-tai-tuoi-1994.html">1994 tam tai năm nào</a></span></span></strong></u></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-tuc/nam-nu-tuoi-giap-tuat-sinh-nam-1994-cung-gi.html">1994 cung mệnh gì</a></span></span></strong></u></p>
-                            </li>
-                        </ul>
-
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="5-04-loai-sim-hop-tuoi-1994-giap-tuat">5. 04 Loại sim hợp tuổi 1994 Giáp Tuất</span></span></strong></span></h2>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Với 5 yếu tố phong thủy phía trên thì yếu tố quẻ dịch sẽ giúp quý bạn chọn được số sim phong thủy hợp tuổi 1994 theo từng mục đích sử dụng. Hiện tại hệ thống simhoptuoi.com.vn đang có 4 loại số điện thoại hợp tuổi giáp tuất được nhiều người quan tâm nhất là:</span></span></p>
@@ -433,8 +422,6 @@
                             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Đánh giá: </strong>Cách chia 80 được thực hiện đơn giản, nhưng lại không xét được tổng thể của cả 10 con số hay mức độ hợp khắc của sim với người dùng. Phương pháp luận sim hợp tuổi 1994 này chưa có cơ sở nghiên cứu nào chứng thực mà chỉ được dân gian truyền tụng, biến tấu theo 80 linh số phong thủy.&nbsp;</span></span></p>
                         </blockquote>
 
-                        <p dir="ltr" style="text-align:justify"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Xem chi tiết: <u><a href="https://simhoptuoi.com.vn/tin-sim/cach-xem-boi-phong-thuy-sim-chia-80.html">Bói sim chia cho 80</a></u></span></span></strong></p>
-
                         <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">b. Chọn sim hợp tuổi 1994 theo con số hợp tuổi?</span></strong></span></h3>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim hợp tuổi Giáp Tuất là dãy sim có nhiều con số hợp tuổi. Để xác định được 1994 hợp số nào thì người dùng có thể xét theo mệnh niên hoặc mệnh quái, được sử dụng phổ biến hiện nay.</span></span></p>
@@ -459,8 +446,6 @@
                         <blockquote>
                             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Đánh giá: </strong>Phương pháp chọn sim hợp tuổi Giáp Tuất theo số hợp tuổi chỉ cần nhìn bằng mắt mà không cần tính toán phức tạp. Tuy nhiên, ý nghĩa số hợp tuổi 1994 chỉ đúng khi đứng một mình, không thể quyết định phong thủy cả một dãy sim.&nbsp;</span></span></p>
                         </blockquote>
-
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Xem chi tiết: <u><a href="https://simhoptuoi.com.vn/tin-sim/tuoi-giap-tuat-1994-hop-so-nao.html">1994 hợp số nào</a></u></span></span></strong></em></p>
 
                         <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">c. Chọn số điện thoại hợp tuổi 1994 theo Du Niên?</span></strong></span></h3>
 
@@ -645,55 +630,6 @@
                 <div class="row">
                     <div class="col-md-12">
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Simhoptuoi.com.vn hiện tại cung cấp đầy đủ các dòng <strong>sim hợp tuổi 1994 </strong>trên với nhiều mức giá đa dạng giúp bạn có thêm nhiều lựa chọn hơn. Toàn bộ dãy sim hợp tuổi Giáp Tuất đều được tính toán luận giải và phân tích chi tiết theo 05 yếu tố - cách tính sim phong thủy chính xác nhất hiện nay. Sau cùng, chúc quý bạn nắm được<strong> tuổi 1994 hợp số điện thoại nào </strong>chọn được một dãy sim phù hợp và ưng ý, đón may mắn, tài lộc, thành công!</span></span></p>
-
-                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">THAM KHẢO SIM HỢP TUỔI KHÁC</span></span></strong></p>
-
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
-                                <tbody>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Canh-Ngo-sinh-nam-1990/39.html">Sim hợp tuổi 1990</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-At-Hoi-sinh-nam-1995/44.html">Sim hợp tuổi 1995</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Tan-Mui-sinh-nam-1991/40.html">Sim hợp tuổi 1991</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Binh-Ty-sinh-nam-1996/45.html">Sim hợp tuổi 1996</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Nham-Than-sinh-nam-1992/41.html">Sim hợp tuổi 1992</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Dinh-Suu-sinh-nam-1997/46.html">Sim hợp tuổi 1997</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Quy-Dau-sinh-nam-1993/42.html">Sim hợp tuổi 1993</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/sim-hop-tuoi-mau-dan-1998/166.html">Sim hợp tuổi 1998</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Giap-Tuat-sinh-nam-1994/43.html">Sim hợp tuổi 1994</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/sim-hop-tuoi-ky-mao-1999/168.html">Sim hợp tuổi 1999</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                </tbody>
-                            </table></div>
-
-
 
                         <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Ngoài ra nội dung còn giải đáp những vấn đề sau:</span></span></strong></em></p>
 

@@ -2,6 +2,18 @@
     color: blue;
 }
 
+.item-ung-dung-sim {
+    display: none !important;
+}
+
+.item-ung-dung-sim a {
+    font-size: 10px !important;
+    padding: 2px !important;
+    height: fit-content !important;
+    width: 20%;
+    margin-top: 5px;
+}
+
 .contentPage img {
     height: auto !important;
 }
@@ -296,11 +308,18 @@
     .search-mobile {
         padding: 0px 10px;
     }
+
+    .item-ung-dung-sim {
+        display: flex !important;
+        justify-content: space-between;
+        align-items: center;
+    }
+
     .search-mobile .search_header {
-        background: #efefef;
+        background: #dbdbdb;
         padding: 8px;
         border-radius: 10px;
-        border: 2px solid #163357;
+        border: 2px solid #ffffff;
     }
     .top-logo {
         margin-bottom: 10px;
@@ -317,9 +336,9 @@
         text-align: left;
     }
     .search-mobile .search_header .form-control {
-        background: #efefef;
+        background: #ffffff;
         color: #0056b3;
-        font-size: 14px;
+        font-size: 12px;
     }
     .header-2 .main-header {
         padding: 11px 0px 15px 0px;

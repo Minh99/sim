@@ -15,9 +15,8 @@
                 <div class="row">
                     <div class="col-md-12">
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span
-                                    style="font-family:arial,helvetica,sans-serif"><a
-                                        href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Canh-Than-sinh-nam-1980/29.html"><u><strong>Tuổi
-                                                Canh Thân 1980 hợp số điện thoại nào</strong></u></a>? Làm sao để gia chủ
+                                    style="font-family:arial,helvetica,sans-serif"><strong>Tuổi
+                                                Canh Thân 1980 hợp số điện thoại nào</strong>? Làm sao để gia chủ
                                     chọn lựa được số điện thoại hợp tuổi 1980? Đó có phải là dãy sim xuất hiện nhiều cặp số
                                     đẹp trong Du Niên <strong>(Phúc Đức, Sinh Khí, Diên Niên, Phục Vị)</strong> hay dãy sim
                                     có 4 số cuối ứng với linh số Đại Cát theo phép chia 80. Để phù trợ công việc, hoàn thành
@@ -94,9 +93,8 @@
                                             điện thoại hợp tuổi 1980</span></span></strong></span></h2>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span
-                                    style="font-family:arial,helvetica,sans-serif">Theo chuyên gia <u><strong><a
-                                                href="https://simhoptuoi.com.vn/tin-tuc/author-ly-hong-luong.html">Lý Hồng
-                                                Lượng</a></strong></u>, số điện thoại phong thủy hợp với tuổi 1980 là một
+                                    style="font-family:arial,helvetica,sans-serif">Theo chuyên gia<strong>Lý Hồng
+                                                Lượng</strong>, số điện thoại phong thủy hợp với tuổi 1980 là một
                                     dãy số sim gồm 10 con số được đánh giá, luận giải theo 5 bộ môn Cổ Học Phương Đông với
                                     tứ trụ ngày giờ tháng năm sinh của người tuổi Canh Thân. Do đó dãy sim hợp tuổi 1980 là
                                     dãy số điện thoại hội tụ 5 yếu tố phong thủy gồm có: </span></span></p>
@@ -279,7 +277,7 @@
 
                         <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span
                                             style="font-family:arial,helvetica,sans-serif">- Thứ nhất: Chọn <a
-                                                href="https://simhoptuoi.com.vn/Sim-hop-menh-Moc.html">sim phong thủy hợp
+                                                href="{{ route('menu-page', ['slug' => 'sim_menh_moc']) }}">sim phong thủy hợp
                                                 mệnh Mộc</a> cho tuổi Canh Thân&nbsp;phải có ngũ hành Thủy hoặc Mộc vì Thủy
                                             sinh cho Mộc, Mộc tương trợ với Mộc.&nbsp;</span></span></strong></em></p>
 
@@ -334,12 +332,6 @@
                                             nhất); hành vượng (hành mạnh nhất) trong tứ trụ</span></span></p>
                             </li>
                         </ul>
-
-                        <p dir="ltr"><em><strong><span style="font-size:14px"><span
-                                            style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Chi tiết hơn xem
-                                            tại: <u><a
-                                                    href="https://simhoptuoi.com.vn/tin-sim/cach-tinh-ngu-hanh-cua-day-so-dien-thoai.html">Cách
-                                                    tính ngũ hành dãy số điện thoại</a></u></span></span></strong></em></p>
 
                         <div style="overflow-x:auto;">
                             <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
@@ -856,13 +848,6 @@
                                         kiến thức chuyên môn để phân tích, chọn lựa</span></span></p>
                         </blockquote>
 
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span
-                                            style="font-family:arial,helvetica,sans-serif"><img alt="điều hướng"
-                                                src="https://simhoptuoi.com.vn/media/images/news/29/Arrow-icon.png"
-                                                style="height:25px; width:25px">&nbsp;Chi tiết: <u><a
-                                                    href="https://simhoptuoi.com.vn/cach-tinh-ngu-hanh-cua-day-so-dien-thoai/314.html">cách
-                                                    tính ngũ hành số điện thoại</a></u></span></span></strong></em></p>
-
                         <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span
                                         style="font-family:arial,helvetica,sans-serif">c. Theo hành quẻ bát quái tuổi canh
                                         thân 1980 hợp số điện thoại nào?</span></strong></span></h3>
@@ -995,14 +980,7 @@
                                     tạo vẻ đẹp hình thức bên ngoài. Tuy nhiên nếu chỉ áp dụng duy nhất một yếu tố này thì
                                     chưa đủ.</span></span></p>
 
-                        <p style="text-align:justify"><em><strong><span style="font-size:14px"><span
-                                            style="font-family:arial,helvetica,sans-serif"><img alt="điều hướng"
-                                                src="https://simhoptuoi.com.vn/media/images/news/29/Arrow-icon.png"
-                                                style="height:25px; width:25px">&nbsp;Chi tiết: <u><a
-                                                    href="https://simhoptuoi.com.vn/cach-tinh-nut-sim-so-dien-thoai/308.html">Cách
-                                                    tính nút số điện thoại</a></u></span></span></strong></em></p>
-
-                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span
+                                    <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span
                                         style="font-family:arial,helvetica,sans-serif">VÍ DỤ VỀ MỘT SỐ ĐIỆN THOẠI HỢP TUỔI
                                         1980 ĐÁP ỨNG ĐẦY ĐỦ 5 YẾU TỐ</span></span></strong></p>
 
@@ -1585,79 +1563,6 @@
                                             sắc, ngành nghề cũng là một yếu tố giúp gia chủ gặp nhiều may mắn nếu ứng dụng
                                             đúng cách.</span></span></strong></em></p>
 
-                        <ul>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span
-                                                style="font-size:14px"><span
-                                                    style="font-family:arial,helvetica,sans-serif"><a
-                                                        href="https://simhoptuoi.com.vn/tin-tuc/tuoi-canh-than-1980-hop-mau-gi.html">Sinh
-                                                        năm 1980 hợp màu gì?</a></span></span></strong></u></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span
-                                                style="font-size:14px"><span
-                                                    style="font-family:arial,helvetica,sans-serif"><a
-                                                        href="https://simhoptuoi.com.vn/tuoi-canh-than-hop-voi-nghe-gi.html">Tuổi
-                                                        Canh Thân hợp nghề gì?</a></span></span></strong></u></p>
-                            </li>
-                        </ul>
-
-                        <h2 dir="ltr"
-                            style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);">
-                            <span style="font-size:18px"><strong><span
-                                        style="font-family:arial,helvetica,sans-serif"><span
-                                            id="8-cach-mua-sim-hop-tuoi-1980-online-tai-simhoptuoi-com-vn">8. Cách mua sim
-                                            hợp tuổi 1980 online tại {{ $nameSite }} </span></span></strong></span>
-                        </h2>
-
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span
-                                    style="font-family:arial,helvetica,sans-serif">Sau khi nắm được cách chọn số điện
-                                    thoại phong thủy hợp tuổi 1980 thì quý vị cần biết được cách chọn mua sim để việc mua và
-                                    nhận sim được diễn ra đơn giản, nhanh chóng, chính xác và tránh phát sinh nhiều vấn đề.
-                                    Dưới đây là cách mua số sim hợp tuổi canh thân 1980 online:&nbsp;</span></span></p>
-
-                        <ul>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span
-                                            style="font-family:arial,helvetica,sans-serif"><strong>Bước 1: </strong>Nhấp
-                                            vào kho sim hợp tuổi 1980 <u><strong><a
-                                                        href="https://simhoptuoi.com.vn/xem-phong-thuy-sim/sim-hop-tuoi-1980.html">tại
-                                                        đây</a></strong></u></span></span></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span
-                                            style="font-family:arial,helvetica,sans-serif"><strong>Bước 2:</strong> Lọc
-                                            nhà mạng sim mà bạn muốn mua tại bảng lọc sim</span></span></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span
-                                            style="font-family:arial,helvetica,sans-serif"><strong>Bước 3: </strong>Lọc
-                                            khoảng giá sim mà bạn muốn mua (Dưới 2 triệu, 2 - 3 triệu, 3 - 5 triệu, 5 - 8
-                                            triệu, 8 - 10 triệu, Trên 10 triệu)</span></span></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span
-                                            style="font-family:arial,helvetica,sans-serif"><strong>Bước 4: </strong>Nếu
-                                            bạn muốn chọn thêm đuôi số thì tại bảng lọc bạn điền thêm đuôi số, hệ thống sẽ
-                                            lọc ra cho bạn dãy sim phong thủy hợp tuổi 1980 thuộc nhà mạng, mức giá mà chứa
-                                            đuôi số bạn cần tìm.</span></span></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span
-                                            style="font-family:arial,helvetica,sans-serif"><strong>Bước 5:</strong> Click
-                                            vào chữ “Đặt Mua”, link sẽ chuyển ra link chi tiết số sim bạn chọn, bạn click
-                                            vào chữ “Mua Ngay”, hệ thống sẽ chuyển ra màn hình điền thông tin của bạn gồm Họ
-                                            tên, số điện thoại liên hệ của bạn, địa chỉ, ghi chú, hình thức thanh toán
-                                            chuyển khoản hay trả tiền khi nhận hàng, bạn điền đẩy đủ thông
-                                            tin.</span></span></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span
-                                            style="font-family:arial,helvetica,sans-serif"><strong>Bước 6: </strong>Nhấn
-                                            “Đặt Hàng” hệ thống sẽ ghi nhận đơn hàng của bạn, chuyên viên tư vấn sẽ liên lạc
-                                            với bạn trong thời gian sớm nhất.</span></span></p>
-                            </li>
-                        </ul>
 
                         <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span
                                             style="font-family:arial,helvetica,sans-serif">Lưu ý: Sau khi đặt mua, quý vị
@@ -1668,7 +1573,7 @@
                             style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);">
                             <span style="font-size:18px"><strong><span
                                         style="font-family:arial,helvetica,sans-serif"><span
-                                            id="9-cau-chuyen-thanh-cong-cua-viec-su-dung-sim-hop-tuoi-1980">9. Câu chuyện
+                                            id="9-cau-chuyen-thanh-cong-cua-viec-su-dung-sim-hop-tuoi-1980">8. Câu chuyện
                                             thành công của việc sử dụng sim hợp tuổi 1980</span></span></strong></span></h2>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span
@@ -1692,7 +1597,7 @@
                         <p dir="ltr" style="text-align:justify"><em><span style="font-size:14px"><span
                                         style="font-family:arial,helvetica,sans-serif">Sau khi tìm tòi, được bạn bè giới
                                         thiệu thì anh A đã tìm đến chuyên gia Lý Hồng Lượng, cố vấn phong thủy
-                                        của{{ $namSite }}. Sau khi được thầy tư vấn, xem phong thủy sim đang dùng thì
+                                        của{{ $nameSite }}. Sau khi được thầy tư vấn, xem phong thủy sim đang dùng thì
                                         nhận thấy dãy sim anh sở hữu khắc chế bản mệnh của anh, chứa quẻ dịch hung Sơn Thủy
                                         Mông (chiêm đoán công việc mở mịt, tương lai u ám). Theo đó anh đã quyết định thay
                                         sim đổi số phong thủy, nhờ thầy chọn lựa một số điện thoại hợp tuổi Canh Thân có ngũ
@@ -1706,7 +1611,7 @@
                             style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);">
                             <span style="font-size:18px"><strong><span
                                         style="font-family:arial,helvetica,sans-serif"><span
-                                            id="10-xem-day-sim-dang-dung-co-thuc-su-hop-tuoi-1980-hay-khong">10. Xem dãy
+                                            id="10-xem-day-sim-dang-dung-co-thuc-su-hop-tuoi-1980-hay-khong">9. Xem dãy
                                             sim đang dùng có thực sự hợp tuổi 1980 hay không?</span></span></strong></span>
                         </h2>
 
@@ -1717,7 +1622,7 @@
                                     những yếu tố phong thủy cổ học trên. Tuy nhiên không phải ai cũng có kinh nghiệm cũng
                                     như thời gian. Do vậy để giảm trừ những mặt hạn chế trên thì mời quý bạn hãy sử dụng
                                     phần mềm <strong><a href="{{ route('boi-sim') }}">XEM SIM PHONG THỦY</a></strong>
-                                    của{{ $namSite }}. Đây chính là phần mềm căn cứ vào 5 yếu tố phong thủy dự báo cổ,
+                                    của{{ $nameSite }}. Đây chính là phần mềm căn cứ vào 5 yếu tố phong thủy dự báo cổ,
                                     được đội ngũ chuyên gia đánh giá cao, mỗi yếu tố sẽ được công cụ luận giải rõ ràng,
                                     tường minh, dễ hiểu. Hứa hẹn sẽ giúp quý bạn có góc nhìn tổng quan nhất về ý nghĩa dãy
                                     sim bạn đang sở hữu.</span></span></p>
@@ -1725,7 +1630,7 @@
                         <h2 dir="ltr"
                             style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);">
                             <span style="font-size:18px"><span
-                                    style="font-family:arial,helvetica,sans-serif"><strong>11.
+                                    style="font-family:arial,helvetica,sans-serif"><strong>10.
                                     </strong></span></span><strong>Ưu nhược điểm của người tuổi Canh Thân 1980</strong></h2>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span
@@ -1756,25 +1661,6 @@
                                     người tin dùng.</span></span></p>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span
-                                    style="font-family:arial,helvetica,sans-serif"><em><strong>&gt;&gt;&gt; Nội dung hữu
-                                            ích khác:&nbsp;</strong></em></span></span></p>
-
-                        <ul>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span
-                                            style="font-family:arial,helvetica,sans-serif"><strong><u><a
-                                                        href="https://simhoptuoi.com.vn/tin-tuc/han-tam-tai-tuoi-1980.html">1980
-                                                        tam tai năm nào</a></u>?</strong></span></span></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span
-                                            style="font-family:arial,helvetica,sans-serif"><strong><u><a
-                                                        href="https://simhoptuoi.com.vn/tin-tuc/nam-nu-tuoi-canh-than-sinh-nam-1980-cung-gi.html">1980
-                                                        cung mệnh gì</a></u>?</strong></span></span></p>
-                            </li>
-                        </ul>
-
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span
                                     style="font-family:arial,helvetica,sans-serif">Tóm lại,&nbsp;<strong>số điện thoại
                                         phong thủy hợp với tuổi 1980&nbsp;</strong>là vật phong thủy may mắn dành riêng cho
                                     người tuổi canh thân. Tuy nhiên muốn nhận lại nguồn năng lượng tích cực thì phải áp dụng
@@ -1782,106 +1668,6 @@
                                     trung tâm Sim Hợp Tuổi kính chúc quý bạn sớm sở hữu cho bản thân một dãy sim may mắn,
                                     trợ mệnh, hút tài chiêu lộc,...</span></span></p>
 
-                        <p dir="ltr" style="text-align:center"><span style="font-size:14px"><span
-                                    style="font-family:arial,helvetica,sans-serif"><strong>THAM KHẢO SỐ ĐIỆN THOẠI HỢP
-                                        TUỔI KHÁC</strong></span></span></p>
-
-                        <div style="overflow-x:auto;">
-                            <table border="1" cellpadding="10" cellspacing="1" style="height:100%; width:100%">
-                                <tbody>
-                                    <tr>
-                                        <td>
-                                            <p dir="ltr" style="text-align:center"><span
-                                                    style="font-size:14px"><span
-                                                        style="font-family:arial,helvetica,sans-serif"><strong><a
-                                                                href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Canh-Than-sinh-nam-1980/29.html"><u>Số
-                                                                    điện thoại hợp tuổi 1980</u></a></strong></span></span>
-                                            </p>
-                                        </td>
-                                        <td>
-                                            <p dir="ltr" style="text-align:center"><span
-                                                    style="font-size:14px"><span
-                                                        style="font-family:arial,helvetica,sans-serif"><u><strong><a
-                                                                    href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-At-Suu-sinh-nam-1985/34.html">Số
-                                                                    điện thoại hợp tuổi 1985</a></strong></u></span></span>
-                                            </p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <p dir="ltr" style="text-align:center"><span
-                                                    style="font-size:14px"><span
-                                                        style="font-family:arial,helvetica,sans-serif"><u><strong><a
-                                                                    href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Tan-Dau-sinh-nam-1981/30.html">Số
-                                                                    điện thoại hợp tuổi 1981</a></strong></u></span></span>
-                                            </p>
-                                        </td>
-                                        <td>
-                                            <p dir="ltr" style="text-align:center"><span
-                                                    style="font-size:14px"><span
-                                                        style="font-family:arial,helvetica,sans-serif"><u><strong><a
-                                                                    href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Binh-Dan-sinh-nam-1986/35.html">Số
-                                                                    điện thoại hợp tuổi 1986</a></strong></u></span></span>
-                                            </p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <p dir="ltr" style="text-align:center"><span
-                                                    style="font-size:14px"><span
-                                                        style="font-family:arial,helvetica,sans-serif"><u><strong><a
-                                                                    href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Nham-Tuat-sinh-nam-1982/31.html">Số
-                                                                    điện thoại hợp tuổi 1982</a></strong></u></span></span>
-                                            </p>
-                                        </td>
-                                        <td>
-                                            <p dir="ltr" style="text-align:center"><span
-                                                    style="font-size:14px"><span
-                                                        style="font-family:arial,helvetica,sans-serif"><u><strong><a
-                                                                    href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Dinh-Mao-sinh-nam-1987/36.html">Số
-                                                                    điện thoại hợp tuổi 1987</a></strong></u></span></span>
-                                            </p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <p dir="ltr" style="text-align:center"><span
-                                                    style="font-size:14px"><span
-                                                        style="font-family:arial,helvetica,sans-serif"><u><strong><a
-                                                                    href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Quy-Hoi-sinh-nam-1983/32.html">Số
-                                                                    điện thoại hợp tuổi 1983</a></strong></u></span></span>
-                                            </p>
-                                        </td>
-                                        <td>
-                                            <p dir="ltr" style="text-align:center"><span
-                                                    style="font-size:14px"><span
-                                                        style="font-family:arial,helvetica,sans-serif"><u><strong><a
-                                                                    href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Mau-Thin-sinh-nam-1988/37.html">Số
-                                                                    điện thoại hợp tuổi 1988</a></strong></u></span></span>
-                                            </p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <p dir="ltr" style="text-align:center"><span
-                                                    style="font-size:14px"><span
-                                                        style="font-family:arial,helvetica,sans-serif"><u><strong><a
-                                                                    href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Giap-Ty-sinh-nam-1984/33.html">Số
-                                                                    điện thoại hợp tuổi 1984</a></strong></u></span></span>
-                                            </p>
-                                        </td>
-                                        <td>
-                                            <p dir="ltr" style="text-align:center"><span
-                                                    style="font-size:14px"><span
-                                                        style="font-family:arial,helvetica,sans-serif"><u><strong><a
-                                                                    href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Ky-Ty-sinh-nam-1989/38.html">Số
-                                                                    điện thoại hợp tuổi 1989</a></strong></u></span></span>
-                                            </p>
-                                        </td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span
                                     style="font-family:arial,helvetica,sans-serif"><em><strong>Ngoài ra bài luận này còn

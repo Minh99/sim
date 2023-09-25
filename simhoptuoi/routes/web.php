@@ -6,6 +6,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\NewsController;
 use App\Http\Controllers\Sim;
 use App\Http\Controllers\FooterPageController;
+use App\Http\Controllers\HomeController;
 use App\Http\Controllers\SimHopNamSinh;
 use Illuminate\Support\Facades\Storage;
 
@@ -23,6 +24,8 @@ use Illuminate\Support\Facades\Storage;
 Route::get('/', function () {
     return view('layouts.home');
 })->name('home');
+
+Route::match(['get', 'post'], '/data-search', [HomeController::class, 'index'])->name('data-search');
 
 
 Route::get('/sim/{slug}', [MenuPageController::class, 'index'])->name('menu-page');

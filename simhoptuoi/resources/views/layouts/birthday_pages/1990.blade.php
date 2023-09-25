@@ -11,7 +11,7 @@
               <div class="siteBodyContent">
                 <div class="row">
                     <div class="col-md-12">
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Canh-Ngo-sinh-nam-1990/39.html">Tuổi 1990 hợp số điện thoại nào</a></strong></u>? Tìm chọn sim hợp tuổi 1990 hiện nay đang có nhiều phương pháp khác nhau, điển hình trong số đó là cách chọn dựa theo Du Niên và con số hợp tuổi (số 2, 5, 8, 9). Tuy nhiên theo chuyên gia phong thủy, cách chọn số điện thoại hợp tuổi 1990 trên không chính xác do con số không thể quyết định ý nghĩa cả dãy sim. Vậy làm thế nào để chọn sim phong thủy hợp tuổi Canh Ngọ chính xác thì mời quý vị hãy tìm hiểu chi tiết dưới đây.</span></span></p>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Tuổi 1990 hợp số điện thoại nào? Tìm chọn sim hợp tuổi 1990 hiện nay đang có nhiều phương pháp khác nhau, điển hình trong số đó là cách chọn dựa theo Du Niên và con số hợp tuổi (số 2, 5, 8, 9). Tuy nhiên theo chuyên gia phong thủy, cách chọn số điện thoại hợp tuổi 1990 trên không chính xác do con số không thể quyết định ý nghĩa cả dãy sim. Vậy làm thế nào để chọn sim phong thủy hợp tuổi Canh Ngọ chính xác thì mời quý vị hãy tìm hiểu chi tiết dưới đây.</span></span></p>
 
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="1-sim-hop-tuoi-1990-canh-ngo-la-gi">1. Sim hợp tuổi 1990 Canh Ngọ là gì?</span></span></strong></span></h2>
 
@@ -193,8 +193,6 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Xác định 6 hào của quẻ chủ, tìm Thượng Quái và Hạ Quái của quẻ hỗ theo nguyên tắc hào 2, 3, 4&nbsp; - hào 3, 4, 5. Tuy nhiên cần lưu ý nếu quẻ chủ là quẻ Thuần Càn, Thuần Khôn thì sẽ không có quẻ hỗ do các quẻ này là quẻ thuần dương, thuần âm.</span></span></p>
 
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">► ►►Chi tiết: <u><a href="https://simhoptuoi.com.vn/cach-tinh-que-dich-so-dien-thoai/345.html">Cách tính quẻ số điện thoại</a></u></span></span></strong></em></p>
-
                         <p dir="ltr" style="text-align:justify"><em><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Ví dụ minh họa:</span></span></em></p>
 
                         <ul>
@@ -207,7 +205,7 @@
                         </ul>
 
                         <blockquote>
-                            <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Kết luận:</strong> Việc xem xét <strong>tuổi canh ngọ hợp số điện thoại nào</strong> theo quẻ dịch là một yếu tố quan trọng giúp quý vị tìm được dãy số sim mang lại lợi ích trong công việc. Tuy nhiên, phương pháp xác định quẻ dịch không phải là một quá trình đơn giản, mà nó tương đối phức tạp. Vì vậy, để giảm bớt sự phức tạp, chúng tôi đề nghị quý vị sử dụng phần mềm <u><strong><a href="https://simhoptuoi.com.vn/tin-sim/xem-boi-sim-kinh-dich.html">sim kinh dịch</a></strong></u> của trang web{{ $namSite }}.</span></span></p>
+                            <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Kết luận:</strong> Việc xem xét <strong>tuổi canh ngọ hợp số điện thoại nào</strong> theo quẻ dịch là một yếu tố quan trọng giúp quý vị tìm được dãy số sim mang lại lợi ích trong công việc.</span></span></p>
                         </blockquote>
 
                     
@@ -224,9 +222,7 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim là tổ hợp của 10 con số đứng cạnh nhau, tác động thúc đẩy hoặc khắc chế lẫn nhau theo các mối quan hệ sinh khắc trong ngũ hành. Vì thế, một dãy sim hợp tuổi 1990 cát lợi sẽ có nhiều cặp số tương sinh hơn tương khắc khi xét theo chiều từ trái qua phải.&nbsp;</span></span></p>
 
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">► ►►Chi tiết <u><a href="https://simhoptuoi.com.vn/cach-tinh-ngu-hanh-cua-day-so-dien-thoai/314.html">cách tính ngũ hành của số điện thoại</a></u></span></span></strong></em></p>
-
-                        <p dir="ltr" style="text-align:justify"><em><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Ví dụ minh họa về một số <u><strong><a href="https://simhoptuoi.com.vn/Sim-hop-menh-Tho.html">sim hợp mệnh Thổ</a></strong></u>:</span></span></em></p>
+                        <p dir="ltr" style="text-align:justify"><em><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Ví dụ minh họa về một số <u><strong><a href="{{ route('menu-page', ['slug' => 'sim_menh_tho']) }}">sim hợp mệnh Thổ</a></strong></u>:</span></span></em></p>
 
                         <ul>
                             <li dir="ltr">
@@ -263,20 +259,6 @@
                         <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">e.&nbsp; Chọn số điện thoại hợp tuổi 1990 theo quan niệm dân gian</span></strong></span></h3>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim phong thủy hợp tuổi 1990 có giá trị càng cao khi không chỉ đảm bảo các yếu tố phong thủy trên, mà còn có hình thức đẹp. Điểm này được nhận diện theo ý nghĩa tổng số nút sim và bộ đuôi đặc biệt theo quan niệm dân gian. Trong đó, tổng số nút sim hợp tuổi 1990 càng cao thì càng mang lại nhiều may mắn cho chủ nhân. Bộ số đuôi dạng đặc biệt như thế tiến, tam hoa, tứ quý… hay cặp số lộc phát 68 - 86, số thần tài 39 - 79, số ông địa 38 - 78, số phát tài 83… sẽ làm hoàn hảo hơn sim số hợp tuổi canh ngọ.&nbsp;</span></span></p>
-
-                        <p dir="ltr" style="text-align:justify"><em><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">►►►Xem chi tiết ý nghĩa các cặp số đẹp trên:</span></span></em></p>
-
-                        <ul>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/so-than-tai-la-so-may/335.html">Số thần tài</a></span></span></strong></u></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/so-ong-dia-la-so-may/346.html">Số ông địa</a></span></span></strong></u></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/y-nghia-so-loc-phat-la-so-may/344.html">Số lộc phát</a></span></span></strong></u></p>
-                            </li>
-                        </ul>
 
                         <blockquote>
                             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Tổng kết lại:</strong> Cách chọn số điện thoại hợp tuổi Canh Ngọ theo 5 yếu tố phong thủy là phương án tối ưu nhất. Tuy nhiên việc tự tính sẽ gặp nhiều khó khăn vì không phải ai cũng am hiểu phong thủy, có kiến thức uyên sâu. Để giúp quý vị dễ dàng hơn trong việc chọn sim hợp tuổi 1990, mời quý bạn hay tra cứu tại danh sách sim dưới đây:</span></span></p>
@@ -368,18 +350,9 @@
 
                         <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Ngoài sim hợp tuổi 1990 thì màu sắc, ngành nghề cũng là một yếu tố giúp gia chủ gặp nhiều may mắn nếu ứng dụng đúng cách.</span></span></strong></em></p>
 
-                        <ul>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-tuc/tuoi-canh-ngo-1990-hop-mau-gi.html">Sinh năm 1990 hợp màu gì</a></span></span></strong></u></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tuoi-canh-ngo-hop-voi-nghe-gi.html">Tuổi Canh Ngọ hợp nghề gì</a></span></span></strong></u></p>
-                            </li>
-                        </ul>
-
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="4-kiem-tra-so-dien-thoai-ban-dang-dung-co-phai-sim-hop-tuoi-1990-hay-khong">4. Kiểm tra số điện thoại bạn đang dùng có phải sim hợp tuổi 1990 hay không?</span></span></strong></span></h2>
 
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Việc tự xem phong thủy sim hợp tuổi Canh Ngọ theo đầy đủ 5 yếu tố như đã phân tích ở trên yêu cầu người dùng có kiến thức chuyên sâu và thời gian nghiên cứu dài. Do đó để giải đáp băn khoăn về ý nghĩa số điện thoại bạn đang dùng có phải sim hợp mệnh thổ 1990 hay không thì có thể sử dụng công cụ <u><strong><a href="{{ route('boi-sim') }}">XEM SIM PHONG THỦY</a></strong></u> tại{{ $namSite }}. Công cụ này sẽ hỗ trợ cho quý bạn luận giải, đánh giá mức độ phù hợp của sim với chủ mệnh chuẩn xác, chỉ sau 3 giây điền đầy đủ thông tin ngày, tháng, năm, giờ sinh và số điện thoại.&nbsp;</span></span></p>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Việc tự xem phong thủy sim hợp tuổi Canh Ngọ theo đầy đủ 5 yếu tố như đã phân tích ở trên yêu cầu người dùng có kiến thức chuyên sâu và thời gian nghiên cứu dài. Do đó để giải đáp băn khoăn về ý nghĩa số điện thoại bạn đang dùng có phải sim hợp mệnh thổ 1990 hay không thì có thể sử dụng công cụ <u><strong><a href="{{ route('boi-sim') }}">XEM SIM PHONG THỦY</a></strong></u> tại{{ $nameSite }}. Công cụ này sẽ hỗ trợ cho quý bạn luận giải, đánh giá mức độ phù hợp của sim với chủ mệnh chuẩn xác, chỉ sau 3 giây điền đầy đủ thông tin ngày, tháng, năm, giờ sinh và số điện thoại.&nbsp;</span></span></p>
 
                         <p dir="ltr" style="text-align:center"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"></span></span></p><section class="boxFormSim">
                             <div class="bgFormSim">
@@ -720,47 +693,9 @@
 
                         <p dir="ltr" style="text-align:center"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><img alt="sim hợp tuổi 1990" src="https://simhoptuoi.com.vn/media/images/news/39/sim-hop-tuoi-1990.png">&nbsp;</span></span></p>
 
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Nội dung hữu ích khác:&nbsp;</span></span></strong></em></p>
-
-                        <ul>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-tuc/han-tam-tai-tuoi-1990.html">1990 tam tai năm nào</a></span></span></strong></u></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-tuc/sinh-nam-1990-menh-gi.html">1990 cung mệnh gì</a></span></span></strong></u></p>
-                            </li>
-                        </ul>
-
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Hy vọng với thông tin trên đây đã giúp quý bạn tăng thêm kiến thức về cách xem tuổi 1990 hợp số điện thoại nào từ chuyên gia. Cũng như một số điểm cần lưu ý khi chọn sim dành riêng cho tuổi 1990. Từ đó lựa chọn công cụ xem bói sim hoặc địa chỉ mua sim hợp tuổi 1990 phù hợp và ưng ý nhất, nhận được nhiều may mắn và thành công trong cuộc sống.</span></span></p>
 
                         <p dir="ltr" style="text-align:right"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Biên soạn: <u><a href="{{ route('home') }}">{{ $nameSite }} </a></u></span></span></strong></em></p>
-
-                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">THAM KHẢO SIM HỢP TUỔI KHÁC</span></span></strong></p>
-
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" dir="ltr" style="width:100%">
-                                <tbody>
-                                <tr>
-                                    <td style="text-align:center"><u><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Canh-Ngo-sinh-nam-1990/39.html" target="_blank">Sim hợp tuổi 1990</a></strong></span></span></u></td>
-                                    <td style="text-align:center"><u><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-At-Hoi-sinh-nam-1995/44.html" target="_blank">Sim hợp tuổi 1995</a></strong></span></span></u></td>
-                                </tr>
-                                <tr>
-                                    <td style="text-align:center"><u><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Tan-Mui-sinh-nam-1991/40.html" target="_blank">Sim hợp tuổi 1991</a></strong></span></span></u></td>
-                                    <td style="text-align:center"><u><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Binh-Ty-sinh-nam-1996/45.html" target="_blank">Sim hợp tuổi 1996</a></strong></span></span></u></td>
-                                </tr>
-                                <tr>
-                                    <td style="text-align:center"><u><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Nham-Than-sinh-nam-1992/41.html" target="_blank">Sim hợp tuổi 1992</a></strong></span></span></u></td>
-                                    <td style="text-align:center"><u><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Dinh-Suu-sinh-nam-1997/46.html" target="_blank">Sim hợp tuổi 1997</a></strong></span></span></u></td>
-                                </tr>
-                                <tr>
-                                    <td style="text-align:center"><u><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Quy-Dau-sinh-nam-1993/42.html" target="_blank">Sim hợp tuổi 1993</a></strong></span></span></u></td>
-                                    <td style="text-align:center"><u><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><a href="https://simhoptuoi.com.vn/sim-hop-tuoi-mau-dan-1998/166.html" target="_blank">Sim hợp tuổi 1998</a></strong></span></span></u></td>
-                                </tr>
-                                <tr>
-                                    <td style="text-align:center"><u><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Giap-Tuat-sinh-nam-1994/43.html" target="_blank">Sim hợp tuổi 1994</a></strong></span></span></u></td>
-                                    <td style="text-align:center"><u><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><a href="https://simhoptuoi.com.vn/sim-hop-tuoi-ky-mao-1999/168.html" target="_blank">Sim hợp tuổi 1999</a></strong></span></span></u></td>
-                                </tr>
-                                </tbody>
-                            </table></div>
 
                         <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Ngoài ra nội dung này sẽ giải đáp những vấn đề sau:</span></span></strong></em></p>
 

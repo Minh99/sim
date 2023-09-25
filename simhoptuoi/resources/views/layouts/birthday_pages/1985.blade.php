@@ -12,7 +12,7 @@
             <div class="siteBodyContent">
                 <div class="row">
                     <div class="col-md-12">
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><u><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-At-Suu-sinh-nam-1985/34.html">Sim hợp tuổi 1985</a></u> </strong>là dãy sim phong thủy mang đến may mắn, giúp con đường sự nghiệp ngày càng thành công, vững mạnh, tiền bạc viên mãn. Tuy nhiên hiện nay xuất hiện khá nhiều cách chọn số điện thoại hợp tuổi phong thủy 1985, điển hình trong đó là chọn sim phong thủy hợp tuổi 1985 theo con số hợp tuổi, tức dãy sim sẽ xuất hiện nhiều con số 0, 1, 2, 5, 6, 7, 8 và tránh xuất hiện nhiều số 3, 4, 9. Điều này khiến việc chọn sim gặp nhiều khó khăn, vậy cách chọn nào chính xác thì quý bạn hãy cùng chuyên gia sim phong thủy theo dõi tại nội dung dưới đây.</span></span><br>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim hợp tuổi 1985 là dãy sim phong thủy mang đến may mắn, giúp con đường sự nghiệp ngày càng thành công, vững mạnh, tiền bạc viên mãn. Tuy nhiên hiện nay xuất hiện khá nhiều cách chọn số điện thoại hợp tuổi phong thủy 1985, điển hình trong đó là chọn sim phong thủy hợp tuổi 1985 theo con số hợp tuổi, tức dãy sim sẽ xuất hiện nhiều con số 0, 1, 2, 5, 6, 7, 8 và tránh xuất hiện nhiều số 3, 4, 9. Điều này khiến việc chọn sim gặp nhiều khó khăn, vậy cách chọn nào chính xác thì quý bạn hãy cùng chuyên gia sim phong thủy theo dõi tại nội dung dưới đây.</span></span><br>
                             &nbsp;</p>                    </div>
                 </div>
             </div>
@@ -88,17 +88,6 @@
                         <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">b. Tính cách chung của tuổi Ất Sửu</span></strong></span></h3>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Trong tử vi số mệnh, người tuổi Ất Sửu được nhiều người quý mến vì bản tính chăm chỉ, cần cù, có trách nhiệm cao trong công việc, luôn cố gắng hoàn thành công việc được giao phó. Nhưng người này lại có nhược điểm là bảo thủ, cứng nhắc, khó thay đổi ý kiến. Do vậy trong cuộc sống sẽ gặp không ít khó khăn vì xã hội hiện nay thay đổi theo từng ngày, nếu không chịu thay đổi sẽ bị tụt lùi về phía sau. Bên cạnh đó, tử vi trọn đời cho biết giai đoạn từ 35 đến 42 tuổi gia chủ sinh năm 1985 sẽ gặp nhiều khó khăn trong công việc làm ăn. Theo đó mà hiện nay nhiều người tuổi Ất Sửu có xu hướng chọn sim hợp tuổi 1985 để cải vận, giảm trừ khó khăn.&nbsp;</span></span></p>
-
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Nội dung hữu ích khác:&nbsp;</span></span></strong></em></p>
-
-                        <ul>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><a href="https://simhoptuoi.com.vn/tin-tuc/han-tam-tai-tuoi-1985.html">1985 tam tai năm nào</a></u>?</span></span></strong></em></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><a href="https://simhoptuoi.com.vn/tin-tuc/nam-nu-tuoi-at-suu-sinh-nam-1985-cung-gi.html">1985 cung mệnh gì</a></u>?</span></span></strong></em></p>
-                            </li>
-                        </ul>
 
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="2-so-hop-tuoi-1985-ung-dung-chon-sim-hop-tuoi-1985-co-thuc-su-dung-">2. Số hợp tuổi 1985? Ứng dụng chọn sim hợp tuổi 1985 có thực sự đúng?&nbsp;</span></span></strong></span></h2>
 
@@ -191,9 +180,9 @@
                             </li>
                         </ul>
 
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Theo ngũ hành thì người tuổi Ất Sửu nên sử dụng <strong><u><a href="https://simhoptuoi.com.vn/Sim-hop-menh-Kim.html">sim hợp mệnh Kim</a></u></strong>. Vậy hãy đến ngay kho sim phong thủy hợp mệnh Kim để tìm chọn:</span></span></p>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Theo ngũ hành thì người tuổi Ất Sửu nên sử dụng <strong><u><a href="{{ route('menu-page', ['slug' => 'sim_menh_kim']) }}">sim hợp mệnh Kim</a></u></strong>. Vậy hãy đến ngay kho sim phong thủy hợp mệnh Kim để tìm chọn:</span></span></p>
 
-                        <p dir="ltr" style="text-align:center"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Sim-hop-menh-Kim.html"><img alt="sim phong thủy hợp mệnh kim" src="https://simhoptuoi.com.vn/media/images/news/34/5.png"></a></span></span></p>
+                        <p dir="ltr" style="text-align:center"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="{{ route('menu-page', ['slug' => 'sim_menh_kim']) }}"><img alt="sim phong thủy hợp mệnh kim" src="https://simhoptuoi.com.vn/media/images/news/34/5.png"></a></span></span></p>
 
                         <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">b. Cách chọn số điện thoại hợp tuổi phong thủy 1985 theo quẻ dịch</span></strong></span></h3>
 
@@ -284,17 +273,8 @@
 
 
                         <blockquote>
-                            <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Kết luận: </strong>Phương pháp chọn sim phong thủy hợp tuổi 1985 chính xác là cần căn cứ vào 05 yếu tố gồm: Âm Dương - Ngũ Hành - Quẻ Dịch - Cửu Tinh - Quan Niệm Dân Gian. Tuy nhiên để áp dụng những yếu tố này sẽ gặp nhiều khó khăn vì không phải ai cũng có thời gian nghiên cứu cũng như có kinh nghiệm phân tích, đánh giá. Theo đó để giúp quý bạn không phải mất thời gian trong việc chọn sim hợp tuổi 1985, mời quý vị hãy liên hệ với chúng tôi qua những phương thức sau:</span></span></p>
+                            <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Kết luận: </strong>Phương pháp chọn sim phong thủy hợp tuổi 1985 chính xác là cần căn cứ vào 05 yếu tố gồm: Âm Dương - Ngũ Hành - Quẻ Dịch - Cửu Tinh - Quan Niệm Dân Gian. Tuy nhiên để áp dụng những yếu tố này sẽ gặp nhiều khó khăn vì không phải ai cũng có thời gian nghiên cứu cũng như có kinh nghiệm phân tích, đánh giá.</span></span></p>
                         </blockquote>
-
-                        <ul>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Fanpage:</strong> <a href="https://www.facebook.com/simhoptuoi365">https://www.facebook.com/simhoptuoi365</a></span></span></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Zalo:</strong> <a href="https://zalo.me/0931313983">https://zalo.me/0931313983</a></span></span></p>
-                            </li>
-                        </ul>
 
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="4-huong-dan-chon-sim-phong-thuy-hop-tuoi-1985-theo-muc-dich-mong-cau">4. Hướng dẫn chọn sim phong thủy hợp tuổi 1985 theo mục đích mong cầu</span></span></strong></span></h2>
 
@@ -318,16 +298,6 @@
 
                         <p dir="ltr" style="text-align:center"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><img alt="sim phong thủy hợp tuổi 1985" src="https://simhoptuoi.com.vn/media/images/news/34/12.png"></span></span></p>
 
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><em><strong><img alt="điều hướng" src="https://simhoptuoi.com.vn/media/images/news/34/Arrow-icon.png" style="height:30px; width:30px"></strong></em></span></span><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"> Ngoài sim hợp tuổi 1985 thì màu sắc, ngành nghề cũng là một yếu tố giúp gia chủ gặp nhiều may mắn nếu ứng dụng đúng cách.</span></span></strong></em></p>
-
-                        <ul>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-tuc/tuoi-at-suu-1985-hop-mau-gi.html">Sinh năm 1985 hợp màu gì</a></span></span></strong></u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">?</span></span></strong></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tuoi-at-suu-hop-voi-nghe-gi.html">Tuổi Ất Sửu hợp nghề gì</a></span></span></strong></u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">?</span></span></strong></p>
-                            </li>
-                        </ul>
 
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="font-size:18px"><strong><span id="5-sinh-nam-1985-hop-so-dien-thoai-nao-theo-du-nien">5. Sinh năm 1985 hợp số điện thoại nào theo du niên?</span></strong></span></h2>
 
@@ -507,57 +477,6 @@
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Nhiều người cho rằng sim phong thủy hợp tuổi 1985 giữa nam và nữ sẽ khác nhau. Tuy nhiên theo chuyên gia, quan niệm này hoàn toàn sai lầm do ngũ hành nạp âm cũng như âm dương niên mệnh giữa nam và nữ cùng tuổi là giống nhau. Bởi vậy số điện thoại theo phong thủy cho tuổi 1985 không chia nam và nữ.</span></span></p>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Tóm lại, muốn xem người sinh năm 1985 hợp số điện thoại nào thì bạn không thể bỏ qua 5 yếu tố phong thủy. Hội tụ đầy đủ những yếu tố này theo ý nghĩa cát lợi nhất trong sim hợp tuổi 1985 hứa hẹn sẽ giúp gia chủ công việc thăng tiến, tài vận hanh thông, gia đạo hạnh phúc, vận hạn tiêu trừ. Nếu có vướng mắc vui lòng liên hệ với <strong><a href="{{ route('home') }}">MUA SIM HỢP TUỔI</a></strong> qua những phương thức sau:</span></span></p>
-
-                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">THAM KHẢO SIM HỢP TUỔI KHÁC</span></span></strong></p>
-
-
-
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
-                                <tbody>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Canh-Than-sinh-nam-1980/29.html">Sim hợp tuổi 1980</a></span></span></strong></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-At-Suu-sinh-nam-1985/34.html">Sim hợp tuổi 1985</a></span></span></strong></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Tan-Dau-sinh-nam-1981/30.html">Sim hợp tuổi 1981</a></span></span></strong></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Binh-Dan-sinh-nam-1986/35.html">Sim hợp tuổi 1986</a></span></span></strong></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Nham-Tuat-sinh-nam-1982/31.html">Sim hợp tuổi 1982</a></span></span></strong></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Dinh-Mao-sinh-nam-1987/36.html">Sim hợp tuổi 1987</a></span></span></strong></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Quy-Hoi-sinh-nam-1983/32.html">Sim hợp tuổi 1983</a></span></span></strong></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Mau-Thin-sinh-nam-1988/37.html">Sim hợp tuổi 1988</a></span></span></strong></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Giap-Ty-sinh-nam-1984/33.html">Sim hợp tuổi 1984</a></span></span></strong></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Ky-Ty-sinh-nam-1989/38.html">Sim hợp tuổi 1989</a></span></span></strong></p>
-                                    </td>
-                                </tr>
-                                </tbody>
-                            </table></div>
-
-
 
                         <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Ngoài ra bài luận này còn giải đáp những câu hỏi sau:</span></span></strong></em></p>
 

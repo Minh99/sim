@@ -12,7 +12,7 @@
             <div class="siteBodyContent">
                 <div class="row">
                     <div class="col-md-12">
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><a href="https://simhoptuoi.com.vn/sim-hop-tuoi-mau-dan-1998/166.html"><strong>Sinh năm 1998 hợp số điện thoại nào</strong></a></u>? Làm thế nào để chọn dãy số điện thoại phù hợp với tuổi Mậu Dần chuẩn xác nhất? Trong khi hiện nay nhiều nơi cho rằng <strong>sim hợp tuổi 1998</strong> là dãy sim xuất hiện nhiều con số hợp tuổi, tức số 9 hoặc số 2, 5, 8. Việc sử dụng dãy sim phong thủy phù hợp với tuổi Mậu Dần sẽ giúp gia chủ đón nhận nhiều may mắn, cơ hội phát triển công việc lẫn tình duyên. Vậy cách chọn <strong>sim phong thủy hợp tuổi 1998 </strong>chính xác sẽ được chúng tôi bàn giải tại nội dung dưới đây.</span></span></p>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sinh năm 1998 hợp số điện thoại nào? Làm thế nào để chọn dãy số điện thoại phù hợp với tuổi Mậu Dần chuẩn xác nhất? Trong khi hiện nay nhiều nơi cho rằng <strong>sim hợp tuổi 1998</strong> là dãy sim xuất hiện nhiều con số hợp tuổi, tức số 9 hoặc số 2, 5, 8. Việc sử dụng dãy sim phong thủy phù hợp với tuổi Mậu Dần sẽ giúp gia chủ đón nhận nhiều may mắn, cơ hội phát triển công việc lẫn tình duyên. Vậy cách chọn <strong>sim phong thủy hợp tuổi 1998 </strong>chính xác sẽ được chúng tôi bàn giải tại nội dung dưới đây.</span></span></p>
 
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="1-tong-quan-ve-tuoi-mau-dan-1998">1. Tổng quan về tuổi Mậu Dần 1998</span></span></strong></span></h2>
 
@@ -23,17 +23,6 @@
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Vận số người sinh năm 1998 là <strong>Quá Sơn Chi Hổ</strong>, tức là hổ qua núi, nên tổng quát vận mệnh tiền vận phải cần cù tiết kiệm. Khi trưởng thành thì phải làm việc xa nhà mới thuận lợi được, đồng thời cần cư xử lễ độ thì tuổi già mới hạnh phúc.&nbsp;</span></span></p>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Vì vậy, tìm đúng sinh năm 1998 hợp số điện thoại nào và sử dụng thường xuyên sim đó sẽ giúp giải phóng năng lượng phong thủy từ những con số. Từ đó, hỗ trợ cải thiện vận số, giúp công danh sự nghiệp hanh thông, cuộc sống vẹn tròn hơn.&nbsp;</span></span></p>
-
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Nội dung hữu ích khác:&nbsp;</span></span></strong></em></p>
-
-                        <ul>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-tuc/han-tam-tai-tuoi-1998.html">1998 tam tai năm nào</a></span></span></strong></u></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-tuc/nam-nu-tuoi-mau-dan-sinh-nam-1998-cung-gi.html">1998 cung mệnh gì</a></span></span></strong></u></p>
-                            </li>
-                        </ul>
 
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="2-sim-hop-tuoi-1998-mau-dan-la-gi">2. Sim hợp tuổi 1998 Mậu Dần là gì?</span></span></strong></span></h2>
 
@@ -224,7 +213,7 @@
                             </li>
                         </ul>
 
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Kết luận: Yếu tố quẻ dịch trong sim hợp tuổi Mậu Dần là yếu tố trọng yếu giúp quý vị chọn được dãy sim có nội tại cát lợi, may mắn cho những mục đích sử dụng trong cuộc sống. Tuy nhiên đòi hỏi quý vị phải nắm được cách tính quẻ dịch chính xác, điều này sẽ gặp nhiều khó khăn vì không phải ai cũng có kinh nghiệm, thời gian. Vậy để giảm trừ hạn chế này thì mời quý vị hãy sử dụng phần mềm <u><strong><a href="https://simhoptuoi.com.vn/tin-sim/xem-boi-sim-kinh-dich.html">bói sim kinh dịch</a></strong></u> của chúng tôi.</span></span></p>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Kết luận: Yếu tố quẻ dịch trong sim hợp tuổi Mậu Dần là yếu tố trọng yếu giúp quý vị chọn được dãy sim có nội tại cát lợi, may mắn cho những mục đích sử dụng trong cuộc sống.</span></span></p>
 
                         <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">b. Sinh năm 1998 hợp số điện thoại nào theo ngũ hành?</span></strong></span></h3>
 
@@ -234,11 +223,9 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Theo phong thủy ngũ hành, tuổi 1998 hợp số điện thoại có ngũ hành Hỏa nhất, vì sim mệnh Hỏa có khả năng tương sinh rất tốt cho bản mệnh Thành Đầu Thổ năm sinh 1998. Chiếc sim hợp mệnh Thổ 1998 này sẽ giúp chủ mệnh tăng may mắn, đón tài lộc, sự nghiệp, tình duyên đều có bước tiến mới.&nbsp;</span></span></p>
 
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Tiếp theo đó thì người sinh năm 1998 có thể tìm <u><strong><a href="https://simhoptuoi.com.vn/Sim-hop-menh-Tho.html">sim hợp mệnh Thổ</a></strong></u><strong>&nbsp;</strong>cũng cát lợi, hỗ trợ cuộc sống luôn bình an, công việc thuận lợi. Bởi lẽ sim hợp tuổi 1998 có ngũ hành trùng với ngũ hành bản mệnh có khả năng tương trợ rất tốt.&nbsp;</span></span></p>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Tiếp theo đó thì người sinh năm 1998 có thể tìm <u><strong><a href="{{ route('menu-page', ['slug' => 'sim_menh_tho']) }}">sim hợp mệnh Thổ</a></strong></u><strong>&nbsp;</strong>cũng cát lợi, hỗ trợ cuộc sống luôn bình an, công việc thuận lợi. Bởi lẽ sim hợp tuổi 1998 có ngũ hành trùng với ngũ hành bản mệnh có khả năng tương trợ rất tốt.&nbsp;</span></span></p>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">TUYỆT ĐỐI TRÁNH chọn những số sim mệnh Mộc khi tìm 1998 hợp số điện thoại nào. Vì theo quy luật ngũ hành tương khắc, Mộc khắc Thổ, sử dụng vật phẩm phong thủy ngũ hành Mộc với người mệnh Thổ lâu dài có thể rước vào khó khăn không đáng có, công việc dễ rơi vào ngõ cụt.&nbsp;</span></span></p>
-
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Xem chi tiết: <u><a href="https://simhoptuoi.com.vn/tin-sim/cach-tinh-ngu-hanh-cua-day-so-dien-thoai.html">Cách tính ngũ hành của dãy số điện thoại</a></u></span></span></strong></em></p>
 
                         <h4 dir="ltr" style="text-align:justify"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">b.2. Số điện thoại hợp tuổi 1998 có khả năng bổ khuyết tứ trụ mệnh</span></span></strong></h4>
 
@@ -321,20 +308,6 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>- Các cặp bộ số đặc biệt:</strong> Cặp số Thần Tài 39 - 79, số Ông Địa 38 - 78, số Lộc Phát 68 - 86, đuôi sim tam hoa 333, 666… đuôi sim tứ quý 1111, 2222… đuôi sim tiến lên 6789 (san bằng tất cả), đuôi sim số gánh 65756… sẽ càng làm tăng giá trị của dãy sim hợp tuổi Dần 1998 về mặt hình thức.&nbsp;</span></span></p>
 
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Xem chi tiết:</span></span></strong></em></p>
-
-                        <ul>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-sim/y-nghia-so-loc-phat-la-so-may.html">Số lộc phát</a></span></span></strong></u></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-sim/so-than-tai-la-so-may.html">Số thần tài</a></span></span></strong></u></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-sim/so-ong-dia-la-so-may.html">Số ông địa</a></span></span></strong></u></p>
-                            </li>
-                        </ul>
-
                         <p dir="ltr" style="text-align:justify"><em><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Ví dụ một số dãy sim hợp tuổi 1998 theo quan niệm dân gian:</span></span></em></p>
 
                         <ul>
@@ -359,15 +332,6 @@
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Còn trong xã hội công nghệ, con người đã nghiên cứu và sáng tạo kết hợp phong thủy truyền thống với sim số, tăng được tính tiện lợi và thiết thực với cuộc sống hơn. Theo đó, sim phong thủy hợp tuổi 1998 là dãy sim hội tụ năng lượng cát lợi từ vũ trụ tác động tích cực tới riêng tứ trụ mệnh người sinh năm 1998. Chiếc sim này tuy nhỏ bé nhưng khi càng được sử dụng thì càng giải phóng được năng lượng bên trong giảm trừ điềm xấu, tăng may mắn. Do đó, sim hợp tuổi Mậu Dần được coi là lá bùa hộ thân vượt trội hơn hẳn vật phẩm phong thủy truyền thống.</span></span></p>
 
                         <p dir="ltr" style="text-align:justify"><strong><em><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Ngoài sim hợp tuổi 1998 thì màu sắc, ngành nghề cũng là một yếu tố giúp gia chủ gặp nhiều may mắn nếu ứng dụng đúng cách.</span></span></em></strong></p>
-
-                        <ul>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-tuc/tuoi-mau-dan-1998-hop-mau-gi.html">Sinh năm 1998 hợp màu gì</a></span></span></strong></u></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tuoi-mau-dan-hop-voi-nghe-gi.html">Tuổi Mậu Dần hợp nghề gì</a></span></span></strong></u></p>
-                            </li>
-                        </ul>
 
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="5-huong-dan-xem-day-sim-dang-dung-hop-hay-khac-voi-tuoi-1998-hay-khong">5. Hướng dẫn xem dãy sim đang dùng hợp hay khắc với tuổi 1998 hay không?</span></span></strong></span></h2>
 
@@ -411,8 +375,6 @@
                         <blockquote>
                             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Kết luận:</strong> Dù theo mệnh niên hay mệnh quái thì cách tìm số điện thoại hợp tuổi 1998 này cũng vô cùng đơn giản, không cần tính toán, được nhiều người áp dụng. Tuy nhiên phương pháp này lại không được chuyên gia phong thủy đánh giá cao. Vì mỗi con số hợp tuổi Mậu Dần chỉ giữ đúng ý nghĩa khi đứng riêng lẻ, trong dãy sim sẽ có sự tương tác của các con số với nhau, có thể là thúc đẩy hoặc kìm hãm nhau. Theo đó, sự nhiều hay ít con số hợp tuổi cũng không thể xác định được tổng hòa của 10 con số trong sim hợp tuổi 1998.&nbsp;</span></span></p>
                         </blockquote>
-
-                        <p dir="ltr" style="text-align:justify"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Xem chi tiết: <u><a href="https://simhoptuoi.com.vn/tin-sim/tuoi-mau-dan-1998-hop-so-nao.html">1998 hợp số nào</a></u></span></span></strong></p>
 
                         <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">b. Chọn những số điện thoại hợp tuổi Mậu Dần theo du niên</span></strong></span></h3>
 
@@ -608,53 +570,6 @@
                 <div class="row">
                     <div class="col-md-12">
                         <p dir="ltr" style="text-align:right"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Biên tập từ đội ngũ chuyên gia của Sim Hợp Tuổi!</span></span></strong></em></p>
-
-                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">THAM KHẢO SIM HỢP TUỔI KHÁC</span></span></strong></p>
-
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
-                                <tbody>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Canh-Ngo-sinh-nam-1990/39.html">Sim hợp tuổi 1990</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-At-Hoi-sinh-nam-1995/44.html">Sim hợp tuổi 1995</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Tan-Mui-sinh-nam-1991/40.html">Sim hợp tuổi 1991</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Binh-Ty-sinh-nam-1996/45.html">Sim hợp tuổi 1996</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Nham-Than-sinh-nam-1992/41.html">Sim hợp tuổi 1992</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Dinh-Suu-sinh-nam-1997/46.html">Sim hợp tuổi 1997</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Quy-Dau-sinh-nam-1993/42.html">Sim hợp tuổi 1993</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/sim-hop-tuoi-mau-dan-1998/166.html">Sim hợp tuổi 1998</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Giap-Tuat-sinh-nam-1994/43.html">Sim hợp tuổi 1994</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/sim-hop-tuoi-ky-mao-1999/168.html">Sim hợp tuổi 1999</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                </tbody>
-                            </table></div>
                     </div>
                 </div>
             </div>

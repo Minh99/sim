@@ -12,7 +12,7 @@
             <div class="siteBodyContent">
                 <div class="row">
                     <div class="col-md-12">
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Xem người <strong>sinh năm 1986 hợp số điện thoại nào</strong> hiện là một câu hỏi được nhiều người tuổi Bính Dần gửi đến cho{{ $namSite }}. Vì trong phong thủy, dãy sim hợp tuổi 1986 sẽ bổ trợ, giúp gặp được may mắn, tài lộc hanh thông, gia đạo yên ấm. Nhưng việc tìm số điện thoại hợp tuổi Bính Dần không phải là điều dễ dàng vì hiện nay có rất nhiều cách chọn khác nhau, điều này gây khó khăn cho rất nhiều người sinh năm 1986. Bởi vậy mà tại nội dung này, <u><strong><a href="{{ route('home') }}">{{ $nameSite }} </a></strong></u> sẽ tháo nút thắt cho quý bạn bằng cách chia sẻ bí quyết xem người tuổi Bính Dần hợp số điện thoại nào chính xác theo lời tư vấn của đội ngũ chuyên gia của chúng tôi.</span></span></p>                    </div>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Xem người <strong>sinh năm 1986 hợp số điện thoại nào</strong> hiện là một câu hỏi được nhiều người tuổi Bính Dần gửi đến cho{{ $nameSite }}. Vì trong phong thủy, dãy sim hợp tuổi 1986 sẽ bổ trợ, giúp gặp được may mắn, tài lộc hanh thông, gia đạo yên ấm. Nhưng việc tìm số điện thoại hợp tuổi Bính Dần không phải là điều dễ dàng vì hiện nay có rất nhiều cách chọn khác nhau, điều này gây khó khăn cho rất nhiều người sinh năm 1986. Bởi vậy mà tại nội dung này, <u><strong><a href="{{ route('home') }}">{{ $nameSite }} </a></strong></u> sẽ tháo nút thắt cho quý bạn bằng cách chia sẻ bí quyết xem người tuổi Bính Dần hợp số điện thoại nào chính xác theo lời tư vấn của đội ngũ chuyên gia của chúng tôi.</span></span></p>                    </div>
                 </div>
             </div>
         </div>
@@ -86,17 +86,6 @@
                         <p dir="ltr" style="text-align:center"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><img alt="sim phong thủy hợp tuổi 1986" src="https://simhoptuoi.com.vn/media/images/news/35/14.png"></span></span><br>
                             &nbsp;</p>
 
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Nội dung hữu ích khác:&nbsp;</span></span></strong></em></p>
-
-                        <ul>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><u><a href="https://simhoptuoi.com.vn/tin-tuc/han-tam-tai-tuoi-1986.html">1986 tam tai năm nào</a></u></strong>?</span></span></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="https://simhoptuoi.com.vn/tin-tuc/sinh-nam-1986-menh-gi.html">1986 cung mệnh gì</a></strong></u>?</span></span></p>
-                            </li>
-                        </ul>
-
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Vậy làm thế nào để chọn được sim phong thủy hợp tuổi 1986 chính xác nhất!</span></span></p>
 
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="color:#FF0000"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span id="ii-bi-quyet-xem-nguoi-sinh-nam-1986-hop-so-dien-thoai-nao-chinh-xac">II. Bí quyết xem người sinh năm 1986 hợp số điện thoại nào chính xác</span></span></span></strong></span></h2>
@@ -123,10 +112,6 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Cũng theo ngũ hành, bạn nên xét ngũ hành các con số trong sim. Nếu từ trái qua phải sim có nhiều mối quan hệ tương sinh hơn tương hỗ thì càng tốt, càng may mắn.&nbsp;</span></span></p>
 
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Xem chi tiết: <u><a href="https://simhoptuoi.com.vn/cach-tinh-ngu-hanh-cua-day-so-dien-thoai/314.html">Cách tính ngũ hành của dãy số điện thoại</a></u></span></span></strong></em></p>
-
-
-
                         <p dir="ltr" style="text-align:center"><img alt="sim phong thủy hợp mệnh hỏa" src="https://simhoptuoi.com.vn/media/images/news/35/6.png"></p>
 
                         <h4 dir="ltr" style="text-align:justify"><u><em><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><img alt="tích xanh" src="https://simhoptuoi.com.vn/media/images/news/35/tich-xanh.png" style="height:25px; width:25px">&nbsp;Theo âm dương người sinh năm 1986 hợp số điện thoại nào?</span></span></em></u></h4>
@@ -141,12 +126,6 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Quẻ dịch tượng trưng cho năng lượng cát hung của dãy sim với mục đích mong cầu sử dụng của chủ sở hữu. Khi chọn sim hợp tuổi 1986 theo quẻ dịch, quý bạn phải đánh giá dựa trên hai nhóm quẻ chính là quẻ chủ và quẻ hỗ. Được tạo bởi ngoại quái và nội quái của toàn bộ dãy sim, dựa vào ý nghĩa của từng quẻ dịch, sim phong thủy hợp tuổi Bính Dần sẽ có cặp quẻ chủ/quẻ hỗ là cát - cát hoặc ít nhất là cát - bình hòa.&nbsp;</span></span></p>
 
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Xem chi tiết: <u><a href="https://simhoptuoi.com.vn/cach-tinh-que-dich-so-dien-thoai/345.html">Cách tính quẻ dịch số điện thoại</a></u></span></span></strong></em></p>
-
-
-
-                        <p dir="ltr" style="text-align: center;"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><a href="https://simhoptuoi.com.vn/tin-sim/xem-boi-sim-kinh-dich.html"><img alt="sim kinh dịch" src="https://simhoptuoi.com.vn/media/images/news/35/10.png"></a></u></span></span></strong></em><br>
-                            &nbsp;</p>
 
                         <h4 dir="ltr" style="text-align:justify"><u><em><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><img alt="tích xanh" src="https://simhoptuoi.com.vn/media/images/news/35/tich-xanh.png" style="height:25px; width:25px">&nbsp;Chọn sim phong thủy hợp tuổi 1986 theo cửu tinh</span></span></em></u></h4>
 
@@ -160,23 +139,9 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">+ Các cặp bộ số đẹp theo quan niệm dân gian: Sẽ là một điểm cộng nếu số điện thoại hợp tuổi bính dần xuất hiện các cặp bộ số đẹp như thần tài (39, 79); ông địa (38, 78); lộc phát (68, 86) tam hoa, tứ quý,....</span></span></p>
 
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Xem chi tiết ý nghĩa các cặp số đẹp nên xuất hiện trong sim số hợp tuổi Bính Dần:</span></span></strong></em></p>
-
-                        <ul>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><a href="https://simhoptuoi.com.vn/tin-sim/so-than-tai-la-so-may.html"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Số thần tài là số mấy</span></span></strong></u></a></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><a href="https://simhoptuoi.com.vn/tin-sim/so-ong-dia-la-so-may.html"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Số ông địa là số mấy</span></span></strong></u></a></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><a href="https://simhoptuoi.com.vn/tin-sim/y-nghia-so-loc-phat-la-so-may.html"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Số lộc phát là số mấy</span></span></strong></u></a></p>
-                            </li>
-                        </ul>
-
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="color:#FF0000"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span id="iii-huong-dan-xem-so-dien-thoai-dang-dung-co-hop-voi-tuoi-1986-khong">III. Hướng dẫn xem số điện thoại đang dùng có hợp với tuổi 1986 không?</span></span></span></strong></span></h2>
 
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Ngày nay, nhu cầu sử dụng sim hợp tuổi bính dần ngày càng tăng cao. Những trước khi chọn cho bản thân một dãy số điện thoại phong thủy thì quý bạn nên xem dãy sim đang dùng có thực sự hợp với tuổi hay không. Từ đó có hướng tiếp tục sử dụng hoặc thay sim đổi số mới. Vậy mời quý bạn hãy sử dụng phần mềm <u><strong><a href="{{ route('boi-sim') }}">SIM PHONG THỦY</a></strong></u> của{{ $namSite }}. Phần mềm này sẽ giúp quý bạn đánh giá mức độ hợp khắc của sim với tuổi cũng như tiết kiệm thời gian, không phải mất thời giờ nghiên cứu các học thuyết phong thủy nếu tự chấm điểm sim.&nbsp;</span></span></p>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Ngày nay, nhu cầu sử dụng sim hợp tuổi bính dần ngày càng tăng cao. Những trước khi chọn cho bản thân một dãy số điện thoại phong thủy thì quý bạn nên xem dãy sim đang dùng có thực sự hợp với tuổi hay không. Từ đó có hướng tiếp tục sử dụng hoặc thay sim đổi số mới. Vậy mời quý bạn hãy sử dụng phần mềm <u><strong><a href="{{ route('boi-sim') }}">SIM PHONG THỦY</a></strong></u> của{{ $nameSite }}. Phần mềm này sẽ giúp quý bạn đánh giá mức độ hợp khắc của sim với tuổi cũng như tiết kiệm thời gian, không phải mất thời giờ nghiên cứu các học thuyết phong thủy nếu tự chấm điểm sim.&nbsp;</span></span></p>
 
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="color:#FF0000"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span id="iv-gioi-thieu-nhung-loai-so-dien-thoai-hop-tuoi-1986-duoc-tin-dung">IV. Giới thiệu những loại số điện thoại hợp tuổi 1986 được tin dùng</span></span></span></strong></span></h2>
 
@@ -203,18 +168,7 @@
                                 </tbody>
                             </table></div>
 
-
-
                         <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Ngoài sim hợp tuổi 1986 thì màu sắc, ngành nghề cũng là một yếu tố giúp gia chủ gặp nhiều may mắn nếu ứng dụng đúng cách.</span></span></strong></em></p>
-
-                        <ul>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-tuc/tuoi-binh-dan-1986-hop-mau-gi.html">Sinh năm 1986 hợp màu gì</a></span></span></strong></u></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><a href="https://simhoptuoi.com.vn/tuoi-binh-dan-hop-voi-nghe-gi.html"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Tuổi Bính Dần hợp nghề gì</span></span></strong></u></a></p>
-                            </li>
-                        </ul>
 
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="color:#FF0000"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span id="v-nhung-cach-xem-sinh-nam-1986-hop-so-dien-thoai-nao-sai-lech-can-tranh">V. Những cách xem sinh năm 1986 hợp số điện thoại nào sai lệch cần tránh?</span></span></span></strong></span></h2>
 
@@ -256,65 +210,11 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Tuy nhiên việc xem người sinh năm 1986 hợp số điện thoại nào theo con số hợp tuổi không nên áp dụng vì một vài con số không thể xác định ý nghĩa tổng quan dãy số và cách chọn này không thể quyết định mức độ hợp khắc của sim với bát tự ngày tháng năm sinh của người sử dụng.</span></span></p>
 
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Xem chi tiết con số hợp tuổi tại: <u><a href="https://simhoptuoi.com.vn/tuoi-binh-dan-sinh-nam-1986-hop-so-nao/324.html">1986 hợp số nào</a></u></span></span></strong></em></p>
-
                         <h3 dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">3. Chọn số điện thoại hợp tuổi Bính Dần theo năm sinh</span></span></strong></em></h3>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Theo cách tính này, số điện thoại dành cho người tuổi 1986 sẽ xuất hiện đuôi số dạng thông tin năm sinh như 09*1986. Chọn sim theo đuôi năm sinh được nhiều người đánh giá là đơn giản, dễ dàng nhưng theo chuyên gia khuyến cáo, đuôi năm sinh chưa thể giúp bạn chọn được dãy sim phong thủy hợp tuổi 1986, muốn chính xác cần dựa vào tổng hòa 10 con số trong sim theo các yếu tố phong thủy phù hợp.</span></span></p>
 
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Tóm lại, việc xem người <u><strong><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Binh-Dan-sinh-nam-1986/35.html">sinh năm 1986 hợp số điện thoại nào</a></strong></u> là việc rất quan trọng, nếu ứng dụng cách chọn sai lệch sẽ dẫn đến tiền mất tật mang, ảnh hưởng không tốt nếu gia chủ tuổi Bính Dần chọn phải dãy sim tương khắc với tuổi. Sau cùng, Simhoptuoi.com.vn kính chúc quý bạn sớm chọn được cho bản thân một dãy sim hợp tuổi, kích tài chiêu lộc, may mắn nhất.</span></span></p>
-
-
-
-                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">THAM KHẢO SỐ ĐIỆN THOẠI HỢP TUỔI KHÁC</span></span></strong></p>
-
-
-
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="height:100%; width:100%">
-                                <tbody>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Canh-Than-sinh-nam-1980/29.html">Số điện thoại hợp tuổi 1980</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-At-Suu-sinh-nam-1985/34.html">Số điện thoại hợp tuổi 1985</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Tan-Dau-sinh-nam-1981/30.html">Số điện thoại hợp tuổi 1981</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Binh-Dan-sinh-nam-1986/35.html">Số điện thoại hợp tuổi 1986</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Nham-Tuat-sinh-nam-1982/31.html">Số điện thoại hợp tuổi 1982</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Dinh-Mao-sinh-nam-1987/36.html">Số điện thoại hợp tuổi 1987</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Quy-Hoi-sinh-nam-1983/32.html">Số điện thoại hợp tuổi 1983</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Mau-Thin-sinh-nam-1988/37.html">Số điện thoại hợp tuổi 1988</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Giap-Ty-sinh-nam-1984/33.html">Số điện thoại hợp tuổi 1984</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Ky-Ty-sinh-nam-1989/38.html">Số điện thoại hợp tuổi 1989</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                </tbody>
-                            </table></div>
-
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Tóm lại, việc xem người sinh năm 1986 hợp số điện thoại nào là việc rất quan trọng, nếu ứng dụng cách chọn sai lệch sẽ dẫn đến tiền mất tật mang, ảnh hưởng không tốt nếu gia chủ tuổi Bính Dần chọn phải dãy sim tương khắc với tuổi. Sau cùng, Simhoptuoi.com.vn kính chúc quý bạn sớm chọn được cho bản thân một dãy sim hợp tuổi, kích tài chiêu lộc, may mắn nhất.</span></span></p>
 
 
                         <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Ngoài ra, nội dung này còn giải đáp những vấn đề sau:</span></span></strong></em></p>

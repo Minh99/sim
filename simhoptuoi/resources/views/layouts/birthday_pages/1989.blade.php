@@ -12,7 +12,7 @@
             <div class="siteBodyContent">
                 <div class="row">
                     <div class="col-md-12">
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Ky-Ty-sinh-nam-1989/38.html">Sim hợp tuổi 1989</a></strong></u> là dãy số điện thoại được sắp xếp bởi 10 con số gồm số lẻ (1, 3, 5, 7, 9) và&nbsp; số chẵn (0, 2, 4, 6, 8) theo tỷ lệ 5-5 hoặc 6-4, dãy sim này có ngũ hành tương sinh, tương hỗ với bản mệnh (Đại Lâm Mộc), chứa quẻ dịch Cát, xuất hiện nhiều con số 8, có tổng nút Cao và xuất hiện nhiều cặp bộ số Đẹp theo quan niệm dân gian. Việc sử dụng dãy số điện thoại hợp tuổi 1989 hội tụ trọn vẹn các yếu tố này sẽ mang đến vận khí, thu hút may mắn, tài vận. Tuy nhiên hiện nay có nhiều cách xem tuổi kỷ tỵ hợp với số điện thoại nào sai lệch, điển hình trong đó là việc chọn dãy <strong>sim phong thủy hợp tuổi 1989</strong> xuất hiện nhiều con số 3, 4 (hành Mộc) và số 0, 1 (hành Thủy). Vậy cùng simhoptuoi.vn phân tích chi tiết từng cách chọn sim phổ biến hiện nay.</span></span></p>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim hợp tuổi 1989 là dãy số điện thoại được sắp xếp bởi 10 con số gồm số lẻ (1, 3, 5, 7, 9) và&nbsp; số chẵn (0, 2, 4, 6, 8) theo tỷ lệ 5-5 hoặc 6-4, dãy sim này có ngũ hành tương sinh, tương hỗ với bản mệnh (Đại Lâm Mộc), chứa quẻ dịch Cát, xuất hiện nhiều con số 8, có tổng nút Cao và xuất hiện nhiều cặp bộ số Đẹp theo quan niệm dân gian. Việc sử dụng dãy số điện thoại hợp tuổi 1989 hội tụ trọn vẹn các yếu tố này sẽ mang đến vận khí, thu hút may mắn, tài vận. Tuy nhiên hiện nay có nhiều cách xem tuổi kỷ tỵ hợp với số điện thoại nào sai lệch, điển hình trong đó là việc chọn dãy <strong>sim phong thủy hợp tuổi 1989</strong> xuất hiện nhiều con số 3, 4 (hành Mộc) và số 0, 1 (hành Thủy). Vậy cùng simhoptuoi.vn phân tích chi tiết từng cách chọn sim phổ biến hiện nay.</span></span></p>
 
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="1-tong-quan-ve-tuoi-ky-ty-1989">1. Tổng quan về tuổi Kỷ Tỵ 1989</span></span></strong></span></h2>
 
@@ -21,17 +21,6 @@
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Trong cuộc sống, tuổi Kỷ Tỵ được biết đến là một người thông minh, lanh lợi, kiên nhẫn và bền bỉ. Nhưng trong cuộc sống họ cũng gặp không ít khó khăn, dù đã cảnh giác cao nhưng vẫn dễ bị người khác lừa gạt. Vận số có lúc gặp nhiều may mắn nhưng cũng có lúc gặp nhiều hạn xui, tuy là người có “Phúc Khí” nhưng tiềm ẩn trong đó là sự vất vả, lận đận. Bởi vậy hiện nay nhiều người sinh năm 1989 thường sử dụng vật phẩm phong thủy để giảm trừ xui xẻo, đem đến nhiều vận may cho người sử dụng. Trong đó số điện thoại hợp tuổi 1989 hiện là vật phẩm được nhiều người tin dùng.</span></span></p>
 
                         <p dir="ltr" style="text-align: center;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><img alt="tuổi kỷ tỵ" src="https://simhoptuoi.com.vn/media/images/news/38/tuoi-ky-ty.png"></span></span></p>
-
-                        <p dir="ltr" style="text-align:justify"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Nội dung hữu ích khác:&nbsp;</span></span></strong></p>
-
-                        <ul>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-tuc/han-tam-tai-tuoi-1989.html">1989 tam tai năm nào</a></span></span></strong></u></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-tuc/sinh-nam-1989-menh-gi.html">1989 cung mệnh gì</a></span></span></strong></u></p>
-                            </li>
-                        </ul>
 
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="2-so-dien-thoai-hop-tuoi-1989-la-gi">2. Số điện thoại hợp tuổi 1989 là gì?</span></span></strong></span></h2>
 
@@ -653,8 +642,6 @@
                             </li>
                         </ul>
 
-                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt;&nbsp; <u><a href="https://simhoptuoi.com.vn/cach-tinh-ngu-hanh-cua-day-so-dien-thoai/314.html">Cách tính ngũ hành của dãy số điện thoại</a></u>&nbsp; &lt;&lt;&lt;</span></span></strong></p>
-
                         <h4 dir="ltr" style="text-align:justify"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">a.2. Theo tứ trụ bổ khuyết tuổi Kỷ Tỵ hợp với số điện thoại nào?</span></span></strong></h4>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim phong thủy hợp tuổi 1989 theo tứ trụ là dãy số điện thoại có ngũ hành trùng với hành suy. Để xác định hành suy, hành vượng trong tứ trụ thì quý vị cần áp dụng thuật can chi tàng ẩn sau khi quy đổi tứ trụ (giờ, ngày, tháng, năm sinh) ra thiên can, địa chi,</span></span></p>
@@ -1014,11 +1001,6 @@
                         </ul>
 
                         <p dir="ltr" style="text-align:justify"><em><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Ví dụ: </strong>0357.01.8989 (quẻ Sơn Hỏa Bí); 0849.303.579 (quẻ Thuần Khôn); 0857.79.8989 (quẻ Thuần Ly); 0819.80.7799 (quẻ Trạch Địa Tụy);...&nbsp;</span></span></em></p>
-
-                        <blockquote>
-                            <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Kết luận:</strong> Theo quẻ dịch thì sim phong thủy hợp tuổi 1989 là dãy sim chứa quẻ dịch cát tùy theo mục đích mong cầu sử dụng, tuy nhiên Tuy nhiên, để tính toán và hiểu rõ quẻ dịch yêu cầu kiến thức và thời gian đáng kể, điều mà không phải ai cũng có sẵn. Để giúp quý vị vượt qua khó khăn này, chúng tôi xin giới thiệu phần mềm <a href="https://simhoptuoi.com.vn/tin-sim/xem-boi-sim-kinh-dich.html">sim kinh dịch</a>. Với sự hỗ trợ từ phần mềm này, quý vị có thể dễ dàng khám phá và lựa chọn những dãy sim phù hợp nhất mà không cần phải có kiến thức chuyên sâu hay tốn nhiều thời gian.</span></span></p>
-                        </blockquote>
-
                        
                         <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">d. Chọn sim phong thủy hợp tuổi 1989 theo Cửu tinh đồ pháp</span></strong></span></h3>
 
@@ -1056,8 +1038,6 @@
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">+ Cách chọn: chọn sim có tổng nút cao (8,9,10), thấp nhất là 1 nút. Số nút 9 hoặc 10 điểm là tổng nút đẹp hoàn hảo.&nbsp;</span></span></p>
 
                         <p dir="ltr" style="text-align:justify"><em><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Ví dụ:</strong> 0901.790.183 (số đặc biệt 79; tổng nút 8); 0793.023.989 (số đặc biệt 39; 79; tổng nút 10);...</span></span></em></p>
-
-                        <p dir="ltr" style="text-align:center"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; <u><strong><a href="https://simhoptuoi.com.vn/cach-tinh-nut-sim-so-dien-thoai/308.html">Cách tính nút số điện thoại</a></strong></u> &lt;&lt;&lt;</span></span></p>
 
                         <blockquote>
                             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Kết luận: </strong>Việc lựa chọn một dãy số sim phù hợp với tuổi 1996 theo Quan Niệm Dân Gian không chỉ đơn thuần là một yếu tố nhỏ bé, mà còn đóng góp một phần quan trọng trong việc tăng cường giá trị và tạo nên vẻ đẹp thẩm mỹ ngoại hình. Ngoài ra, phương pháp này cũng mang lại sự thuận tiện và linh hoạt cho người sử dụng, với việc thực hiện và áp dụng dễ dàng.</span></span></p>
@@ -1627,53 +1607,6 @@
                 <div class="row">
                     <div class="col-md-12">
                         <p dir="ltr" style="text-align:right"><strong><em><span style="font-family:comic sans ms,cursive"><span style="font-size:14px">Biên soạn bởi đội ngũ chuyên gia của Sim Hợp Tuổi!</span></span></em></strong></p>
-
-                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">THAM KHẢO SIM HỢP TUỔI KHÁC</span></span></strong></p>
-
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
-                                <tbody>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Canh-Than-sinh-nam-1980/29.html">Sim hợp tuổi 1980</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-At-Suu-sinh-nam-1985/34.html">Sim hợp tuổi 1985</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Tan-Dau-sinh-nam-1981/30.html">Sim hợp tuổi 1981</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Binh-Dan-sinh-nam-1986/35.html">Sim hợp tuổi 1986</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Nham-Tuat-sinh-nam-1982/31.html">Sim hợp tuổi 1982</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Dinh-Mao-sinh-nam-1987/36.html">Sim hợp tuổi 1987</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Quy-Hoi-sinh-nam-1983/32.html">Sim hợp tuổi 1983</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Mau-Thin-sinh-nam-1988/37.html">Sim hợp tuổi 1988</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Giap-Ty-sinh-nam-1984/33.html">Sim hợp tuổi 1984</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Ky-Ty-sinh-nam-1989/38.html">Sim hợp tuổi 1989</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                </tbody>
-                            </table></div>
 
                         <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Ngoài ra bài luận này còn giải đáp nhu cầu tìm kiếm sau:</span></span></strong></em></p>
 

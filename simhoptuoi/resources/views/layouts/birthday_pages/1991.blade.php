@@ -12,7 +12,7 @@
             <div class="siteBodyContent">
                 <div class="row">
                     <div class="col-md-12">
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Tan-Mui-sinh-nam-1991/40.html"><strong>Sim hợp tuổi 1991</strong></a></u> theo quan niệm của nhiều người là dãy số điện thoại xuất hiện nhiều con số 2, 5, 8, 9. Vì đây là những con số hợp tuổi Tân Mùi. Tuy nhiên theo chuyên gia, quan niệm này hoàn toàn sai lệch vì con số hợp tuổi chỉ đứng một mình thì nguồn năng lượng sẽ được trọn vẹn, còn khi đứng cạnh những con số khác thì sẽ bị thay đổi. Vậy tuổi 1991 hợp số điện thoại nào? Cách chọn <strong>sim phong thủy hợp tuổi 1991</strong> chính xác sẽ được nội dung dưới đây giải đáp.</span></span></p>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim hợp tuổi 1991 theo quan niệm của nhiều người là dãy số điện thoại xuất hiện nhiều con số 2, 5, 8, 9. Vì đây là những con số hợp tuổi Tân Mùi. Tuy nhiên theo chuyên gia, quan niệm này hoàn toàn sai lệch vì con số hợp tuổi chỉ đứng một mình thì nguồn năng lượng sẽ được trọn vẹn, còn khi đứng cạnh những con số khác thì sẽ bị thay đổi. Vậy tuổi 1991 hợp số điện thoại nào? Cách chọn <strong>sim phong thủy hợp tuổi 1991</strong> chính xác sẽ được nội dung dưới đây giải đáp.</span></span></p>
 
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="color:#000000"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="1-tong-quan-ve-nguoi-tuoi-tan-mui-1991">1. Tổng quan về người tuổi Tân Mùi 1991</span></span></strong></span></span></h2>
 
@@ -21,17 +21,6 @@
                         <p dir="ltr" style="text-align:center"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><img alt="tuổi tân mùi" src="https://simhoptuoi.com.vn/media/images/news/40/tuoi-tan-mui.png"></span></span></p>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Phần đông tuổi 1991 thiên về lối sống tình cảm, khoan dung, sẵn sàng giúp đỡ người khác. Họ cũng là nhóm người được trời phú sự thông minh, nhanh nhạy và chăm chỉ. Nhược điểm của tuổi Mùi là không có sự kiên quyết, dễ bị phân tâm bởi ngoại cảnh và người khác. Điều này ảnh hưởng không ít đến công việc và cuộc sống tình cảm. Do đó, ngoài việc tự rèn luyện bản thân, không ngừng cố gắng, thì người tuổi Tân Mùi nên sử dụng vật phẩm phong thủy sim hợp tuổi 1991 để khắc chế điểm nhược, phát huy điểm ưu, cải thiện vận số hanh thông hơn. Tiếp theo chuyên gia sẽ phân tích cách xem tuổi tân mùi hợp với số điện thoại nào chính xác, giúp người tuổi Tân Mùi chọn được số sim phù hợp nhất.&nbsp;&nbsp;</span></span></p>
-
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><img alt="icon" src="https://simhoptuoi.com.vn/media/images/news/40/Arrow-icon.png" style="height:30px; width:30px"></span></span></strong></em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"> Nội dung hữu ích khác:&nbsp;</span></span></strong></p>
-
-                        <ul>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-tuc/han-tam-tai-tuoi-1991.html">1991 tam tai năm nào</a></span></span></strong></u></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-tuc/sinh-nam-1991-menh-gi.html">1991 cung mệnh gì</a></span></span></strong></u></p>
-                            </li>
-                        </ul>
 
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="2-so-dien-thoai-hop-tuoi-1991-la-gi">2. Số điện thoại hợp tuổi 1991 là gì?</span></span></strong></span></h2>
 
@@ -97,7 +86,7 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Số điện thoại hợp tuổi Tân Mùi theo quy luật ngũ hành sinh khắc là dãy sim có ngũ hành Thổ hoặc Hỏa. Bởi theo ngũ hành sinh khắc thì ngũ hành Hỏa tương sinh bản mệnh Thổ và Thổ tương trợ tốt cho Thổ.&nbsp;</span></span></p>
 
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Để tìm <u><strong><a href="https://simhoptuoi.com.vn/Sim-hop-menh-Tho.html">sim phong thủy hợp mệnh Thổ</a></strong></u>, quý vị cần làm theo các bước sau:</span></span></p>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Để tìm <u><strong><a href="{{ route('menu-page', ['slug' => 'sim_menh_tho']) }}">sim phong thủy hợp mệnh Thổ</a></strong></u>, quý vị cần làm theo các bước sau:</span></span></p>
 
                         <ul>
                             <li dir="ltr">
@@ -638,8 +627,6 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Xét chuyên sâu hơn, người tuổi Tân Mùi nên căn cứ thêm vào tứ trụ mệnh (ngày - tháng - năm - giờ sinh) kết hợp thuật Can Chi Tàng Ẩn để tìm ra hành khuyết (hành suy). Từ đó ưu tiên chọn số sim có khả năng bổ trợ điểm thiếu trong bản mệnh tốt nhất, tức là số sim có ngũ hành trùng với hành khuyết (hành suy).&nbsp;</span></span></p>
 
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><img alt="icon" src="https://simhoptuoi.com.vn/media/images/news/40/Arrow-icon.png" style="height:30px; width:30px"> Xem chi tiết: <u><a href="https://simhoptuoi.com.vn/cach-tinh-ngu-hanh-cua-day-so-dien-thoai/314.html">cách tính ngũ hành số điện thoại</a></u></span></span></strong></em></p>
-
                         <p dir="ltr" style="text-align:justify"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Ví dụ về một số dãy sim hợp tuổi 1991 theo Ngũ Hành:</span></span></strong></p>
 
                         <ul>
@@ -730,8 +717,6 @@
                             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Kết luận: </strong>Phương pháp xem tuổi 1991 hợp số điện thoại nào theo quẻ dịch là yếu tố trọng yếu. Quẻ dịch sẽ dự đoán được dòng chảy dịch chuyển năng lượng của sim trong mối tương quan với vũ trụ và người Tân Mùi. Tùy vào mục đích sử dụng quý vị sẽ có những lựa chọn khác nhau.</span></span></p>
                         </blockquote>
 
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><img alt="icon" src="https://simhoptuoi.com.vn/media/images/news/40/Arrow-icon.png" style="height:30px; width:30px"> Xem chi tiết: <u><a href="https://simhoptuoi.com.vn/cach-tinh-que-dich-so-dien-thoai/345.html">Cách tính quẻ số điện thoại</a></u></span></span></strong></em></p>
-
                         <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">d. Chọn sim hợp tuổi 1991 theo cửu tinh đồ pháp</span></strong></span></h3>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Số điện thoại hợp tuổi 1991 theo cửu tinh là dãy sim xuất hiện nhiều con số 8 và 9. Nguyên do hiện nay nằm trong giai đoạn 2004 đến 2023 thuộc thời kỳ Hạ nguyên Bát vận, tương ứng với con số vượng khí là 8 và số sinh khí là 9. Do đó, sim hợp tuổi Tân Mùi hội tụ năng lượng thời vận khi có nhiều số 8 và số 9, giúp tăng cơ hội thúc đẩy sự nghiệp, cuộc sống suôn sẻ hơn.&nbsp;</span></span></p>
@@ -810,18 +795,9 @@
 
                         <p style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><img alt="icon" src="https://simhoptuoi.com.vn/media/images/news/40/Arrow-icon.png" style="height:30px; width:30px"> Ngoài sim hợp tuổi 1991 thì màu sắc, ngành nghề cũng là một yếu tố giúp gia chủ gặp nhiều may mắn nếu ứng dụng đúng cách.</span></span></strong></em></p>
 
-                        <ul>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-tuc/tuoi-tan-mui-1991-hop-mau-gi.html">Sinh năm 1991 hợp màu gì</a></span></span></strong></u></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tuoi-tan-mui-hop-voi-nghe-gi.html">Tuổi Tân Mùi hợp nghề gì</a></span></span></strong></u></p>
-                            </li>
-                        </ul>
-
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="4-huong-dan-kiem-tra-day-sim-dang-dung-co-hop-tuoi-1991-hay-khong">4. Hướng dẫn kiểm tra dãy sim đang dùng có hợp tuổi 1991 hay không?</span></span></strong></span></h2>
 
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Để kiểm tra dãy sim đang sở hữu có thực sự tốt cho tuổi Tân Mùi hay không thì quý vị phải là người có kiến thức chuyên môn, kinh nghiệm vận dụng 5 yếu tố phong thủy. Tuy nhiên điều này sẽ gây khó khăn cho những người không am hiểu phong thủy, khiến mất thời gian công sức mà kết quả có thể bị sai lệch. Do vậy để giảm trừ những mặt hạn chế này thì mời quý vị hãy sử dụng phần mềm <u><strong><a href="{{ route('boi-sim') }}">SIM PHONG THỦY</a> </strong></u>của{{ $namSite }}. Ứng dụng này sẽ ứng dụng 5 yếu tố phong thủy dự báo cổ, được đội ngũ chuyên gia vận dụng, hứa hẹn sẽ giúp quý vị nắm được ý nghĩa dãy sim đang dùng hợp hay khắc một cách nhanh chóng, tường minh dễ hiểu nhất.</span></span></p>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Để kiểm tra dãy sim đang sở hữu có thực sự tốt cho tuổi Tân Mùi hay không thì quý vị phải là người có kiến thức chuyên môn, kinh nghiệm vận dụng 5 yếu tố phong thủy. Tuy nhiên điều này sẽ gây khó khăn cho những người không am hiểu phong thủy, khiến mất thời gian công sức mà kết quả có thể bị sai lệch. Do vậy để giảm trừ những mặt hạn chế này thì mời quý vị hãy sử dụng phần mềm <u><strong><a href="{{ route('boi-sim') }}">SIM PHONG THỦY</a> </strong></u>của{{ $nameSite }}. Ứng dụng này sẽ ứng dụng 5 yếu tố phong thủy dự báo cổ, được đội ngũ chuyên gia vận dụng, hứa hẹn sẽ giúp quý vị nắm được ý nghĩa dãy sim đang dùng hợp hay khắc một cách nhanh chóng, tường minh dễ hiểu nhất.</span></span></p>
 
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="5-tong-hop-03-cach-chon-sim-phong-thuy-hop-tuoi-1991-tan-mui-sai-lech">5. Tổng hợp 03 cách chọn sim phong thủy hợp tuổi 1991 Tân Mùi sai lệch?</span></span></strong></span></h2>
 
@@ -863,8 +839,6 @@
                             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Đánh giá của chuyên gia sim hợp tuổi:</strong> rằng 4 số cuối cát hay hung không thể xét được toàn bộ ý nghĩa cả dãy sim. Cũng như chưa xét được tính cá nhân hóa của sim với bản mệnh Thổ sinh năm 1991. Nếu chọn sim hợp tuổi 1991 theo 4 số cuối sẽ tạo ra sự khập khiễng khi thiếu đi 60% giá trị của sim tương ứng với 6 số đầu điện thoại.</span></span></p>
                         </blockquote>
 
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><img alt="icon" src="https://simhoptuoi.com.vn/media/images/news/40/Arrow-icon.png" style="height:30px; width:30px">&nbsp;Chi tiết: <u><a href="https://simhoptuoi.com.vn/cach-tinh-4-so-cuoi-dien-thoai-chuan-xac/304.html">Cách tính 4 số cuối điện thoại</a></u></span></span></strong></em></p>
-
                         <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">b. Chọn sim hợp tuổi 1991 Tân Mùi theo Du Niên?</span></strong></span></h3>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim phong thủy hợp tuổi 1991 theo Du Niên là dãy sim xuất hiện các cặp số đại diện cho cát tinh hơn hung tinh. Cách chọn này dựa vào trường phái Hậu thiên bát quái theo từng con số trong dãy sim. Sau đó ghép cặp để xác định được bát biến du niên cho từng cặp số. Dưới đây là danh sách các cặp số tốt - xấu&nbsp;&nbsp;</span></span></p>
@@ -902,8 +876,6 @@
                         <p dir="ltr" style="text-align:justify"><em><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Ví dụ một số sim điện thoại hợp tuổi Tân Mùi theo con số may mắn: <strong>0979.258.258; 0898.958.346…&nbsp;</strong></span></span></em></p>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Đánh giá của chuyên gia sim hợp tuổi: Chọn sim phong thủy hợp tuổi 1991 con số hợp tuổi khá đơn giản, có thể nhận biết nhanh chóng. Tuy nhiên chuyên gia khuyên không nên sử dụng phương pháp này, vì một ngũ hành con số chủ đạo không phải là ngũ hành của cả dãy sim. Nói cách khác, con số hợp khắc không thể quyết định phong thủy của sim với người dùng.&nbsp;</span></span></p>
-
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><img alt="icon" src="https://simhoptuoi.com.vn/media/images/news/40/Arrow-icon.png" style="height:30px; width:30px"></span></span></strong></em><strong><em><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"> Chi tiết: <u><a href="https://simhoptuoi.com.vn/tin-sim/tuoi-tan-mui-1991-hop-so-nao.html">1991 hợp số nào</a></u></span></span></em></strong></p>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Như vậy <strong>sim hợp tuổi 1991</strong> là dãy sim mang đến may mắn tài lộc cho người tuổi Tân Mùi. Tuy nhiên cách chọn chính xác nhất hiện nay phải dựa vào 5 quy luật cổ học Phương Đông. Do vậy quý bạn hãy đến với Simhoptuoi.com.vn - Đơn vị số 1 về lĩnh vực sim phong thủy hợp tuổi 1991 Tân Mùi hiện nay để chọn lựa số sim phù hợp nhất với bản thân. Hy vọng quý bạn có thể lựa chọn cho bản thân số sim phù hợp, nhận được nhiều may mắn và thành công trong cuộc sống</span></span></p>                    </div>
                 </div>
@@ -965,33 +937,6 @@
                 <div class="row">
                     <div class="col-md-12">
                         <p dir="ltr" style="text-align:right"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Biên soạn: <u><a href="{{ route('home') }}">Sim Hợp Tuổi - Sim Phong Thủy Hợp Tuổi</a></u></span></span></strong></em></p>
-
-                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">THAM KHẢO SIM HỢP TUỔI KHÁC</span></span></strong></p>
-
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" dir="ltr" style="width:100%">
-                                <tbody>
-                                <tr>
-                                    <td style="text-align:center"><u><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Canh-Ngo-sinh-nam-1990/39.html" target="_blank">Sim hợp tuổi 1990</a></strong></span></span></u></td>
-                                    <td style="text-align:center"><u><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-At-Hoi-sinh-nam-1995/44.html" target="_blank">Sim hợp tuổi 1995</a></strong></span></span></u></td>
-                                </tr>
-                                <tr>
-                                    <td style="text-align:center"><u><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Tan-Mui-sinh-nam-1991/40.html" target="_blank">Sim hợp tuổi 1991</a></strong></span></span></u></td>
-                                    <td style="text-align:center"><u><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Binh-Ty-sinh-nam-1996/45.html" target="_blank">Sim hợp tuổi 1996</a></strong></span></span></u></td>
-                                </tr>
-                                <tr>
-                                    <td style="text-align:center"><u><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Nham-Than-sinh-nam-1992/41.html" target="_blank">Sim hợp tuổi 1992</a></strong></span></span></u></td>
-                                    <td style="text-align:center"><u><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Dinh-Suu-sinh-nam-1997/46.html" target="_blank">Sim hợp tuổi 1997</a></strong></span></span></u></td>
-                                </tr>
-                                <tr>
-                                    <td style="text-align:center"><u><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Quy-Dau-sinh-nam-1993/42.html" target="_blank">Sim hợp tuổi 1993</a></strong></span></span></u></td>
-                                    <td style="text-align:center"><u><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><a href="https://simhoptuoi.com.vn/sim-hop-tuoi-mau-dan-1998/166.html" target="_blank">Sim hợp tuổi 1998</a></strong></span></span></u></td>
-                                </tr>
-                                <tr>
-                                    <td style="text-align:center"><u><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Giap-Tuat-sinh-nam-1994/43.html" target="_blank">Sim hợp tuổi 1994</a></strong></span></span></u></td>
-                                    <td style="text-align:center"><u><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><a href="https://simhoptuoi.com.vn/sim-hop-tuoi-ky-mao-1999/168.html" target="_blank">Sim hợp tuổi 1999</a></strong></span></span></u></td>
-                                </tr>
-                                </tbody>
-                            </table></div>
 
                         <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Ngoài ra nội này này còn giải đáp những vấn đề sau:</span></span></strong></em></p>
 

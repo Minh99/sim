@@ -460,17 +460,6 @@
                                         src="https://simhoptuoi.com.vn/media/images/news/141/mui-ten-gif-do.gif"
                                         style="height:60px; width:60px"></strong></em></p>
 
-                        <p dir="ltr" style="text-align: center;"><span style="font-size:14px"><span
-                                    style="font-family:arial,helvetica,sans-serif"><em><strong>&nbsp;Chi
-                                            tiết</strong></em></span></span></p>
-
-                        <p dir="ltr" style="text-align: center;"><u><a
-                                    href="https://simhoptuoi.com.vn/Sim-hop-menh-Kim.html"><span
-                                        style="font-size:14px"><span
-                                            style="font-family:arial,helvetica,sans-serif"><em><strong>Sim hợp mệnh
-                                                    Kim</strong></em></span></span></a></u></p>
-
-
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span
                                     style="font-family:arial,helvetica,sans-serif">- Chọn số điện thoại hợp với tuổi canh
@@ -532,54 +521,6 @@
                                             vị.</span></span></p>
                             </li>
                         </ul>
-
-
-
-                        <p dir="ltr" style="text-align:center"><span style="color:#FF0000"><strong><span
-                                        style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">THAM
-                                            KHẢO CÁC DÒNG SIM SỐ ĐẸP</span></span></strong></span></p>
-
-
-
-                        <div style="overflow-x:auto;">
-                            <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
-                                <tbody>
-                                    <tr>
-                                        <td>
-                                            <p dir="ltr" style="text-align:center"><a
-                                                    href="https://simhoptuoi.com.vn/sim-tam-hoa.html"><u><strong><span
-                                                                style="font-size:14px"><span
-                                                                    style="font-family:arial,helvetica,sans-serif">Sim tam
-                                                                    hoa hợp tuổi 1970</span></span></strong></u></a></p>
-                                        </td>
-                                        <td>
-                                            <p dir="ltr" style="text-align:center"><a
-                                                    href="https://simhoptuoi.com.vn/sim-tu-quy.html"><u><strong><span
-                                                                style="font-size:14px"><span
-                                                                    style="font-family:arial,helvetica,sans-serif">Sim tứ
-                                                                    quý hợp tuổi 1970</span></span></strong></u></a></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <p dir="ltr" style="text-align:center"><a
-                                                    href="https://simhoptuoi.com.vn/sim-ngu-quy.html"><u><strong><span
-                                                                style="font-size:14px"><span
-                                                                    style="font-family:arial,helvetica,sans-serif">Sim ngũ
-                                                                    quý hợp tuổi 1970</span></span></strong></u></a></p>
-                                        </td>
-                                        <td>
-                                            <p dir="ltr" style="text-align:center"><a
-                                                    href="https://simhoptuoi.com.vn/sim-luc-quy.html"><u><strong><span
-                                                                style="font-size:14px"><span
-                                                                    style="font-family:arial,helvetica,sans-serif">Sim lục
-                                                                    quý hợp tuổi 1970</span></span></strong></u></a></p>
-                                        </td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
-
 
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span
@@ -650,34 +591,6 @@
                                             style="font-family:arial,helvetica,sans-serif">Cặp số 39, 79: Cặp số “Thần Tài
                                             Nhỏ - Thần Tài Lớn”, đem tới vinh hoa, phú quý cho chủ sở hữu tuổi 1970, phù hợp
                                             với những người đang mong cầu tài lộc.</span></span></p>
-                            </li>
-                        </ul>
-
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span
-                                            style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Chọn ngay những dãy
-                                            sim đặc biệt này:</span></span></strong></em></p>
-
-                        <ul>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><a
-                                        href="https://simhoptuoi.com.vn/sim-loc-phat.html"><u><strong><span
-                                                    style="font-size:14px"><span
-                                                        style="font-family:arial,helvetica,sans-serif">Sim lộc
-                                                        phát</span></span></strong></u></a></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><a
-                                        href="https://simhoptuoi.com.vn/sim-ong-dia.html"><u><strong><span
-                                                    style="font-size:14px"><span
-                                                        style="font-family:arial,helvetica,sans-serif">Sim ông
-                                                        địa</span></span></strong></u></a></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><a
-                                        href="https://simhoptuoi.com.vn/sim-than-tai.html"><u><strong><span
-                                                    style="font-size:14px"><span
-                                                        style="font-family:arial,helvetica,sans-serif">Sim thần
-                                                        tài</span></span></strong></u></a></p>
                             </li>
                         </ul>
 

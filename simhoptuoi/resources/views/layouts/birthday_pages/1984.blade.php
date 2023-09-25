@@ -12,9 +12,8 @@
                 <div class="row">
                     <div class="col-md-12">
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span
-                                    style="font-family:arial,helvetica,sans-serif"><strong><u><a
-                                                href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Giap-Ty-sinh-nam-1984/33.html">Sim
-                                                hợp tuổi 1984</a></u></strong> là dãy sim phong thủy mang đến may mắn, thu
+                                    style="font-family:arial,helvetica,sans-serif">Sim
+                                                hợp tuổi 1984 là dãy sim phong thủy mang đến may mắn, thu
                                     hút tài lộc cho gia chủ tuổi Giáp Tý. Tuy nhiên để nhận trọn vẹn những lợi ích này thì
                                     quý vị phải nắm được phương pháp chọn số điện thoại hợp tuổi 1984 chính xác. Hiện nay
                                     nhiều nơi cho rằng sim phong thủy hợp tuổi 1984 là dãy sim xuất hiện nhiều con số 6, 7
@@ -240,11 +239,6 @@
                                     đó, Hỏa khắc Kim nên con số 9 thuộc hành Hỏa sẽ đem đến nhiều chuyện không may mắn, hung
                                     hiểm, xui xẻo cho gia chủ sinh năm 1984.</span></span></p>
 
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span
-                                            style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Chi tiết : <a
-                                                href="https://simhoptuoi.com.vn/tuoi-giap-ty-1984-hop-so-nao/354.html">Tuổi
-                                                Giáp Tý 1984 hợp số nào</a></span></span></strong></em></p>
-
                         <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span
                                         style="font-family:arial,helvetica,sans-serif">b. Cách chọn sim hợp tuổi 1984 theo
                                         con số hợp tuổi</span></strong></span></h3>
@@ -274,9 +268,7 @@
 
                         <p dir="ltr" style="text-align:justify"><em><span style="font-size:14px"><span
                                         style="font-family:arial,helvetica,sans-serif">Tuy nhiên theo đánh giá của chuyên
-                                        gia sim phong thủy <u><strong><a
-                                                    href="https://simhoptuoi.com.vn/tin-tuc/author-ly-hong-luong.html">Lý
-                                                    Hồng Lượng</a></strong></u>: cách chọn sim này có điểm bất cập là chỉ
+                                        gia sim phong thủy Lý Hồng Lượng: cách chọn sim này có điểm bất cập là chỉ
                                         xét một vài con số trong sim chứ không xét tổng hòa 10 con số trong sim. Điều này đã
                                         vi phạm hai căn cứ khi chọn số điện thoại hợp tuổi giáp tý.</span></span></em></p>
 
@@ -416,7 +408,7 @@
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span
                                     style="font-family:arial,helvetica,sans-serif">Người tuổi 1984 mệnh Kim ngũ hành nạp âm
                                     Hải Trung Kim nên dùng <strong><a
-                                            href="https://simhoptuoi.com.vn/Sim-hop-menh-Kim.html">sim phong thủy hợp mệnh
+                                            href="{{ route('menu-page', ['slug' => 'sim_menh_kim']) }}">sim phong thủy hợp mệnh
                                             Kim</a></strong> có ngũ hành Thổ hoặc Kim vì theo quy luật ngũ hành, Thổ sinh
                                     Kim, Kim tương hợp với Kim.&nbsp;</span></span></p>
 
@@ -439,12 +431,6 @@
                                     quan hệ tương sinh hơn tương khắc: Mỗi con số đều có tính chất ngũ hành riêng biệt nên
                                     muốn nội tại sim cát lợi, quý bạn nên xét mối quan hệ các con số trong sim từ trái qua
                                     phải, càng nhiều mối quan hệ tương sinh thì càng tốt.&nbsp;</span></span></p>
-
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span
-                                            style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Chi tiết cách tính
-                                            ngũ hành tại: <a
-                                                href="https://simhoptuoi.com.vn/cach-tinh-ngu-hanh-cua-day-so-dien-thoai/314.html">Cách
-                                                tính ngũ hành dãy số điện thoại&nbsp;</a></span></span></strong></em></p>
 
                         <blockquote>
                             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span
@@ -552,216 +538,6 @@
                                         dịch của simhoptuoi.com.vn để chấm điểm hung cát quẻ dịch của dãy sim bạn cần đánh
                                         giá.</span></span></p>
                         </blockquote>
-
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span
-                                            style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Chi tiết cách tính
-                                            quẻ dịch tại: <u><a
-                                                    href="https://simhoptuoi.com.vn/cach-tinh-que-dich-so-dien-thoai/345.html">Cách
-                                                    tính quẻ số điện thoại</a></u></span></span></strong></em></p>
-
-                        <p dir="ltr" style="text-align:center"><em><strong><span style="font-size:14px"><span
-                                            style="font-family:arial,helvetica,sans-serif"><u></u></span></span></strong></em>
-                        </p>
-                        <section class="boxFormSim"><em><strong><u>
-                                        <div class="bgFormSim">
-                                            <div class="title"
-                                                style="text-align: center;margin-bottom: 10px;font-weight: bold;">
-                                                XEM SIM KINH DỊCH
-                                            </div>
-                                            <form class="form_boisimkinhdich_pts" name="boisimkinhdich"
-                                                action="https://simhoptuoi.com.vn/tin-sim/xem-boi-sim-kinh-dich.html"
-                                                method="post">
-                                                <input type="hidden" name="action_form" value="boisimkinhdich">
-                                                <div style="display:none"></div>
-                                                <div class="row">
-                                                    <div class="col-3 col-md-3 col-sm-3 col-xs-3">
-                                                        <p class="title_label"><label>Số điện thoại</label></p>
-                                                    </div>
-                                                    <div class="col-9 col-md-9 col-sm-9 col-xs-9">
-                                                        <input id="xpts_phone" class="myinput" name="sosim"
-                                                            placeholder="Mời nhập số sim" value="">
-                                                    </div>
-                                                    <div class="col-12 col-md-12">
-                                                        <div class="row">
-                                                            <div class="col-3 col-md-3 col-sm-3 col-xs-3">
-                                                                <p class="title_label"><label>Ngày sinh</label></p>
-                                                            </div>
-                                                            <div class="col-3 col-md-3 col-sm-3 col-xs-3">
-                                                                <select id="xpts_ngay" name="ngay" class="myinput"
-                                                                    required="">
-                                                                    <option value="">Ngày</option>
-                                                                    <option value="1">1</option>
-                                                                    <option value="2">2</option>
-                                                                    <option value="3">3</option>
-                                                                    <option value="4">4</option>
-                                                                    <option value="5">5</option>
-                                                                    <option value="6">6</option>
-                                                                    <option value="7">7</option>
-                                                                    <option value="8" selected="">8</option>
-                                                                    <option value="9">9</option>
-                                                                    <option value="10">10</option>
-                                                                    <option value="11">11</option>
-                                                                    <option value="12">12</option>
-                                                                    <option value="13">13</option>
-                                                                    <option value="14">14</option>
-                                                                    <option value="15">15</option>
-                                                                    <option value="16">16</option>
-                                                                    <option value="17">17</option>
-                                                                    <option value="18">18</option>
-                                                                    <option value="19">19</option>
-                                                                    <option value="20">20</option>
-                                                                    <option value="21">21</option>
-                                                                    <option value="22">22</option>
-                                                                    <option value="23">23</option>
-                                                                    <option value="24">24</option>
-                                                                    <option value="25">25</option>
-                                                                    <option value="26">26</option>
-                                                                    <option value="27">27</option>
-                                                                    <option value="28">28</option>
-                                                                    <option value="29">29</option>
-                                                                    <option value="30">30</option>
-                                                                    <option value="31">31</option>
-                                                                </select>
-                                                            </div>
-                                                            <div class="col-3 col-md-3 col-sm-3 col-xs-3">
-                                                                <select id="xpts_thang" name="thang" class="myinput"
-                                                                    required="">
-                                                                    <option value="">Tháng</option>
-                                                                    <option value="1">1</option>
-                                                                    <option value="2">2</option>
-                                                                    <option value="3">3</option>
-                                                                    <option value="4">4</option>
-                                                                    <option value="5">5</option>
-                                                                    <option value="6">6</option>
-                                                                    <option value="7">7</option>
-                                                                    <option value="8" selected="">8</option>
-                                                                    <option value="9">9</option>
-                                                                    <option value="10">10</option>
-                                                                    <option value="11">11</option>
-                                                                    <option value="12">12</option>
-                                                                </select>
-                                                            </div>
-                                                            <div class="col-3 col-md-3 col-sm-3 col-xs-3">
-                                                                <select id="xpts_nam" name="nam" class="myinput"
-                                                                    required="">
-                                                                    <option value="">Năm</option>
-                                                                    <option value="1950">1950</option>
-                                                                    <option value="1951">1951</option>
-                                                                    <option value="1952">1952</option>
-                                                                    <option value="1953">1953</option>
-                                                                    <option value="1954">1954</option>
-                                                                    <option value="1955">1955</option>
-                                                                    <option value="1956">1956</option>
-                                                                    <option value="1957">1957</option>
-                                                                    <option value="1958">1958</option>
-                                                                    <option value="1959">1959</option>
-                                                                    <option value="1960">1960</option>
-                                                                    <option value="1961">1961</option>
-                                                                    <option value="1962">1962</option>
-                                                                    <option value="1963">1963</option>
-                                                                    <option value="1964">1964</option>
-                                                                    <option value="1965">1965</option>
-                                                                    <option value="1966">1966</option>
-                                                                    <option value="1967">1967</option>
-                                                                    <option value="1968">1968</option>
-                                                                    <option value="1969">1969</option>
-                                                                    <option value="1970">1970</option>
-                                                                    <option value="1971">1971</option>
-                                                                    <option value="1972">1972</option>
-                                                                    <option value="1973">1973</option>
-                                                                    <option value="1974">1974</option>
-                                                                    <option value="1975">1975</option>
-                                                                    <option value="1976">1976</option>
-                                                                    <option value="1977">1977</option>
-                                                                    <option value="1978">1978</option>
-                                                                    <option value="1979">1979</option>
-                                                                    <option value="1980">1980</option>
-                                                                    <option value="1981">1981</option>
-                                                                    <option value="1982">1982</option>
-                                                                    <option value="1983">1983</option>
-                                                                    <option value="1984" selected="">1984</option>
-                                                                    <option value="1985">1985</option>
-                                                                    <option value="1986">1986</option>
-                                                                    <option value="1987">1987</option>
-                                                                    <option value="1988">1988</option>
-                                                                    <option value="1989">1989</option>
-                                                                    <option value="1990">1990</option>
-                                                                    <option value="1991">1991</option>
-                                                                    <option value="1992">1992</option>
-                                                                    <option value="1993">1993</option>
-                                                                    <option value="1994">1994</option>
-                                                                    <option value="1995">1995</option>
-                                                                    <option value="1996">1996</option>
-                                                                    <option value="1997">1997</option>
-                                                                    <option value="1998">1998</option>
-                                                                    <option value="1999">1999</option>
-                                                                    <option value="2000">2000</option>
-                                                                    <option value="2001">2001</option>
-                                                                    <option value="2002">2002</option>
-                                                                    <option value="2003">2003</option>
-                                                                    <option value="2004">2004</option>
-                                                                    <option value="2005">2005</option>
-                                                                    <option value="2006">2006</option>
-                                                                    <option value="2007">2007</option>
-                                                                    <option value="2008">2008</option>
-                                                                    <option value="2009">2009</option>
-                                                                    <option value="2010">2010</option>
-                                                                    <option value="2011">2011</option>
-                                                                    <option value="2012">2012</option>
-                                                                    <option value="2013">2013</option>
-                                                                    <option value="2014">2014</option>
-                                                                    <option value="2015">2015</option>
-                                                                    <option value="2016">2016</option>
-                                                                    <option value="2017">2017</option>
-                                                                    <option value="2018">2018</option>
-                                                                    <option value="2019">2019</option>
-                                                                    <option value="2020">2020</option>
-                                                                </select>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="row">
-                                                    <div class="col-2 col-md-2 col-sm-2 col-xs-2">
-                                                        <input type="radio" name="gioitinh" value="nam"
-                                                            checked=""> Nam
-                                                    </div>
-                                                    <div class="col-2 col-md-2 col-sm-2 col-xs-2">
-                                                        <input type="radio" name="gioitinh" value="nu"> Nữ
-                                                    </div>
-                                                    <div class="col-3 col-md-2 col-sm-2 col-xs-2">
-                                                        <p class="title_label"><label>Giờ sinh</label></p>
-                                                    </div>
-                                                    <div class="col-5 col-md-6 col-sm-6 col-xs-6">
-                                                        <select id="xpts_giosinh" class="myinput" name="giosinh"
-                                                            required="">
-                                                            <option value="">Chọn giờ sinh</option>
-                                                            <option value="1" selected="">Tý (23g - 1g)</option>
-                                                            <option value="2">Sửu (1g - 3g)</option>
-                                                            <option value="3">Dần (3g - 5g)</option>
-                                                            <option value="4">Mão (5g - 7g)</option>
-                                                            <option value="5">Thìn (7g - 9g)</option>
-                                                            <option value="6">Tỵ (9g - 11g)</option>
-                                                            <option value="7">Ngọ (11g - 13g)</option>
-                                                            <option value="8">Mùi (13g - 15g)</option>
-                                                            <option value="9">Thân (15g - 17g)</option>
-                                                            <option value="10">Dậu (17g - 19g)</option>
-                                                            <option value="11">Tuất (19g - 21g)</option>
-                                                            <option value="12">Hợi (21g - 23g)</option>
-                                                        </select>
-                                                    </div>
-                                                </div>
-                                                <div class="row">
-                                                    <div class="col-12 col-md-12 col-sm-12 col-xs-12 text-center">
-                                                        <button id="" type="button"
-                                                            class="btn_xemngay xemboisimkinhdich"><span>Bói sim kinh
-                                                                dịch</span></button>
-                                                    </div>
-                                                </div>
-                                            </form>
-
-                                        </div>
-                                    </u></strong></em></section>
 
                         <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span
                                         style="font-family:arial,helvetica,sans-serif">3. Tuổi giáp tý hợp số điện thoại
@@ -1328,59 +1104,6 @@
                                         xác thì cần xét tổng hòa 10 con số trong sim</span></span></p>
                         </blockquote>
 
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span
-                                    style="font-family:arial,helvetica,sans-serif"><em><strong>&gt;&gt;&gt; Chi tiết: <a
-                                                href="https://simhoptuoi.com.vn/tin-sim/cach-chon-4-so-cuoi-dien-thoai-cho-tuoi-84.html">4
-                                                số cuối điện thoại cho tuổi 84</a></strong></em></span></span><br>
-                            &nbsp;</p>
-
-                        <p dir="ltr" style="text-align:center"><span style="font-size:14px"><span
-                                    style="font-family:arial,helvetica,sans-serif"></span></span></p>
-                        <div class="">
-                            <section class="row text-center">
-                                <div class="col-md-10 offset-md-2 form_xem_phong_thuy_sim form-4-so-cuoi" id="chonlai">
-                                    <form name="xem_phong_thuy_sim" id="xem_phong_thuy_sim"
-                                        action="{{ route('boi-sim-4-so') }}" method="POST">
-                                        <div class="title-form">
-                                            <h2 style="margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);">TRA
-                                                CỨU 4 SỐ CUỐI ĐIỆN THOẠI</h2>
-                                        </div>
-                                        <div class="row d-flex justify-content-center align-items-center">
-                                            <div class="col-md-6 pdl0 pdr0">
-                                                <input type="text" class="last_phone" name="last_phone"
-                                                    placeholder="Nhập 4 số cuối điện thoại" required=""
-                                                    value="">
-                                            </div>
-                                            <div class="col-md-6 pd0 sex">
-                                                <div class="form-check">
-                                                    <label class="form-check-label">
-                                                        <input checked="" type="radio" name="option"
-                                                            class="form-check-input" value="hung_cat" required="">
-                                                        Theo 80 số hung cát
-                                                    </label>
-                                                </div>
-                                                <div class="form-check">
-                                                    <label class="form-check-label">
-                                                        <input type="radio" name="option" class="form-check-input"
-                                                            value="kinh_dich" required="">
-                                                        Theo 64 quẻ kinh dịch
-                                                    </label>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <input type="hidden" class="last_phone" name="type_post" value="4">
-                                        <div class="row">
-                                            <div class="col-md-6 offset-md-3 text-center">
-                                                <button class="fxpts_btn">Tra cứu</button>
-                                            </div>
-                                        </div>
-                                    </form>
-                                </div>
-
-                            </section>
-                        </div>
-
-
                         <h2 dir="ltr"
                             style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);">
                             <span style="font-size:18px"><strong><span
@@ -1427,96 +1150,6 @@
                                     với nội dung này quý bạn sẽ chọn được cho bản thân một dãy số điện thoại hợp tuổi Giáp
                                     Tý phù hợp nhất</span></span></p>
 
-                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span
-                                        style="font-family:arial,helvetica,sans-serif">THAM KHẢO SIM HỢP TUỔI
-                                        KHÁC</span></span></strong></p>
-
-                        <div style="overflow-x:auto;">
-                            <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
-                                <tbody>
-                                    <tr>
-                                        <td>
-                                            <p dir="ltr" style="text-align:center"><strong><span
-                                                        style="font-size:14px"><span
-                                                            style="font-family:arial,helvetica,sans-serif"><a
-                                                                href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Canh-Than-sinh-nam-1980/29.html">Sim
-                                                                hợp tuổi 1980</a></span></span></strong></p>
-                                        </td>
-                                        <td>
-                                            <p dir="ltr" style="text-align:center"><strong><span
-                                                        style="font-size:14px"><span
-                                                            style="font-family:arial,helvetica,sans-serif"><a
-                                                                href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-At-Suu-sinh-nam-1985/34.html">Sim
-                                                                hợp tuổi 1985</a></span></span></strong></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <p dir="ltr" style="text-align:center"><strong><span
-                                                        style="font-size:14px"><span
-                                                            style="font-family:arial,helvetica,sans-serif"><a
-                                                                href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Tan-Dau-sinh-nam-1981/30.html">Sim
-                                                                hợp tuổi 1981</a></span></span></strong></p>
-                                        </td>
-                                        <td>
-                                            <p dir="ltr" style="text-align:center"><strong><span
-                                                        style="font-size:14px"><span
-                                                            style="font-family:arial,helvetica,sans-serif"><a
-                                                                href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Binh-Dan-sinh-nam-1986/35.html">Sim
-                                                                hợp tuổi 1986</a></span></span></strong></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <p dir="ltr" style="text-align:center"><strong><span
-                                                        style="font-size:14px"><span
-                                                            style="font-family:arial,helvetica,sans-serif"><a
-                                                                href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Nham-Tuat-sinh-nam-1982/31.html">Sim
-                                                                hợp tuổi 1982</a></span></span></strong></p>
-                                        </td>
-                                        <td>
-                                            <p dir="ltr" style="text-align:center"><strong><span
-                                                        style="font-size:14px"><span
-                                                            style="font-family:arial,helvetica,sans-serif"><a
-                                                                href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Dinh-Mao-sinh-nam-1987/36.html">Sim
-                                                                hợp tuổi 1987</a></span></span></strong></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <p dir="ltr" style="text-align:center"><strong><span
-                                                        style="font-size:14px"><span
-                                                            style="font-family:arial,helvetica,sans-serif"><a
-                                                                href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Quy-Hoi-sinh-nam-1983/32.html">Sim
-                                                                hợp tuổi 1983</a></span></span></strong></p>
-                                        </td>
-                                        <td>
-                                            <p dir="ltr" style="text-align:center"><strong><span
-                                                        style="font-size:14px"><span
-                                                            style="font-family:arial,helvetica,sans-serif"><a
-                                                                href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Mau-Thin-sinh-nam-1988/37.html">Sim
-                                                                hợp tuổi 1988</a></span></span></strong></p>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <p dir="ltr" style="text-align:center"><strong><span
-                                                        style="font-size:14px"><span
-                                                            style="font-family:arial,helvetica,sans-serif"><a
-                                                                href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Giap-Ty-sinh-nam-1984/33.html">Sim
-                                                                hợp tuổi 1984</a></span></span></strong></p>
-                                        </td>
-                                        <td>
-                                            <p dir="ltr" style="text-align:center"><strong><span
-                                                        style="font-size:14px"><span
-                                                            style="font-family:arial,helvetica,sans-serif"><a
-                                                                href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Ky-Ty-sinh-nam-1989/38.html">Sim
-                                                                hợp tuổi 1989</a></span></span></strong></p>
-                                        </td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
                     </div>
                 </div>
             </div>

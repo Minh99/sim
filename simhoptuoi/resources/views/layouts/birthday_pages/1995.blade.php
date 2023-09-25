@@ -12,7 +12,7 @@
             <div class="siteBodyContent">
                 <div class="row">
                     <div class="col-md-12">
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong><u><a href="https://simhoptuoi.com.vn/chon-sim-phong-thuy-hop-tuoi-at-hoi-sinh-nam-1995/44.html">1995 hợp số điện thoại nào</a></u>?</strong> Làm thế nào để chọn sim hợp tuổi 1995 chính xác? Đó có phải là dãy sim xuất hiện nhiều con số hợp mệnh (số 5, số 9) không. Việc sử dụng dãy sim phong thủy sẽ hỗ trợ gia chủ hóa giải vận hạn, khó khăn, tai ương bất ngờ, đồng thời có thể thu hút thêm nhiều may mắn và thuận lợi. Cùng simhoptuoi.com.vn nắm cách chọn sim chính xác và không chính xác hiện nay.</span></span></p>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">1995 hợp số điện thoại nào? Làm thế nào để chọn sim hợp tuổi 1995 chính xác? Đó có phải là dãy sim xuất hiện nhiều con số hợp mệnh (số 5, số 9) không. Việc sử dụng dãy sim phong thủy sẽ hỗ trợ gia chủ hóa giải vận hạn, khó khăn, tai ương bất ngờ, đồng thời có thể thu hút thêm nhiều may mắn và thuận lợi. Cùng simhoptuoi.com.vn nắm cách chọn sim chính xác và không chính xác hiện nay.</span></span></p>
 
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="i-doi-net-ve-nguoi-tuoi-at-hoi">I. Đôi Nét Về Người Tuổi Ất Hợi</span></span></strong></span></h2>
 
@@ -23,17 +23,6 @@
                         <p dir="ltr" style="text-align:center"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><img alt="sim hợp tuổi 1995" src="https://simhoptuoi.com.vn/media/images/news/44/tuoi-at-hoi.png"></span></span></p>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Dựa vào lá số tử vi có thể thấy rằng nhìn chung cuộc đời tuổi Ất Hợi khá suôn sẻ đặc biệt là con đường công danh - sự nghiệp. Vận số Quá Vãng Chi Trư, tức là lợn của quá khứ cho thấy những bạn sinh năm 1995 khi còn trẻ thì được cha mẹ chăm sóc, lớn lên thì công danh vinh hiển nên cuộc đời khá suôn sẻ, ít biến động được hưởng an nhàn. Vào năm hạn, tháng hạn cũng chỉ hao tài tốn của hoặc xây xước nhẹ chứ không quá quan ngại. Vậy làm sao để giữ được tiền, hạn chế đau ốm vật để người Ất Hợi có thể tập trung 100% cho công việc và học tập? Sử dụng ngay sim hợp tuổi 1995 giúp người Ất Hợi kích tài lộc và hóa giải vận hạn.</span></span></p>
-
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Nội dung hữu ích khác:&nbsp;</span></span></strong></em></p>
-
-                        <ul>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-tuc/han-tam-tai-tuoi-1995.html">1995 tam tai năm nào</a></span></span></strong></u></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-tuc/nam-nu-tuoi-at-hoi-sinh-nam-1995-cung-gi.html">1995 cung mệnh gì</a></span></span></strong></u></p>
-                            </li>
-                        </ul>
 
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="ii-sim-hop-tuoi-1995-la-gi">II. Sim Hợp Tuổi 1995 Là Gì?</span></span></strong></span></h2>
 
@@ -142,7 +131,7 @@
 
                         <h4 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">3.1. Chọn số điện thoại hợp tuổi 1995 tương sinh bản mệnh</span></strong></span></h4>
 
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Tuổi Ất Hợi - bản mệnh Sơn Đầu Hỏa nên khi chọn <u><strong><a href="https://simhoptuoi.com.vn/Sim-hop-menh-Hoa.html">sim phong thủy hợp mệnh Hỏa</a></strong></u> thì chọn sim có ngũ hành Hỏa hoặc Mộc. Bởi theo quy luật ngũ hành tương sinh thì Mộc sinh Hỏa và Hỏa thì tương hỗ tốt cho Hỏa. Sử dụng sim phong thủy hợp tuổi 1995 có ngũ hành Mộc, chủ nhân sẽ đón được nguồn sinh khí, tăng may mắn, kích tài lộc rất tốt. Còn số điện thoại hợp tuổi 1995 có ngũ hành Hỏa có khả năng bổ trợ cho cuộc sống của chủ mệnh Ất Hợi ổn định, hanh thông.&nbsp;</span></span></p>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Tuổi Ất Hợi - bản mệnh Sơn Đầu Hỏa nên khi chọn <u><strong><a href="{{ route('menu-page', ['slug' => 'sim_menh_hoa']) }}">sim phong thủy hợp mệnh Hỏa</a></strong></u> thì chọn sim có ngũ hành Hỏa hoặc Mộc. Bởi theo quy luật ngũ hành tương sinh thì Mộc sinh Hỏa và Hỏa thì tương hỗ tốt cho Hỏa. Sử dụng sim phong thủy hợp tuổi 1995 có ngũ hành Mộc, chủ nhân sẽ đón được nguồn sinh khí, tăng may mắn, kích tài lộc rất tốt. Còn số điện thoại hợp tuổi 1995 có ngũ hành Hỏa có khả năng bổ trợ cho cuộc sống của chủ mệnh Ất Hợi ổn định, hanh thông.&nbsp;</span></span></p>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Bên cạnh đó, tuổi 1995 <strong>TUYỆT ĐỐI TRÁNH</strong> dãy sim thuộc ngũ hành Thủy, vì Thủy khắc Hỏa theo ngũ hành tương khắc. Dùng sim mệnh Thủy lâu dài tuổi Ất Hợi có thể bị tác động xấu, kéo đến nhiều khó khăn, trắc trở.&nbsp;</span></span></p>
 
@@ -280,7 +269,7 @@
 
                         <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">5. Chọn số điện thoại hợp tuổi Ất Hợi theo quan niệm dân gian</span></strong></span></h3>
 
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim phong thủy hợp tuổi 1995 theo phương pháp quan niệm dân gian phải có tổng số nút cao từ 8 đến 10. Đồng thời có sự xuất hiện của các chữ số, cặp số mang ý nghĩa tốt đẹp, ví dụ như 39, 79 (<u><strong><a href="https://simhoptuoi.com.vn/tin-sim/so-than-tai-la-so-may.html">số thần tài</a></strong></u>), 38, 78 (<u><strong><a href="https://simhoptuoi.com.vn/tin-sim/so-ong-dia-la-so-may.html">số ông địa</a></strong></u>), 68, 86 (<u><strong><a href="https://simhoptuoi.com.vn/tin-sim/y-nghia-so-loc-phat-la-so-may.html">số lộc phát</a></strong></u>), 6789 (san bằng tất cả), 569 (phúc lộc thọ), 1468 (một năm bốn mùa lộc phát), 3333 (tứ tài), 55555 (ngũ phúc)...</span></span></p>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim phong thủy hợp tuổi 1995 theo phương pháp quan niệm dân gian phải có tổng số nút cao từ 8 đến 10. Đồng thời có sự xuất hiện của các chữ số, cặp số mang ý nghĩa tốt đẹp, ví dụ như 39, 79 (số thần tài), 38, 78 (số ông địa), 68, 86 (số lộc phát), 6789 (san bằng tất cả), 569 (phúc lộc thọ), 1468 (một năm bốn mùa lộc phát), 3333 (tứ tài), 55555 (ngũ phúc)...</span></span></p>
 
                         <p dir="ltr" style="text-align:justify"><em><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&nbsp;Ví dụ về một dãy số điện thoại hợp tuổi Ất Hợi theo quan niệm dân gian:</span></span></em></p>
 
@@ -496,15 +485,6 @@
 
                         <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Ngoài sim hợp tuổi 1995 thì màu sắc, ngành nghề cũng là một yếu tố giúp gia chủ gặp nhiều may mắn nếu ứng dụng đúng cách.</span></span></strong></em></p>
 
-                        <ul>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-tuc/tuoi-at-hoi-1995-hop-mau-gi.html">Sinh năm 1995 hợp màu gì</a></span></span></strong></u></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tuoi-at-hoi-hop-voi-nghe-gi.html">Tuổi Ất Hợi hợp nghề gì</a></span></span></strong></u></p>
-                            </li>
-                        </ul>
-
                         <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">3. Chọn địa chỉ mua số điện thoại hợp tuổi 1995 uy tín, chất lượng</span></strong></span></h3>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Nắm vững chính xác cách xem tuổi 1995 hợp số điện thoại nào, nhưng phải lựa chọn đúng địa chỉ cung cấp sim hợp tuổi Ất Hợi uy tín. Một số đặc điểm nổi bật của những nơi mua bán sim phong thủy hợp tuổi 1995 chất lượng cao trên thị trường hiện nay như sau:</span></span></p>
@@ -573,54 +553,6 @@
                 <div class="row">
                     <div class="col-md-12">
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Lựa chọn sim hợp tuổi 1995 tại trung tâm<strong> <a href="{{ route('home') }}">Sim Hợp Tuổi</a> </strong>- Thương hiệu sim phong thủy hợp tuổi, hợp mệnh hàng đầu Việt Nam. Tại đây, các chuyên gia phong thủy đã ứng dụng 5 yếu tố phong thủy cốt yếu, hứa hẹn sẽ đem đến cho quý khách hàng những số điện thoại hợp tuổi Ất Hợi chất lượng, uy tín, kích may mắn, tài lộc.&nbsp;</span></span></p>
-
-                        <p dir="ltr" style="text-align:center"><span style="color:#FF0000"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">THAM KHẢO SỐ ĐIỆN THOẠI HỢP TUỔI KHÁC</span></span></strong></span></p>
-
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
-                                <tbody>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Canh-Ngo-sinh-nam-1990/39.html">Số điện thoại hợp tuổi 1990</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-At-Hoi-sinh-nam-1995/44.html">Số điện thoại hợp tuổi 1995</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Tan-Mui-sinh-nam-1991/40.html">Số điện thoại hợp tuổi 1991</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Binh-Ty-sinh-nam-1996/45.html">Số điện thoại hợp tuổi 1996</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Nham-Than-sinh-nam-1992/41.html">Số điện thoại hợp tuổi 1992</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Dinh-Suu-sinh-nam-1997/46.html">Số điện thoại hợp tuổi 1997</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Quy-Dau-sinh-nam-1993/42.html">Số điện thoại hợp tuổi 1993</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/sim-hop-tuoi-mau-dan-1998/166.html">Số điện thoại hợp tuổi 1998</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Giap-Tuat-sinh-nam-1994/43.html">Số điện thoại hợp tuổi 1994</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/sim-hop-tuoi-ky-mao-1999/168.html">Số điện thoại hợp tuổi 1999</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                </tbody>
-                            </table></div>
-
 
 
                         <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Ngoài ra, bài luận của chúng tôi còn giải đáp những câu hỏi sau:</span></span></strong></em></p>

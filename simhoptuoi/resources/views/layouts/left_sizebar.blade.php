@@ -1,6 +1,110 @@
 <section class="boxAside">
     <div class="asideBody">
+        <p class="title_h2">Menu</p>
+        <ul class="ul">
+            <li class="active"><a href="{{ route('home') }}">Trang chủ</a></li>
+            <li>
+                <h3><a href="{{ route('menu-page', ['slug' => 'sim_menh_kim']) }}">Sim hợp mệnh Kim</a>
+                </h3>
+            </li>
+            <li>
+                <h3><a href="{{ route('menu-page', ['slug' => 'sim_menh_moc']) }}">Sim hợp mệnh Mộc</a>
+                </h3>
+            </li>
+            <li>
+                <h3><a href="{{ route('menu-page', ['slug' => 'sim_menh_thuy']) }}">Sim hợp mệnh Thủy</a>
+                </h3>
+            </li>
+            <li>
+                <h3><a href="{{ route('menu-page', ['slug' => 'sim_menh_hoa']) }}">Sim hợp mệnh Hỏa</a>
+                </h3>
+            </li>
+            <li>
+                <h3><a href="{{ route('menu-page', ['slug' => 'sim_menh_tho']) }}">Sim hợp mệnh Thổ</a>
+                </h3>
+            </li>
+            <li>
+                <h3><a href="{{ route('menu-page', ['slug' => 'sim_thang_quan']) }}">Sim thăng quan tiến chức</a>
+                </h3>
+            </li>
+            <li>
+                <h3><a href="{{ route('menu-page', ['slug' => 'sim_tai_van']) }}">Sim phong thủy kích tài vận</a>
+                </h3>
+            </li>
+            <li>
+                <h3><a href="{{ route('menu-page', ['slug' => 'sim_tinh_duyen_gia_dao']) }}">Sim kích gia đạo tình duyên</a>
+                </h3>
+            </li>
+            <li>
+                <h3>
+                    <a href="{{ route('menu-page', ['slug' => 'sim_xoa_giai_han']) }}">Sim hóa giải vận hạn theo tuổi</a>
+                </h3>
+            </li>
+            <li>
+                <span id="195x_title" class="nav-link p-0">Sim hợp tuổi 195x</span>
+                <ul id="195x_items" style="display: none">
+                    @for($i = 0; $i < 10; $i++)
+                    <li class="">
+                        <a class="nav-link p-0" href="{{ route('sim-hop-nam-sinh', ['slug' => "195$i"])  }}">Sim hợp tuổi 195{{ $i  }}</a>
+                    </li>
+                    @endfor
+                </ul>
+            </li>
+            <li>
+                <span id="196x_title" class="nav-link p-0">Sim hợp tuổi 196x</span>
+                <ul id="196x_items" style="display: none">
+                    @for($i = 0; $i < 10; $i++)
+                        <li class="">
+                            <a class="nav-link p-0" href="{{ route('sim-hop-nam-sinh', ['slug' => "196$i"])  }}">Sim hợp tuổi 196{{ $i  }}</a>
+                        </li>
+                    @endfor
+                </ul>
+            </li>
+            <li>
+                <span id="197x_title" class="nav-link p-0">Sim hợp tuổi 197x</span>
+                <ul id="197x_items" style="display: none">
+                    @for($i = 0; $i < 10; $i++)
+                        <li class="">
+                            <a class="nav-link p-0" href="{{ route('sim-hop-nam-sinh', ['slug' => "197$i"])  }}">Sim hợp tuổi 197{{ $i  }}</a>
+                        </li>
+                    @endfor
+                </ul>
+            </li>
+            <li>
+                <span id="198x_title" class="nav-link p-0">Sim hợp tuổi 198x</span>
+                <ul id="198x_items" style="display: none">
+                    @for($i = 0; $i < 10; $i++)
+                        <li class="">
+                            <a class="nav-link p-0" href="{{ route('sim-hop-nam-sinh', ['slug' => "198$i"])  }}">Sim hợp tuổi 198{{ $i  }}</a>
+                        </li>
+                    @endfor
+                </ul>
+            </li>
+            <li>
+                <span id="199x_title" class="nav-link p-0">Sim hợp tuổi 199x</span>
+                <ul id="199x_items" style="display: none">
+                    @for($i = 0; $i < 10; $i++)
+                        <li class="">
+                            <a class="nav-link p-0" href="{{ route('sim-hop-nam-sinh', ['slug' => "199$i"])  }}">Sim hợp tuổi 199{{ $i  }}</a>
+                        </li>
+                    @endfor
+                </ul>
+            </li>
+            <li>
+                <span id="200x_title" class="nav-link p-0">Sim hợp tuổi 200x</span>
+                <ul id="200x_items" style="display: none">
+                    @for($i = 0; $i < 10; $i++)
+                        <li class="">
+                            <a class="nav-link p-0" href="{{ route('sim-hop-nam-sinh', ['slug' => "200$i"])  }}">Sim hợp tuổi 200{{ $i  }}</a>
+                        </li>
+                    @endfor
+                </ul>
+            </li>
+        </ul>
+    </div>
+    <div class="asideBody">
         <p class="title_h2">Kiến thức phong thủy</p>
+
         <ul class="ul mt-2">
             <li class="hvr-underline-from-left">
                 <a href="{{ route('news-page', ['slug' => 'bo-me-tuoi-at-hoi-1995-sinh-con-nam-nao-tot']) }}">Phân tích bố mẹ sinh năm 1995 sinh con năm nào tốt theo phong thủy?</a>

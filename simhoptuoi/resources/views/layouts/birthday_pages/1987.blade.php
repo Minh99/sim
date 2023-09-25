@@ -12,7 +12,7 @@
             <div class="siteBodyContent">
                 <div class="row">
                     <div class="col-md-12">
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Dinh-Mao-sinh-nam-1987/36.html">Sim hợp tuổi 1987</a></strong></u> theo nhiều nơi cho rằng là dãy số điện thoại có 4 số cuối điện thoại cát, đại cát hoặc xuất hiện nhiều con số hợp tuổi (số 9, số 3, số 4). Trong loại sim này ẩn chứa những năng lượng tốt, khiến số điện thoại hợp tuổi Đinh Mão không những có khả năng hạn chế, thậm chí ngăn chặn tai ương, đồng thời kích hoạt năng lượng tốt lành, thúc đẩy cuộc sống và sự nghiệp của người tuổi Đinh Mão sinh năm 1987 có những cải biến rõ rệt. Tuy nhiên theo chuyên gia phong thủy, cách chọn sim phong thủy hợp tuổi 1987 trên có phần sai lệch. Vậy nguyên do và cách xác định chính xác tuổi Đinh Mão hợp số điện thoại nào thì mời quý vị cùng Simhoptuoi.com.vn phân tích và bàn giải chi tiết dưới đây.</span></span></p>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim hợp tuổi 1987 theo nhiều nơi cho rằng là dãy số điện thoại có 4 số cuối điện thoại cát, đại cát hoặc xuất hiện nhiều con số hợp tuổi (số 9, số 3, số 4). Trong loại sim này ẩn chứa những năng lượng tốt, khiến số điện thoại hợp tuổi Đinh Mão không những có khả năng hạn chế, thậm chí ngăn chặn tai ương, đồng thời kích hoạt năng lượng tốt lành, thúc đẩy cuộc sống và sự nghiệp của người tuổi Đinh Mão sinh năm 1987 có những cải biến rõ rệt. Tuy nhiên theo chuyên gia phong thủy, cách chọn sim phong thủy hợp tuổi 1987 trên có phần sai lệch. Vậy nguyên do và cách xác định chính xác tuổi Đinh Mão hợp số điện thoại nào thì mời quý vị cùng Simhoptuoi.com.vn phân tích và bàn giải chi tiết dưới đây.</span></span></p>
 
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="1-so-dien-thoai-hop-tuoi-1987-la-gi">1. Số điện thoại hợp tuổi 1987 là gì?</span></span></strong></span></h2>
 
@@ -108,7 +108,7 @@
                         </ul>
 
                         <blockquote>
-                            <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Kết luận:</strong> Phương pháp xem tuổi đinh mão hợp số điện thoại nào theo Mai Hoa Dịch Số là yếu tố trọng yếu góp phần giúp quý vị chọn được dãy sim cát lợi cho những mục đích công việc. Tuy nhiên cách xác định quẻ dịch không hề đơn giản, khá phức tạp. Theo đó để đơn giản thì mời quý vị hãy sử dụng phần mềm <u><em><strong><a href="https://simhoptuoi.com.vn/tin-sim/xem-boi-sim-kinh-dich.html">sim kinh dịch</a> </strong></em></u>của{{ $namSite }}.</span></span></p>
+                            <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Kết luận:</strong> Phương pháp xem tuổi đinh mão hợp số điện thoại nào theo Mai Hoa Dịch Số là yếu tố trọng yếu góp phần giúp quý vị chọn được dãy sim cát lợi cho những mục đích công việc. Tuy nhiên cách xác định quẻ dịch không hề đơn giản, khá phức tạp.</span></span></p>
                         </blockquote>
 
                       
@@ -116,7 +116,7 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Số điện thoại hợp tuổi đinh mão theo ngũ hành là dãy sim có ngũ hành Mộc hoặc Hỏa là tốt nhất. Bởi đây là hai ngũ hành tương sinh và tương hỗ với bản mệnh Hỏa của người Đinh Mão. Bên cạnh đó người này nên xét tứ trụ mệnh của bản thân đang bị khuyết thiếu hành nào, từ đó ưu tiên sử dụng dãy sim có ngũ hành tương đồng với hành khuyết thiếu.</span></span></p>
 
-                        <p dir="ltr" style="text-align:justify"><strong><em><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">- Cách xác định ngũ hành dãy <u><a href="https://simhoptuoi.com.vn/Sim-hop-menh-Hoa.html">sim hợp mệnh Hỏa</a></u>:</span></span></em></strong></p>
+                        <p dir="ltr" style="text-align:justify"><strong><em><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">- Cách xác định ngũ hành dãy <u><a href="{{ route('menu-page', ['slug' => 'sim_menh_hoa']) }}">sim hợp mệnh Hỏa</a></u>:</span></span></em></strong></p>
 
                         <ul>
                             <li dir="ltr">
@@ -222,8 +222,6 @@
                             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Kết luận:</strong> Quá trình lựa chọn số sim phong thủy phù hợp với tuổi 1987 dựa trên nguyên tắc ngũ hành là một yếu tố quan trọng, đóng góp vào việc tìm kiếm dãy số sim tương hợp với bản mệnh của quý vị. Tuy nhiên, để thực hiện điều này, quý vị cần áp dụng một nguyên tắc ngũ hành phức tạp, yêu cầu một mức độ chuyên môn và kinh nghiệm cao trong lĩnh vực phong thủy.</span></span></p>
                         </blockquote>
 
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt;Xem chi tiết: <u><a href="https://simhoptuoi.com.vn/cach-tinh-ngu-hanh-cua-day-so-dien-thoai/314.html">Cách tính ngũ hành của dãy số điện thoại</a></u></span></span></strong></em></p>
-
                         <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">d. Chọn số điện thoại hợp tuổi 1987 theo cửu tinh đồ pháp</span></strong></span></h3>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Bằng cách an sao hạ quẻ thì biết được chúng ta đang sống ở vận 8 thời kỳ Hạ Nguyên từ năm 2004 - 2023 nên được nhận sinh khí và vượng khí từ số 8 sẽ thu hút được năng lượng tích cực từ vũ trụ. Nguyên do tại trung cung của cửu tinh đồ có sao Bát Bạch tọa thủ nên cát tinh này hiện là sao chủ quản của thời vận, số 8 sẽ là con số vận khí đương kim nhận được cát khí may mắn nhất từ sao Bát Bạch, xuất hiện càng nhiều trong sim thì càng tốt.</span></span></p>
@@ -244,8 +242,6 @@
                         </blockquote>
 
                         <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">e. Tuổi đinh mão hợp số điện thoại nào theo số nút và quan niệm dân gian?</span></strong></span></h3>
-
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Xem số điện thoại hợp tuổi đinh mão phải có tổng số nút cao trên 8 mới tốt. Ngoài ra nếu sự xuất hiện của các cặp bộ số mang ý nghĩa tốt đẹp giúp thu hút may mắn như 38 - 78 (<u><strong><a href="https://simhoptuoi.com.vn/tin-sim/so-ong-dia-la-so-may.html">số ông địa</a></strong></u>); 39 - 79 (<u><strong><a href="https://simhoptuoi.com.vn/tin-sim/so-than-tai-la-so-may.html">số thần tài</a></strong></u>); tam hoa, tứ quý…sẽ là một điểm cộng cho dãy sim.</span></span></p>
 
                         <blockquote>
                             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Tổng kết lại:&nbsp; </strong>Cách chọn số điện thoại hợp tuổi 1987 là dãy sim có ngũ hành tương sinh với bản mệnh, bổ khuyết tứ trụ, chứa quẻ dịch cát, xuất hiện con số 8, cân bằng âm dương, có tổng nút cao và có cặp số hoặc bộ số đẹp theo dân gian.&nbsp;</span></span></p>
@@ -459,15 +455,6 @@
 
                         <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Ngoài sim hợp tuổi 1987 thì màu sắc, ngành nghề cũng là một yếu tố giúp gia chủ gặp nhiều may mắn nếu ứng dụng đúng cách.</span></span></strong></em></p>
 
-                        <ul>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-tuc/tuoi-dinh-mao-1987-hop-mau-gi.html">Sinh năm 1987 hợp màu gì</a></span></span></strong></u></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tuoi-dinh-mao-hop-voi-nghe-gi.html">Tuổi Đinh Mão hợp nghề gì</a></span></span></strong></u></p>
-                            </li>
-                        </ul>
-
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="4-cac-loai-so-dien-thoai-hop-tuoi-1987-theo-tung-muc-dich-cong-viec">4. Các loại số điện thoại hợp tuổi 1987 theo từng mục đích công việc</span></span></strong></span></h2>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Trong #5 yếu tố phong thủy trên thì kinh dịch là một yếu tố giúp bạn chọn được dãy sim theo mong cầu sử dụng. Do vậy hiện nay một số dòng sim phong thủy tuổi 1987 theo mục đích công việc đã và đang nhận được nhiều sự quan tâm từ khách hàng có thể nhắc đến như:</span></span></p>
@@ -523,8 +510,6 @@
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">+ Sim hợp với nữ tuổi Đinh Mão chứa nhiều số hành Hỏa (9) hoặc hành Thổ (2, 5, 8), ví dụ 0989.99.89.89; 0925.28.28.85;...</span></span></p>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Đánh giá của chuyên gia: Phương pháp chọn sim hợp tuổi Đinh Mão không nên dựa vào số hợp tuổi. Bởi dựa vào một con số để quyết định phong thủy cho cả dãy sim là hoàn toàn thiếu cơ sở lý luận.</span></span></p>
-
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Xem chi tiết: <u><a href="https://simhoptuoi.com.vn/tin-sim/tuoi-dinh-mao-sinh-nam-1987-hop-so-nao.html">1987 hợp số nào</a></u></span></span></strong></em></p>
 
                         <p dir="ltr" style="text-align:center"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><img alt="sim hợp tuổi 1987" src="https://simhoptuoi.com.vn/media/images/news/36/sim-hop-tuoi-1987%20(3).png"></span></span><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&nbsp;</span></span></p>
 
@@ -674,54 +659,6 @@
                 <div class="row">
                     <div class="col-md-12">
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Lựa chọn sim hợp tuổi 1987 tới ngay <strong><a href="{{ route('home') }}">{{ $nameSite }} </a></strong> - Thương hiệu số 1 trên thị trường hiện nay và sim phong thủy. Tại đây chúng tôi đã ứng dụng 5 yếu tố phong thủy cốt yếu, hứa hẹn sẽ đem đến cho quý bạn đọc những dãy số điện thoại hợp tuổi đinh mão uy tín, chính xác nhất.</span></span></p>
-
-                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">THAM KHẢO SIM HỢP TUỔI KHÁC</span></span></strong></p>
-
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
-                                <tbody>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Canh-Than-sinh-nam-1980/29.html">Sim hợp tuổi 1980</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-At-Suu-sinh-nam-1985/34.html">Sim hợp tuổi 1985</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Tan-Dau-sinh-nam-1981/30.html">Sim hợp tuổi 1981</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Binh-Dan-sinh-nam-1986/35.html">Sim hợp tuổi 1986</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Nham-Tuat-sinh-nam-1982/31.html">Sim hợp tuổi 1982</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Dinh-Mao-sinh-nam-1987/36.html">Sim hợp tuổi 1987</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Quy-Hoi-sinh-nam-1983/32.html">Sim hợp tuổi 1983</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Mau-Thin-sinh-nam-1988/37.html">Sim hợp tuổi 1988</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Giap-Ty-sinh-nam-1984/33.html">Sim hợp tuổi 1984</a></span></span></strong></u></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Ky-Ty-sinh-nam-1989/38.html">Sim hợp tuổi 1989</a></span></span></strong></u></p>
-                                    </td>
-                                </tr>
-                                </tbody>
-                            </table></div>
-
                         <p style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Ngoài ra, bài luận của chúng tôi còn giải đáp những câu hỏi sau:</span></span></strong></em></p>
 
                         <ul>

@@ -12,7 +12,7 @@
             <div class="siteBodyContent">
                 <div class="row">
                     <div class="col-md-12">
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Quy-Hoi-sinh-nam-1983/32.html"><strong>Tuổi 1983 hợp số điện thoại nào</strong></a></u>? Làm thế nào để chọn sim hợp mệnh thủy 1983 chính xác? Hiện nay nhiều người cho rằng tuổi Quý Hợi mệnh Thủy (nạp âm Đại Hải Thủy) nên sẽ hợp với các dãy số điện thoại chứa con số may mắn 0 và 1 hoặc chứa các cặp bộ số đẹp theo dân gian như 68, 86, 38, 39. Việc nắm được cách xem tuổi quý hợi hợp với số điện thoại nào chính xác, quý vị sẽ chọn được dãy sim kích công danh sự nghiệp, vật phẩm phong thủy giúp tình duyên gia đạo ngày càng hạnh phúc, yên ấm.&nbsp;</span></span></p>                    </div>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Tuổi 1983 hợp số điện thoại nào? Làm thế nào để chọn sim hợp mệnh thủy 1983 chính xác? Hiện nay nhiều người cho rằng tuổi Quý Hợi mệnh Thủy (nạp âm Đại Hải Thủy) nên sẽ hợp với các dãy số điện thoại chứa con số may mắn 0 và 1 hoặc chứa các cặp bộ số đẹp theo dân gian như 68, 86, 38, 39. Việc nắm được cách xem tuổi quý hợi hợp với số điện thoại nào chính xác, quý vị sẽ chọn được dãy sim kích công danh sự nghiệp, vật phẩm phong thủy giúp tình duyên gia đạo ngày càng hạnh phúc, yên ấm.&nbsp;</span></span></p>                    </div>
                 </div>
             </div>
         </div>
@@ -77,17 +77,6 @@
 
                         <p dir="ltr" style="text-align:center"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><img alt="tuổi quý hợi" src="https://simhoptuoi.com.vn/media/images/news/32/tuoi-quy-hoi.png"></span></span></p>
 
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Nội dung hữu ích khác:&nbsp;</span></span></strong></em></p>
-
-                        <ul>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="https://simhoptuoi.com.vn/tin-tuc/han-tam-tai-tuoi-1983.html">1983 tam tai năm nào</a></strong></u>?</span></span></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><u><strong><a href="https://simhoptuoi.com.vn/tin-tuc/nam-nu-tuoi-quy-hoi-sinh-nam-1983-cung-gi.html">1983 cung mệnh gì</a></strong></u>?</span></span></p>
-                            </li>
-                        </ul>
-
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="2-so-hop-tuoi-1983-chon-so-dien-thoai-hop-tuoi-1983-theo-con-so-hop-tuoi-co-dung">2. Số hợp tuổi 1983? Chọn số điện thoại hợp tuổi 1983 theo con số hợp tuổi có đúng?</span></span></strong></span></h2>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Số hợp tuổi 1983 là con số mang đến may mắn cho người tuổi Quý Hợi. Để tìm ra con số hợp tuổi với người sinh năm 1983 - Quý Hợi thì cần dựa vào ngũ hành bản mệnh để lựa chọn chính xác. Sau đó áp dụng mối quan hệ sinh khắc thì số hợp tuổi 1983 có ngũ hành tương sinh, tương hỗ với bản mệnh Thủy giúp đem lại may mắn cho đương số Quý Hợi. Tức những con số này gồm số 0, 1 (hành Thủy); 6, 7 (hành Thủy).</span></span></p>
@@ -106,8 +95,6 @@
                         <blockquote>
                             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Đánh giá:</strong> Tuy nhiên theo chuyên gia, con số hợp tuổi khi đứng một mình sẽ đem lại may mắn, thuận lợi cho người dùng. Tuy nhiên việc dựa vào con số hợp tuổi để chọn sim phong thủy hợp tuổi 1983 là hoàn toàn thiếu chính xác. Bởi sim điện thoại là sự tác động qua lại của tổng hòa 10 con số với nhau và với người dùng cho nên chọn sim hợp với người tuổi 1983 phải là tổ hợp của 10 con số thỏa mãn các yếu tố phong thủy hợp với tuổi Quý Hợi.</span></span></p>
                         </blockquote>
-
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Chi tiết: <u><a href="https://simhoptuoi.com.vn/tin-sim/tuoi-quy-hoi-1983-hop-so-nao.html">1983 hợp số nào</a></u></span></span></strong></em></p>
 
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="3-vay-sim-hop-tuoi-1983-co-dac-diem-nhu-nao">3. Vậy sim hợp tuổi 1983 có đặc điểm như nào?</span></span></strong></span></h2>
 
@@ -137,15 +124,6 @@
                             &nbsp;</p>
 
                         <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Ngoài sim hợp tuổi 1983 thì màu sắc, ngành nghề cũng là một yếu tố giúp gia chủ gặp nhiều may mắn nếu ứng dụng đúng cách.</span></span></strong></em></p>
-
-                        <ul>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/tin-tuc/tuoi-quy-hoi-1983-hop-mau-gi.html">Sinh năm 1983 hợp màu gì</a></span></span></strong></u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">?</span></span></strong></p>
-                            </li>
-                            <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><a href="https://simhoptuoi.com.vn/tuoi-quy-hoi-hop-voi-nghe-gi.html"><u><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Tuổi Quý Hợi hợp nghề gì</span></span></strong></u></a><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">?</span></span></strong></p>
-                            </li>
-                        </ul>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Như phần trên chuyên gia đã đề cập, hiện nay có quá nhiều định nghĩa về<strong> sim hợp mệnh thủy 1983</strong>. Nhưng định nghĩa chính xác nhất là dãy sim mang may mắn cho gia chủ tuổi Quý Hợi phải dựa theo 5 yếu tố phong thủy, còn theo con số may mắn hay các cặp số đẹp là chưa đủ, các con số chỉ đứng một mình mới phát huy may mắn, còn các cặp số đẹp mới chỉ quyết định một phần dãy sim. Vậy làm thế nào để xác định tuổi 1983 hợp số điện thoại nào?</span></span></p>
 
@@ -295,7 +273,7 @@
 
                         <ul>
                             <li dir="ltr">
-                                <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Bước 3: </strong>Ghép Thượng Quái và Hạ Quái tại bảng 64 quẻ kinh dịch <strong><a href="https://simhoptuoi.com.vn/tin-sim/cach-tinh-que-dich-so-dien-thoai.html">tại đây</a></strong> quý bạn sẽ biết quẻ dịch đại diện cho dãy sim hợp tuổi 1983. Từ đó nắm được ý nghĩa cát hung của dãy sim.&nbsp;</span></span></p>
+                                <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Bước 3: </strong>Ghép Thượng Quái và Hạ Quái tại bảng 64 quẻ kinh dịch quý bạn sẽ biết quẻ dịch đại diện cho dãy sim hợp tuổi 1983. Từ đó nắm được ý nghĩa cát hung của dãy sim.&nbsp;</span></span></p>
                             </li>
                         </ul>
 
@@ -317,14 +295,14 @@
                         </ul>
 
                         <blockquote>
-                            <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Kết luận: </strong>Cách chọn sim phong thủy hợp tuổi 1983 theo Quẻ Dịch là yếu tố trọng yếu giúp quý vị chọn được dãy sim tốt theo mục đích sử dụng, có nội tại sinh khí mang đến may mắn cho người dùng. Tuy nhiên không phải ai cũng biết cách tính quẻ, vì vậy mời quý vị hãy sử dụng phần mềm <u><strong><a href="https://simhoptuoi.com.vn/tin-sim/xem-boi-sim-kinh-dich.html">SIM KINH DỊCH</a></strong></u> để phân tích đánh giá quẻ dịch dãy sim.</span></span></p>
+                            <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Kết luận: </strong>Cách chọn sim phong thủy hợp tuổi 1983 theo Quẻ Dịch là yếu tố trọng yếu giúp quý vị chọn được dãy sim tốt theo mục đích sử dụng, có nội tại sinh khí mang đến may mắn cho người dùng.</span></span></p>
                         </blockquote>
 
                         <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">c. Theo Ngũ Hành người tuổi 1983 hợp số điện thoại nào?</span></strong></span></h3>
 
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&nbsp;Người sinh năm 1983 bản mệnh Đại Hải Thủy nên chọn cho mình dãy <strong><a href="https://simhoptuoi.com.vn/Sim-hop-menh-Thuy.html">sim phong thủy hợp mệnh Thủy</a></strong> có ngũ hành Kim - tương sinh hoặc Thủy - tương hỗ với bản mệnh. Trong đó chọn dãy sim tương sinh với bản mệnh là tốt nhất. Bên cạnh đó, quý bạn cần phải kết hợp thêm yếu tố tứ trụ mệnh để chọn dãy sim có ngũ hành tương đồng với hành suy trong tứ trụ. Đóng vai trò bổ trợ cho bản mệnh, góp phần gia tăng may mắn tài lộc cho người sử dụng.</span></span></p>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&nbsp;Người sinh năm 1983 bản mệnh Đại Hải Thủy nên chọn cho mình dãy <strong><a href="{{ route('menu-page', ['slug' => 'sim_menh_thuy']) }}">sim phong thủy hợp mệnh Thủy</a></strong> có ngũ hành Kim - tương sinh hoặc Thủy - tương hỗ với bản mệnh. Trong đó chọn dãy sim tương sinh với bản mệnh là tốt nhất. Bên cạnh đó, quý bạn cần phải kết hợp thêm yếu tố tứ trụ mệnh để chọn dãy sim có ngũ hành tương đồng với hành suy trong tứ trụ. Đóng vai trò bổ trợ cho bản mệnh, góp phần gia tăng may mắn tài lộc cho người sử dụng.</span></span></p>
 
-                        <p dir="ltr" style="text-align:center"><a href="https://simhoptuoi.com.vn/Sim-hop-menh-Thuy.html"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><img alt="sim hợp mệnh thủy" src="https://simhoptuoi.com.vn/media/images/news/32/8.png"></span></span></strong></em></a></p>
+                        <p dir="ltr" style="text-align:center"><a href="{{ route('menu-page', ['slug' => 'sim_menh_thuy']) }}"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><img alt="sim hợp mệnh thủy" src="https://simhoptuoi.com.vn/media/images/news/32/8.png"></span></span></strong></em></a></p>
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Ví dụ: </strong>Một số dãy sim hợp mệnh Thủy 1983:</span></span></p>
 
@@ -563,7 +541,7 @@
                             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Đánh giá: </strong>4 số cuối điện thoại chưa thể quyết định hết ý nghĩa cả dãy sim. Ngoài ra phép chia 80 cũng chỉ là phương pháp được dân gian lưu truyền, chưa có căn cứ chứng thực rõ ràng nên quý bạn chỉ nên tham khảo, còn nếu muốn chọn số điện thoại hợp tuổi quý hợi thì phái xét tổng hòa cả dãy số theo các tiêu chí phong thủy phù hợp.&nbsp;</span></span></p>
                         </blockquote>
 
-                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">►►►Tham khảo phần mềm: <u><a href="https://simhoptuoi.com.vn/xem-phong-thuy-4-so-cuoi-dien-thoai/380.html">Xem phong thủy 4 số cuối điện thoại</a></u></span></span></strong></em></p>
+                        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">►►►Tham khảo phần mềm: <u><a href="{{ route('boi-sim-4-so') }}">Xem phong thủy 4 số cuối điện thoại</a></u></span></span></strong></em></p>
 
                         <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">c. Theo đuôi năm sinh tuổi quý hợi hợp với số điện thoại nào?</span></strong></span></h3>
 
@@ -623,7 +601,7 @@
 
                         <h2 dir="ltr" style="text-align: justify; margin-bottom: 1.3em; border-bottom: 2px solid rgb(22, 51, 87);"><span style="font-size:18px"><strong><span style="font-family:arial,helvetica,sans-serif"><span id="8-cham-diem-day-sim-dang-dung-co-hop-voi-ban-menh-thuy-1983-hay-khong">8. Chấm điểm dãy sim đang dùng có hợp với bản mệnh Thủy 1983 hay không?</span></span></strong></span></h2>
 
-                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Để kiểm tra xem số điện thoại mình đang dùng có hợp tuổi 1983 hay không quý bạn có thể sử dụng ngay công cụ xem bói sim hợp tuổi 1983 của{{ $namSite }}. Hướng dẫn sử dụng công cụ chấm điểm phong thủy sim với 03 bước đơn giản:</span></span></p>
+                        <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Để kiểm tra xem số điện thoại mình đang dùng có hợp tuổi 1983 hay không quý bạn có thể sử dụng ngay công cụ xem bói sim hợp tuổi 1983 của{{ $nameSite }}. Hướng dẫn sử dụng công cụ chấm điểm phong thủy sim với 03 bước đơn giản:</span></span></p>
 
                         <ul>
                             <li dir="ltr">
@@ -643,52 +621,6 @@
 
                         <p dir="ltr" style="text-align:right"><span style="font-family:comic sans ms,cursive"><em><strong><span style="font-size:14px">Biên soạn bởi đội ngũ chuyên gia của <a href="{{ route('home') }}">{{ $nameSite }} </a>!</span></strong></em></span></p>
 
-                        <p dir="ltr" style="text-align:center"><span style="color:#FF0000"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">THAM KHẢO SỐ ĐIỆN THOẠI HỢP TUỔI KHÁC</span></span></strong></span></p>
-
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
-                                <tbody>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Canh-Than-sinh-nam-1980/29.html">Số điện thoại hợp tuổi 1980</a></span></span></strong></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-At-Suu-sinh-nam-1985/34.html">Số điện thoại hợp tuổi 1985</a></span></span></strong></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Tan-Dau-sinh-nam-1981/30.html">Số điện thoại hợp tuổi 1981</a></span></span></strong></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Binh-Dan-sinh-nam-1986/35.html">Số điện thoại hợp tuổi 1986</a></span></span></strong></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Nham-Tuat-sinh-nam-1982/31.html">Số điện thoại hợp tuổi 1982</a></span></span></strong></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Dinh-Mao-sinh-nam-1987/36.html">Số điện thoại hợp tuổi 1987</a></span></span></strong></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Quy-Hoi-sinh-nam-1983/32.html">Số điện thoại hợp tuổi 1983</a></span></span></strong></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Mau-Thin-sinh-nam-1988/37.html">Số điện thoại hợp tuổi 1988</a></span></span></strong></p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Giap-Ty-sinh-nam-1984/33.html">Số điện thoại hợp tuổi 1984</a></span></span></strong></p>
-                                    </td>
-                                    <td>
-                                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="https://simhoptuoi.com.vn/Chon-sim-phong-thuy-hop-tuoi-Ky-Ty-sinh-nam-1989/38.html">Số điện thoại hợp tuổi 1989</a></span></span></strong></p>
-                                    </td>
-                                </tr>
-                                </tbody>
-                            </table></div>
                     </div>
                 </div>
             </div>

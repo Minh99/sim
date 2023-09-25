@@ -1198,7 +1198,7 @@ h6 {
 }
 
 .search-desktop {
-    background: #efefef;
+    background: #dbdbdb;
     border-radius: 10px;
     padding: 5px 10px;
     margin: 10px 0px;
@@ -1233,7 +1233,7 @@ h6 {
 
 .search-desktop .form-control {
     padding: 5px 3px;
-    height: 28px;
+    height: 30px;
     font-size: 13px;
 }
 
@@ -5530,3 +5530,16 @@ blockquote {
     text-align: center;
 }
 
+.nav-link {
+    cursor: pointer;
+}
+
+.content_main {
+    margin-top: 10rem !important;
+}
+
+@media only screen and (max-width: 570px) {
+    .content_main {
+        margin-top: 15rem !important;
+    }
+}
