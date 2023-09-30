@@ -282,25 +282,39 @@
             })
         </script>
         <script>
-            $('#contactFixedBtnClose').on('click', function (event) {
-                event.preventDefault();
-                $('#contactFixed').hide('50');
-                $('#contactFixedOpen').show('50');
-            });
+            $(document).ready(function () {
+                $('#contactFixedBtnClose').on('click', function (event) {
+                    event.preventDefault();
+                    $('#contactFixed').hide('50');
+                    $('#contactFixedOpen').show('50');
+                });
 
-            $('#contactFixedBtnOpen').on('click', function (event) {
-                event.preventDefault();
-                $('#contactFixedOpen').hide('50');
-                $('#contactFixed').show('50');
-            });
+                $('#contactFixedBtnOpen').on('click', function (event) {
+                    event.preventDefault();
+                    $('#contactFixedOpen').hide('50');
+                    $('#contactFixed').show('50');
+                });
 
-            var menuArr = ['195x','196x','197x','198x','199x','200x']
+                var menuArr = ['195x','196x','197x','198x','199x','200x'];
 
-            menuArr.forEach(element => {
-                var title = '#'+element+'_title';
-                var items = '#'+element+'_items';
-                $(title).on('click', function (event) {
-                    $(items).toggle('50');
+                menuArr.forEach(element => {
+                    var title = '#'+element+'_title';
+                    var items = '#'+element+'_items';
+                    $(title).on('click', function (event) {
+                        $(items).toggle('50');
+                    });
+                });
+
+                var menuArrH = ['195xx','196xx','197xx','198xx','199xx','200xx'];
+
+                menuArrH.forEach(element => {
+                    var titleH = '#'+element+'_title';
+                    var itemsH = '#'+element+'_items';
+                    console.log($(titleH));
+                    $(titleH).on('click', function (event) {
+                        console.log($(itemsH));
+                        $(itemsH).toggle('50');
+                    });
                 });
             });
         </script>

@@ -9,7 +9,7 @@
 <div class="fixed-top bg-main">
     <header class="site-navbar site-navbar-target" role="banner" style="font-size: 14px; font-weight: 600">
         <div class="container">
-            <div class="row align-items-center position-relative">
+            <div class="row align-items-center position-relative" style="height: 100px">
                 <div class="col-lg-5">
                     <nav class="site-navigation text-right ml-auto " role="navigation">
                         <ul class="site-menu main-menu js-clone-nav ml-auto d-none d-lg-block">
@@ -44,9 +44,75 @@
                         </ul>
                     </nav>
                 </div>
+                <div class="col-lg-5 d-none">
+                    <nav class="site-navigation text-left mr-auto " role="navigation">
+                        <ul class="site-menu main-menu js-clone-nav ml-auto d-none d-lg-block">
+                            <li>
+                                <a href="#" id="195xx_title" class="nav-link">Sim hợp tuổi 195x</a>
+                                <ul id="195xx_items" style="display: none">
+                                    @for($i = 0; $i < 10; $i++)
+                                        <li class="">
+                                            <a class="nav-link pl-6" style="font-size:12px" href="{{ route('sim-hop-nam-sinh', ['slug' => "195$i"])  }}">Sim hợp tuổi 195{{ $i  }}</a>
+                                        </li>
+                                    @endfor
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="#" id="196xx_title" class="nav-link">Sim hợp tuổi 196x</a>
+                                <ul id="196xx_items" style="display: none">
+                                    @for($i = 0; $i < 10; $i++)
+                                        <li class="">
+                                            <a class="nav-link pl-6" style="font-size:12px" href="{{ route('sim-hop-nam-sinh', ['slug' => "196$i"])  }}">Sim hợp tuổi 196{{ $i  }}</a>
+                                        </li>
+                                    @endfor
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="#" id="197xx_title" class="nav-link">Sim hợp tuổi 197x</a>
+                                <ul id="197xx_items" style="display: none">
+                                    @for($i = 0; $i < 10; $i++)
+                                        <li class="">
+                                            <a class="nav-link pl-6" style="font-size:12px" href="{{ route('sim-hop-nam-sinh', ['slug' => "197$i"])  }}">Sim hợp tuổi 197{{ $i  }}</a>
+                                        </li>
+                                    @endfor
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="#" id="198xx_title" class="nav-link">Sim hợp tuổi 198x</a>
+                                <ul id="198xx_items" style="display: none">
+                                    @for($i = 0; $i < 10; $i++)
+                                        <li class="">
+                                            <a class="nav-link pl-6" style="font-size:12px" href="{{ route('sim-hop-nam-sinh', ['slug' => "198$i"])  }}">Sim hợp tuổi 198{{ $i  }}</a>
+                                        </li>
+                                    @endfor
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="#" id="199xx_title" class="nav-link">Sim hợp tuổi 199x</a>
+                                <ul id="199xx_items" style="display: none">
+                                    @for($i = 0; $i < 10; $i++)
+                                        <li class="">
+                                            <a class="nav-link pl-6" style="font-size:12px" href="{{ route('sim-hop-nam-sinh', ['slug' => "199$i"])  }}">Sim hợp tuổi 199{{ $i  }}</a>
+                                        </li>
+                                    @endfor
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="#" id="200xx_title" class="nav-link">Sim hợp tuổi 200x</a>
+                                <ul id="200xx_items" style="display: none">
+                                    @for($i = 0; $i < 10; $i++)
+                                        <li class="">
+                                            <a class="nav-link pl-6" style="font-size:12px" href="{{ route('sim-hop-nam-sinh', ['slug' => "200$i"])  }}">Sim hợp tuổi 200{{ $i  }}</a>
+                                        </li>
+                                    @endfor
+                                </ul>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
             </div>
         </div>
-        <div class="titleHead container mt-4">
+        <div class="titleHead container">
             <section class="search-header-wapper">
                 <div class="search-desktop d-none d-md-block">
                     <div class="in-main">
@@ -169,7 +235,7 @@
                                 </div>
                             </div>
                         </form>
-                    </div>                                    
+                    </div>
                 </div>
 
                 <div class="search-mobile d-block d-sm-none">
@@ -360,7 +426,7 @@
                         var thang = birthdayTime.slice(5, 7);
                         var nam = birthdayTime.slice(0, 4);
                         var gio = birthdayTime.slice(11, 13);
-                        
+
                         if (gio) gio = parseInt(gio);
                         if (gio >= 23) {
                             var newDate = new Date(nam, thang, ngay);
@@ -392,16 +458,16 @@
         <div class="item-ung-dung-sim">
             <a class="btn btn-danger rounded" href="{{ route('boi-sim') }}">
                 Xem sim <br> phong thuỷ
-            </a>  
+            </a>
             <a class="btn btn-danger rounded" href="{{ route('boi-sim-nang-luong-so') }}">
                 Xem năng <br> lượng sim
-            </a>        
+            </a>
             <a class="btn btn-danger rounded" href="{{ route('boi-sim-4-so') }}">
                 Xem 4 <br> số cuối
             </a>
             <a class="btn btn-danger rounded" href="{{ route('boi-sim-6-so') }}">
                 Xem 6 <br> số cuối
-            </a>   
+            </a>
         </div>
     </header>
 </div>

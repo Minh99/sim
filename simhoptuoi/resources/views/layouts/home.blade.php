@@ -102,7 +102,11 @@
                             <div class="destination-point"></div>
                         </div>
                         <div class="dropdown-menu dropdown-menu-center">
-                            <div class="close-menu no-coppy">Đóng</div>
+                            <div class="close-menu">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-x-square-fill" viewBox="0 0 16 16">
+                                    <path d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2zm3.354 4.646L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 1 1 .708-.708z"/>
+                                </svg>
+                            </div>
                             <div class="custom-price col-10 col-md-10 align-items-center justify-content-between row d-flex">
                                 {{-- <div class="col-5 col-md-5" id="start-price">
                                     <input type="text" class="priceStartPc" value="" placeholder="100">
@@ -148,8 +152,12 @@
                             <div class="destination-point"></div>
                         </div>
                         <div class="dropdown-menu dropdown-menu-center">
-                            <div class="close-menu">Đóng</div>
-                            <div class="drop-select row dau-so m-auto justify-content-center col-12" data-type="4">
+                            <div class="close-menu">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-x-square-fill" viewBox="0 0 16 16">
+                                    <path d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2zm3.354 4.646L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 1 1 .708-.708z"/>
+                                </svg>
+                            </div>
+                            <div class="drop-select dau-so d-flex flex-column m-4" data-type="4">
                                 <div class="dauso-item " data-id="09" id="09" name="Đầu số 09">09x</div>
                                 <div class="dauso-item " data-id="08" id="08" name="Đầu số 08">08x</div>
                                 <div class="dauso-item " data-id="07" id="07" name="Đầu số 07">07x</div>
@@ -168,32 +176,26 @@
                             Điểm sim
                             <div class="destination-point"></div>
                         </div>
-                        <div class="dropdown-menu dropdown-menu-center">
-                            <div class="close-menu">Đóng</div>
+                        <div class="dropdown-menu dropdown-menu-center m-4">
                             <div class="custom-diem align-items-center justify-content-between row d-flex">
-                                <div class="row col-10 col-md-10 m-auto">
-                                    <div class="col-6 col-sm-6 col-md-6">
-                                        <div class="" id="start-diem">
-                                            <!-- onkeyup="this.value=this.value.replace(/[^\d]/,'')" -->
+                                <div class="d-flex justify-items-center">
+                                    <div class="mt-2">
+                                        <div class="p-2" id="start-diem">
                                             <input type="number" class="diemStart" value="" placeholder="0 điểm" step="0.25">
                                         </div>
                                     </div>
-                                    <div class="col-6 col-sm-6 col-md-6">
-                                        <div class="" id="end-diem">
+                                    <div class="">
+                                        <div class="p-2" id="end-diem">
                                             <input type="number" class="diemEnd" value="" placeholder="10 điểm" step="0.25">
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            {{-- <div class="drop-select row diem-so m-0 justify-content-center" data-type="5">
-                                <div class="diemso-item col-3 col-md-3" data-id="10-10" id="10-10" name="10 điểm">10 điểm</div>
-                                <div class="diemso-item col-3 col-md-3" data-id="9-10" id="9-10" name="9 - 10 điểm">9 - 10 điểm
-                                </div>
-                                <div class="diemso-item col-3 col-md-3 " data-id="8-9" id="8-9" name="8 - 9 điểm">8 - 9 điểm</div>
-                                <div class="diemso-item col-3 col-md-3" data-id="7-8" id="7-8" name="7 - 8 điểm">7 - 8 điểm</div>
-                                <div class="diemso-item col-3 col-md-3" data-id="6-7" id="6-7" name="6 - 7 điểm">6 - 7 điểm</div>
-                                <div class="diemso-item col-3 col-md-3" data-id="0-6" id="0-6" name="Dưới 6 điểm">Dưới 6 điểm</div>
-                            </div> --}}
+                            <div class="close-menu">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-x-square-fill" viewBox="0 0 16 16">
+                                    <path d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2zm3.354 4.646L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 1 1 .708-.708z"/>
+                                </svg>
+                            </div>
                             <div class="row action-result col-10 col-md-10">
                                 <div class="col-5 col-md-5 result search-sim p-3">
                                     Chọn
@@ -328,115 +330,8 @@
         </div>
 
         <script>
-             const cungPhi = {
-                1924 : ['Giáp Tý', 'Kim', 'Tốn', 'Khôn'],
-                1925 : ['Ất Sửu', 'Kim', 'Chấn', 'Chấn'],
-                1926 : ['Bính Dần', 'Hỏa', 'Khôn', 'Tốn'],
-                1927 : ['Đinh Mão', 'Hỏa', 'Khảm', 'Cấn'],
-                1928 : ['Mậu Thìn', 'Mộc', 'Ly', 'Càn'],
-                1929 : ['Kỷ Tỵ', 'Mộc', 'Cấn', 'Đoài'],
-                1930 : ['Canh Ngọ', 'Thổ', 'Đoài', 'Cấn'],
-                1931 : ['Tân Mùi', 'Thổ', 'Càn', 'Ly'],
-                1932 : ['Nhâm Thân', 'Kim', 'Khôn', 'Khảm'],
-                1933 : ['Quý Dậu', 'Kim', 'Tốn', 'Khôn'],
-                1934 : ['Giáp Tuất', 'Hỏa', 'Chấn', 'Chấn'],
-                1935 : ['Ất Hợi', 'Hỏa', 'Khôn', 'Tốn'],
-                1936 : ['Bính Tý', 'Thủy', 'Khảm', 'Cấn'],
-                1937 : ['Đinh Sửu', 'Thủy', 'Ly', 'Càn'],
-                1938 : ['Mậu Dần', 'Thổ', 'Cấn', 'Đoài'],
-                1939 : ['Kỷ Mão', 'Thổ', 'Đoài', 'Cấn'],
-                1940 : ['Canh Thìn', 'Kim', 'Càn', 'Ly'],
-                1941 : ['Tân Tỵ', 'Kim', 'Khôn', 'Khảm'],
-                1942 : ['Nhâm Ngọ', 'Mộc', 'Tốn', 'Khôn'],
-                1943 : ['Quý Mùi', 'Mộc', 'Chấn', 'Chấn'],
-                1944 : ['Giáp Thân', 'Thủy', 'Khôn', 'Tốn'],
-                1945 : ['Ất Dậu', 'Thủy', 'Khảm', 'Cấn'],
-                1946 : ['Bính Tuất', 'Thổ', 'Ly', 'Càn'],
-                1947 : ['Đinh Hợi', 'Thổ', 'Cấn', 'Đoài'],
-                1948 : ['Mậu Tý', 'Hỏa', 'Đoài', 'Cấn'],
-                1949 : ['Kỷ Sửu', 'Hỏa', 'Càn', 'Ly'],
-                1950 : ['Canh Dần', 'Mộc', 'Khôn', 'Khảm'],
-                1951 : ['Tân Mão', 'Mộc', 'Tốn', 'Khôn'],
-                1952 : ['Nhâm Thìn', 'Thủy', 'Chấn', 'Chấn'],
-                1953 : ['Quý Tỵ', 'Thủy', 'Khôn', 'Tốn'],
-                1954 : ['Giáp Ngọ', 'Kim', 'Khảm', 'Cấn'],
-                1955 : ['Ất Mùi', 'Kim', 'Ly', 'Càn'],
-                1956 : ['Bính Thân', 'Hỏa', 'Cấn', 'Đoài'],
-                1957 : ['Đinh Dậu', 'Hỏa', 'Đoài', 'Cấn'],
-                1958 : ['Mậu Tuất', 'Mộc', 'Càn', 'Ly'],
-                1959 : ['Kỷ Hợi', 'Mộc', 'Khôn', 'Khảm'],
-                1960 : ['Canh Tý', 'Thổ', 'Tốn', 'Khôn'],
-                1961 : ['Tân Sửu', 'Thổ', 'Chấn', 'Chấn'],
-                1962 : ['Nhâm Dần', 'Kim', 'Khôn', 'Tốn'],
-                1963 : ['Quý Mão', 'Kim', 'Khảm', 'Cấn'],
-                1964 : ['Giáp Thìn', 'Hỏa', 'Ly', 'Càn'],
-                1965 : ['Ất Tỵ', 'Hỏa', 'Cấn', 'Đoài'],
-                1966 : ['Bính Ngọ', 'Thủy', 'Đoài', 'Cấn'],
-                1967 : ['Đinh Mùi', 'Thủy', 'Càn', 'Ly'],
-                1968 : ['Mậu Thân', 'Thổ', 'Khôn', 'Khảm'],
-                1969 : ['Kỷ Dậu', 'Thổ', 'Tốn', 'Khôn'],
-                1970 : ['Canh Tuất', 'Kim', 'Chấn', 'Chấn'],
-                1971 : ['Tân Hợi', 'Kim', 'Khôn', 'Tốn'],
-                1972 : ['Nhâm Tý', 'Mộc', 'Khảm', 'Cấn'],
-                1973 : ['Quý Sửu', 'Mộc', 'Ly', 'Càn'],
-                1974 : ['Giáp Dần', 'Thủy', 'Cấn', 'Đoài'],
-                1975 : ['Ất Mão', 'Thủy', 'Đoài', 'Cấn'],
-                1976 : ['Bính Thìn', 'Thổ', 'Càn', 'Ly'],
-                1977 : ['Đinh Tỵ', 'Thổ', 'Khôn', 'Khảm'],
-                1978 : ['Mậu Ngọ', 'Hỏa', 'Tốn', 'Khôn'],
-                1979 : ['Kỷ Mùi', 'Hỏa', 'Chấn', 'Chấn'],
-                1980 : ['Canh Thân', 'Mộc', 'Khôn', 'Tốn'],
-                1981 : ['Tân Dậu', 'Mộc', 'Khảm', 'Cấn'],
-                1982 : ['Nhâm Tuất', 'Thủy', 'Ly', 'Càn'],
-                1983 : ['Quý Hợi', 'Thủy', 'Cấn', 'Đoài'],
-                1984 : ['Giáp Tý', 'Kim', 'Đoài', 'Cấn'],
-                1985 : ['Ất Sửu', 'Kim', 'Càn', 'Ly'],
-                1986 : ['Bính Dần', 'Hỏa', 'Khôn', 'Khảm'],
-                1987 : ['Đinh Mão', 'Hỏa', 'Tốn', 'Khôn'],
-                1988 : ['Mậu Thìn', 'Mộc', 'Chấn', 'Chấn'],
-                1989 : ['Kỷ Tỵ', 'Mộc', 'Khôn', 'Tốn'],
-                1990 : ['Canh Ngọ', 'Thổ', 'Khảm', 'Cấn'],
-                1991 : ['Tân Mùi', 'Thổ', 'Ly', 'Càn'],
-                1992 : ['Nhâm Thân', 'Kim', 'Cấn', 'Đoài'],
-                1993 : ['Quý Dậu', 'Kim', 'Đoài', 'Cấn'],
-                1994 : ['Giáp Tuất', 'Hỏa', 'Càn', 'Ly'],
-                1995 : ['Ất Hợi', 'Hỏa', 'Khôn', 'Khảm'],
-                1996 : ['Bính Tý', 'Thủy', 'Tốn', 'Khôn'],
-                1997 : ['Đinh Sửu', 'Thủy', 'Chấn', 'Chấn'],
-                1998 : ['Mậu Dần', 'Thổ', 'Khôn', 'Tốn'],
-                1999 : ['Kỷ Mão', 'Thổ', 'Khảm', 'Cấn'],
-                2000 : ['Canh Thìn', 'Kim', 'Ly', 'Càn'],
-                2001 : ['Tân Tỵ', 'Kim', 'Cấn', 'Đoài'],
-                2002 : ['Nhâm Ngọ', 'Mộc', 'Đoài', 'Cấn'],
-                2003 : ['Quý Mùi', 'Mộc', 'Càn', 'Ly'],
-                2004 : ['Giáp Thân', 'Thủy', 'Khôn', 'Khảm'],
-                2005 : ['Ất Dậu', 'Thủy', 'Tốn', 'Khôn'],
-                2006 : ['Bính Tuất', 'Thổ', 'Chấn', 'Chấn'],
-                2007 : ['Đinh Hợi', 'Thổ', 'Khôn', 'Tốn'],
-                2008 : ['Mậu Tý', 'Hỏa', 'Khảm', 'Cấn'],
-                2009 : ['Kỷ Sửu', 'Hỏa', 'Ly', 'Càn'],
-                2010 : ['Canh Dần', 'Mộc', 'Cấn', 'Đoài'],
-                2011 : ['Tân Mão', 'Mộc', 'Đoài', 'Cấn'],
-                2012 : ['Nhâm Thìn', 'Thủy', 'Càn', 'Ly'],
-                2013 : ['Quý Tỵ', 'Thủy', 'Khôn', 'Khảm'],
-                2014 : ['Giáp Ngọ', 'Kim', 'Tốn', 'Khôn'],
-                2015 : ['Ất Mùi', 'Kim', 'Chấn', 'Chấn'],
-                2016 : ['Bính Thân', 'Hỏa', 'Khôn', 'Tốn'],
-                2017 : ['Đinh Dậu', 'Hỏa', 'Khảm', 'Cấn'],
-                2018 : ['Mậu Tuất', 'Mộc', 'Ly', 'Càn'],
-                2019 : ['Kỷ Hợi', 'Mộc', 'Cấn', 'Đoài'],
-                2020 : ['Canh Tý', 'Thổ', 'Đoài', 'Cấn'],
-                2021 : ['Tân Sửu', 'Thổ', 'Càn', 'Ly'],
-                2022 : ['Nhâm Dần', 'Kim', 'Khôn', 'Khảm'],
-                2023 : ['Qúy Mão', 'Kim', 'Tốn', 'Khôn'],
-                2024 : ['Giáp Thìn', 'Hỏa', 'Chấn', 'Chấn'],
-                2025 : ['Ất Tỵ', 'Hỏa', 'Khôn', 'Tốn'],
-                2026 : ['Bính Ngọ', 'Thủy', 'Khảm', 'Cấn'],
-                2027 : ['Đinh Mùi', 'Thủy', 'Ly', 'Càn'],
-                2028 : ['Mậu Thân', 'Thổ', 'Cấn', 'Đoài'],
-                2029 : ['Kỷ Dậu', 'Thổ', 'Đoài', 'Cấn'],
-                2030 : ['Canh Tuất', 'Kim', 'Càn', 'Ly'],
-            };
+
+
             function getList(submit = false) {
                 var dauso_item = $('.dauso-item');
                 var dau_so = [];
@@ -512,12 +407,14 @@
                     success: function(data) {
                         $('.loading').hide();
                         if (data.length == 0) {
-                            $('.list_sim_item').html('<p class="text-center w-100 text-danger">Không có sim nào phù hợp</p>');
+                            $('.list_sim_item').html('<p id="no-data" class="text-center w-100 text-danger">Không có sim nào phù hợp</p>');
                             $('.result-filter').attr('style', 'display: none !important');
                             return;
-                        }
-                        $('.result-filter').attr('style', 'display: flex !important');
-                        data.forEach(function(item) {
+                        } else {
+                            $('#no-data').remove();
+                            $('.list_sim_item').html('');
+                            $('.result-filter').attr('style', 'display: flex !important');
+                            data.forEach(function(item) {
                             let logo_nha_mang = '1.gif';
                             if (item['nha_mang'] == "mobi") {
                                 logo_nha_mang = '3.gif';
@@ -557,12 +454,26 @@
                             html += '</div>';
                             $('.list_sim_item').append(html);
                         });
+                        }
+
                     }
                 });
             }
 
             $(document).ready(function() {
                 getList();
+
+                $('.search_phone_last').on('input', function(event) {
+                    var lastChar = $(this).val().slice(-1);
+                    if (isNaN(lastChar)) {
+                        $(this).val($(this).val().slice(0, -1));
+                        return;
+                    }
+
+                    var inputValue = $(this).val();
+                    $(this).val(inputValue.replace(/[^0-9]/g, ''));
+                    getList();
+                });
 
                 $('.search-sim').click(function() {
                     getList();
@@ -573,10 +484,6 @@
                 })
 
                 $('.item_sim_type, .remove-all').click(function() {
-                    getList();
-                });
-
-                $('.search_phone_last').on('keyup', function() {
                     getList();
                 });
 

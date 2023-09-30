@@ -14,7 +14,7 @@ class HomeController extends Controller
     {
         $this->functionCommonService = $functionCommonService;
     }
-    
+
     public function index(Request $request)
     {
         $isMobile = $request->get('duoi_sim_header_mobile') || $request->get('ngay_than_nam_sinh_header');
@@ -32,7 +32,8 @@ class HomeController extends Controller
             $isFilter = true;
         }
 
-        $results = [];
+        $results1 = [];
+        $results2 = [];
         foreach ($data as $key => $value) {
             if (!empty($duoi_sim) && !empty($value['sdt'])) {
                 $aaa = str_replace('.', '', $value['sdt']);
@@ -41,7 +42,7 @@ class HomeController extends Controller
                 $lentb = strlen($bbb);
 
                 if (substr($aaa, -$lentb) == $bbb) {
-                    $results[] = $value;
+                    $results1[] = $value;
                     continue;
                 }
             }
@@ -49,18 +50,34 @@ class HomeController extends Controller
             if (!empty($ngu_hanh) && !empty($value['ngu_hanh'])) {
                 $ar = $this->nguHanhHopMenh[$ngu_hanh];
                 if (in_array(trim($value['ngu_hanh']), $ar)) {
-                    $results[] = $value;
-                    continue;
+                    $results2[] = $value;
                 }
             }
         }
 
-        $response = $isFilter ? $results : $data;
+        $response = $isFilter ? ((count($results1) + count($results2)) > 0 ? [
+            'results1' => $results1,
+            'results2' => $results2,
+        ] : $data) : $data;
 
 
-        usort($response, function($a, $b) {
-            return $a['gia_ban'] <=> $b['gia_ban'];
-        });
+        if (count($response) == 2) {
+            if (count($response['results1'])) {
+                usort($response['results1'], function($a, $b) {
+                    return $a['gia_ban'] <=> $b['gia_ban'];
+                });
+            }
+
+            if (count($response['results2'])) {
+                usort($response['results2'], function($a, $b) {
+                    return $a['gia_ban'] <=> $b['gia_ban'];
+                });
+            }
+        } else {
+            usort($response, function($a, $b) {
+                return $a['gia_ban'] <=> $b['gia_ban'];
+            });
+        }
 
         Session::flash('nam_sinh_header', $nam_sinh_header);
         Session::flash('duoi_sim_header', $duoi_sim);
@@ -68,6 +85,7 @@ class HomeController extends Controller
         return view('layouts.data_search_header', [
             'results' => $response,
             'tuoi' => $nam_sinh_header,
+            'duoi_sim' => $duoi_sim,
         ]);
     }
 
@@ -85,7 +103,8 @@ class HomeController extends Controller
             $isFilter = true;
         }
 
-        $results = [];
+        $results1 = [];
+        $results2 = [];
         foreach ($data as $key => $value) {
             if (!empty($duoi_sim) && !empty($value['sdt'])) {
                 $aaa = str_replace('.', '', $value['sdt']);
@@ -94,7 +113,7 @@ class HomeController extends Controller
                 $lentb = strlen($bbb);
 
                 if (substr($aaa, -$lentb) == $bbb) {
-                    $results[] = $value;
+                    $results1[] = $value;
                     continue;
                 }
             }
@@ -102,18 +121,35 @@ class HomeController extends Controller
             if (!empty($ngu_hanh) && !empty($value['ngu_hanh'])) {
                 $ar = $this->nguHanhHopMenh[$ngu_hanh];
                 if (in_array(trim($value['ngu_hanh']), $ar)) {
-                    $results[] = $value;
-                    continue;
+                    $results2[] = $value;
                 }
             }
         }
 
-        $response = $isFilter ? $results : $data;
+        $response = $isFilter ? ((count($results1) + count($results2)) > 0 ? [
+            'results1' => $results1,
+            'results2' => $results2,
+        ] : $data) : $data;
 
 
-        usort($response, function($a, $b) {
-            return $a['gia_ban'] <=> $b['gia_ban'];
-        });
+        if (count($response) == 2) {
+            if (count($response['results1'])) {
+                usort($response['results1'], function($a, $b) {
+                    return $a['gia_ban'] <=> $b['gia_ban'];
+                });
+            }
+
+            if (count($response['results2'])) {
+                usort($response['results2'], function($a, $b) {
+                    return $a['gia_ban'] <=> $b['gia_ban'];
+                });
+            }
+        } else {
+            usort($response, function($a, $b) {
+                return $a['gia_ban'] <=> $b['gia_ban'];
+            });
+        }
+
 
         Session::flash('ngay_than_nam_sinh_header', $nam_sinh_header);
         Session::flash('duoi_sim_header_mobile', $duoi_sim);
@@ -121,6 +157,7 @@ class HomeController extends Controller
         return view('layouts.data_search_header', [
             'results' => $response,
             'tuoi' => $nam,
+            'duoi_sim' => $duoi_sim,
         ]);
     }
 }
