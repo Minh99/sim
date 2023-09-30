@@ -1,6 +1,8 @@
 @extends('app')
 
-@section('title', 'Sim hợp tuổi 2000 - Bí quyết chọn sim phong thủy hút vận may & tài lộc')
+@section('title')
+ Sim hợp tuổi {{ $slug }} - Bí quyết chọn sim phong thủy hút vận may & tài lộc
+@endsection
 
 @section('content')
     <section class="contentPage">
@@ -147,7 +149,7 @@
                                     điểm của dãy sim này được thể hiện trong bảng dưới đây:</span></span></p>
 
                         <div style="overflow-x:auto;">
-                            <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                            <table class="table table-responsive table-bordered">
                                 <tbody>
                                     <tr>
                                         <td>

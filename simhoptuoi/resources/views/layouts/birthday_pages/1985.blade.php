@@ -1,7 +1,9 @@
 
 @extends('app')
 
-@section('title', 'Sim hợp tuổi 2000 - Bí quyết chọn sim phong thủy hút vận may & tài lộc')
+@section('title')
+ Sim hợp tuổi {{ $slug }} - Bí quyết chọn sim phong thủy hút vận may & tài lộc
+@endsection
 
 @section('content')
     <section class="contentPage">
@@ -303,7 +305,7 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim phong thủy hợp tuổi 1985 theo Du Niên là dãy sim xuất hiện nhiều cặp số đại diện cho các cát tinh như Sinh Khí, Thiên Y, Diên Niên, Phục Vị hơn các cặp số đại diện cho các hung tinh Ngũ Quỷ, Tuyệt Mạng, Họa Hại, Lục Sát. Những cặp số đại diện cho từng cát tinh, hung tinh tương ứng gồm:</span></span></p>
 
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                        <div style="overflow-x:auto;"><table class="table table-responsive table-bordered">
                                 <tbody>
                                 <tr>
                                     <td>

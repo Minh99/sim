@@ -1,6 +1,8 @@
 @extends('app')
 
-@section('title', 'Sim hợp tuổi 2000 - Bí quyết chọn sim phong thủy hút vận may & tài lộc')
+@section('title')
+ Sim hợp tuổi {{ $slug }} - Bí quyết chọn sim phong thủy hút vận may & tài lộc
+@endsection
 
 @section('content')
     <section class="contentPage">

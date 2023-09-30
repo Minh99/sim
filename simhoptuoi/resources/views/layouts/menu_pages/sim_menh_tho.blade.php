@@ -97,7 +97,7 @@
         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim hợp mệnh Thổ l&agrave; d&atilde;y số điện thoại được cấu tạo bởi 10 con số từ 0 đến 9, được đ&aacute;nh gi&aacute; v&agrave; t&igrave;m chọn dựa theo tứ trụ ng&agrave;y giờ th&aacute;ng năm sinh v&agrave; 5 yếu tố phong thủy cốt l&otilde;i cổ học Phương Đ&ocirc;ng. Đặc điểm của d&atilde;y số điện thoại hợp mệnh Thổ như sau:</span></span>
         </p>
 
-        <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+        <table class="table table-responsive table-bordered">
             <tbody>
                 <tr>
                     <td>
@@ -233,7 +233,7 @@
             </li>
         </ul>
 
-        <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+        <table class="table table-responsive table-bordered">
             <tbody>
                 <tr>
                     <td>
@@ -375,7 +375,7 @@
         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Để thực hiện điều n&agrave;y, xin mời qu&yacute; vị tham khảo bảng &acirc;m dương ni&ecirc;n mệnh dựa tr&ecirc;n thi&ecirc;n can v&agrave; t&igrave;m hiểu bảng năng lượng &Acirc;m Dương của c&aacute;c con số trong sim.</span></span>
         </p>
 
-        <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+        <table class="table table-responsive table-bordered">
             <caption>Bảng &Acirc;m Dương Ni&ecirc;n Mệnh</caption>
             <tbody>
                 <tr>
@@ -401,7 +401,7 @@
 
         <p dir="ltr" style="text-align:justify">&nbsp;</p>
 
-        <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+        <table class="table table-responsive table-bordered">
             <caption>Bảng năng lượng &Acirc;m Dương c&aacute;c con số trong sim</caption>
             <tbody>
                 <tr>
@@ -652,7 +652,7 @@
 
         <p dir="ltr" style="text-align:justify"><em><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Để hiểu r&otilde; hơn th&igrave; mời qu&yacute; vị tra cứu tại bảng c&aacute;c cặp số đẹp - xấu trong Du Ni&ecirc;n dưới đ&acirc;y:&nbsp;</span></span></em></p>
 
-        <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+        <table class="table table-responsive table-bordered">
             <caption>Bảng cặp số đẹp theo Du Ni&ecirc;n</caption>
             <tbody>
                 <tr>

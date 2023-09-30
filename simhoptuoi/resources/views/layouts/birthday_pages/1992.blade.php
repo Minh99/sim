@@ -1,7 +1,9 @@
 
 @extends('app')
 
-@section('title', 'Sim hợp tuổi 2000 - Bí quyết chọn sim phong thủy hút vận may & tài lộc')
+@section('title')
+ Sim hợp tuổi {{ $slug }} - Bí quyết chọn sim phong thủy hút vận may & tài lộc
+@endsection
 
 @section('content')
     <section class="contentPage">
@@ -23,7 +25,7 @@
 
                         <p dir="ltr" style="text-align:center"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><img alt="sim hợp tuổi 1992" src="https://simhoptuoi.com.vn/media/images/news/41/sim-hop-tuoi-1992.png"></span></span></p>
 
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                        <div style="overflow-x:auto;"><table class="table table-responsive table-bordered">
                                 <tbody>
                                 <tr>
                                     <td>
@@ -251,7 +253,7 @@
 
                         <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">VÍ DỤ VỀ MỘT SIM HỢP TUỔI 1992 ĐÁP ỨNG ĐẦY ĐỦ 5 YẾU TỐ</span></span></strong></p>
 
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                        <div style="overflow-x:auto;"><table class="table table-responsive table-bordered">
                                 <tbody>
                                 <tr>
                                     <td>

@@ -1,7 +1,9 @@
 
 @extends('app')
 
-@section('title', 'Sim hợp tuổi 2000 - Bí quyết chọn sim phong thủy hút vận may & tài lộc')
+@section('title')
+ Sim hợp tuổi {{ $slug }} - Bí quyết chọn sim phong thủy hút vận may & tài lộc
+@endsection
 
 @section('content')
     <section class="contentPage">
@@ -161,7 +163,7 @@
                             </li>
                         </ul>
 
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                        <div style="overflow-x:auto;"><table class="table table-responsive table-bordered">
                                 <tbody>
                                 <tr>
                                     <td>
@@ -350,7 +352,7 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Phương pháp chọn số điện thoại hợp tuổi Ất Sửu theo Du Niên sẽ dựa vào tần suất xuất hiện các cặp số đẹp (đại diện cát tinh). Dãy sim phong thủy hợp tuổi 1995 sẽ có nhiều cặp số đại diện cho cát tinh hơn hung tinh. Dưới đây là bảng tra cứu các cặp số đẹp - xấu theo Du Niên là quý vị có thể tham khảo - tra cứu:</span></span></p>
 
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                        <div style="overflow-x:auto;"><table class="table table-responsive table-bordered">
                                 <tbody>
                                 <tr>
                                     <td>

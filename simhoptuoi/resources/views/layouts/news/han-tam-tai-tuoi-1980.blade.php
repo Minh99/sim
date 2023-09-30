@@ -123,7 +123,7 @@
 
                     <p style="text-align:justify"> </p>
 
-                    <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                    <table class="table table-responsive table-bordered">
                         <tbody>
                             <tr>
                                 <td>
@@ -201,7 +201,7 @@
 
                     <p style="text-align:justify"> </p>
 
-                    <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                    <table class="table table-responsive table-bordered">
                         <tbody>
                             <tr>
                                 <td>

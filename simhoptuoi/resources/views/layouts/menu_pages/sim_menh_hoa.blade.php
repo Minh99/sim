@@ -167,7 +167,7 @@
         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim phong thủy hợp mệnh Hỏa l&agrave; d&atilde;y số điện thoại gồm 10 con số tự nhi&ecirc;n từ 0 đến 9. C&aacute;c d&atilde;y số n&agrave;y được đ&aacute;nh gi&aacute;, t&igrave;m chọn dựa theo b&aacute;t tự ng&agrave;y th&aacute;ng năm sinh của người mệnh Hỏa v&agrave; theo 05 yếu tố phong thủy gồm: &Acirc;m Dương, Ngũ H&agrave;nh, Quẻ Dịch, Cửu Tinh, Quan Niệm D&acirc;n Gian. Đặc điểm của d&atilde;y sim hợp mệnh Hỏa như sau:</span></span>
         </p>
 
-        <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+        <table class="table table-responsive table-bordered">
             <tbody>
                 <tr>
                     <td>
@@ -228,7 +228,7 @@
 
 {{--        <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&gt;&gt;&gt; Tham khảo d&atilde;y sim phong thủy hợp tuổi chi tiết thuộc mệnh Hỏa:</span></span></strong></em></p>--}}
 
-{{--        <table border="1" cellpadding="10" cellspacing="1" style="width:100%">--}}
+{{--        <table class="table table-responsive table-bordered">--}}
 {{--            <tbody>--}}
 {{--                <tr>--}}
 {{--                    <td>--}}
@@ -334,7 +334,7 @@
         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">X&eacute;t ngũ h&agrave;nh từ tr&aacute;i qua phải c&aacute;c cặp số trong sim. Theo đ&oacute; nếu số sim c&oacute; quan hệ tương sinh về ngũ h&agrave;nh nhiều hơn quan hệ xung khắc th&igrave; nội tại của sim sẽ được k&iacute;ch hoạt mạnh hơn. Để l&agrave;m được điều n&agrave;y th&igrave; qu&yacute; vị h&atilde;y tra cứu bảng ngũ h&agrave;nh c&aacute;c con số trong sim dưới đ&acirc;y:</span></span>
         </p>
 
-        <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+        <table class="table table-responsive table-bordered">
             <tbody>
                 <tr>
                     <td>
@@ -564,7 +564,7 @@
         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Tuy nhi&ecirc;n qu&yacute; vị cần lưu &yacute;: Tam Nguy&ecirc;n Cửu Vận l&agrave; phương ph&aacute;p chia nhỏ thời gian th&agrave;nh ba đoạn (tam nguy&ecirc;n) tương đương với 60 năm mỗi đoạn, theo chu kỳ lục thập hoa gi&aacute;p, bắt đầu từ Gi&aacute;p T&yacute; v&agrave; kết th&uacute;c ở Qu&yacute; Hợi. Mỗi tam nguy&ecirc;n bao gồm ba giai đoạn (vận), mỗi vận k&eacute;o d&agrave;i 20 năm. Đ&acirc;y l&agrave; một chu tr&igrave;nh tuần ho&agrave;n đầy đủ v&agrave; tiếp tục lặp đi lặp lại kh&ocirc;ng ngừng. Chu kỳ n&agrave;y k&eacute;o d&agrave;i 180 năm. T&ugrave;y v&agrave;o từng thời vận sẽ c&oacute; con số thời vận kh&aacute;c nhau, để hiểu r&otilde; điều n&agrave;y, mời qu&yacute; bạn t&igrave;m hiểu tại bảng tra cứu dưới đ&acirc;y:</span></span>
         </p>
 
-        <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+        <table class="table table-responsive table-bordered">
             <tbody>
                 <tr>
                     <td>
@@ -839,7 +839,7 @@
         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim hợp với người mệnh Hỏa theo Du Ni&ecirc;n l&agrave; d&atilde;y số điện thoại c&oacute; đặc điểm c&oacute; nhiều cặp số tượng trưng cho c&aacute;c c&aacute;t tinh (Sinh Kh&iacute;, Di&ecirc;n Ni&ecirc;n, Thi&ecirc;n Y, Phục Vị). Ngược lại tr&aacute;nh chọn d&atilde;y sim c&oacute; nhiều cặp số tượng trưng cho c&aacute;c hung tinh (Ngũ Quỷ, Lục S&aacute;t, Tuyệt Mệnh, Họa Hại). Để hiểu hơn th&igrave; qu&yacute; vị h&atilde;y tham khảo bảng c&aacute;c cặp số tương ứng với c&aacute;c c&aacute;t tinh, hung tinh ph&iacute;a dưới:&nbsp;</span></span>
         </p>
 
-        <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+        <table class="table table-responsive table-bordered">
             <tbody>
                 <tr>
                     <td>

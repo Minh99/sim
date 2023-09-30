@@ -98,7 +98,7 @@
         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim phong thủy hợp mệnh Mộc l&agrave; d&atilde;y số điện thoại gồm 10 con số, được đ&aacute;nh gi&aacute; dựa tr&ecirc;n 05 bộ m&ocirc;n phong thủy, dịch học cổ Phương Đ&ocirc;ng với b&aacute;t tự ng&agrave;y sinh của người d&ugrave;ng. Đặc điểm nhận biết sim hợp mệnh Mộc theo 05 yếu tố như sau:</span></span>
         </p>
 
-        <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+        <table class="table table-responsive table-bordered">
             <tbody>
                 <tr>
                     <td>
@@ -353,7 +353,7 @@
         </ul>
 
 
-        <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+        <table class="table table-responsive table-bordered">
             <tbody>
                 <tr>
                     <td>
@@ -589,7 +589,7 @@
             </p>
         </blockquote>
 
-{{--        <table border="1" cellpadding="10" cellspacing="1" style="width:100%">--}}
+{{--        <table class="table table-responsive table-bordered">--}}
 {{--            <tbody>--}}
 {{--                <tr>--}}
 {{--                    <td>--}}
@@ -651,7 +651,7 @@
         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">- Nguy&ecirc;n l&yacute; chọn: Người mệnh Mộc chia 10 số trong sim th&agrave;nh 5 cặp số li&ecirc;n tiếp. Sau đ&oacute;, tiến h&agrave;nh đối chiếu với du ni&ecirc;n b&aacute;t qu&aacute;i để luận giải hung c&aacute;t theo bảng dưới đ&acirc;y:&nbsp;</span></span>
         </p>
 
-        <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+        <table class="table table-responsive table-bordered">
             <tbody>
                 <tr>
                     <td>

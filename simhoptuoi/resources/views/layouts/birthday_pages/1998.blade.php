@@ -1,7 +1,9 @@
 
 @extends('app')
 
-@section('title', 'Sim hợp tuổi 2000 - Bí quyết chọn sim phong thủy hút vận may & tài lộc')
+@section('title')
+ Sim hợp tuổi {{ $slug }} - Bí quyết chọn sim phong thủy hút vận may & tài lộc
+@endsection
 
 @section('content')
     <section class="contentPage">
@@ -28,7 +30,7 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim phong thủy hợp tuổi 1998 hay còn được gọi là số điện thoại hợp tuổi Mậu Dần, là dãy sim 10 con số, khởi đầu bằng đầu số 09, 08 hoặc 03,.. tùy vào nhà mạng mà quý bạn lựa chọn. Những dãy sim này được đánh giá, tìm chọn dựa theo bát tự (ngày - giờ - tháng - năm sinh) và 5 quy luật cổ học Phương Đông. Đặc điểm của dãy sim hợp tuổi Mậu Dần như sau:</span></span></p>
 
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                        <div style="overflow-x:auto;"><table class="table table-responsive table-bordered">
                                 <tbody>
                                 <tr>
                                     <td>
@@ -112,7 +114,7 @@
                             </li>
                         </ul>
 
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                        <div style="overflow-x:auto;"><table class="table table-responsive table-bordered">
                                 <tbody>
                                 <tr>
                                     <td>
@@ -380,7 +382,7 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Số điện thoại hợp tuổi 1998 theo Du Niên là dãy sim xuất hiện nhiều cặp số đại diện cho các cặp số đại diện cho cát tinh (Thiên Y, Diên Niên, Phục Vị, Sinh Khí) hơn các cặp số đại diện cho hung tinh (Ngũ Quỷ, Lục Sát, Họa Hại, Tuyệt Mạng). Dưới đây là bảng các cặp số đại diện cho các cát tinh, hung tinh trên:</span></span></p>
 
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                        <div style="overflow-x:auto;"><table class="table table-responsive table-bordered">
                                 <tbody>
                                 <tr>
                                     <td>

@@ -1,7 +1,9 @@
 
 @extends('app')
 
-@section('title', 'Sim hợp tuổi 2000 - Bí quyết chọn sim phong thủy hút vận may & tài lộc')
+@section('title')
+ Sim hợp tuổi {{ $slug }} - Bí quyết chọn sim phong thủy hút vận may & tài lộc
+@endsection
 
 @section('content')
     <section class="contentPage">
@@ -30,7 +32,7 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim phong thủy hợp tuổi 1993 là dãy số điện thoại gồm 10 con số thuộc các nhà mạng khác nhau, được chọn lựa đánh giá dựa trên tứ trụ (gồm 4 trụ giờ - ngày - tháng - năm sinh) và 5 yếu tố cổ học Phương Đông. Đặc điểm của dãy số điện thoại hợp tuổi 1993 như sau:</span></span></p>
 
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                        <div style="overflow-x:auto;"><table class="table table-responsive table-bordered">
                                 <tbody>
                                 <tr>
                                     <td>
@@ -139,7 +141,7 @@
 
                         <p dir="ltr" style="text-align:justify"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Ngũ hành từng con số trong sim như sau:</span></span></strong></p>
 
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                        <div style="overflow-x:auto;"><table class="table table-responsive table-bordered">
                                 <tbody>
                                 <tr>
                                     <td>
@@ -224,7 +226,7 @@
 
 
 
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                        <div style="overflow-x:auto;"><table class="table table-responsive table-bordered">
                                 <tbody>
                                 <tr>
                                     <td>
@@ -426,7 +428,7 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">- <strong>Bước 3: X</strong>ét ngũ hành của thiên can:</span></span></p>
 
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                        <div style="overflow-x:auto;"><table class="table table-responsive table-bordered">
                                 <tbody>
                                 <tr>
                                     <td colspan="2">

@@ -115,7 +115,7 @@
                     <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"> </span></span>
                     </p>
 
-                    <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                    <table class="table table-responsive table-bordered">
                         <tbody>
                             <tr>
                                 <td>
@@ -212,7 +212,7 @@
                     <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"> </span></span>
                     </p>
 
-                    <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                    <table class="table table-responsive table-bordered">
                         <tbody>
                             <tr>
                                 <td>

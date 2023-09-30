@@ -742,7 +742,7 @@
                             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Tứ trụ l&agrave; bốn trụ gồm c&aacute;c th&ocirc;ng tin gắn kết với mỗi con người như giờ sinh, ng&agrave;y sinh, th&aacute;ng sinh, năm sinh. Để x&eacute;t tứ trụ mệnh th&igrave; ch&uacute;ng ta cần quy đổi ra can chi theo bảng lục thập hoa gi&aacute;p. Sau đ&oacute; dựa v&agrave;o thuyết can chi t&agrave;ng ẩn để quy đổi ra thi&ecirc;n can t&agrave;ng ẩn trong địa chi. Như sau</span></span>
                             </p>
 
-                            <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                            <table class="table table-responsive table-bordered">
                                 <tbody>
                                     <tr>
                                         <td>

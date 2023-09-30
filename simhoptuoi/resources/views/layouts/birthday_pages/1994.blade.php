@@ -1,7 +1,9 @@
 
 @extends('app')
 
-@section('title', 'Sim hợp tuổi 2000 - Bí quyết chọn sim phong thủy hút vận may & tài lộc')
+@section('title')
+ Sim hợp tuổi {{ $slug }} - Bí quyết chọn sim phong thủy hút vận may & tài lộc
+@endsection
 
 @section('content')
     <section class="contentPage">
@@ -29,7 +31,7 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim phong thủy hợp tuổi 1994 hay còn được gọi là số điện thoại hợp tuổi 1994, là dãy số tự nhiên gồm 10 con số, được đánh giá và phân tích theo ngày giờ tháng năm sinh của người sinh năm Giáp Tuất, 5 quy luật cốt lõi cổ học Phương Đông. Dưới đây là đặc điểm của một dãy sim hợp tuổi 1994:</span></span></p>
 
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                        <div style="overflow-x:auto;"><table class="table table-responsive table-bordered">
                                 <tbody>
                                 <tr>
                                     <td>
@@ -187,7 +189,7 @@
                             </li>
                         </ul>
 
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                        <div style="overflow-x:auto;"><table class="table table-responsive table-bordered">
                                 <tbody>
                                 <tr>
                                     <td>

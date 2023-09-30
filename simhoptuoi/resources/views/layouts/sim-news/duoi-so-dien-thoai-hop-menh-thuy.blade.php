@@ -414,7 +414,7 @@
                     <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">+ Ngũ hành chỉ là một yếu tố để đánh giá sim. Để chọn được sim thì người mệnh Thủy cần căn cứ vào 03 yếu tố trọng yếu: ngũ hành - quẻ dịch - âm dương</span></span>
                     </p>
 
-                    <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                    <table class="table table-responsive table-bordered">
                         <tbody>
                             <tr>
                                 <td>

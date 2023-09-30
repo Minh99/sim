@@ -103,7 +103,7 @@
 
         <p dir="ltr" style="text-align:justify"><em><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Đặc điểm của d&atilde;y sim phong thủy hợp mệnh Thủy theo 5 yếu tố phong thủy như sau:</span></span></em></p>
 
-        <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+        <table class="table table-responsive table-bordered">
             <tbody>
                 <tr>
                     <td>
@@ -190,7 +190,7 @@
         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Để l&agrave;m được điều n&agrave;y mời qu&yacute; vị tra cứu tại bảng &acirc;m dương ni&ecirc;n mệnh theo thi&ecirc;n can, bảng năng lượng &Acirc;m Dương của c&aacute;c con số trong sim:</span></span>
         </p>
 
-        <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+        <table class="table table-responsive table-bordered">
             <caption><strong><span style="font-family:arial,helvetica,sans-serif">Bảng &acirc;m dương ni&ecirc;n mệnh theo thi&ecirc;n can</span></strong></caption>
             <tbody>
                 <tr>
@@ -216,7 +216,7 @@
 
         <p dir="ltr" style="text-align:justify">&nbsp;</p>
 
-        <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+        <table class="table table-responsive table-bordered">
             <caption><strong><span style="font-family:arial,helvetica,sans-serif">Bảng năng lượng &Acirc;m Dương c&aacute;c con số trong sim</span></strong></caption>
             <tbody>
                 <tr>
@@ -277,7 +277,7 @@
             </li>
         </ul>
 
-        <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+        <table class="table table-responsive table-bordered">
             <caption><strong>Bảng lục thập hoa gi&aacute;p</strong></caption>
             <tbody>
                 <tr>
@@ -792,7 +792,7 @@
             </li>
         </ul>
 
-        <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+        <table class="table table-responsive table-bordered">
             <caption><strong>Bảng ngũ h&agrave;nh của thập can</strong></caption>
             <tbody>
                 <tr>
@@ -862,7 +862,7 @@
             </tbody>
         </table>
 
-        <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+        <table class="table table-responsive table-bordered">
             <caption>
                 <p>&nbsp;</p>
 
@@ -959,7 +959,7 @@
         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim số hợp mệnh thủy theo nội tại ngũ h&agrave;nh c&aacute;c con số trong sim l&agrave; d&atilde;y số điện thoại x&eacute;t từ tr&aacute;i qua phải, c&oacute; nhiều mối quan hệ tương sinh hơn tương khắc. Để hiểu r&otilde; hơn th&igrave; qu&yacute; vị h&atilde;y tham khảo bảng ngũ h&agrave;nh của từng con số dưới đ&acirc;y:</span></span>
         </p>
 
-        <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+        <table class="table table-responsive table-bordered">
             <caption><strong>Bảng ngũ h&agrave;nh c&aacute;c con số trong sim</strong></caption>
             <tbody>
                 <tr>
@@ -1271,7 +1271,7 @@
         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Số điện thoại hợp với mệnh Thủy theo Du Ni&ecirc;n l&agrave; d&atilde;y sim xuất hiện nhiều cặp số đẹp đại diện cho c&aacute;c c&aacute;t tinh như Sinh Kh&iacute;, Di&ecirc;n Ni&ecirc;n, Thi&ecirc;n Y, Phục Vị hơn c&aacute;c cặp số xấu đại diện cho c&aacute;c hung tinh như Ngũ Quỷ, Lục S&aacute;t, Tuyệt Mệnh, Họa Hại. Để hiểu vấn đề n&agrave;y th&igrave; mời qu&yacute; vị t&igrave;m hiểu c&aacute;c cặp số tương ứng với c&aacute;c c&aacute;t tinh, hung tinh như sau:</span></span>
         </p>
 
-        <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+        <table class="table table-responsive table-bordered">
             <tbody>
                 <tr>
                     <td>
@@ -1508,7 +1508,7 @@
 
         <p dir="ltr" style="text-align:justify"><em><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">V&iacute; dụ một số đu&ocirc;i số điện thoại hợp với mệnh Thủy:</span></span></em></p>
 
-        <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+        <table class="table table-responsive table-bordered">
             <tbody>
                 <tr>
                     <td>
@@ -1767,7 +1767,7 @@
 
 {{--                        <p dir="ltr" style="text-align:center"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">THAM KHẢO D&Ograve;NG SIM HỢP TUỔI CHI TIẾT</span></span></strong></p>--}}
 
-{{--                        <table border="1" cellpadding="10" cellspacing="1" style="width:100%">--}}
+{{--                        <table class="table table-responsive table-bordered">--}}
 {{--                            <tbody>--}}
 {{--                                <tr>--}}
 {{--                                    <td>--}}

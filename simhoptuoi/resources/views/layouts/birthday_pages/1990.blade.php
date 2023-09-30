@@ -1,7 +1,9 @@
 
 @extends('app')
 
-@section('title', 'Sim hợp tuổi 2000 - Bí quyết chọn sim phong thủy hút vận may & tài lộc')
+@section('title')
+ Sim hợp tuổi {{ $slug }} - Bí quyết chọn sim phong thủy hút vận may & tài lộc
+@endsection
 
 @section('content')
     <section class="contentPage">
@@ -17,7 +19,7 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim phong thủy phù hợp với tuổi 1990 là một tập hợp các số gồm 10 con số từ 0 đến 9, có thể thuộc về các nhà mạng hiện nay tại Việt Nam như Viettel, Mobifone, Vinaphone, v.v… Để xác định được những dãy số sim này, quý vị cần dựa vào bát tự (giờ - ngày - tháng - năm sinh) và sử dụng 5 yếu tố phong thủy trong cổ học Phương Đông. Những yếu tố này sẽ giúp xác định tính chất và hiệu quả của số điện thoại hợp tuổi 1990. Đặc điểm của dãy sim này như sau:</span></span></p>
 
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                        <div style="overflow-x:auto;"><table class="table table-responsive table-bordered">
                                 <tbody>
                                 <tr>
                                     <td>
@@ -108,7 +110,7 @@
                             </li>
                         </ul>
 
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                        <div style="overflow-x:auto;"><table class="table table-responsive table-bordered">
                                 <tbody>
                                 <tr>
                                     <td>
@@ -559,7 +561,7 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Dãy sim hợp tuổi canh ngọ 1990 theo Du Niên là dãy sim có nhiều cặp số đẹp thuộc chòm sao tốt là Sinh Khí, Diên Niên, Thiên Y, Phục Vị, Ngược lại, sim không may mắn với người tuổi Canh Ngọ nếu có nhiều cặp số xấu thuộc chòm sao hung là Ngũ Quỷ, Họa Hại, Tuyệt Mạng, Lục Sát. Để tìm những dãy sim mang đến may mắn của tuổi 1990 mời quý vị tra cứu tại bảng các cặp số Du Niên dưới đây:&nbsp;</span></span></p>
 
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                        <div style="overflow-x:auto;"><table class="table table-responsive table-bordered">
                                 <tbody>
                                 <tr>
                                     <td>

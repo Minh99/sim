@@ -318,7 +318,7 @@
 
                     <p dir="ltr" style="text-align:justify"><em><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">- Theo bộ số đuôi: Trong dân gian họ coi rằng những bộ số đuôi như tam hoa, tứ quý, thế số đẹp đều mang đến may mắn cho người sử dụng. Dưới đây là những đuôi số đẹp nên có trong sim hợp mệnh Kim:</span></span></strong></em></p>
 
-                    <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                    <table class="table table-responsive table-bordered">
                         <tbody>
                             <tr>
                                 <td>

@@ -179,7 +179,7 @@
 
                 <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">1. Bảng tra sao hạn, hạn xấu cho người tuổi Tý</span></strong></span></h3>
 
-                <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                <table class="table table-responsive table-bordered">
                     <tbody>
                     <tr>
                         <td rowspan="2">
@@ -294,7 +294,7 @@
 
                 <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">2. Bảng tính sao hạn, hạn xấu cho người tuổi Sửu</span></strong></span></h3>
 
-                <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                <table class="table table-responsive table-bordered">
                     <tbody>
                     <tr>
                         <td rowspan="2">
@@ -409,7 +409,7 @@
 
                 <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">3. Bảng tra sao hạn, hạn xấu cho người tuổi Dần</span></strong></span></h3>
 
-                <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                <table class="table table-responsive table-bordered">
                     <tbody>
                     <tr>
                         <td rowspan="2">
@@ -524,7 +524,7 @@
 
                 <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">4. Bảng tính sao hạn, hạn xấu cho người tuổi Mão</span></strong></span></h3>
 
-                <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                <table class="table table-responsive table-bordered">
                     <tbody>
                     <tr>
                         <td rowspan="2">
@@ -639,7 +639,7 @@
 
                 <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">5. Bảng tra sao hạn, hạn xấu cho người tuổi Thìn</span></strong></span></h3>
 
-                <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                <table class="table table-responsive table-bordered">
                     <tbody>
                     <tr>
                         <td rowspan="2">
@@ -754,7 +754,7 @@
 
                 <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">6. Bảng tính sao hạn, hạn xấu cho người tuổi Tỵ</span></strong></span></h3>
 
-                <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                <table class="table table-responsive table-bordered">
                     <tbody>
                     <tr>
                         <td rowspan="2">
@@ -869,7 +869,7 @@
 
                 <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">7. Bảng tra sao hạn, hạn xấu cho người tuổi Ngọ</span></strong></span></h3>
 
-                <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                <table class="table table-responsive table-bordered">
                     <tbody>
                     <tr>
                         <td rowspan="2">
@@ -984,7 +984,7 @@
 
                 <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">8. Bảng tính sao hạn, hạn xấu cho người tuổi Mùi</span></strong></span></h3>
 
-                <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                <table class="table table-responsive table-bordered">
                     <tbody>
                     <tr>
                         <td rowspan="2">
@@ -1099,7 +1099,7 @@
 
                 <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">9. Bảng tra sao hạn, hạn xấu cho người tuổi Thân</span></strong></span></h3>
 
-                <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                <table class="table table-responsive table-bordered">
                     <tbody>
                     <tr>
                         <td rowspan="2">
@@ -1214,7 +1214,7 @@
 
                 <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">10. Bảng tính sao hạn, hạn xấu cho người tuổi Dậu</span></strong></span></h3>
 
-                <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                <table class="table table-responsive table-bordered">
                     <tbody>
                     <tr>
                         <td rowspan="2">
@@ -1329,7 +1329,7 @@
 
                 <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">11. Bảng tra sao hạn, hạn xấu cho người tuổi Tuất</span></strong></span></h3>
 
-                <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                <table class="table table-responsive table-bordered">
                     <tbody>
                     <tr>
                         <td rowspan="2">
@@ -1444,7 +1444,7 @@
 
                 <h3 dir="ltr" style="text-align:justify"><span style="font-size:16px"><strong><span style="font-family:arial,helvetica,sans-serif">12. Bảng tính sao hạn, hạn xấu cho người tuổi Hợi</span></strong></span></h3>
 
-                <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                <table class="table table-responsive table-bordered">
                     <tbody>
                     <tr>
                         <td rowspan="2">

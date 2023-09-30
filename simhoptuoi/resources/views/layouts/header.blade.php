@@ -48,6 +48,43 @@
                     <nav class="site-navigation text-left mr-auto " role="navigation">
                         <ul class="site-menu main-menu js-clone-nav ml-auto d-none d-lg-block">
                             <li>
+                                <h3><a href="{{ route('menu-page', ['slug' => 'sim_menh_kim']) }}">Sim hợp mệnh Kim</a>
+                                </h3>
+                            </li>
+                            <li>
+                                <h3><a href="{{ route('menu-page', ['slug' => 'sim_menh_moc']) }}">Sim hợp mệnh Mộc</a>
+                                </h3>
+                            </li>
+                            <li>
+                                <h3><a href="{{ route('menu-page', ['slug' => 'sim_menh_thuy']) }}">Sim hợp mệnh Thủy</a>
+                                </h3>
+                            </li>
+                            <li>
+                                <h3><a href="{{ route('menu-page', ['slug' => 'sim_menh_hoa']) }}">Sim hợp mệnh Hỏa</a>
+                                </h3>
+                            </li>
+                            <li>
+                                <h3><a href="{{ route('menu-page', ['slug' => 'sim_menh_tho']) }}">Sim hợp mệnh Thổ</a>
+                                </h3>
+                            </li>
+                            <li>
+                                <h3><a href="{{ route('menu-page', ['slug' => 'sim_thang_quan']) }}">Sim thăng quan tiến chức</a>
+                                </h3>
+                            </li>
+                            <li>
+                                <h3><a href="{{ route('menu-page', ['slug' => 'sim_tai_van']) }}">Sim phong thủy kích tài vận</a>
+                                </h3>
+                            </li>
+                            <li>
+                                <h3><a href="{{ route('menu-page', ['slug' => 'sim_tinh_duyen_gia_dao']) }}">Sim kích gia đạo tình duyên</a>
+                                </h3>
+                            </li>
+                            <li>
+                                <h3>
+                                    <a href="{{ route('menu-page', ['slug' => 'sim_xoa_giai_han']) }}">Sim hóa giải vận hạn theo tuổi</a>
+                                </h3>
+                            </li>
+                            <li>
                                 <a href="#" id="195xx_title" class="nav-link">Sim hợp tuổi 195x</a>
                                 <ul id="195xx_items" style="display: none">
                                     @for($i = 0; $i < 10; $i++)

@@ -1,7 +1,9 @@
 
 @extends('app')
 
-@section('title', 'Sim hợp tuổi 2000 - Bí quyết chọn sim phong thủy hút vận may & tài lộc')
+@section('title')
+ Sim hợp tuổi {{ $slug }} - Bí quyết chọn sim phong thủy hút vận may & tài lộc
+@endsection
 
 @section('content')
     <section class="contentPage">
@@ -31,7 +33,7 @@
                         <p dir="ltr" style="text-align:center"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><img alt="sim hợp tuổi 1989" src="https://simhoptuoi.com.vn/media/images/news/38/sim-hop-tuoi-1989.png"></span></span><br>
                             &nbsp;</p>
 
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                        <div style="overflow-x:auto;"><table class="table table-responsive table-bordered">
                                 <tbody>
                                 <tr>
                                     <td>
@@ -102,7 +104,7 @@
                             </li>
                         </ul>
 
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                        <div style="overflow-x:auto;"><table class="table table-responsive table-bordered">
                                 <tbody>
                                 <tr>
                                     <td>
@@ -654,7 +656,7 @@
 
                         <p dir="ltr" style="text-align:justify"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Quy đổi địa chi sang thiên can theo can chi tàng ẩn:</span></span></strong></p>
 
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                        <div style="overflow-x:auto;"><table class="table table-responsive table-bordered">
                                 <tbody>
                                 <tr>
                                     <td>
@@ -831,7 +833,7 @@
 
                         <p dir="ltr" style="text-align:justify"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Xét ngũ hành thiên can:</span></span></strong></p>
 
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                        <div style="overflow-x:auto;"><table class="table table-responsive table-bordered">
                                 <tbody>
                                 <tr>
                                     <td colspan="2">
@@ -893,7 +895,7 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim hợp tuổi Kỷ Tỵ theo ngũ hành nội tại ngũ hành số sim là dãy sim xét từ trái qua phải xuất hiện nhiều mối quan hệ tương sinh hơn tương khắc. Để lý giải được điều này mời quý vị hãy tra cứu tại bảng ngũ hành các con số phía dưới:</span></span></p>
 
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                        <div style="overflow-x:auto;"><table class="table table-responsive table-bordered">
                                 <tbody>
                                 <tr>
                                     <td>
@@ -1304,7 +1306,7 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Ứng dụng du niên trong sim điện thoại là kết hợp giữa quẻ của bát quái theo từng cặp số&nbsp; tương ứng với 8 trạng thái. Trong đó, cặp số mang ý nghĩa tốt khi ở 4 trạng thái tốt <strong>(Sinh Khí&nbsp; - Diên niên - Thiên Y - Phục Vị) </strong>và cặp số mang ý nghĩa không tốt khi ở 4 trạng thái xấu (<strong>Ngũ Quỷ - Lục Sát - Họa Hại - Tuyệt Mệnh</strong>). Theo đó, sim điện thoại càng xuất hiện nhiều cặp số mang ý nghĩa tốt sẽ hợp tuổi người tuổi 1989 và ngược lại. Để hiểu rõ vấn đề này mời quý vị tra cứu tại bảng các cặp số đẹp theo Du Niên tại đây:</span></span></p>
 
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                        <div style="overflow-x:auto;"><table class="table table-responsive table-bordered">
                                 <tbody>
                                 <tr>
                                     <td>
@@ -1442,7 +1444,7 @@
 
                         <p dir="ltr" style="text-align:justify"><em><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Danh sách đuôi số điện thoại hợp tuổi Kỷ Tỵ theo phép chia 80</span></span></em></p>
 
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                        <div style="overflow-x:auto;"><table class="table table-responsive table-bordered">
                                 <tbody>
                                 <tr>
                                     <td>

@@ -1,7 +1,9 @@
 
 @extends('app')
 
-@section('title', 'Sim hợp tuổi 2000 - Bí quyết chọn sim phong thủy hút vận may & tài lộc')
+@section('title')
+ Sim hợp tuổi {{ $slug }} - Bí quyết chọn sim phong thủy hút vận may & tài lộc
+@endsection
 
 @section('content')
     <section class="contentPage">
@@ -28,7 +30,7 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Số điện thoại hợp tuổi 1996 là dãy sim được cấu tạo bởi các con số tự nhiên từ 0 đến 9, đầu số sẽ là những con số cố định tùy vào nhà mạng quý vị lựa chọn. Dãy số này được đánh giá bởi tứ trụ (gồm trụ giờ, trụ ngày, trụ tháng, trụ năm) và 5 yếu tố phong thủy trong vũ trụ như Âm Dương - Ngũ Hành - Quẻ Dịch - Cửu Tinh - Quan Niệm Dân Gian. Dưới đây là đặc điểm nhận biết của dãy sim phong thủy hợp tuổi 1996.</span></span></p>
 
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                        <div style="overflow-x:auto;"><table class="table table-responsive table-bordered">
                                 <tbody>
                                 <tr>
                                     <td>
@@ -136,7 +138,7 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim phong thủy hợp tuổi 1996 theo nội tại ngũ hành các con số trong sim khi xét từ trái qua phải sẽ xuất hiện nhiều cặp số tương sinh hơn tương khắc, Ngược lại, nếu có nhiều cặp số xung khắc nhau, tuổi Bính Tý nên tránh những số sim này. Để thực hiện điều này, quý vị cần căn cứ vào bảng giá trị ngũ hành các con số trong sim dưới đây:&nbsp;</span></span></p>
 
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                        <div style="overflow-x:auto;"><table class="table table-responsive table-bordered">
                                 <tbody>
                                 <tr>
                                     <td>
@@ -267,7 +269,7 @@
                             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Kết luận: </strong>Yếu tố cửu tinh trong dãy số điện thoại hợp tuổi Bính Tý được xem là một yếu tố nhỏ, nhưng có ảnh hưởng đáng kể đến ý nghĩa may mắn của sim. Tuy nhiên, mỗi khi thời vận thay đổi sau khoảng thời gian 20 năm, sự di chuyển của sao chủ quản cũng sẽ xảy ra. Do đó, để hiểu rõ hơn, quý vị cần phải nắm vững 9 thời vận cùng với các sao chủ quản tương ứng. Mỗi sao sẽ mang đến một con số may mắn riêng biệt. Để hiểu rõ các thời vận cùng con số may mắn đại diện thì quý vị cần xem tại bảng Tam Nguyên Cửu Vận dưới đây:</span></span></p>
                         </blockquote>
 
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                        <div style="overflow-x:auto;"><table class="table table-responsive table-bordered">
                                 <tbody>
                                 <tr>
                                     <td>
@@ -407,7 +409,7 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>- Cặp bộ số đẹp:</strong> Sự xuất hiện của bộ số đặc biệt trong dân gian sẽ làm tăng sự hoàn hảo hơn cho cả ý nghĩa nội tại và hình thức dãy sim hợp tuổi 1996. Một số bộ số may mắn khi người dùng tìm 1996 hợp số điện thoại nào được dân gian truyền tụng nổi bật như:</span></span></p>
 
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                        <div style="overflow-x:auto;"><table class="table table-responsive table-bordered">
                                 <tbody>
                                 <tr>
                                     <td>
@@ -676,7 +678,7 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Số điện thoại hợp tuổi Bính Tý theo Du Niên là dãy sim chứa cặp số có nghĩa tốt trong bát biến du niên. Những cặp số đó sẽ đại diện cho các cát tinh như Sinh Khí, Diên Niên, Thiên Y, Phục Vị. Để thực hiện được điều này, mời quý vị hãy tra cứu tại bảng dưới đây:</span></span></p>
 
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                        <div style="overflow-x:auto;"><table class="table table-responsive table-bordered">
                                 <tbody>
                                 <tr>
                                     <td>
@@ -821,7 +823,7 @@
 
                         <p dir="ltr" style="text-align:justify"><em><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Ví dụ một số đuôi 4 số cuối điện thoại cát lợi theo phép chia 80:</span></span></em></p>
 
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                        <div style="overflow-x:auto;"><table class="table table-responsive table-bordered">
                                 <tbody>
                                 <tr>
                                     <td>

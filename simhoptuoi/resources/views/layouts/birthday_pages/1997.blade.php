@@ -1,7 +1,9 @@
 
 @extends('app')
 
-@section('title', 'Sim hợp tuổi 2000 - Bí quyết chọn sim phong thủy hút vận may & tài lộc')
+@section('title')
+ Sim hợp tuổi {{ $slug }} - Bí quyết chọn sim phong thủy hút vận may & tài lộc
+@endsection
 
 @section('content')
     <section class="contentPage">
@@ -22,7 +24,7 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Để tìm ra những dãy số điện thoại phù hợp, quý vị cần dựa trên bát tự (giờ - ngày - tháng - năm sinh) và 5 yếu tố phong thủy theo cổ học Phương Đông. Đối với tuổi Đinh Sửu, các đặc điểm của sim phong thủy hợp tuổi này có thể được mô tả như sau:</span></span></p>
 
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                        <div style="overflow-x:auto;"><table class="table table-responsive table-bordered">
                                 <tbody>
                                 <tr>
                                     <td>
@@ -475,7 +477,7 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Số điện thoại hợp tuổi Đinh Sửu theo Du Niên là dãy sim có nhiều cặp số thuộc sao tốt (sinh khí, diên niên, phục vị, thiên y) hơn các cặp số xấu (Ngũ Quỷ, Lục Sát, Họa Hại, Tuyệt Mạng). Để hiểu rõ vấn đề hơn vấn đề này thì quý vị hãy tra cứu tại bảng dưới đây:</span></span></p>
 
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                        <div style="overflow-x:auto;"><table class="table table-responsive table-bordered">
                                 <tbody>
                                 <tr>
                                     <td>

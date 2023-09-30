@@ -1,7 +1,9 @@
 
 @extends('app')
 
-@section('title', 'Sim hợp tuổi 2000 - Bí quyết chọn sim phong thủy hút vận may & tài lộc')
+@section('title')
+ Sim hợp tuổi {{ $slug }} - Bí quyết chọn sim phong thủy hút vận may & tài lộc
+@endsection
 
 @section('content')
     <section class="contentPage">
@@ -18,7 +20,7 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim phong thủy hợp tuổi 1988 là dãy sim gồm 10 con tự nhiên từ 0 đến 9, thuộc các nhà mạng hiện nay của Việt Nam như Viettel, Mobifone, Vinaphone,....Để xác định được những dãy số điện thoại này thì quý vị cần dựa theo bát tự (giờ - ngày - tháng - năm sinh) và 5 yếu tố phong thủy trong cổ học Phương Đông. Đặc điểm của sim hợp tuổi Mậu Thìn như sau:</span></span></p>
 
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                        <div style="overflow-x:auto;"><table class="table table-responsive table-bordered">
                                 <tbody>
                                 <tr>
                                     <td>
@@ -414,7 +416,7 @@
 
                         <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Du niên được hiểu nôm na là sự thay đổi các trường khí tốt - xấu tác động đến cuộc sống con người trong qua những sự vật hiện tượng. Trong đó số điện thoại cũng là một phần trong số đó. Theo Du Niên số điện thoại hợp với tuổi mậu thìn xuất hiện nhiều cặp số đẹp đại diện cho 4 cát tinh (Sinh Khí, Diên Niên, Thiên Y, Phục Vị) hơn các cặp số xấu đại diện cho 4 hung tinh (Ngũ Quỷ, Họa Hại, Tuyệt Mệnh, Lục Sát). Trong đó:</span></span></p>
 
-                        <div style="overflow-x:auto;"><table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                        <div style="overflow-x:auto;"><table class="table table-responsive table-bordered">
                                 <tbody>
                                 <tr>
                                     <td>

@@ -1,6 +1,8 @@
 @extends('app')
 
-@section('title', 'Sim hợp tuổi 2000 - Bí quyết chọn sim phong thủy hút vận may & tài lộc')
+@section('title')
+ Sim hợp tuổi {{ $slug }} - Bí quyết chọn sim phong thủy hút vận may & tài lộc
+@endsection
 
 @section('content')
     <section class="contentPage">
@@ -107,7 +109,7 @@
 
 
                         <div style="overflow-x:auto;">
-                            <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                            <table class="table table-responsive table-bordered">
                                 <tbody>
                                     <tr>
                                         <td>
@@ -334,7 +336,7 @@
                         </ul>
 
                         <div style="overflow-x:auto;">
-                            <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                            <table class="table table-responsive table-bordered">
                                 <tbody>
                                     <tr>
                                         <td>
@@ -685,7 +687,7 @@
                         </ul>
 
                         <div style="overflow-x:auto;">
-                            <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                            <table class="table table-responsive table-bordered">
                                 <tbody>
                                     <tr>
                                         <td>
@@ -985,7 +987,7 @@
                                         1980 ĐÁP ỨNG ĐẦY ĐỦ 5 YẾU TỐ</span></span></strong></p>
 
                         <div style="overflow-x:auto;">
-                            <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                            <table class="table table-responsive table-bordered">
                                 <tbody>
                                     <tr>
                                         <td>
@@ -1194,7 +1196,7 @@
 
 
                         <div style="overflow-x:auto;">
-                            <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+                            <table class="table table-responsive table-bordered">
                                 <tbody>
                                     <tr>
                                         <td>

@@ -220,7 +220,7 @@
             <p style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Sim phong thủy hợp mệnh Kim hay c&ograve;n l&agrave; số điện thoại hợp mệnh Kim. Đ&acirc;y l&agrave; d&atilde;y sim được cấu tạo bởi 10 con số tự nhi&ecirc;n từ 0 đến 9, thuộc c&aacute;c nh&agrave; mạng hiện nay như Viettel, Mobifone, Vinaphone,... Được đ&aacute;nh gi&aacute;, t&igrave;m chọn dựa theo tứ trụ (trụ giờ - trụ ng&agrave;y - trụ th&aacute;ng - trụ năm), 5 yếu tố phong thủy gồm Ngũ H&agrave;nh, &Acirc;m Dương, Quẻ Dịch, Cửu Tinh, Quan Niệm D&acirc;n Gian. Đặc điểm của d&atilde;y sim hợp mệnh Kim như sau:</span></span>
             </p>
 
-            <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+            <table class="table table-responsive table-bordered">
                 <tbody>
                 <tr>
                     <td>
@@ -359,7 +359,7 @@
 
             <p dir="ltr" style="text-align:justify"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Cặp số tương ứng can chi</span></span></strong></p>
 
-            <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+            <table class="table table-responsive table-bordered">
                 <tbody>
                 <tr>
                     <td style="text-align:justify">&nbsp;</td>
@@ -878,7 +878,7 @@
 
             <p dir="ltr" style="text-align:justify"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Ngũ h&agrave;nh của thập thi&ecirc;n can&nbsp;</span></span></strong></p>
 
-            <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+            <table class="table table-responsive table-bordered">
                 <tbody>
                 <tr>
                     <td colspan="2">
@@ -956,7 +956,7 @@
 
             <p dir="ltr" style="text-align:justify"><strong><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Ngũ h&agrave;nh của thập nhị địa chi</span></span></strong></p>
 
-            <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+            <table class="table table-responsive table-bordered">
                 <tbody>
                 <tr>
                     <td colspan="2">
@@ -1091,7 +1091,7 @@
                 </p>
             </blockquote>
 
-            <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+            <table class="table table-responsive table-bordered">
                 <tbody>
                 <tr>
                     <td>
@@ -1274,7 +1274,7 @@
                 </li>
             </ul>
 
-            <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+            <table class="table table-responsive table-bordered">
                 <tbody>
                 <tr>
                     <td>
@@ -1564,7 +1564,7 @@
             <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Nguy&ecirc;n l&yacute; chọn: Chia 10 số trong sim th&agrave;nh 5 cặp số li&ecirc;n tiếp v&agrave; tiến h&agrave;nh đối chiếu với t&aacute;m cung trong du ni&ecirc;n để luận giải hung c&aacute;t của c&aacute;c số trong sim. Cụ thể:&nbsp;</span></span>
             </p>
 
-            <table border="1" cellpadding="10" cellspacing="1" style="width:100%">
+            <table class="table table-responsive table-bordered">
                 <tbody>
                 <tr>
                     <td>
