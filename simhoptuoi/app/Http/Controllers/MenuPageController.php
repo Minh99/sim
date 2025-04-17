@@ -37,10 +37,11 @@ class MenuPageController extends Controller
 
         $results = [];
         foreach ($data as $key => $value) {
-            if (in_array($value['ngu_hanh'], $mappingNguHanhWithSlug)
-                || in_array($value['loai_1'], $mappingNguHanhWithSlug)
-                || in_array($value['loai_2'], $mappingNguHanhWithSlug)
-                || in_array($value['loai_3'], $mappingNguHanhWithSlug)
+            if (
+                (empty($value['ngu_hanh']) && in_array($value['ngu_hanh'], $mappingNguHanhWithSlug))
+                || (empty($value['loai_1']) && in_array($value['loai_1'], $mappingNguHanhWithSlug))
+                || (empty($value['loai_2']) && in_array($value['loai_2'], $mappingNguHanhWithSlug))
+                || (empty($value['loai_3']) && in_array($value['loai_3'], $mappingNguHanhWithSlug))
             ) {
                 $results[] = $value;
             }

@@ -47,6 +47,10 @@ Route::get('/admin/home', function () {
     ]);
 })->name('admin.home');
 
+Route::get('/admin/test', function () {
+    return view('layouts.admin.test');
+})->name('admin.test');
+
 Route::post('/sync', [App\Http\Controllers\GoogleSheetsController::class, 'sync'])->name('sync');
 Route::post('/change-code', [App\Http\Controllers\GoogleSheetsController::class, 'changeCode'])->name('change-code');
 

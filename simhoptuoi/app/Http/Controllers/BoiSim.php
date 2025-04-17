@@ -273,7 +273,7 @@ class BoiSim extends Controller
 
             $results = [];
             foreach ($dataSim as $key => $value) {
-                if (in_array($value['ngu_hanh'], $mappingNguHanhWithSlug)) {
+                if (!empty($value['ngu_hanh']) && in_array($value['ngu_hanh'], $mappingNguHanhWithSlug)) {
                     $results[] = $value;
                 }
             }

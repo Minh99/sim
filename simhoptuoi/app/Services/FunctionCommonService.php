@@ -392,11 +392,53 @@ class FunctionCommonService {
             $result[] = mb_convert_encoding($item, 'UTF-8', 'auto');
         }
 
-
         foreach ($result as $key => $item) {
-            if ($item['tinh_trang'] !== 'còn hàng') {
+            if (count($item) < 13 || $item['tinh_trang'] !== 'còn hàng') {
                 unset($result[$key]);
+                continue;
             }
+
+            if (
+                $item['nha_mang'] == 'vina'
+                || $item['nha_mang'] == 'Vina'
+                || $item['nha_mang'] == 'VINA'
+                || $item['nha_mang'] == 'VINAPHONE'
+                || $item['nha_mang'] == 'Vinaphone'
+            ) {
+                $result[$key]['nha_mang'] = 'vinaphone';
+            }
+
+            if (
+                $item['nha_mang'] == 'mobiphone'
+                || $item['nha_mang'] == 'Mobiphone'
+                || $item['nha_mang'] == 'MOBIPHONE'
+                || $item['nha_mang'] == 'MOBI'
+                || $item['nha_mang'] == 'Mobi'
+            ) {
+                $result[$key]['nha_mang'] = 'mobi';
+            }
+
+            if (
+                $item['nha_mang'] == 'Viettel'
+                || $item['nha_mang'] == 'VIETTEL'
+            ) {
+                $result[$key]['nha_mang'] = 'viettel';
+            }
+
+            if (
+                $item['nha_mang'] == 'Gmobile'
+                || $item['nha_mang'] == 'GMOBILE'
+            ) {
+                $result[$key]['nha_mang'] = 'gmobile';
+            }
+
+            if (
+                $item['nha_mang'] == 'Vietnamobile'
+                || $item['nha_mang'] == 'VIETNAMOBILE'
+            ) {
+                $result[$key]['nha_mang'] = 'vietnamobile';
+            }
+
             $result[$key]['sdt'] = $this->formatPhoneNumber($item['sdt']);
             $result[$key]['gia_ban'] = $this->formatGiaBan($item['gia_ban']);
         }
