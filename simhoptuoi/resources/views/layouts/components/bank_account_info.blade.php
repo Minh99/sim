@@ -14,7 +14,7 @@
     }
 
     .qr-section img {
-      max-width: 180px;
+      max-width: 333px;
       height: auto;
       border: 1px solid #ddd;
       border-radius: 8px;
