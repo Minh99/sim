@@ -11,16 +11,23 @@
         gap: 20px;
     }
 
-    .transfer-section {
+    .qr-section {
         display: flex;
-        flex-direction: column;
+        justify-content: center;
         align-items: center;
-        text-align: center;
     }
 
-    .transfer-section img {
+    .qr-section img {
         max-width: 180px;
         height: auto;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+    }
+
+    .info-section {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
     }
 
     .account-info {
@@ -38,38 +45,54 @@
         border-left: 4px solid #007bff;
         border-radius: 8px;
         font-style: italic;
-        text-align: center;
+        color: #333;
     }
 
     @media (min-width: 768px) {
         .transfer-container {
             flex-direction: row;
-            justify-content: space-between;
             align-items: flex-start;
-            text-align: left;
         }
 
-        .transfer-section {
+        .qr-section,
+        .info-section {
             flex: 1;
-            align-items: flex-start;
-            text-align: left;
         }
 
-        .note {
-            text-align: left;
+        .qr-section {
+            justify-content: flex-start;
         }
     }
 </style>
 <div class="transfer-container">
+    <!-- QR Code -->
+    <div class="qr-section">
+        <img src="{{ asset('path/to/your-qr-code.png') }}" alt="QR chuyển khoản" />
+    </div>
+
+    <!-- Thông tin tài khoản + nội dung -->
+    <div class="info-section">
+        <div class="account-info">
+            <p><strong>Chủ TK:</strong> Nguyễn Đinh Trung</p>
+            <p><strong>Số TK:</strong> 2345683131</p>
+            <p><strong>Ngân hàng:</strong> MBBank</p>
+        </div>
+        <div class="note">
+            Nội dung chuyển khoản: <br>
+            <strong>“Tên [khoảng cách] Số điện thoại”</strong>
+        </div>
+    </div>
+</div>
+<div class="transfer-container">
     <!-- Logo -->
     <div class="transfer-section">
-        <img src="{{ asset('common/templates/site/images/logo_MB_new.png') }}" alt="MBBank Logo" />
+        <img src="{{ asset('common/templates/site/images/qr.png') }}" alt="MBBank Logo" />
     </div>
 
     <!-- Thông tin tài khoản -->
     <div class="transfer-section account-info">
         <p><strong>Chủ TK:</strong> Nguyễn Đinh Trung</p>
-        <p><strong>Số TK:</strong> 0934553038</p>
+        <p><strong>Số TK:</strong> 2345683131</p>
         <p><strong>Ngân hàng:</strong> MBBank</p>
     </div>
 

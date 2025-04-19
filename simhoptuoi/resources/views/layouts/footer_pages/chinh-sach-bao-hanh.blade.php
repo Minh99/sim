@@ -12,7 +12,7 @@
                     </span>
                 </strong>
             </h1>
-            <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Để đảm bảo quyền lợi thiết thực cho kh&aacute;ch h&agrave;ng khi mua sim tại {{ $nameSite }} y&ecirc;n t&acirc;m nhất, nếu trong qu&aacute; tr&igrave;nh giao dịch hoặc sử dụng gặp bất cứ vấn đề g&igrave; về sản phẩm của kh&aacute;ch h&agrave;ng th&igrave; c&oacute; thể khiếu nại để ch&uacute;ng t&ocirc;i giải quyết thỏa đ&aacute;ng cho kh&aacute;ch h&agrave;ng qua đường d&acirc;y n&oacute;ng 0865.194.419</span></span>
+            <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Để đảm bảo quyền lợi thiết thực cho kh&aacute;ch h&agrave;ng khi mua sim tại {{ $nameSite }} y&ecirc;n t&acirc;m nhất, nếu trong qu&aacute; tr&igrave;nh giao dịch hoặc sử dụng gặp bất cứ vấn đề g&igrave; về sản phẩm của kh&aacute;ch h&agrave;ng th&igrave; c&oacute; thể khiếu nại để ch&uacute;ng t&ocirc;i giải quyết thỏa đ&aacute;ng cho kh&aacute;ch h&agrave;ng qua đường d&acirc;y n&oacute;ng 076.878.1313</span></span>
             </p>
 
             <ul>
@@ -29,13 +29,6 @@
                     </p>
                 </li>
             </ul>
-
-            <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Văn ph&ograve;ng đại điện: </strong>173 đường Hiệp Bình, Phường Hiệp Bình Chánh, Tp.Thủ Đức, HCM</span></span>
-            </p>
-
-            <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Đường d&acirc;y n&oacute;ng: </strong>0865.194.419</span></span>
-            </p>
-
             {{-- TODO --}}
 {{--            <p dir="ltr" style="text-align: justify;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Hoặc c&oacute; thể gửi thư g&oacute;p &yacute; v&agrave;o email: </strong>simhoptuoi.com.vn2@gmail.com</span></span>--}}
 {{--            </p>--}}

@@ -30,7 +30,7 @@
                     </p>
                 </li>
                 <li dir="ltr">
-                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Trong trường hợp đ&atilde; mua sim th&agrave;nh c&ocirc;ng, nếu muốn đổi lại Qu&yacute; kh&aacute;ch vui l&ograve;ng li&ecirc;n hệ lại với c&ocirc;ng ty theo số hotline <strong>0865.194.419</strong> nếu được sự đồng &yacute; kh&aacute;ch h&agrave;ng c&oacute; thể đổi lại số sim kh&aacute;c.</span></span>
+                    <p dir="ltr" style="text-align:justify"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Trong trường hợp đ&atilde; mua sim th&agrave;nh c&ocirc;ng, nếu muốn đổi lại Qu&yacute; kh&aacute;ch vui l&ograve;ng li&ecirc;n hệ lại với c&ocirc;ng ty theo số hotline <strong>076.878.1313</strong> nếu được sự đồng &yacute; kh&aacute;ch h&agrave;ng c&oacute; thể đổi lại số sim kh&aacute;c.</span></span>
                     </p>
                 </li>
             </ul>

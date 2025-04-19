@@ -34,9 +34,6 @@
                         </div>
                     </div>
                     <div class="col col-12 col-md-3 mt-2 pl-4">
-                        <p class="f-address">
-                            Địa chỉ: 173 đường Hiệp Bình, Phường Hiệp Bình Chánh, Tp.Thủ Đức, HCM.<br /> Hotline: <a class="text-dark" href="tel:0865194419">0865194419</a>
-                        </p>
                         <p>
                             <span class="f-dangky">100% Đăng ký chính chủ</span>
                             <span class="f-shipping">Giao sim toàn quốc</span><br />
