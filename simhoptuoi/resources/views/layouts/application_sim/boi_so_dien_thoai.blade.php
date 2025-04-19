@@ -342,7 +342,7 @@
             <p class="text-danger mx-4">Đánh giá: +{{ $data['diem_danh_gia'] }} điểm</p>
 
             <p class="text-primary text-center">
-                Trong quẻ dịch còn chứa nhiều ẩn ý, quý khách không am hiểu Kinh Dịch sẽ không thể luận được. Mọi thắc mắc xin hãy đặt câu hỏi qua ZALO: <a href="https://zalo.me/0934553038">0934553038</a> để được giải đáp.
+                Trong quẻ dịch còn chứa nhiều ẩn ý, quý khách không am hiểu Kinh Dịch sẽ không thể luận được. Mọi thắc mắc xin hãy đặt câu hỏi qua ZALO: <a href="https://zalo.me/0768781313">0768781313</a> để được giải đáp.
             </p>
 
 
