@@ -57,7 +57,7 @@
 
                                         </div>
                                         <div class="col-12 col-md-12 text-center">
-                                            <div class="note-text">Gọi mua <a href="tel:0865194419" class="btn-call-button phone click_hotline"><strong class="green-text">0865194419</strong></a> (7:30 - 19:00)</div>
+                                            <div class="note-text">Gọi mua <a href="tel:0768781313" class="btn-call-button phone click_hotline"><strong class="green-text">0768781313</strong></a> (7:30 - 19:00)</div>
                                         </div>
                                     </div>
                                 </div>
